@@ -80,7 +80,7 @@ export class TopikMapScene extends Phaser.Scene {
         ${
           profile
             ? `<div class="info-bar">
-                <div class="info-icon-circle">${profile.avatar}</div>
+                <div class="info-icon-circle" style="background:${profile.avatarBg};">${profile.avatar}</div>
                 <div style="flex-shrink:0;">
                   <p class="info-label">Nama</p>
                   <p class="info-value">${escapeHtml(profile.nama)}</p>

@@ -1,9 +1,9 @@
 import Phaser from "phaser";
 import { getProfile, saveProfile, hasProfile } from "../systems/student";
+import { AVATAR_OPTIONS, AVATAR_BG_COLORS, DEFAULT_AVATAR_ICON, DEFAULT_AVATAR_BG } from "../systems/avatar";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
 
-const AVATARS = ["🪷", "🧘", "📿", "🙏", "✨", "🌸", "🕊️", "⭐"];
 const KELAS_OPTIONS: Kelas[] = ["X", "XI", "XII"];
 
 interface BiodataData {
@@ -12,7 +12,8 @@ interface BiodataData {
 
 export class BiodataScene extends Phaser.Scene {
   private selectedKelas: Kelas | null = null;
-  private selectedAvatar = AVATARS[0];
+  private selectedAvatar = DEFAULT_AVATAR_ICON;
+  private selectedAvatarBg = DEFAULT_AVATAR_BG;
   private isEdit = false;
 
   constructor() {
@@ -28,15 +29,21 @@ export class BiodataScene extends Phaser.Scene {
     const existing = getProfile();
     this.isEdit = existing !== null;
     this.selectedKelas = existing?.kelas ?? null;
-    this.selectedAvatar = existing?.avatar ?? AVATARS[0];
+    this.selectedAvatar = existing?.avatar ?? DEFAULT_AVATAR_ICON;
+    this.selectedAvatarBg = existing?.avatarBg ?? DEFAULT_AVATAR_BG;
 
     this.render(existing?.nama ?? "", existing?.sekolah ?? "", existing?.rombel ?? "");
   }
 
   private render(nama: string, sekolah: string, rombel: string): void {
-    const avatarButtons = AVATARS.map(
+    const avatarButtons = AVATAR_OPTIONS.map(
       (a) =>
-        `<button type="button" class="avatar-opt${a === this.selectedAvatar ? " selected" : ""}" data-avatar="${a}">${a}</button>`,
+        `<button type="button" class="avatar-opt${a.icon === this.selectedAvatar ? " selected" : ""}" data-avatar="${a.icon}" title="${a.label}">${a.icon}</button>`,
+    ).join("");
+
+    const bgSwatches = AVATAR_BG_COLORS.map(
+      (color) =>
+        `<button type="button" class="avatar-bg-opt${color === this.selectedAvatarBg ? " selected" : ""}" data-color="${color}" style="background:${color};"></button>`,
     ).join("");
 
     const kelasButtons = KELAS_OPTIONS.map(
@@ -47,8 +54,8 @@ export class BiodataScene extends Phaser.Scene {
     const html = `
       <div style="display:flex; flex-direction:column; height:100%;">
         <div class="app-banner" style="text-align:center;">
-          <div class="biodata-avatar-preview" id="avatar-preview" style="margin-bottom:14px;">${this.selectedAvatar}</div>
-          <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di Jalan Dhamma 🙏"}</h1>
+          <div class="biodata-avatar-preview" id="avatar-preview" style="margin-bottom:14px; background:${this.selectedAvatarBg};">${this.selectedAvatar}</div>
+          <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di LMS PAB 🙏"}</h1>
           <p class="app-banner-subtitle" style="max-width:480px; margin-left:auto; margin-right:auto; font-weight:400;">${
             this.isEdit
               ? "Perbarui data belajarmu di bawah ini."
@@ -72,6 +79,9 @@ export class BiodataScene extends Phaser.Scene {
 
           <label class="field-label">Pilih Avatar</label>
           <div class="avatar-row">${avatarButtons}</div>
+
+          <label class="field-label">Warna Latar Avatar</label>
+          <div class="avatar-bg-row">${bgSwatches}</div>
 
           <p class="field-error" id="form-error" style="display:none;"></p>
 
@@ -102,10 +112,20 @@ export class BiodataScene extends Phaser.Scene {
 
     document.querySelectorAll<HTMLButtonElement>(".avatar-opt").forEach((btn) => {
       btn.addEventListener("click", () => {
-        this.selectedAvatar = btn.dataset.avatar ?? AVATARS[0];
+        this.selectedAvatar = btn.dataset.avatar ?? DEFAULT_AVATAR_ICON;
         const preview = document.getElementById("avatar-preview");
         if (preview) preview.textContent = this.selectedAvatar;
         document.querySelectorAll(".avatar-opt").forEach((b) => b.classList.remove("selected"));
+        btn.classList.add("selected");
+      });
+    });
+
+    document.querySelectorAll<HTMLButtonElement>(".avatar-bg-opt").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        this.selectedAvatarBg = btn.dataset.color ?? DEFAULT_AVATAR_BG;
+        const preview = document.getElementById("avatar-preview");
+        if (preview) preview.style.background = this.selectedAvatarBg;
+        document.querySelectorAll(".avatar-bg-opt").forEach((b) => b.classList.remove("selected"));
         btn.classList.add("selected");
       });
     });
@@ -130,6 +150,7 @@ export class BiodataScene extends Phaser.Scene {
         sekolah: sekolahVal,
         rombel: rombelVal || undefined,
         avatar: this.selectedAvatar,
+        avatarBg: this.selectedAvatarBg,
       });
 
       this.scene.start("MainMenu");

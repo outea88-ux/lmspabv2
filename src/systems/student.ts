@@ -6,6 +6,7 @@ export interface StudentProfile {
   sekolah: string;
   rombel?: string;
   avatar: string;
+  avatarBg: string;
 }
 
 const STORAGE_KEY = "pab-profile-v1";

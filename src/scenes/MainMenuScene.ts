@@ -44,12 +44,15 @@ export class MainMenuScene extends Phaser.Scene {
           <div class="app-banner-row">
             ${
               profile
-                ? `<button class="icon-btn" id="btn-profile">${profile.avatar} ${escapeHtml(profile.nama)} ✎</button>`
+                ? `<button class="icon-btn" id="btn-profile" style="padding:6px 16px 6px 6px;">
+                    <span style="display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; border-radius:50%; background:${profile.avatarBg}; font-size:15px;">${profile.avatar}</span>
+                    ${escapeHtml(profile.nama)} ✎
+                  </button>`
                 : `<div></div>`
             }
             <div style="text-align:center;">
-              <h1 class="app-banner-title" style="font-size:26px;">Jalan Dhamma</h1>
-              <p class="app-banner-subtitle">Petualangan Belajar Pendidikan Agama Buddha</p>
+              <h1 class="app-banner-title" style="font-size:24px;">LMS Pendidikan Agama Buddha</h1>
+              <p class="app-banner-subtitle">Petualangan Belajar untuk Siswa SMA/SMK</p>
             </div>
             <div class="stat-pill">⭐ ${totalStars} · ✨ ${totalXp} XP</div>
           </div>
@@ -61,7 +64,7 @@ export class MainMenuScene extends Phaser.Scene {
           </div>
 
           <div class="bottom-banner" style="margin-top:32px;">
-            🪷 Dibuat untuk siswa SMA/SMK · Pendidikan Agama Buddha
+            🪷 Pilih kelasmu dan mulai jelajahi Dhamma!
           </div>
           <div style="height:24px;"></div>
         </div>
