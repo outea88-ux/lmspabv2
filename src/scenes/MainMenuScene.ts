@@ -3,7 +3,7 @@ import { getKelasList, getTopikList } from "../data/contentLoader";
 import { getTotalStars, getTotalXp } from "../systems/progress";
 import { getProfile } from "../systems/student";
 import type { Kelas } from "../types/content";
-import { hideOverlay } from "../systems/overlay";
+import { showOverlay } from "../systems/overlay";
 
 const KELAS_LABEL: Record<Kelas, string> = {
   X: "Kelas X",
@@ -17,161 +17,88 @@ const KELAS_DESC: Record<Kelas, string> = {
   XII: "Fase F · Etika & Filosofi Mendalam",
 };
 
+const KELAS_ICON: Record<Kelas, string> = {
+  X: "📜",
+  XI: "🧘",
+  XII: "⚖️",
+};
+
 export class MainMenuScene extends Phaser.Scene {
   constructor() {
     super("MainMenu");
   }
 
   create(): void {
-    hideOverlay();
-    const { width, height } = this.scale;
-
-    this.add.rectangle(0, 0, width, height, 0xfdf6e8).setOrigin(0);
-    this.drawTempleBackdrop(width, height);
-
-    this.add
-      .text(width / 2, 70, "Jalan Dhamma", {
-        fontFamily: "Baloo 2",
-        fontSize: "44px",
-        color: "#7a1f2b",
-        fontStyle: "700",
-      })
-      .setOrigin(0.5);
-
-    this.add
-      .text(width / 2, 112, "Petualangan Belajar Pendidikan Agama Buddha", {
-        fontFamily: "Nunito",
-        fontSize: "17px",
-        color: "#6b5847",
-      })
-      .setOrigin(0.5);
-
+    const profile = getProfile();
     const totalXp = getTotalXp();
     const totalStars = getTotalStars();
-    this.add
-      .text(width - 24, 24, `⭐ ${totalStars}   ✨ ${totalXp} XP`, {
-        fontFamily: "Baloo 2",
-        fontSize: "16px",
-        color: "#8a6414",
-        backgroundColor: "#fbeecb",
-        padding: { x: 12, y: 8 },
-      })
-      .setOrigin(1, 0)
-      .setDepth(5);
-
-    const profile = getProfile();
-    if (profile) {
-      const chip = this.add
-        .text(24, 24, `${profile.avatar} ${profile.nama} · Kelas ${profile.kelas}  ✎`, {
-          fontFamily: "Baloo 2",
-          fontSize: "14px",
-          color: "#7a1f2b",
-          backgroundColor: "#f3e6c8",
-          padding: { x: 12, y: 8 },
-        })
-        .setOrigin(0, 0)
-        .setInteractive({ useHandCursor: true })
-        .setDepth(5);
-      chip.on("pointerdown", () => this.scene.start("Biodata", { forceEdit: true }));
-    }
-
     const kelasList = getKelasList();
-    const cardWidth = 260;
-    const gap = 30;
-    const totalWidth = kelasList.length * cardWidth + (kelasList.length - 1) * gap;
-    const startX = width / 2 - totalWidth / 2 + cardWidth / 2;
-    const cardY = height / 2 + 30;
 
-    kelasList.forEach((kelas, i) => {
-      this.createKelasCard(startX + i * (cardWidth + gap), cardY, cardWidth, kelas, kelas === profile?.kelas);
+    const cardsHtml = kelasList
+      .map((kelas) => this.renderKelasCard(kelas, kelas === profile?.kelas))
+      .join("");
+
+    const html = `
+      <div class="menu-page" style="display:flex; flex-direction:column; height:100%;">
+        <div class="app-banner">
+          <div class="app-banner-row">
+            ${
+              profile
+                ? `<button class="icon-btn" id="btn-profile">${profile.avatar} ${escapeHtml(profile.nama)} ✎</button>`
+                : `<div></div>`
+            }
+            <div style="text-align:center;">
+              <h1 class="app-banner-title" style="font-size:26px;">Jalan Dhamma</h1>
+              <p class="app-banner-subtitle">Petualangan Belajar Pendidikan Agama Buddha</p>
+            </div>
+            <div class="stat-pill">⭐ ${totalStars} · ✨ ${totalXp} XP</div>
+          </div>
+        </div>
+
+        <div class="overlay-scroll">
+          <div class="kelas-card-row" style="margin-top:32px;">
+            ${cardsHtml}
+          </div>
+
+          <div class="bottom-banner" style="margin-top:32px;">
+            🪷 Dibuat untuk siswa SMA/SMK · Pendidikan Agama Buddha
+          </div>
+          <div style="height:24px;"></div>
+        </div>
+      </div>
+    `;
+
+    showOverlay(html);
+
+    document.getElementById("btn-profile")?.addEventListener("click", () => {
+      this.scene.start("Biodata", { forceEdit: true });
     });
 
-    this.add
-      .text(width / 2, height - 24, "Dibuat untuk siswa SMA/SMK · Pendidikan Agama Buddha", {
-        fontFamily: "Nunito",
-        fontSize: "12px",
-        color: "#a89b86",
-      })
-      .setOrigin(0.5);
+    document.querySelectorAll<HTMLElement>(".kelas-card").forEach((card) => {
+      card.addEventListener("click", () => {
+        const kelas = card.dataset.kelas as Kelas;
+        this.scene.start("TopikMap", { kelas });
+      });
+    });
   }
 
-  private drawTempleBackdrop(width: number, height: number): void {
-    const g = this.add.graphics();
-    g.fillStyle(0xf3e6c8, 1);
-    g.fillCircle(width / 2, -60, 340);
-    g.fillStyle(0xd9a441, 0.15);
-    for (let i = 0; i < 5; i++) {
-      g.fillCircle(80 + i * 210, height - 40, 90);
-    }
-  }
-
-  private createKelasCard(x: number, y: number, w: number, kelas: Kelas, isOwnKelas: boolean): void {
-    const h = 220;
+  private renderKelasCard(kelas: Kelas, isOwnKelas: boolean): string {
     const topics = getTopikList(kelas);
-
-    const container = this.add.container(x, y);
-
-    const bg = this.add
-      .rectangle(0, 0, w, h, 0xffffff)
-      .setStrokeStyle(isOwnKelas ? 4 : 3, isOwnKelas ? 0x7a1f2b : 0xd9a441)
-      .setInteractive({ useHandCursor: true });
-
-    const emoji = this.add.text(0, -70, "🪷", { fontSize: "40px" }).setOrigin(0.5);
-
-    const title = this.add
-      .text(0, -20, KELAS_LABEL[kelas], {
-        fontFamily: "Baloo 2",
-        fontSize: "24px",
-        color: "#7a1f2b",
-        fontStyle: "700",
-      })
-      .setOrigin(0.5);
-
-    const desc = this.add
-      .text(0, 10, KELAS_DESC[kelas], {
-        fontFamily: "Nunito",
-        fontSize: "12.5px",
-        color: "#6b5847",
-        align: "center",
-        wordWrap: { width: w - 40 },
-      })
-      .setOrigin(0.5, 0);
-
-    const badge = this.add
-      .text(0, 78, `${topics.length} Topik`, {
-        fontFamily: "Baloo 2",
-        fontSize: "13px",
-        color: "#7a1f2b",
-        backgroundColor: "#fbeecb",
-        padding: { x: 12, y: 5 },
-      })
-      .setOrigin(0.5);
-
-    container.add([bg, emoji, title, desc, badge]);
-
-    if (isOwnKelas) {
-      const ownBadge = this.add
-        .text(0, -h / 2 + 14, "KELASMU", {
-          fontFamily: "Baloo 2",
-          fontSize: "11px",
-          color: "#fdf6e8",
-          backgroundColor: "#7a1f2b",
-          padding: { x: 10, y: 4 },
-        })
-        .setOrigin(0.5);
-      container.add(ownBadge);
-    }
-
-    bg.on("pointerover", () => {
-      this.tweens.add({ targets: container, scale: 1.04, duration: 100 });
-      bg.setStrokeStyle(4, 0x7a1f2b);
-    });
-    bg.on("pointerout", () => {
-      this.tweens.add({ targets: container, scale: 1, duration: 100 });
-      bg.setStrokeStyle(isOwnKelas ? 4 : 3, isOwnKelas ? 0x7a1f2b : 0xd9a441);
-    });
-    bg.on("pointerdown", () => {
-      this.scene.start("TopikMap", { kelas });
-    });
+    return `
+      <div class="kelas-card ${isOwnKelas ? "own" : ""}" data-kelas="${kelas}">
+        ${isOwnKelas ? `<div class="kelas-card-badge">KELASMU</div>` : ""}
+        <div class="kelas-card-icon">${KELAS_ICON[kelas]}</div>
+        <h2 class="kelas-card-title">${KELAS_LABEL[kelas]}</h2>
+        <p class="kelas-card-desc">${KELAS_DESC[kelas]}</p>
+        <div class="kelas-card-count">${topics.length} Topik</div>
+      </div>
+    `;
   }
+}
+
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }

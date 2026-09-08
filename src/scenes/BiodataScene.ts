@@ -45,18 +45,19 @@ export class BiodataScene extends Phaser.Scene {
     ).join("");
 
     const html = `
-      <div class="overlay-scroll">
-        <div class="overlay-inner biodata-wrap">
-          <div class="biodata-hero">
-            <div class="biodata-avatar-preview" id="avatar-preview">${this.selectedAvatar}</div>
-            <h1 class="materi-title" style="color:#7a1f2b;">${this.isEdit ? "Ubah Profil" : "Selamat Datang! 🙏"}</h1>
-            <p class="quiz-pemantik" style="margin-top:4px;">${
-              this.isEdit
-                ? "Perbarui data belajarmu di bawah ini."
-                : "Isi data singkat ini dulu ya, sebelum mulai petualangan belajarmu. Data ini hanya tersimpan di perangkatmu sendiri, tidak dikirim ke mana pun."
-            }</p>
-          </div>
+      <div style="display:flex; flex-direction:column; height:100%;">
+        <div class="app-banner" style="text-align:center;">
+          <div class="biodata-avatar-preview" id="avatar-preview" style="margin-bottom:14px;">${this.selectedAvatar}</div>
+          <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di Jalan Dhamma 🙏"}</h1>
+          <p class="app-banner-subtitle" style="max-width:480px; margin-left:auto; margin-right:auto; font-weight:400;">${
+            this.isEdit
+              ? "Perbarui data belajarmu di bawah ini."
+              : "Isi data singkat ini dulu ya, sebelum mulai petualangan belajarmu. Data ini hanya tersimpan di perangkatmu sendiri, tidak dikirim ke mana pun."
+          }</p>
+        </div>
 
+        <div class="overlay-scroll">
+        <div class="overlay-inner biodata-wrap" style="padding-top:26px;">
           <label class="field-label">Nama Lengkap</label>
           <input type="text" id="inp-nama" class="field-input" placeholder="Nama kamu" value="${escapeAttr(nama)}" />
 
@@ -78,6 +79,7 @@ export class BiodataScene extends Phaser.Scene {
             <button class="btn btn-primary" id="btn-submit">${this.isEdit ? "Simpan Perubahan" : "Mulai Belajar →"}</button>
             ${this.isEdit ? `<button class="btn btn-secondary" id="btn-cancel">Batal</button>` : ""}
           </div>
+        </div>
         </div>
       </div>
     `;
