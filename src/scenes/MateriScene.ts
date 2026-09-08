@@ -3,6 +3,7 @@ import { getTopik } from "../data/contentLoader";
 import type { Kelas, MateriBlock } from "../types/content";
 import { formatText } from "../systems/textFormat";
 import { showOverlay } from "../systems/overlay";
+import { ELEMEN_THEME } from "../systems/elemenTheme";
 
 interface MateriData {
   kelas: Kelas;
@@ -54,6 +55,8 @@ export class MateriScene extends Phaser.Scene {
       return;
     }
     const { meta, sections } = entry.materi;
+    const { silabus } = entry;
+    const theme = ELEMEN_THEME[meta.elemen as keyof typeof ELEMEN_THEME];
 
     const sectionsHtml = sections
       .map(
@@ -64,18 +67,36 @@ export class MateriScene extends Phaser.Scene {
       )
       .join("");
 
+    const tujuanHtml = meta.tujuan_pembelajaran
+      ? `<div class="block-highlight"><p class="block-label">🎯 Tujuan Pembelajaran</p><p class="block-text">${formatText(
+          meta.tujuan_pembelajaran,
+        )}</p></div>`
+      : "";
+
+    const konteksHtml = silabus?.catatanUrutan
+      ? `<div class="block-fakta"><p class="block-label">🧭 Kenapa Topik Ini Sekarang?</p><p class="block-text">${formatText(
+          silabus.catatanUrutan,
+        )}</p></div>`
+      : "";
+
     const html = `
       <div class="materi-header">
         <p class="materi-breadcrumb">← ${formatText(meta.breadcrumb ?? "")}</p>
         <h1 class="materi-title">${formatText(meta.judul)}</h1>
         ${meta.subjudul ? `<p class="materi-subtitle">${formatText(meta.subjudul)}</p>` : ""}
         <div class="materi-meta-row">
-          <span class="materi-chip">📚 ${formatText(meta.elemen)}</span>
-          <span class="materi-chip">⏱️ ${meta.estimasi_baca_menit ?? "?"} menit</span>
+          <span class="materi-chip">${theme?.emoji ?? "📚"} ${formatText(meta.elemen)}</span>
+          ${silabus?.kodeCp ? `<span class="materi-chip">🧩 CP ${formatText(silabus.kodeCp)}</span>` : ""}
+          ${silabus?.jp ? `<span class="materi-chip">📅 ${silabus.jp} JP</span>` : ""}
+          <span class="materi-chip">⏱️ ${meta.estimasi_baca_menit ?? "?"} menit baca</span>
         </div>
       </div>
       <div class="overlay-scroll">
-        <div class="overlay-inner">${sectionsHtml}</div>
+        <div class="overlay-inner">
+          ${tujuanHtml}
+          ${konteksHtml}
+          ${sectionsHtml}
+        </div>
       </div>
       <div class="overlay-footer">
         <button class="btn btn-primary" id="btn-back">← Peta</button>

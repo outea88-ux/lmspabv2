@@ -1,4 +1,7 @@
-import type { Kelas, Materi, SoalBank } from "../types/content";
+import type { Kelas, Materi, SilabusEntry, SoalBank } from "../types/content";
+import silabusData from "./silabus.json";
+
+const silabusByKode = silabusData as unknown as Record<string, SilabusEntry>;
 
 const materiModules = import.meta.glob<Materi>("./content/*/materi_*.json", {
   eager: true,
@@ -20,6 +23,7 @@ interface TopikEntry {
   nomor: number;
   materi: Materi;
   soal: SoalBank;
+  silabus?: SilabusEntry;
 }
 
 const registry: Record<Kelas, TopikEntry[]> = { X: [], XI: [], XII: [] };
@@ -33,7 +37,8 @@ for (const [path, materi] of Object.entries(materiModules)) {
     console.warn(`Soal tidak ditemukan untuk ${path}`);
     continue;
   }
-  registry[parsed.kelas].push({ ...parsed, materi, soal });
+  const silabus = silabusByKode[materi.meta.topik_id];
+  registry[parsed.kelas].push({ ...parsed, materi, soal, silabus });
 }
 
 for (const kelas of Object.keys(registry) as Kelas[]) {

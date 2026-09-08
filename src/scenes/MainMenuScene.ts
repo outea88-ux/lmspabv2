@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 import { getKelasList, getTopikList } from "../data/contentLoader";
 import { getTotalStars, getTotalXp } from "../systems/progress";
+import { getProfile } from "../systems/student";
 import type { Kelas } from "../types/content";
 import { hideOverlay } from "../systems/overlay";
 
@@ -58,6 +59,22 @@ export class MainMenuScene extends Phaser.Scene {
       .setOrigin(1, 0)
       .setDepth(5);
 
+    const profile = getProfile();
+    if (profile) {
+      const chip = this.add
+        .text(24, 24, `${profile.avatar} ${profile.nama} · Kelas ${profile.kelas}  ✎`, {
+          fontFamily: "Baloo 2",
+          fontSize: "14px",
+          color: "#7a1f2b",
+          backgroundColor: "#f3e6c8",
+          padding: { x: 12, y: 8 },
+        })
+        .setOrigin(0, 0)
+        .setInteractive({ useHandCursor: true })
+        .setDepth(5);
+      chip.on("pointerdown", () => this.scene.start("Biodata", { forceEdit: true }));
+    }
+
     const kelasList = getKelasList();
     const cardWidth = 260;
     const gap = 30;
@@ -66,7 +83,7 @@ export class MainMenuScene extends Phaser.Scene {
     const cardY = height / 2 + 30;
 
     kelasList.forEach((kelas, i) => {
-      this.createKelasCard(startX + i * (cardWidth + gap), cardY, cardWidth, kelas);
+      this.createKelasCard(startX + i * (cardWidth + gap), cardY, cardWidth, kelas, kelas === profile?.kelas);
     });
 
     this.add
@@ -88,7 +105,7 @@ export class MainMenuScene extends Phaser.Scene {
     }
   }
 
-  private createKelasCard(x: number, y: number, w: number, kelas: Kelas): void {
+  private createKelasCard(x: number, y: number, w: number, kelas: Kelas, isOwnKelas: boolean): void {
     const h = 220;
     const topics = getTopikList(kelas);
 
@@ -96,7 +113,7 @@ export class MainMenuScene extends Phaser.Scene {
 
     const bg = this.add
       .rectangle(0, 0, w, h, 0xffffff)
-      .setStrokeStyle(3, 0xd9a441)
+      .setStrokeStyle(isOwnKelas ? 4 : 3, isOwnKelas ? 0x7a1f2b : 0xd9a441)
       .setInteractive({ useHandCursor: true });
 
     const emoji = this.add.text(0, -70, "🪷", { fontSize: "40px" }).setOrigin(0.5);
@@ -132,13 +149,26 @@ export class MainMenuScene extends Phaser.Scene {
 
     container.add([bg, emoji, title, desc, badge]);
 
+    if (isOwnKelas) {
+      const ownBadge = this.add
+        .text(0, -h / 2 + 14, "KELASMU", {
+          fontFamily: "Baloo 2",
+          fontSize: "11px",
+          color: "#fdf6e8",
+          backgroundColor: "#7a1f2b",
+          padding: { x: 10, y: 4 },
+        })
+        .setOrigin(0.5);
+      container.add(ownBadge);
+    }
+
     bg.on("pointerover", () => {
       this.tweens.add({ targets: container, scale: 1.04, duration: 100 });
-      bg.setStrokeStyle(3, 0x7a1f2b);
+      bg.setStrokeStyle(4, 0x7a1f2b);
     });
     bg.on("pointerout", () => {
       this.tweens.add({ targets: container, scale: 1, duration: 100 });
-      bg.setStrokeStyle(3, 0xd9a441);
+      bg.setStrokeStyle(isOwnKelas ? 4 : 3, isOwnKelas ? 0x7a1f2b : 0xd9a441);
     });
     bg.on("pointerdown", () => {
       this.scene.start("TopikMap", { kelas });

@@ -1,5 +1,6 @@
 import Phaser from "phaser";
 import "./style.css";
+import { BiodataScene } from "./scenes/BiodataScene";
 import { MainMenuScene } from "./scenes/MainMenuScene";
 import { TopikMapScene } from "./scenes/TopikMapScene";
 import { MateriScene } from "./scenes/MateriScene";
@@ -16,7 +17,7 @@ const config: Phaser.Types.Core.GameConfig = {
     width: 960,
     height: 600,
   },
-  scene: [MainMenuScene, TopikMapScene, MateriScene, QuizScene, ResultScene],
+  scene: [BiodataScene, MainMenuScene, TopikMapScene, MateriScene, QuizScene, ResultScene],
 };
 
 new Phaser.Game(config);

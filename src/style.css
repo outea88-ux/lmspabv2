@@ -456,3 +456,111 @@ em {
 strong {
   color: var(--maroon-dark);
 }
+
+/* ---------- Biodata scene ---------- */
+
+.biodata-wrap {
+  padding-top: 8px;
+}
+
+.biodata-hero {
+  text-align: center;
+  margin-bottom: 22px;
+}
+
+.biodata-avatar-preview {
+  font-size: 52px;
+  width: 92px;
+  height: 92px;
+  line-height: 92px;
+  text-align: center;
+  margin: 0 auto 10px;
+  background: #fbeecb;
+  border-radius: 50%;
+  border: 3px solid var(--gold);
+}
+
+.field-label {
+  display: block;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 13.5px;
+  color: var(--maroon);
+  margin: 16px 0 6px;
+}
+
+.field-optional {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 12px;
+  color: var(--ink-soft);
+  text-transform: none;
+}
+
+.field-input {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 15px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: 2px solid var(--cream-dark);
+  background: #fff;
+  color: var(--ink);
+}
+
+.field-input:focus {
+  outline: none;
+  border-color: var(--gold);
+}
+
+.field-error {
+  color: var(--red);
+  font-size: 13.5px;
+  font-weight: 600;
+  margin: 12px 0 0;
+}
+
+.kelas-opt-row {
+  display: flex;
+  gap: 10px;
+}
+
+.kelas-opt {
+  flex: 1;
+  font-family: var(--font-head);
+  font-weight: 700;
+  font-size: 14.5px;
+  padding: 12px 8px;
+  border-radius: 10px;
+  border: 2px solid var(--cream-dark);
+  background: #fff;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+
+.kelas-opt.selected {
+  border-color: var(--maroon);
+  background: var(--maroon);
+  color: var(--cream);
+}
+
+.avatar-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.avatar-opt {
+  width: 48px;
+  height: 48px;
+  font-size: 22px;
+  border-radius: 50%;
+  border: 2px solid var(--cream-dark);
+  background: #fff;
+  cursor: pointer;
+}
+
+.avatar-opt.selected {
+  border-color: var(--gold);
+  background: #fbeecb;
+}

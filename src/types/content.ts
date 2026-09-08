@@ -66,3 +66,20 @@ export interface TopikRef {
   nomor: number;
   kodeLms: string;
 }
+
+export type Elemen = "Sejarah" | "Ritual" | "Etika";
+
+export interface SilabusEntry {
+  kelas: string;
+  semester: number;
+  minggu: string;
+  kodeTopik: string;
+  judulSilabus: string;
+  elemen: Elemen;
+  kodeCp: string;
+  jp: number;
+  jmlPertemuan: number;
+  levelBloom: string;
+  spiralKonsep: string;
+  catatanUrutan: string;
+}
