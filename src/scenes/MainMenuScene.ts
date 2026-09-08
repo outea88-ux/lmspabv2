@@ -2,7 +2,6 @@ import Phaser from "phaser";
 import { getKelasList, getTopikList } from "../data/contentLoader";
 import { getTotalStars, getTotalXp } from "../systems/progress";
 import { getProfile } from "../systems/student";
-import { renderLogoSvg } from "../systems/logo";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
 
@@ -52,7 +51,7 @@ export class MainMenuScene extends Phaser.Scene {
                 : `<div></div>`
             }
             <div style="display:flex; align-items:center; gap:12px;">
-              ${renderLogoSvg(48)}
+              <img src="/logo.png" alt="LMS Pendidikan Agama Buddha" style="width:48px; height:auto;" />
               <div>
                 <h1 class="app-banner-title" style="font-size:22px;">LMS Pendidikan Agama Buddha</h1>
                 <p class="app-banner-subtitle">Petualangan Belajar untuk Siswa SMA/SMK</p>
@@ -70,6 +69,8 @@ export class MainMenuScene extends Phaser.Scene {
           <div class="bottom-banner" style="margin-top:32px;">
             🪷 Pilih kelasmu dan mulai jelajahi Dhamma!
           </div>
+
+          <p style="text-align:center; font-size:11.5px; color:var(--ink-soft); margin:18px 0 0;">Developed by Herman, M.Pd. | 2026</p>
           <div style="height:24px;"></div>
         </div>
       </div>

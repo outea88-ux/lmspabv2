@@ -1,7 +1,6 @@
 import Phaser from "phaser";
 import { getProfile, saveProfile, hasProfile } from "../systems/student";
 import { AVATAR_OPTIONS, AVATAR_BG_COLORS, DEFAULT_AVATAR_ICON, DEFAULT_AVATAR_BG } from "../systems/avatar";
-import { renderLogoSvg } from "../systems/logo";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
 
@@ -55,7 +54,7 @@ export class BiodataScene extends Phaser.Scene {
     const html = `
       <div style="display:flex; flex-direction:column; height:100%;">
         <div class="app-banner" style="text-align:center;">
-          <div style="margin-bottom:12px;">${renderLogoSvg(64)}</div>
+          <img src="/logo.png" alt="LMS Pendidikan Agama Buddha" style="width:72px; height:auto; margin-bottom:12px;" />
           <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di LMS PAB 🙏"}</h1>
           <p class="app-banner-subtitle" style="max-width:480px; margin-left:auto; margin-right:auto; font-weight:400;">${
             this.isEdit
