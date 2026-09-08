@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "topik_id": "5.3c",
+    "kode_topik_lms": "X-T8",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Etika",
+    "kode_cp": "5.3",
+    "judul": "Hukum yang Tak Peduli Siapa Percaya",
+    "subjudul": "Paṭiccasamuppāda: Hukum Sebab-Musabab & Titik Temunya dengan IPTEK",
+    "breadcrumb": "Kelas X · Topik 8 · Etika",
+    "estimasi_baca_menit": 12,
+    "sumber_kanon": [
+      "Paccaya Sutta (SN 12.20)",
+      "Nidāna Saṃyutta (SN 12) — rantai 12 mata"
+    ],
+    "catatan_editorial": "Topik penutup Kelas X, sekaligus proyek reflektif akhir menjelang transisi ke Fase F.",
+    "tujuan_pembelajaran": "Peserta didik menggeneralisasi nilai-nilai Hukum Kebenaran Mutlak (Paticcasamuppada) dalam pengembangan ilmu pengetahuan dan teknologi berdasarkan prinsip dhammaniyāmatā."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Hukum Objektif",
+      "section_num": "Bagian 1",
+      "judul": "Hukum yang Berlaku Tanpa Menunggu Buddha",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dalam Paccaya Sutta, Buddha menyampaikan sesuatu yang mengejutkan tentang Paṭiccasamuppāda (Hukum Sebab-Musabab yang Saling Bergantungan): *‘Baik para Tathāgata muncul di dunia atau tidak muncul, unsur ini tetap ada — kestabilan Dhamma, kepastian Dhamma, sifat saling bergantungan ini (dhammaniyāmatā).’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Ditemukan, Bukan Diciptakan",
+          "text": "Ini titik krusial: Buddha tidak **menciptakan** hukum sebab-musabab ini seperti seorang raja membuat undang-undang. Ia **menemukan** hukum yang sudah berlaku objektif, lalu mengumumkannya kepada dunia — persis seperti seorang ilmuwan tidak menciptakan hukum gravitasi, hanya menemukan dan merumuskannya."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Inilah sebabnya istilah 'dhammaniyāmatā' bisa diterjemahkan 'hukum kebenaran mutlak' — bukan karena isinya soal metafisika mistis, melainkan karena sifatnya yang **objektif dan tidak bergantung pada kepercayaan siapa pun**, sama seperti hukum alam."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu hukum alam (gravitasi, misalnya) yang tetap berlaku terlepas dari apakah kamu memercayainya atau tidak. Bagaimana rasanya menyadari Paṭiccasamuppāda punya sifat objektif yang serupa?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Rantai 12 Mata",
+      "section_num": "Bagian 2",
+      "judul": "Rantai 12 Mata: Peta Lengkapnya",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Paṭiccasamuppāda memetakan bagaimana dukkha muncul melalui **12 mata rantai** yang saling bergantung: **(1) avijjā** (ketidaktahuan) → **(2) saṅkhāra** (bentukan kehendak) → **(3) viññāṇa** (kesadaran) → **(4) nāmarūpa** (batin-jasmani) → **(5) saḷāyatana** (enam landasan indria) → **(6) phassa** (kontak) → **(7) vedanā** (perasaan) → **(8) taṇhā** (kehausan) → **(9) upādāna** (kemelekatan) → **(10) bhava** (proses menjadi) → **(11) jāti** (kelahiran) → **(12) jarāmaraṇa** (usia tua-kematian)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Rantai Kaku Sekali Jalan",
+          "text": "Jangan bayangkan ini seperti kartu domino yang jatuh satu arah lalu selesai. Rantai ini terus berputar (bhava-cakka, 'roda kehidupan') — dan yang terpenting: **memutus satu mata rantai bisa menghentikan seluruh proses**. Titik paling praktis untuk diputus: antara vedanā (perasaan) dan taṇhā (kehausan) — di situlah, seperti yang kamu pelajari lewat rintangan batin dan meditasi, kesadaran punya ruang untuk memilih tidak bereaksi."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba lacak satu contoh sederhana dalam hidupmu: kontak (melihat sesuatu) → perasaan (suka/tidak suka) → kehausan (ingin lebih/ingin menghindar). Di titik mana kamu paling sering 'kebobolan' bereaksi otomatis tanpa sadar?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Dhamma & Sains",
+      "section_num": "Bagian 3",
+      "judul": "Dhamma dan Metode Ilmiah: Titik Temu Kausalitas",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Perhatikan formula inti Paṭiccasamuppāda: *‘Jika ini ada, itu ada; dari munculnya ini, muncul itu. Jika ini tidak ada, itu pun tidak ada; dari lenyapnya ini, lenyap pula itu.’* Ini adalah pernyataan kausalitas murni — struktur logika yang juga menjadi fondasi metode ilmiah modern."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Berarti Identik",
+          "text": "Bukan berarti Buddha 'menemukan sains' 2.600 tahun lalu — keduanya beda konteks dan tujuan (Dhamma soal pembebasan batin, sains soal fenomena alam). Tapi **prinsip dasarnya sejalan**: menolak kebetulan tanpa sebab, menolak penjelasan gaib tanpa dasar, dan menuntut hubungan sebab-akibat yang bisa ditelusuri serta diuji."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Kesejalanan ini sebagian menjelaskan mengapa banyak ilmuwan modern — termasuk sejumlah peraih Nobel — menyatakan ketertarikan pada Buddhisme, khususnya karena pendekatannya yang menghindari dogma tak teruji dan mendorong pengujian langsung (ingat ehipassiko dan Kālāma Sutta)."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Menurutmu, bidang IPTEK apa (kedokteran, psikologi, lingkungan, dll) yang paling jelas menunjukkan prinsip 'jika ini ada, itu ada' dari Paṭiccasamuppāda dalam praktiknya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Proyek Penutup",
+      "section_num": "Bagian 4",
+      "judul": "Proyek Penutup Kelas X: Paṭiccasamuppāda dalam Isu Kontemporer",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Inilah topik penutup elemen Etika, sekaligus penutup seluruh Kelas X. Saatnya menyintesis: pilih satu isu kontemporer (krisis iklim, kecanduan media sosial, ketimpangan sosial, atau isu lain yang kamu pedulikan), lalu analisis dengan lensa rantai sebab-musabab."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Kerangka Analisis",
+          "text": "Tanyakan: **apa sebab-sebab yang saling bergantung** membentuk isu ini (bukan satu penyebab tunggal)? Di titik mana intervensi paling mungkin memutus rantai yang merugikan? Bagaimana prinsip 'jika ini tidak ada, itu pun tidak ada' bisa memandu solusi, bukan sekadar mengobati gejala permukaan?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Bagian 1** — Paṭiccasamuppāda adalah hukum objektif, ditemukan bukan diciptakan",
+            "**Bagian 2** — 12 mata rantai, dengan titik intervensi paling praktis di antara vedanā-taṇhā",
+            "**Bagian 3** — sejalan dengan semangat metode ilmiah, meski beda konteks dan tujuan",
+            "**Bagian 4** — kerangka ini bisa dipakai menganalisis isu nyata, bukan sekadar konsep abstrak"
+          ]
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup Kelas X",
+          "pertanyaan": "Menutup seluruh perjalanan Kelas X — dari 60 murid pertama, Jinarakkhita dan Goenka, napas dan rintangan batin, hingga Kālāma Sutta dan Paṭiccasamuppāda — satu pelajaran apa yang paling ingin kamu bawa ke Kelas XI?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan seluruh Kelas X",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat untuk menutup Fase E dengan mantap.",
+    "tombol_label": "Mulai Kuis Topik 8"
+  }
+}

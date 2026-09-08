@@ -1,0 +1,303 @@
+{
+  "topik_id": "6.2a",
+  "kode_topik_lms": "XI-T4",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 16,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik skenario praktik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.2a-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Sutta manakah yang menjadi dasar utama praktik vipassanā di topik ini?",
+      "opsi": {
+        "a": "Satipaṭṭhāna Sutta",
+        "b": "Vitakkasaṇṭhāna Sutta",
+        "c": "Dhammacakkappavattana Sutta",
+        "d": "Sigālovāda Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Sutta tentang mengatasi pikiran mengganggu, dipelajari di Kelas X",
+        "c": "Sutta khotbah pertama, tidak secara khusus membahas 4 landasan perhatian",
+        "d": "Sutta tentang relasi sosial, dipelajari di topik sebelumnya"
+      }
+    },
+    {
+      "id": "6.2a-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Ada berapa jenis perasaan (vedanā) yang diamati dalam vedanānupassanā?",
+      "opsi": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah yang salah",
+        "c": "Jumlah yang salah — tertukar dengan jumlah landasan perhatian",
+        "d": "Jumlah yang salah — tertukar dengan jumlah rintangan batin"
+      }
+    },
+    {
+      "id": "6.2a-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Samatha dan vipassanā itu sama saja, cuma nama berbeda untuk hal yang sama.’",
+      "pertanyaan": "Apa yang keliru dari pernyataan siswa ini, berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Pernyataan itu benar sepenuhnya",
+        "b": "Samatha berfokus menenangkan pikiran pada satu objek, sementara vipassanā berfokus melihat kenyataan apa adanya secara jernih — keduanya berkaitan tapi punya tujuan berbeda",
+        "c": "Samatha dan vipassanā adalah dua agama yang berbeda",
+        "d": "Vipassanā adalah versi vipassanā yang sudah tidak dipakai lagi saat ini"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan pembedaan eksplisit di Poin Kunci Bagian 1",
+        "c": "Tidak masuk akal — keduanya adalah teknik meditasi dalam ajaran Buddha, bukan agama berbeda",
+        "d": "Bertentangan dengan fakta — vipassanā justru sangat aktif dipraktikkan saat ini (lihat Topik 2)"
+      }
+    },
+    {
+      "id": "6.2a-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa sedang makan siang sambil terus menonton video pendek di ponselnya, tanpa benar-benar memperhatikan rasa makanannya.",
+      "pertanyaan": "Landasan perhatian mana yang TIDAK sedang diterapkan siswa ini?",
+      "opsi": {
+        "a": "Kāyānupassanā — khususnya kesadaran penuh (sampajañña) saat makan",
+        "b": "Vedanānupassanā secara sempurna",
+        "c": "Cittānupassanā secara sempurna",
+        "d": "Dhammānupassanā secara sempurna"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Bukan fokus utama skenario ini — skenario menyoroti aktivitas makan tanpa kesadaran, bukan soal perasaan",
+        "c": "Bukan fokus utama skenario ini",
+        "d": "Bukan fokus utama skenario ini"
+      }
+    },
+    {
+      "id": "6.2a-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Saat duduk bermeditasi, seorang siswa merasakan sensasi tidak nyaman di kakinya. Ia langsung buru-buru mengubah posisi duduk karena tidak tahan.",
+      "pertanyaan": "Apa yang seharusnya dilakukan siswa ini menurut prinsip vedanānupassanā?",
+      "opsi": {
+        "a": "Mengabaikan sensasi itu sepenuhnya tanpa menyadarinya",
+        "b": "Mencatat bahwa sensasi itu 'tidak menyenangkan' dengan sadar, tanpa buru-buru bereaksi mengubah posisi",
+        "c": "Berhenti bermeditasi selamanya karena tubuhnya tidak cocok",
+        "d": "Sengaja menahan diri agar merasa lebih sakit lagi"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan esensi vedanānupassanā yang justru soal MENYADARI, bukan mengabaikan",
+        "c": "Kesimpulan berlebihan yang tidak proporsional dengan situasi",
+        "d": "Bertentangan dengan prinsip vipassanā — bukan tentang mencari rasa sakit tambahan"
+      }
+    },
+    {
+      "id": "6.2a-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara materi nīvaraṇa (Kelas X, Topik 4) dengan cittānupassanā yang dipelajari di topik ini?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali antara keduanya",
+        "b": "Rintangan batin (nīvaraṇa) adalah salah satu objek konkret yang diamati dalam cittānupassanā/dhammānupassanā — siswa sebenarnya sudah mempraktikkan pengenalan awal ini di Kelas X",
+        "c": "Nīvaraṇa hanya relevan untuk samatha, tidak relevan sama sekali untuk vipassanā",
+        "d": "Cittānupassanā menggantikan kebutuhan mengenal nīvaraṇa sepenuhnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan Poin Kunci Bagian 3 yang eksplisit menyebut keterkaitan ini",
+        "c": "Tidak akurat — materi justru menjelaskan nīvaraṇa relevan untuk vipassanā juga",
+        "d": "Tidak akurat — keduanya saling melengkapi, bukan saling menggantikan"
+      }
+    },
+    {
+      "id": "6.2a-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa prinsip 'sekadar mencatat, bukan bereaksi' dalam vedanānupassanā relevan dengan pendekatan non-sektarian S.N. Goenka yang dipelajari di Topik 2?",
+      "opsi": {
+        "a": "Karena keduanya sama sekali tidak berkaitan",
+        "b": "Karena tradisi yang dihidupkan kembali Goenka menekankan pengamatan sensasi tubuh apa adanya tanpa bereaksi berlebihan — prinsip inti yang sama dengan vedanānupassanā dalam Satipaṭṭhāna Sutta",
+        "c": "Karena Goenka menciptakan prinsip ini secara mandiri, terpisah dari Satipaṭṭhāna Sutta",
+        "d": "Karena Goenka justru menolak prinsip vedanānupassanā"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keterkaitan eksplisit yang dijelaskan di Fakta Menarik Bagian 3",
+        "c": "Tidak akurat — tradisi Goenka justru berakar dari Satipaṭṭhāna Sutta, bukan diciptakan terpisah",
+        "d": "Bertentangan langsung dengan fakta — prinsip ini justru inti ajaran Goenka"
+      }
+    },
+    {
+      "id": "6.2a-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa marah setelah bertengkar dengan temannya, lalu langsung mengirim pesan kasar tanpa berpikir panjang.",
+      "pertanyaan": "Jika siswa ini sempat menerapkan cittānupassanā sebelum bertindak, langkah apa yang mungkin terjadi?",
+      "opsi": {
+        "a": "Ia akan langsung melupakan kemarahannya tanpa proses apa pun",
+        "b": "Ia akan sekadar mengenali 'ini pikiran yang sedang dipenuhi kemarahan' terlebih dahulu, memberi jeda sebelum bertindak, alih-alih bereaksi otomatis",
+        "c": "Ia akan menekan kemarahannya dengan kekuatan fisik seperti mengepalkan tangan",
+        "d": "Ia akan langsung menyalahkan temannya sepenuhnya tanpa refleksi diri"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — cittānupassanā adalah proses menyadari, bukan melupakan begitu saja",
+        "c": "Tidak sesuai dengan prinsip yang dijelaskan — ini metode berbeda (menekan paksa), bukan mengenali",
+        "d": "Bertentangan dengan esensi refleksi diri yang justru dianjurkan cittānupassanā"
+      }
+    },
+    {
+      "id": "6.2a-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa makna frasa 'ekāyano maggo' (satu-satunya jalan) yang membuka Satipaṭṭhāna Sutta, dalam konteks pentingnya sutta ini?",
+      "opsi": {
+        "a": "Frasa ini menunjukkan betapa sentralnya keempat landasan perhatian ini dianggap dalam pencapaian kesucian batin menurut sutta ini",
+        "b": "Frasa ini berarti hanya ada satu jalan fisik menuju tempat meditasi",
+        "c": "Frasa ini menunjukkan bahwa sutta lain tidak penting dan boleh diabaikan",
+        "d": "Frasa ini hanya berlaku bagi bhikkhu, tidak relevan bagi umat awam"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Salah memahami makna 'jalan' secara harfiah, padahal ini kiasan tentang metode/cara",
+        "c": "Kesimpulan berlebihan yang tidak didukung materi maupun konteks",
+        "d": "Tidak sesuai — vipassanā (termasuk tradisi Goenka) justru terbuka luas bagi umat awam"
+      }
+    },
+    {
+      "id": "6.2a-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa bahwa meditasi hanya berguna kalau dilakukan duduk diam selama sesi formal, dan tidak melihat kaitannya dengan aktivitas hariannya.",
+      "pertanyaan": "Bagaimana pandangan ini seharusnya dikoreksi berdasarkan Bagian 4?",
+      "opsi": {
+        "a": "Pandangan itu benar sepenuhnya — vipassanā hanya relevan dalam sesi duduk formal",
+        "b": "Empat landasan perhatian dirancang untuk dibawa ke seluruh aktivitas sehari-hari (hidup berkesadaran), bukan terbatas pada sesi duduk formal saja",
+        "c": "Meditasi sebaiknya dihentikan karena tidak ada manfaat praktis",
+        "d": "Vipassanā hanya boleh dilakukan oleh bhikkhu senior yang sudah berpengalaman"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan keseluruhan Bagian 4 tentang hidup berkesadaran",
+        "c": "Kesimpulan berlebihan yang tidak didukung materi",
+        "d": "Tidak sesuai fakta — topik ini justru dirancang untuk siswa SMA/SMK"
+      }
+    },
+    {
+      "id": "6.2a-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa mempraktikkan kesadaran penuh saat makan (tanpa gawai atau percakapan) dianggap latihan vipassanā yang sah, meski dilakukan di luar sesi duduk formal?",
+      "opsi": {
+        "a": "Karena makan dengan sadar melatih kāyānupassanā (aktivitas tubuh) dan berpotensi memunculkan vedanānupassanā (rasa senang/tidak senang dari makanan) secara alami",
+        "b": "Karena makan sama sekali bukan bagian dari landasan perhatian mana pun",
+        "c": "Karena vipassanā hanya sah jika dilakukan sambil duduk bersila di lantai",
+        "d": "Karena makan dengan sadar akan otomatis membuat makanan terasa lebih enak"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penjelasan sampajañña (kesadaran penuh saat aktivitas) di Bagian 2",
+        "c": "Terlalu kaku — materi menekankan penerapan luwes dalam aktivitas sehari-hari",
+        "d": "Klaim yang tidak relevan dengan tujuan praktik vipassanā"
+      }
+    },
+    {
+      "id": "6.2a-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara vedanānupassanā dan cittānupassanā?",
+      "opsi": {
+        "a": "Vedanānupassanā mengamati jenis perasaan (senang/tidak senang/netral); cittānupassanā mengamati kondisi pikiran secara umum (dipenuhi nafsu, kebencian, dst)",
+        "b": "Keduanya adalah nama lain untuk hal yang persis sama",
+        "c": "Vedanānupassanā hanya berlaku bagi bhikkhu; cittānupassanā hanya berlaku bagi umat awam",
+        "d": "Vedanānupassanā tentang tubuh; cittānupassanā tentang napas"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan objek pengamatan yang jelas dijelaskan materi",
+        "c": "Tidak sesuai fakta — tidak ada pembatasan semacam itu",
+        "d": "Tertukar — kāyānupassanā yang tentang tubuh/napas, bukan kedua landasan ini"
+      }
+    },
+    {
+      "id": "6.2a-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menunjukkan perkembangan bertahap dari Kelas X ke Kelas XI dalam elemen Ritual?",
+      "opsi": {
+        "a": "Tidak ada perkembangan apa pun, materinya identik persis",
+        "b": "Kelas X berfokus pada Tetrad 1 Ānāpānasati (samatha, kesadaran tubuh dasar); Kelas XI memperluas ke seluruh empat landasan perhatian (vipassanā), termasuk perasaan dan pikiran",
+        "c": "Kelas XI menghapus seluruh materi Kelas X dan memulai dari nol",
+        "d": "Kelas X lebih maju dari Kelas XI dalam hal kedalaman materi"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "c": "Bertentangan dengan pernyataan eksplisit bahwa topik ini 'melanjutkan' Tetrad 1, bukan menghapusnya",
+        "d": "Terbalik dari fakta — Kelas XI justru memperluas dan memperdalam materi Kelas X",
+        "a": "Bertentangan dengan progresi jelas yang dijelaskan di seluruh topik"
+      }
+    },
+    {
+      "id": "6.2a-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa dhammānupassanā (landasan keempat) disebut mencakup pengamatan terhadap rintangan batin, dan bukan hanya menjadi bagian dari cittānupassanā?",
+      "opsi": {
+        "a": "Karena dhammānupassanā mengamati pola dan struktur fenomena batin secara lebih luas (termasuk faktor-faktor seperti nīvaraṇa), bukan sekadar kondisi pikiran secara umum",
+        "b": "Karena dhammānupassanā dan cittānupassanā sebenarnya adalah landasan yang identik",
+        "c": "Karena nīvaraṇa sebenarnya tidak berkaitan dengan meditasi sama sekali",
+        "d": "Karena dhammānupassanā hanya membahas objek-objek fisik, bukan mental"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan cakupan antara kedua landasan yang disebutkan materi",
+        "c": "Bertentangan langsung dengan keterkaitan nīvaraṇa-vipassanā yang dijelaskan Bagian 3",
+        "d": "Terbalik — dhammānupassanā justru tentang fenomena mental, bukan fisik"
+      }
+    },
+    {
+      "id": "6.2a-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pesan utama Bagian 5 (Sintesis) tentang sifat empat landasan perhatian ini?",
+      "opsi": {
+        "a": "Keempatnya adalah tahapan yang selesai sepenuhnya setelah dipelajari satu kali di topik ini",
+        "b": "Keempatnya adalah keterampilan berkelanjutan yang terus diasah seumur hidup, bukan target yang 'tuntas' sekali dipelajari",
+        "c": "Hanya kāyānupassanā yang penting, tiga landasan lain bersifat opsional",
+        "d": "Keempatnya hanya relevan bagi siswa yang berencana menjadi bhikkhu"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan pernyataan eksplisit 'bukan tahapan yang selesai sekali dipelajari' di Bagian 5",
+        "c": "Tidak sesuai — keempat landasan dijelaskan sebagai satu kesatuan yang saling melengkapi",
+        "d": "Bertentangan dengan penekanan relevansi bagi siswa SMA/SMK sepanjang topik ini"
+      }
+    },
+    {
+      "id": "6.2a-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seorang siswa hanya berlatih kāyānupassanā tapi mengabaikan tiga landasan lainnya sepenuhnya, apa risiko dari pendekatan ini menurut struktur Satipaṭṭhāna Sutta?",
+      "opsi": {
+        "a": "Tidak ada risiko apa pun, karena kāyānupassanā sudah cukup mewakili seluruh sutta",
+        "b": "Ia berisiko berhenti di tahap kesadaran tubuh saja, belum menjangkau kejernihan melihat perasaan dan pikiran yang justru menjadi inti pandangan terang (vipassanā) yang lebih dalam",
+        "c": "Ia akan otomatis kehilangan seluruh manfaat kāyānupassanā yang sudah dilatih",
+        "d": "Ia akan mengalami efek samping fisik yang berbahaya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan struktur 4 landasan yang saling melengkapi, bukan satu landasan mewakili semua",
+        "c": "Tidak sesuai — manfaat kāyānupassanā yang sudah dilatih tetap ada, hanya belum lengkap",
+        "d": "Klaim tidak berdasar yang tidak didukung materi mana pun"
+      }
+    }
+  ]
+}

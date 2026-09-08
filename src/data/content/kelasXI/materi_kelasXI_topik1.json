@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "topik_id": "6.1a",
+    "kode_topik_lms": "XI-T1",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Sejarah",
+    "kode_cp": "6.1",
+    "judul": "Warisan yang Tak Pernah Selesai Dibangun",
+    "subjudul": "Tokoh Pendukung & Pelaku Sejarah Buddhis: Anāthapiṇḍika, Visākhā, dan Indonesia Masa Kini",
+    "breadcrumb": "Kelas XI · Topik 1 · Sejarah",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Vinaya Mahāvagga (riwayat Anāthapiṇḍika & Visākhā)",
+      "Komentar Dhammapada & Sumangalavilāsinī (riwayat kedua tokoh)"
+    ],
+    "referensi_historis": [
+      "Sejarah WALUBI (Perwakilan Umat Buddha Indonesia) — walubi.or.id"
+    ],
+    "catatan_editorial": "Bagian tentang WALUBI bersifat historis-kontemporer, dirujuk ke sumber organisasi resmi, bukan Tipiṭaka.",
+    "tujuan_pembelajaran": "Peserta didik merefleksikan keteladanan tokoh pendukung dan pelaku sejarah Buddhis lokal, nasional, dan dunia masa kini sebagai pewaris nilai dāna dan upaṭhāna."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Dua Nama Besar",
+      "section_num": "Bagian 1",
+      "judul": "Dua Nama yang Selalu Disebut Berdampingan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kalau Buddha adalah gurunya dan Dhamma adalah ajarannya, siapa yang membuat semuanya bisa berjalan secara nyata — tempat tinggal, makanan, ruang untuk mengajar ribuan orang? Di balik setiap Buddha yang mengajar, selalu ada orang-orang yang menopang dari belakang layar. Dua nama paling sering disebut dalam kanon untuk peran ini: **Anāthapiṇḍika** dan **Visākhā**."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Keduanya bukan bhikkhu, bukan pertapa — mereka adalah umat awam biasa yang tetap bekerja, berkeluarga, dan menjalani hidup duniawi. Dari merekalah kita belajar bahwa mendukung Dhamma tidak mengharuskan seseorang meninggalkan kehidupan rumah tangga."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Sebelum membaca lebih jauh, coba pikirkan: menurutmu, dukungan seperti apa yang lebih sulit diberikan secara konsisten — dukungan materi (uang, fasilitas) atau dukungan non-materi (waktu, tenaga, kehadiran)? Kenapa?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Anāthapiṇḍika",
+      "section_num": "Bagian 2",
+      "judul": "Anāthapiṇḍika — Taman yang Ditutupi Emas",
+      "blocks": [
+        {
+          "type": "tokoh_card",
+          "avatar": "💰",
+          "nama": "Anāthapiṇḍika (nama lahir: Sudatta)",
+          "detail": "Saudagar terkaya di Sāvatthi. Nama julukannya berarti ‘pemberi makan bagi mereka yang tak berpelindung’ — diberikan karena kedermawanannya kepada orang miskin, jauh sebelum ia bertemu Buddha."
+        },
+        {
+          "type": "paragraf",
+          "text": "Sudatta bertemu Buddha saat sedang urusan dagang di Rājagaha, dan seketika mencapai tingkat kesucian awal (**Sotāpanna**). Ia lalu ingin membangun tempat tinggal permanen bagi Buddha di Sāvatthi — dan menemukan taman milik Pangeran Jeta yang sempurna untuk itu."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Pangeran Jeta awalnya menolak menjual, lalu bercanda menetapkan harga mustahil: taman itu baru terjual jika seluruh tanahnya **ditutupi keping-keping emas**. Tanpa ragu, Sudatta benar-benar melakukannya — mengangkut emas dari gudangnya untuk menutupi tanah itu lapis demi lapis. Taman itu kemudian dikenal sebagai **Jetavana**, salah satu tempat paling penting dalam sejarah Buddhis."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Sebagai penyokong utama, Anāthapiṇḍika memberi makan puluhan bhikkhu setiap hari dan mengunjungi Buddha dua kali sehari — bukan sekali berderma lalu selesai, melainkan **komitmen harian yang konsisten** selama bertahun-tahun."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Anāthapiṇḍika dikenal bukan karena satu sumbangan besar, tapi karena kunjungan dan dukungan yang konsisten setiap hari. Menurutmu, mengapa konsistensi kecil yang berulang kadang lebih berarti daripada satu tindakan besar sesekali?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Visākhā",
+      "section_num": "Bagian 3",
+      "judul": "Visākhā — Perhiasan yang Menjadi Wihara",
+      "blocks": [
+        {
+          "type": "tokoh_card",
+          "avatar": "💎",
+          "nama": "Visākhā (dijuluki Migāramātā)",
+          "detail": "Bertemu Buddha pada usia 7 tahun dan langsung mencapai Sotāpanna. Dijuluki ‘ibu dari Migāra’ setelah berhasil membuat mertuanya yang kaya raya berpindah keyakinan kepada Dhamma."
+        },
+        {
+          "type": "paragraf",
+          "text": "Suatu hari, Visākhā meninggalkan perhiasan mewahnya di sebuah pertemuan. Karena terlalu berharga untuk dibeli siapa pun, ia membelinya sendiri dari asetnya — lalu menjual kembali perhiasan itu dan memakai seluruh hasilnya untuk membangun sebuah wihara."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Dengan bantuan Y.A. Moggallāna yang menggunakan kekuatan batinnya untuk mempercepat pembangunan, wihara dua lantai itu — **Pubbārāma**, dikenal juga sebagai Migāramātupāsāda — selesai dibangun hanya dalam **sembilan bulan**. Buddha kemudian bergantian menghabiskan musim hujan antara Jetavana dan wihara ini."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Visākhā mengubah sesuatu yang bersifat pribadi dan bernilai duniawi (perhiasan) menjadi sesuatu yang bermanfaat bagi banyak orang secara jangka panjang. Ia juga dikenal aktif menjadi penghubung antara Sangha dan masyarakat umum — bukan sekadar donatur pasif."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Visākhā mengubah barang pribadi bernilai tinggi menjadi sesuatu yang bermanfaat untuk banyak orang. Adakah sesuatu yang kamu miliki — barang, waktu, atau kemampuan — yang sebenarnya bisa diubah manfaatnya menjadi lebih luas dari sekadar untuk dirimu sendiri?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Indonesia Kini",
+      "section_num": "Bagian 4",
+      "judul": "Dari Individu ke Institusi: Penyokong Buddhis Indonesia Masa Kini",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Anāthapiṇḍika dan Visākhā adalah individu. Di Indonesia modern, semangat menyokong itu berkembang menjadi sesuatu yang lebih besar dari satu orang: **institusi bersama**."
+        },
+        {
+          "type": "fakta",
+          "label": "WALUBI — Perwakilan Umat Buddha Indonesia",
+          "text": "Didirikan tahun 1979, WALUBI menaungi puluhan majelis dan sangha dari berbagai tradisi (Theravāda, Mahāyāna, Tantrayana) di bawah satu wadah nasional — memfasilitasi kerja sama lintas mazhab, perayaan Waisak nasional di Borobudur, hingga aksi sosial-kemanusiaan lintas agama."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Dāna yang Berubah Bentuk",
+          "text": "Di zaman Buddha, membangun Jetavana butuh satu Sudatta yang sangat kaya. Di zaman modern, pembangunan wihara sering justru terwujud dari **banyak orang biasa** yang berdana bersama-sama — iuran kecil dari ratusan atau ribuan orang, bukan satu donatur tunggal. Semangatnya tetap sama; bentuknya yang berevolusi."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Zaman sekarang, dukungan terhadap komunitas keagamaan lebih sering terwujud lewat urunan banyak orang daripada satu donatur besar seperti Anāthapiṇḍika. Menurutmu, apa kelebihan dan kekurangan dari masing-masing pola — satu donatur besar dibanding urunan bersama?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Pewaris Dāna",
+      "section_num": "Bagian 5",
+      "judul": "Menjadi Penyokong Dhamma di Generasiku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kamu mungkin berpikir, 'aku belum punya harta seperti Anāthapiṇḍika atau Visākhā.' Tapi perhatikan lagi: yang membuat keduanya istimewa bukan semata jumlah harta, melainkan **kesediaan mengubah apa yang dimiliki menjadi manfaat bagi orang lain** — dan itu bisa dimulai dari skala apa pun."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Dāna materi** — uang, barang, fasilitas (seperti Anāthapiṇḍika & Visākhā)",
+            "**Dāna waktu & tenaga** — hadir secara konsisten, membantu kegiatan komunitas",
+            "**Dāna keterampilan** — desain, tulisan, dokumentasi, atau keahlian digital untuk komunitas",
+            "**Dāna kehadiran** — menjadi penghubung, seperti peran Visākhā antara Sangha dan masyarakat"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu melihat bagaimana Dhamma yang sama ini mengambil rupa berbeda-beda di berbagai budaya dan aliran — sambil tetap berakar pada Kanon Pāli sebagai titik rujuk."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari empat bentuk dāna di atas, mana yang paling realistis bisa kamu berikan secara konsisten mulai sekarang — bukan suatu hari nanti ketika kamu sudah 'lebih siap'?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 1",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 1"
+  }
+}

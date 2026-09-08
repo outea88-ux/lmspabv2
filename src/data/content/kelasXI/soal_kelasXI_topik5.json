@@ -1,0 +1,265 @@
+{
+  "topik_id": "6.2b",
+  "kode_topik_lms": "XI-T5",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.2b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Di manakah peristiwa bunga sāla berguguran dan musik surgawi mengalun sebagai penghormatan kepada Buddha terjadi?",
+      "opsi": {
+        "a": "Kusinārā, saat-saat terakhir Buddha",
+        "b": "Isipatana, saat khotbah pertama",
+        "c": "Bodh Gaya, saat pencerahan",
+        "d": "Sāvatthi, di Jetavana"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Lokasi khotbah pertama (Kelas X, Topik 1), bukan peristiwa ini",
+        "c": "Lokasi pencerahan Buddha, bukan peristiwa ini",
+        "d": "Lokasi Jetavana milik Anāthapiṇḍika, bukan peristiwa ini"
+      }
+    },
+    {
+      "id": "6.2b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Istilah Pali untuk 'penghormatan tertinggi lewat praktik Dhamma yang selaras Dhamma' adalah…",
+      "opsi": {
+        "a": "Dhammānudhammappaṭipatti",
+        "b": "Appamāda",
+        "c": "Ehipassiko",
+        "d": "Sacchikiriyā"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Istilah untuk kesungguhan/ketekunan (Kelas X, Topik 5), bukan istilah ini",
+        "c": "Istilah untuk 'datang dan buktikan sendiri', bukan istilah ini",
+        "d": "Istilah untuk 'mewujudkan langsung' (Kelas XII), bukan istilah ini"
+      }
+    },
+    {
+      "id": "6.2b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Berarti Buddha melarang segala bentuk ritual dan persembahan, karena yang penting cuma praktik batin.’",
+      "pertanyaan": "Apa yang keliru dari pemahaman siswa ini, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Pemahaman itu benar sepenuhnya",
+        "b": "Buddha tidak melarang ritual/persembahan — ia menegaskan urutan prioritas: praktik nyata adalah penghormatan UTAMA, sementara ritual tetap bermakna sebagai pelengkap jika disertai praktik itu",
+        "c": "Buddha justru mewajibkan ritual dan menganggap praktik batin tidak penting",
+        "d": "Buddha tidak pernah membahas topik ritual sama sekali dalam ajarannya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penegasan eksplisit 'tidak melarang' di Poin Kunci Bagian 2",
+        "c": "Bertentangan dengan keseluruhan pesan bahwa PRAKTIK yang diutamakan, bukan ritual semata",
+        "d": "Tidak sesuai — justru seluruh topik ini membahas ritual secara mendalam"
+      }
+    },
+    {
+      "id": "6.2b-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa rajin mengikuti puja bakti setiap minggu, tapi di luar itu sering berbohong dan bersikap kasar kepada teman-temannya.",
+      "pertanyaan": "Berdasarkan prinsip dhammānudhammappaṭipatti, bagaimana situasi siswa ini seharusnya dipahami?",
+      "opsi": {
+        "a": "Ia sudah memberikan penghormatan tertinggi kepada Buddha karena rajin beribadah",
+        "b": "Kehadiran dalam ritual tanpa disertai praktik nyata Dhamma (seperti kejujuran dan kebaikan) belum mencerminkan penghormatan tertinggi yang dimaksud sutta ini",
+        "c": "Ritualnya tidak ada gunanya sama sekali dan sebaiknya dihentikan",
+        "d": "Perilakunya di luar ritual tidak relevan sama sekali dengan makna ibadahnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan penekanan bahwa PRAKTIK, bukan sekadar kehadiran ritual, yang menjadi penghormatan tertinggi",
+        "c": "Terlalu ekstrem — materi tidak menyatakan ritual tanpa guna, hanya menegaskan urutan prioritas",
+        "d": "Bertentangan langsung dengan inti ajaran dhammānudhammappaṭipatti yang justru menghubungkan keduanya"
+      }
+    },
+    {
+      "id": "6.2b-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha memilih momen menjelang wafatnya sendiri — saat persembahan surgawi paling megah terjadi — untuk menyampaikan pesan ini, bukan di momen lain?",
+      "opsi": {
+        "a": "Momen kontras yang kuat (persembahan luar biasa vs penegasan 'bukan ini') membuat pesannya lebih membekas dan sulit dilupakan, sekaligus memastikan generasi setelahnya tidak salah memahami esensi penghormatan",
+        "b": "Buddha memilih momen ini secara kebetulan tanpa pertimbangan khusus",
+        "c": "Buddha ingin menghentikan seluruh perayaan Waisak di masa depan",
+        "d": "Momen ini dipilih karena tidak ada momen lain yang tersedia"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kekuatan pedagogis dari kontras yang tajam ini sebagai pilihan yang bermakna",
+        "c": "Klaim berlebihan yang tidak didukung materi — justru perayaan tetap dijelaskan bermakna sebagai pelengkap",
+        "d": "Tidak masuk akal — Buddha punya banyak kesempatan mengajar sepanjang 45 tahun"
+      }
+    },
+    {
+      "id": "6.2b-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana prinsip 'tanpa kepalan tangan tertutup' (Fakta Menarik Bagian 2) berkaitan dengan tema menghargai ritual keagamaan lain di Bagian 3?",
+      "opsi": {
+        "a": "Keduanya menunjukkan semangat keterbukaan yang sama — Dhamma yang terbuka tanpa rahasia tersembunyi sejalan dengan sikap terbuka memahami kedalaman makna ritual keyakinan lain, bukan menutup diri dari yang berbeda",
+        "b": "Tidak ada keterkaitan sama sekali antara keduanya",
+        "c": "Prinsip tanpa kepalan tertutup berarti Buddha mewajibkan pengikutnya mengikuti semua ritual agama lain",
+        "d": "Kedua prinsip ini saling bertentangan dan tidak bisa dipahami bersamaan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan benang merah keterbukaan yang menghubungkan kedua bagian ini",
+        "c": "Melebih-lebihkan implikasi prinsip ini — tidak ada kewajiban semacam itu yang disebutkan",
+        "d": "Tidak sesuai — kedua prinsip saling mendukung semangat keterbukaan, bukan bertentangan"
+      }
+    },
+    {
+      "id": "6.2b-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa menyaksikan upacara keagamaan temannya yang berbeda keyakinan dan langsung menilai negatif hanya karena tampilannya terasa asing baginya.",
+      "pertanyaan": "Bagaimana sikap ini seharusnya dikoreksi berdasarkan Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Penilaian itu sudah tepat, karena hal yang asing pasti kurang bermakna",
+        "b": "Sikap ini perlu diubah untuk memahami bahwa di balik bentuk yang tampak asing, ada kedalaman makna serupa dengan yang dirasakan diri sendiri saat menjalani ritual sendiri — tanpa perlu mencampuradukkan keyakinan",
+        "c": "Siswa itu harus segera mengikuti dan mempraktikkan ritual tersebut secara penuh",
+        "d": "Menghargai ritual lain berarti harus menganggap semua agama sama persis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan semangat memahami yang dianjurkan Bagian 3",
+        "c": "Bertentangan dengan penegasan bahwa menghargai bukan berarti ikut mempraktikkan secara ritual",
+        "d": "Menyalahartikan penghargaan sebagai penyamarataan penuh, bertentangan dengan nuansa yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.2b-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara 'menghargai ritual keagamaan lain' dan 'mencampuradukkan keyakinan', berdasarkan Bagian 3?",
+      "opsi": {
+        "a": "Menghargai berarti memahami kedalaman makna ritual lain bagi penganutnya tanpa harus mengikuti atau mempraktikkannya sendiri; mencampuradukkan berarti menggabungkan praktik dari keyakinan berbeda tanpa batas yang jelas",
+        "b": "Keduanya adalah hal yang benar-benar sama tanpa perbedaan",
+        "c": "Menghargai ritual lain selalu berarti harus pindah keyakinan",
+        "d": "Mencampuradukkan keyakinan adalah bentuk penghargaan tertinggi terhadap keragaman"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan penting yang eksplisit dijelaskan di Poin Kunci Bagian 3",
+        "c": "Klaim berlebihan yang tidak didukung materi — justru dijelaskan cukup memahami tanpa perlu pindah keyakinan",
+        "d": "Bertentangan langsung dengan definisi 'menghargai' yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.2b-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini melanjutkan tema yang sudah diperkenalkan di Kelas X (Topik 2), tentang Sigālovāda Sutta dan kisah Sigāla yang membungkuk tanpa memahami maknanya?",
+      "opsi": {
+        "a": "Keduanya menunjukkan pola yang sama: Buddha tidak menghapus ritual yang sudah ada, melainkan memberinya makna yang lebih dalam — topik ini memperluas prinsip itu dari konteks relasi sosial (Sigālovāda, di Kelas XI Topik 3) ke konteks penghormatan keagamaan langsung",
+        "b": "Tidak ada keterkaitan sama sekali antara kedua materi ini",
+        "c": "Sigāla dan kisah Mahāparinibbāna Sutta menceritakan tokoh yang identik",
+        "d": "Topik ini membatalkan seluruh pelajaran tentang Sigālovāda Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan pola tematik yang konsisten (memberi makna pada ritual, bukan menghapusnya) yang menghubungkan kedua materi",
+        "c": "Tidak sesuai fakta — kedua kisah melibatkan tokoh dan konteks yang sama sekali berbeda",
+        "d": "Tidak sesuai — kedua materi saling memperkuat tema yang sama, bukan saling membatalkan"
+      }
+    },
+    {
+      "id": "6.2b-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seseorang berargumen, ‘Karena praktik batin yang utama, aku tidak perlu lagi ikut ritual apa pun,’ bagaimana argumen ini dinilai berdasarkan keseluruhan topik ini?",
+      "opsi": {
+        "a": "Argumen itu tepat sepenuhnya sesuai isi sutta",
+        "b": "Argumen itu melebih-lebihkan pesan sutta — Buddha menegaskan URUTAN prioritas (praktik di atas ritual), bukan penghapusan total terhadap ritual; ritual tetap bermakna sebagai pelengkap yang sah",
+        "c": "Argumen itu benar hanya bagi bhikkhu, bukan umat awam",
+        "d": "Sutta ini tidak relevan untuk menjawab pertanyaan semacam ini"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan Poin Kunci Bagian 2 yang eksplisit menyatakan Buddha 'tidak melarang' ritual",
+        "c": "Tidak sesuai — materi tidak membuat pembedaan berdasarkan status keagamaan seperti ini",
+        "d": "Tidak sesuai — justru inti topik ini secara langsung menjawab pertanyaan semacam ini"
+      }
+    },
+    {
+      "id": "6.2b-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana empat tempat ziarah yang disebutkan dalam Mahāparinibbāna Sutta (tempat lahir, pencerahan, khotbah pertama, dan wafat) berkaitan dengan pembelajaran Kelas X, Topik 1?",
+      "opsi": {
+        "a": "Tempat khotbah pertama (Isipatana) yang dipelajari mendalam di Kelas X Topik 1 adalah salah satu dari empat tempat ziarah yang disebutkan dalam sutta ini, menunjukkan keterkaitan lintas jenjang dalam kurikulum",
+        "b": "Tidak ada keterkaitan sama sekali antara keempat tempat ziarah ini dengan materi Kelas X",
+        "c": "Keempat tempat ziarah ini semuanya berlokasi di Indonesia",
+        "d": "Kelas X Topik 1 membahas keempat tempat ziarah ini secara detail dan lengkap"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan keterkaitan konkret (Isipatana) antara kedua materi lintas jenjang",
+        "c": "Tidak sesuai fakta — keempat tempat ini berlokasi di India, bukan Indonesia",
+        "d": "Tidak akurat — Kelas X Topik 1 berfokus pada Isipatana secara spesifik, bukan keempat tempat sekaligus"
+      }
+    },
+    {
+      "id": "6.2b-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pesan tersirat dari penekanan bahwa SIAPA PUN (bhikkhu, bhikkhunī, umat awam laki-laki maupun perempuan) bisa memberikan penghormatan tertinggi lewat praktik, bukan hanya kalangan tertentu?",
+      "opsi": {
+        "a": "Penghormatan tertinggi tidak terbatas pada status sosial, gender, atau posisi dalam komunitas monastik — siapa pun yang sungguh-sungguh mempraktikkan Dhamma memiliki akses yang sama terhadap penghormatan tertinggi ini",
+        "b": "Hanya bhikkhu yang benar-benar bisa memberikan penghormatan tertinggi",
+        "c": "Pernyataan ini hanya berlaku bagi laki-laki, tidak bagi perempuan",
+        "d": "Penghormatan tertinggi hanya bisa dicapai oleh orang-orang istimewa yang terpilih"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penyebutan eksplisit keempat golongan (termasuk umat awam) dalam kutipan sutta",
+        "c": "Bertentangan langsung — sutta eksplisit menyebutkan bhikkhunī dan umat awam perempuan setara dengan golongan lain",
+        "d": "Bertentangan dengan semangat inklusif yang eksplisit ditekankan lewat penyebutan keempat golongan"
+      }
+    },
+    {
+      "id": "6.2b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menjadi jembatan yang tepat menuju Topik 6 (Kearifan Lokal & Akomodasi Budaya), berdasarkan 'Ingat Ini' di Bagian 4?",
+      "opsi": {
+        "a": "Topik ini menetapkan prinsip bahwa esensi (praktik Dhamma) lebih utama daripada bentuk (ritual spesifik) — prinsip yang sama akan diperluas ke Topik 6, tentang bagaimana bentuk Dhamma bisa beradaptasi dengan bahasa dan budaya lokal tanpa mengubah esensinya",
+        "b": "Topik ini tidak berkaitan sama sekali dengan Topik 6",
+        "c": "Topik 6 akan membatalkan seluruh prinsip yang dipelajari di topik ini",
+        "d": "Topik ini dan Topik 6 membahas hal yang benar-benar identik tanpa perbedaan fokus"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan jembatan eksplisit yang dibangun di 'Ingat Ini' Bagian 4",
+        "c": "Tidak sesuai — kedua topik saling memperkuat prinsip esensi-vs-bentuk, bukan saling membatalkan",
+        "d": "Mengabaikan perbedaan fokus (ritual keagamaan vs bahasa/budaya) antara kedua topik"
+      }
+    },
+    {
+      "id": "6.2b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa memahami prinsip 'penghormatan lewat praktik' penting bagi remaja SMA/SMK yang mungkin merasa ritual keagamaan formal terasa kurang relevan dengan kehidupan mereka?",
+      "opsi": {
+        "a": "Prinsip ini menunjukkan bahwa kebermaknaan beragama tidak hanya diukur dari kehadiran dalam ritual formal, tapi juga dari bagaimana nilai-nilai itu benar-benar dihidupi sehari-hari — sebuah pemahaman yang bisa membuat agama terasa lebih relevan dan personal, bukan sekadar kewajiban seremonial",
+        "b": "Prinsip ini membenarkan sepenuhnya untuk tidak pernah mengikuti ritual keagamaan formal",
+        "c": "Prinsip ini hanya relevan bagi orang dewasa, tidak bagi remaja",
+        "d": "Prinsip ini tidak memiliki relevansi apa pun bagi kehidupan remaja masa kini"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan implikasi — materi menegaskan ritual tetap bermakna sebagai pelengkap, bukan boleh diabaikan total",
+        "c": "Tidak sesuai — topik ini secara eksplisit dirancang relevan bagi konteks siswa Kelas XI",
+        "d": "Bertentangan dengan keseluruhan tujuan pedagogis topik ini yang justru menekankan relevansi personal"
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "topik_id": "5.3c",
+  "kode_topik_lms": "X-T8",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 16,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.3c-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Sutta manakah yang menegaskan bahwa Paṭiccasamuppāda tetap berlaku terlepas dari muncul atau tidaknya seorang Buddha?",
+      "opsi": {
+        "a": "Paccaya Sutta",
+        "b": "Kālāma Sutta",
+        "c": "Brahmajāla Sutta",
+        "d": "Sigālovāda Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Sutta tentang menguji klaim kebenaran (Topik 6), bukan tentang sifat objektif Paticcasamuppada",
+        "c": "Sutta tentang keragaman pandangan (Topik 7), bukan tentang hukum sebab-musabab ini",
+        "d": "Sutta tentang relasi sosial (Kelas XI), tidak terkait topik ini"
+      }
+    },
+    {
+      "id": "5.3c-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Mata rantai PERTAMA dalam Paṭiccasamuppāda adalah…",
+      "opsi": {
+        "a": "Avijjā (ketidaktahuan)",
+        "b": "Taṇhā (kehausan)",
+        "c": "Viññāṇa (kesadaran)",
+        "d": "Jāti (kelahiran)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ini mata rantai kedelapan, bukan pertama",
+        "c": "Ini mata rantai ketiga, bukan pertama",
+        "d": "Ini mata rantai kesebelas, bukan pertama"
+      }
+    },
+    {
+      "id": "5.3c-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Paṭiccasamuppāda hanya berlaku bagi orang yang percaya agama Buddha, orang lain tidak terpengaruh olehnya.’",
+      "pertanyaan": "Apa yang keliru dari pernyataan siswa ini, berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Pernyataan itu benar sepenuhnya",
+        "b": "Paṭiccasamuppāda dijelaskan sebagai hukum objektif (dhammaniyāmatā) yang berlaku terlepas dari kepercayaan siapa pun — sama seperti hukum gravitasi yang tetap bekerja meski seseorang tidak memercayainya",
+        "c": "Paṭiccasamuppāda hanya berlaku pada masa Buddha hidup, tidak berlaku sekarang",
+        "d": "Paṭiccasamuppāda hanya berlaku bagi para bhikkhu, bukan umat awam"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan sifat objektif yang dijelaskan Bagian 1",
+        "c": "Bertentangan dengan penjelasan 'berlaku baik Tathāgata muncul atau tidak', yang berarti tidak terikat periode waktu tertentu",
+        "d": "Tidak sesuai — materi tidak membatasi keberlakuan hukum ini berdasarkan status keagamaan seseorang"
+      }
+    },
+    {
+      "id": "5.3c-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana perbandingan yang tepat antara peran Buddha terhadap Paṭiccasamuppāda dan peran ilmuwan terhadap hukum gravitasi?",
+      "opsi": {
+        "a": "Keduanya MENCIPTAKAN hukum yang mereka temukan, sehingga hukum itu baru berlaku setelah mereka merumuskannya",
+        "b": "Keduanya MENEMUKAN dan merumuskan hukum yang sudah berlaku objektif sebelum penemuannya, bukan menciptakannya dari ketiadaan",
+        "c": "Tidak ada persamaan sama sekali antara kedua peran ini",
+        "d": "Buddha menciptakan hukumnya, sedangkan ilmuwan hanya menemukan hukumnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci 'ditemukan, bukan diciptakan'",
+        "c": "Mengabaikan analogi eksplisit yang dibangun materi antara kedua peran ini",
+        "d": "Membedakan kedua peran secara keliru — materi justru menyamakan keduanya sebagai 'penemu', bukan 'pencipta'"
+      }
+    },
+    {
+      "id": "5.3c-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa melihat unggahan menarik di media sosial (kontak), merasa senang (perasaan), lalu tanpa sadar langsung scroll berjam-jam mencari unggahan serupa (kehausan yang berujung tindakan).",
+      "pertanyaan": "Berdasarkan Poin Kunci Bagian 2, di titik manakah intervensi paling praktis bisa dilakukan untuk memutus pola ini?",
+      "opsi": {
+        "a": "Antara vedanā (perasaan senang) dan taṇhā (dorongan mencari lebih banyak) — titik di mana kesadaran punya ruang untuk memilih tidak bereaksi otomatis",
+        "b": "Sebelum lahir ke dunia, karena rantai ini hanya bisa diputus sebelum kelahiran",
+        "c": "Tidak ada titik intervensi yang mungkin dalam rantai ini",
+        "d": "Hanya bisa diputus setelah mencapai usia tua"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — skenario ini terjadi dalam satu momen kehidupan, bukan soal kelahiran kembali",
+        "c": "Bertentangan langsung dengan Poin Kunci yang justru menunjukkan titik intervensi konkret",
+        "d": "Tidak relevan dengan skenario maupun penjelasan materi"
+      }
+    },
+    {
+      "id": "5.3c-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting memahami bahwa rantai 12 mata Paṭiccasamuppāda 'terus berputar' (bhava-cakka), bukan sekadar rangkaian linear yang berhenti setelah 12 langkah?",
+      "opsi": {
+        "a": "Karena pemahaman ini menunjukkan bahwa siklus dukkha bisa terus berulang jika tidak diputus secara sadar, sekaligus menunjukkan bahwa ada kesempatan berulang untuk melakukan intervensi, bukan hanya satu kesempatan sekali seumur hidup",
+        "b": "Karena pemahaman ini membuktikan bahwa Paṭiccasamuppāda sebenarnya tidak memiliki struktur yang jelas",
+        "c": "Karena rantai ini sebenarnya hanya berlaku satu kali dan tidak pernah terulang",
+        "d": "Karena pemahaman siklus ini tidak memiliki relevansi praktis apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan — sifat siklus justru menunjukkan struktur yang jelas dan berulang, bukan ketiadaan struktur",
+        "c": "Bertentangan langsung dengan istilah 'bhava-cakka' (roda kehidupan) yang menyiratkan pengulangan",
+        "d": "Bertentangan dengan penekanan pada titik intervensi praktis yang dijelaskan Bagian 2"
+      }
+    },
+    {
+      "id": "5.3c-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa maksud pernyataan bahwa Dhamma dan metode ilmiah 'sejalan prinsip dasarnya', TAPI 'bukan berarti identik', menurut Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Keduanya memiliki struktur logika kausalitas yang serupa (menolak kebetulan tanpa sebab, menuntut hubungan sebab-akibat yang teruji), tapi berbeda dalam konteks dan tujuan (pembebasan batin vs fenomena alam)",
+        "b": "Keduanya benar-benar sama persis tanpa perbedaan apa pun",
+        "c": "Buddha secara harfiah menciptakan metode ilmiah modern 2.600 tahun lalu",
+        "d": "Tidak ada hubungan apa pun antara Dhamma dan metode ilmiah"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan frasa 'bukan berarti identik' di Poin Kunci",
+        "c": "Klaim berlebihan yang eksplisit dibantah oleh materi ('bukan berarti Buddha menemukan sains')",
+        "d": "Bertentangan dengan keseluruhan Bagian 3 yang justru menjelaskan kesejalanan prinsip"
+      }
+    },
+    {
+      "id": "5.3c-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang peneliti mengklaim menemukan obat ajaib tanpa bukti eksperimen yang bisa diuji ulang, hanya berdasarkan testimoni pribadi.",
+      "pertanyaan": "Prinsip Paṭiccasamuppāda mana yang paling relevan untuk menilai klaim penelitian ini secara kritis?",
+      "opsi": {
+        "a": "Tuntutan hubungan sebab-akibat yang bisa ditelusuri serta diuji, bukan sekadar klaim tanpa dasar kausal yang jelas",
+        "b": "Prinsip bahwa segala sesuatu tidak memiliki sebab sama sekali",
+        "c": "Prinsip bahwa kelahiran kembali adalah satu-satunya penjelasan yang valid untuk fenomena kesehatan",
+        "d": "Prinsip bahwa hanya kepercayaan tradisional yang bisa dijadikan bukti ilmiah"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan inti Paṭiccasamuppāda yang justru tentang hubungan sebab-akibat, bukan ketiadaan sebab",
+        "c": "Tidak relevan dengan skenario pengujian obat, dan bukan poin yang ditekankan dalam Bagian 3",
+        "d": "Bertentangan dengan semangat pengujian kritis yang ditekankan (mirip Kālāma Sutta)"
+      }
+    },
+    {
+      "id": "5.3c-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kerangka analisis 'jika ini ada, itu ada' dari Paṭiccasamuppāda relevan untuk memahami isu kompleks seperti krisis iklim, berdasarkan Bagian 4?",
+      "opsi": {
+        "a": "Kerangka ini mendorong analisis multi-sebab yang saling bergantung (bukan satu penyebab tunggal), membantu mengidentifikasi titik-titik intervensi yang mungkin, alih-alih hanya mengobati gejala permukaan",
+        "b": "Kerangka ini membuktikan bahwa krisis iklim tidak memiliki penyebab apa pun",
+        "c": "Kerangka ini hanya relevan untuk isu-isu keagamaan, tidak untuk isu lingkungan",
+        "d": "Kerangka ini menyarankan untuk mengabaikan sepenuhnya krisis iklim karena dianggap sudah ditakdirkan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan seluruh premis Paṭiccasamuppāda tentang sebab-akibat",
+        "c": "Bertentangan dengan Bagian 4 yang eksplisit mengajak menerapkan kerangka ini ke isu kontemporer termasuk lingkungan",
+        "d": "Bertentangan dengan semangat kerangka ini yang justru mendorong tindakan/intervensi, bukan kepasrahan"
+      }
+    },
+    {
+      "id": "5.3c-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini dipilih sebagai PENUTUP seluruh Kelas X, bukan sekadar salah satu topik biasa di antara topik lainnya?",
+      "opsi": {
+        "a": "Karena Paṭiccasamuppāda memberi kerangka pemersatu yang bisa merangkum & menganalisis berbagai pembelajaran sebelumnya (penyiaran Dhamma, meditasi, rintangan batin, Kālāma Sutta, keragaman pandangan) dalam satu pola kausalitas yang koheren",
+        "b": "Karena topik ini adalah topik yang paling mudah dan cocok untuk penutup",
+        "c": "Karena topik-topik sebelumnya sebenarnya tidak penting dibanding topik ini",
+        "d": "Urutan topik ini murni kebetulan tanpa pertimbangan pedagogis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — kompleksitas topik ini (Bagian 1-3) justru tergolong salah satu yang paling menantang, bukan paling mudah",
+        "c": "Bertentangan dengan penekanan bahwa proyek penutup ini justru MERANGKUM, bukan mengecilkan, topik-topik sebelumnya",
+        "d": "Mengabaikan struktur kurikulum yang jelas dirancang bertahap dan berpuncak pada topik ini"
+      }
+    },
+    {
+      "id": "5.3c-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman tentang lima rintangan batin (Kelas X, Topik 4) membantu menjelaskan titik intervensi vedanā-taṇhā dalam Paṭiccasamuppāda?",
+      "opsi": {
+        "a": "Rintangan batin (seperti kāmacchanda) adalah contoh konkret dari taṇhā yang muncul setelah vedanā — mengenali rintangan batin sejak dini berarti sudah berlatih mengenali titik kritis dalam rantai sebab-musabab ini",
+        "b": "Tidak ada hubungan sama sekali antara kedua pembelajaran ini",
+        "c": "Rintangan batin hanya relevan untuk meditasi formal, tidak untuk memahami Paṭiccasamuppāda",
+        "d": "Paṭiccasamuppāda menggantikan seluruh kebutuhan memahami rintangan batin"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan keterkaitan konseptual antara taṇhā dan rintangan batin yang sudah dipelajari sebelumnya",
+        "c": "Terlalu sempit — keterampilan mengenali rintangan batin relevan luas, termasuk memahami rantai sebab-musabab",
+        "d": "Tidak sesuai — kedua konsep saling melengkapi, bukan saling menggantikan"
+      }
+    },
+    {
+      "id": "5.3c-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan sikap yang dianjurkan Paṭiccasamuppāda dengan sikap fatalistik ('semua sudah ditakdirkan, tidak ada gunanya berusaha')?",
+      "opsi": {
+        "a": "Paṭiccasamuppāda justru menegaskan bahwa memutus satu mata rantai bisa mengubah keseluruhan proses — ini adalah pandangan yang memberdayakan usaha, bertentangan langsung dengan fatalisme yang menganggap segalanya sudah tetap",
+        "b": "Keduanya sebenarnya mengajarkan hal yang sama persis",
+        "c": "Paṭiccasamuppāda justru mendukung penuh sikap fatalistik",
+        "d": "Paṭiccasamuppāda tidak memiliki implikasi apa pun terhadap sikap hidup seseorang"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penekanan pada titik intervensi yang memberdayakan, berbeda dari fatalisme",
+        "c": "Bertentangan dengan seluruh semangat Bagian 2 & 4 yang justru menekankan kemungkinan intervensi",
+        "d": "Mengabaikan implikasi praktis yang jelas dijelaskan sepanjang topik, terutama Bagian 4"
+      }
+    },
+    {
+      "id": "5.3c-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana proyek penutup Kelas X (menganalisis isu kontemporer dengan lensa Paṭiccasamuppāda) mencerminkan perjalanan pembelajaran Kelas X secara keseluruhan, dari Topik 1 hingga Topik 8?",
+      "opsi": {
+        "a": "Proyek ini menyintesis keterampilan yang dibangun bertahap sepanjang Kelas X — dari memahami sejarah penyiaran Dhamma, praktik batin, hingga nalar kritis — menjadi kemampuan menganalisis masalah nyata secara sistematis dan reflektif",
+        "b": "Proyek ini sama sekali tidak berkaitan dengan topik-topik sebelumnya",
+        "c": "Proyek ini hanya mengulang persis apa yang sudah dipelajari di Topik 1 tanpa perkembangan apa pun",
+        "d": "Proyek ini menggantikan kebutuhan mempelajari seluruh topik-topik sebelumnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan sintesis eksplisit yang dirangkum di bullet list Bagian 4",
+        "c": "Tidak sesuai — proyek ini menerapkan pada konteks BARU (isu kontemporer), bukan mengulang tanpa perkembangan",
+        "d": "Tidak sesuai — proyek ini adalah PUNCAK yang dibangun di atas, bukan pengganti, topik-topik sebelumnya"
+      }
+    },
+    {
+      "id": "5.3c-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting menekankan bahwa Paṭiccasamuppāda menganalisis 'sebab-sebab yang saling bergantung' (jamak), bukan 'satu penyebab tunggal', saat menganalisis isu kompleks?",
+      "opsi": {
+        "a": "Karena isu-isu kompleks di dunia nyata jarang memiliki satu penyebab tunggal yang sederhana — memahami banyak faktor yang saling terkait menghasilkan analisis yang lebih akurat dan solusi yang lebih tepat sasaran",
+        "b": "Karena mencari banyak penyebab hanya akan membuat analisis menjadi tidak jelas dan sebaiknya dihindari",
+        "c": "Karena Paṭiccasamuppāda sebenarnya hanya mengenal satu penyebab tunggal untuk semua fenomena",
+        "d": "Karena analisis multi-sebab hanya relevan untuk isu-isu kecil, bukan isu besar seperti krisis iklim"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan pendekatan yang dianjurkan Bagian 4",
+        "c": "Bertentangan — seluruh struktur 12 mata rantai menunjukkan multi-faktor yang saling bergantung, bukan sebab tunggal",
+        "d": "Terbalik — justru untuk isu BESAR dan kompleks seperti krisis iklim, analisis multi-sebab menjadi semakin relevan"
+      }
+    },
+    {
+      "id": "5.3c-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman bahwa Paṭiccasamuppāda adalah 'hukum objektif' (Bagian 1) memengaruhi cara pandang terhadap proyek analisis isu kontemporer di Bagian 4?",
+      "opsi": {
+        "a": "Karena hukumnya objektif, analisis sebab-akibat terhadap isu kontemporer bisa dilakukan dengan kerangka yang sama, terlepas dari latar belakang keyakinan siswa yang menganalisisnya — ini yang membuatnya relevan lintas konteks, bukan hanya konteks keagamaan",
+        "b": "Karena hukumnya objektif, hanya siswa Buddhis yang boleh mengerjakan proyek ini",
+        "c": "Sifat objektif hukum ini tidak memiliki relevansi apa pun terhadap cara proyek dikerjakan",
+        "d": "Karena hukumnya objektif, hasil analisis proyek pasti selalu sama persis untuk semua siswa"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan sifat objektif/universal yang justru berarti berlaku lintas keyakinan, bukan eksklusif",
+        "c": "Mengabaikan keterkaitan konseptual yang jelas antara Bagian 1 dan Bagian 4",
+        "d": "Kesimpulan keliru — objektifnya hukum kausalitas tidak berarti kesimpulan analisis pasti seragam, karena isu dan konteks yang dianalisis bisa beragam"
+      }
+    },
+    {
+      "id": "5.3c-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Merefleksikan keseluruhan perjalanan Kelas X (Fase E), apa benang merah utama yang menghubungkan seluruh 8 topik dari Bagian 1 Topik 1 hingga Bagian 4 Topik 8?",
+      "opsi": {
+        "a": "Perjalanan dari memahami sejarah dan penyiaran Dhamma, membangun fondasi batin lewat praktik meditasi, hingga mengembangkan nalar kritis dan kerangka analisis sebab-akibat — sebuah perjalanan bertahap dari pemahaman ke praktik ke penerapan kritis",
+        "b": "Tidak ada benang merah yang menghubungkan kedelapan topik ini, masing-masing berdiri sendiri",
+        "c": "Seluruh topik hanya mengulang-ulang materi yang sama tanpa perkembangan apa pun",
+        "d": "Benang merahnya adalah bahwa seluruh topik ini hanya relevan untuk ujian, bukan kehidupan nyata"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan keterkaitan eksplisit yang dibangun sepanjang seluruh Kelas X, termasuk callback di setiap bagian penutup topik",
+        "c": "Mengabaikan progresi jelas dari sejarah ke praktik ke analisis kritis yang membangun satu sama lain",
+        "d": "Bertentangan langsung dengan penekanan aplikasi nyata (proyek isu kontemporer) yang menjadi puncak Kelas X"
+      }
+    }
+  ]
+}

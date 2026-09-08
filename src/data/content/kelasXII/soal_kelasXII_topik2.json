@@ -1,0 +1,285 @@
+{
+  "topik_id": "6.3b",
+  "kode_topik_lms": "XII-T2",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa yang bertanya kepada Buddha tentang sebab perbedaan nasib manusia dalam Cūḷakammavibhaṅga Sutta?",
+      "opsi": {
+        "a": "Subha",
+        "b": "Ānanda",
+        "c": "Devadatta",
+        "d": "Sāriputta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ānanda adalah pelayan setia Buddha, bukan penanya dalam sutta ini",
+        "c": "Devadatta terkait kisah perpecahan Sangha (Kelas XI), bukan sutta ini",
+        "d": "Sāriputta adalah murid utama Buddha, bukan penanya dalam sutta ini"
+      }
+    },
+    {
+      "id": "6.3b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Menurut Nibbedhika Sutta, apa yang disebut Buddha sebagai kamma?",
+      "opsi": {
+        "a": "Cetanā (kehendak/niat)",
+        "b": "Kekuatan fisik",
+        "c": "Nasib dari kelahiran",
+        "d": "Restu dari dewa"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Bukan definisi yang diberikan sutta ini",
+        "c": "Bertentangan langsung dengan definisi kamma sebagai kehendak, bukan nasib bawaan",
+        "d": "Tidak sesuai — kamma dijelaskan sebagai kehendak pribadi, bukan restu pihak luar"
+      }
+    },
+    {
+      "id": "6.3b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seekor serangga tidak sengaja terinjak saat seorang siswa berjalan tanpa menyadarinya sama sekali.",
+      "pertanyaan": "Berdasarkan definisi kamma sebagai cetanā, bagaimana peristiwa ini paling tepat dipahami?",
+      "opsi": {
+        "a": "Bobot kammanya sama persis dengan membunuh serangga dengan sengaja dan penuh kebencian",
+        "b": "Karena tidak ada kehendak/niat untuk membunuh, bobot kammanya sangat berbeda dari tindakan yang disertai niat jahat",
+        "c": "Peristiwa ini tidak melibatkan kamma sama sekali karena melibatkan serangga, bukan manusia",
+        "d": "Peristiwa ini otomatis menjadi kamma buruk terbesar karena melibatkan kematian"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan prinsip cetanā — niat yang membedakan bobot kamma",
+        "c": "Tidak sesuai — materi tidak membatasi kamma hanya pada relasi antarmanusia",
+        "d": "Bertentangan dengan penekanan pada NIAT, bukan sekadar akibat fisik tindakan"
+      }
+    },
+    {
+      "id": "6.3b-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Temanku sakit parah, pasti karena karma buruknya di masa lalu. Dia memang pantas menderita.’",
+      "pertanyaan": "Apa yang keliru dari pernyataan siswa ini, berdasarkan keseluruhan topik ini?",
+      "opsi": {
+        "a": "Pernyataan itu sepenuhnya benar dan sesuai ajaran kamma",
+        "b": "Pernyataan itu menyalahgunakan konsep kamma untuk menghakimi orang lain, sesuatu yang bertentangan dengan cara kamma seharusnya dipahami — sebagai refleksi diri sendiri, bukan alat menghakimi penderitaan orang lain",
+        "c": "Kamma hanya berlaku bagi kesehatan, tidak berlaku bagi aspek kehidupan lain",
+        "d": "Pernyataan itu benar hanya jika temannya beragama Buddha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan Poin Kunci Bagian 2 tentang penyalahgunaan istilah karma untuk menghakimi",
+        "c": "Tidak sesuai — materi tidak membatasi cakupan kamma seperti ini",
+        "d": "Tidak relevan — hukum kamma dijelaskan berlaku universal, tidak bergantung agama yang dianut"
+      }
+    },
+    {
+      "id": "6.3b-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berpikir, ‘Semua yang terjadi padaku hari ini sudah ditentukan penuh oleh karma masa laluku, jadi tidak ada gunanya aku berusaha belajar untuk ujian besok.’",
+      "pertanyaan": "Berdasarkan Titthāyatana Sutta, apa yang keliru dari pemikiran siswa ini?",
+      "opsi": {
+        "a": "Pemikiran itu sepenuhnya sesuai ajaran Buddha tentang kamma",
+        "b": "Buddha secara eksplisit menolak pandangan bahwa segalanya semata ditentukan kamma masa lalu, karena pandangan itu membuat orang berhenti berusaha (akiriya) — kehendak saat ini tetap punya kekuatan membentuk masa depan",
+        "c": "Kamma hanya berlaku untuk kehidupan setelah kematian, tidak untuk hal sehari-hari seperti ujian",
+        "d": "Pemikiran itu benar, tapi hanya berlaku bagi siswa yang malas"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penolakan eksplisit Buddha terhadap fatalisme semacam ini",
+        "c": "Tidak sesuai — materi menjelaskan kamma bisa berbuah bahkan dalam kehidupan ini juga",
+        "d": "Tidak relevan dan tidak berdasar dari materi mana pun"
+      }
+    },
+    {
+      "id": "6.3b-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha menganggap pandangan fatalistik (segalanya ditentukan kamma masa lalu) sebagai pandangan yang berbahaya, meski tampak 'mengakui' kamma?",
+      "opsi": {
+        "a": "Karena pandangan itu justru menyangkal kekuatan kehendak saat ini, sehingga sebenarnya bertentangan dengan inti ajaran kamma yang menekankan tanggung jawab dan usaha berkelanjutan",
+        "b": "Karena pandangan itu terlalu rumit untuk dipahami orang biasa",
+        "c": "Karena pandangan itu berasal dari luar tradisi Buddhis sehingga otomatis salah",
+        "d": "Karena pandangan itu terlalu optimis tentang masa depan manusia"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bukan alasan yang disebutkan materi — masalahnya bukan soal kerumitan",
+        "c": "Bukan logika yang dipakai Buddha dalam menyanggah — sanggahannya berdasar konsekuensi logis (akiriya), bukan asal-usul pandangan",
+        "d": "Terbalik — pandangan fatalistik justru PESIMISTIS (tidak ada gunanya berusaha), bukan optimis"
+      }
+    },
+    {
+      "id": "6.3b-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Berdasarkan korespondensi dalam Cūḷakammavibhaṅga Sutta, apa hasil yang dikaitkan dengan sikap dermawan (murah hati)?",
+      "opsi": {
+        "a": "Umur panjang",
+        "b": "Kekayaan",
+        "c": "Kebijaksanaan",
+        "d": "Kesehatan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Umur panjang dikaitkan dengan tidak membunuh & berbelas kasih, bukan kedermawanan",
+        "c": "Kebijaksanaan dikaitkan dengan gemar belajar, bukan kedermawanan",
+        "d": "Kesehatan dikaitkan dengan tidak menyakiti, bukan kedermawanan"
+      }
+    },
+    {
+      "id": "6.3b-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa rajin berbuat baik, tapi belum merasakan hasil apa pun yang terlihat sampai sekarang. Ia mulai ragu apakah kammanya benar-benar bekerja.",
+      "pertanyaan": "Bagaimana keraguan ini seharusnya dipahami berdasarkan penjelasan tentang waktu berbuahnya kamma?",
+      "opsi": {
+        "a": "Kamma seharusnya selalu berbuah instan, jadi keraguannya beralasan penuh",
+        "b": "Kamma bisa berbuah dalam tiga waktu berbeda — kehidupan ini, kelahiran berikutnya, atau kelahiran-kelahiran sesudahnya — sehingga belum terlihatnya hasil bukan berarti kamma tidak bekerja",
+        "c": "Kamma baik hanya berbuah jika dilakukan oleh bhikkhu, bukan siswa biasa",
+        "d": "Kamma tidak pernah bisa dibuktikan sama sekali, sehingga keraguannya tidak perlu dipikirkan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan penjelasan eksplisit tiga waktu berbuahnya kamma",
+        "c": "Tidak sesuai fakta — hukum kamma dijelaskan berlaku universal bagi siapa pun",
+        "d": "Bertentangan dengan Bagian 3 yang justru mendorong pembuktian personal"
+      }
+    },
+    {
+      "id": "6.3b-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara memahami kamma sebagai 'hukum niat & tanggung jawab' dibanding sebagai 'nasib/takdir'?",
+      "opsi": {
+        "a": "Sebagai hukum niat, seseorang tetap punya kendali dan tanggung jawab atas pilihan sekarang; sebagai takdir, seseorang dianggap tak berdaya mengubah apa pun",
+        "b": "Tidak ada perbedaan praktis antara keduanya",
+        "c": "Nasib/takdir adalah istilah yang lebih akurat menurut ajaran Buddha",
+        "d": "Kamma sebagai hukum niat hanya berlaku pada masa Buddha, tidak relevan sekarang"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan mendasar soal kendali dan tanggung jawab yang jadi inti Bagian 2",
+        "c": "Bertentangan langsung dengan penolakan eksplisit terhadap gagasan fatalistik dalam Titthāyatana Sutta",
+        "d": "Tidak sesuai — materi menekankan relevansi kamma yang berlaku terus-menerus"
+      }
+    },
+    {
+      "id": "6.3b-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa jawaban Buddha kepada Subha ('tindakan adalah pemilik, pewaris, asal-usul, sanak saudara, dan pelindung makhluk') dianggap jawaban yang memberdayakan, bukan sekadar penjelasan pasif?",
+      "opsi": {
+        "a": "Karena jawaban itu menempatkan tanggung jawab dan kendali di tangan individu sendiri lewat tindakannya, bukan pada nasib eksternal yang tak bisa diubah",
+        "b": "Karena jawaban itu menyalahkan sepenuhnya orang tua atas nasib anaknya",
+        "c": "Karena jawaban itu menyatakan bahwa nasib manusia ditentukan sepenuhnya oleh dewa",
+        "d": "Karena jawaban itu menghindari pertanyaan Subha sepenuhnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — jawaban ini soal tindakan individu, bukan menyalahkan orang tua",
+        "c": "Bertentangan langsung dengan penekanan pada tindakan (kamma) sebagai penentu, bukan kekuatan eksternal",
+        "d": "Tidak sesuai — Subha justru menyatakan puas dan berlindung kepada Buddha setelah jawaban ini"
+      }
+    },
+    {
+      "id": "6.3b-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana konsep kamma sebagai cetanā berkaitan dengan pembelajaran Empat Kebenaran Mulia (Topik 1) tentang taṇhā?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali antara keduanya",
+        "b": "Taṇhā (kehausan/keinginan) sering menjadi akar dari cetanā (kehendak) yang mendorong tindakan — memahami taṇhā membantu memahami mengapa kita membuat pilihan-pilihan kammis tertentu",
+        "c": "Cetanā menggantikan seluruh konsep taṇhā yang sudah dipelajari sebelumnya",
+        "d": "Taṇhā dan cetanā adalah istilah yang identik tanpa perbedaan makna"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan hubungan konseptual antara keinginan (motif) dan kehendak (penggerak tindakan)",
+        "c": "Tidak sesuai — taṇhā dan cetanā adalah konsep berbeda yang saling melengkapi, bukan saling menggantikan",
+        "d": "Tidak akurat — taṇhā spesifik tentang kehausan/keinginan, cetanā tentang kehendak/niat di balik tindakan"
+      }
+    },
+    {
+      "id": "6.3b-q12",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mencuri barang temannya karena terpaksa, dengan niat mengembalikannya setelah situasi ekonominya membaik, dan sangat menyesal saat melakukannya.",
+      "pertanyaan": "Berdasarkan prinsip kamma sebagai cetanā, faktor apa yang paling relevan untuk memahami bobot kamma dari tindakan siswa ini?",
+      "opsi": {
+        "a": "Hanya nilai barang yang dicuri, tanpa mempertimbangkan hal lain",
+        "b": "Kualitas kehendak di balik tindakan itu — termasuk niat, penyesalan, dan konteks — turut membentuk bobot kammanya, bukan semata tindakan fisik 'mencuri' itu sendiri",
+        "c": "Tindakan mencuri selalu memiliki bobot kamma yang identik terlepas dari niat atau konteksnya",
+        "d": "Karena berniat mengembalikan, tindakan ini otomatis tidak memiliki bobot kamma sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Terlalu sempit — mengabaikan peran sentral cetanā yang ditekankan materi",
+        "c": "Bertentangan langsung dengan prinsip bahwa niat memengaruhi bobot kamma",
+        "d": "Kesimpulan berlebihan — niat baik untuk mengembalikan tidak menghapus kamma dari tindakan mencuri itu sendiri"
+      }
+    },
+    {
+      "id": "6.3b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pesan utama yang bisa dipetik dari perjalanan Bagian 1 (jawaban atas pertanyaan Subha) menuju Bagian 2 (kamma sebagai cetanā, bukan takdir)?",
+      "opsi": {
+        "a": "Kamma menjelaskan perbedaan nasib sebagai konsekuensi tindakan yang bisa dipahami dan diarahkan lewat kehendak sekarang, bukan sebagai hukuman/nasib yang tak bisa diubah",
+        "b": "Kamma membuktikan bahwa hidup memang sepenuhnya tidak adil dan tidak bisa diperbaiki",
+        "c": "Kamma hanya relevan untuk menjelaskan masa lalu, tidak untuk masa depan",
+        "d": "Kamma membuktikan bahwa semua penderitaan manusia adalah kesalahan mereka sendiri sepenuhnya tanpa pengecualian"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan pesan pemberdayaan yang justru ditekankan sepanjang topik",
+        "c": "Bertentangan dengan penekanan pada kehendak SEKARANG yang membentuk masa depan",
+        "d": "Generalisasi berlebihan yang tidak mempertimbangkan kompleksitas kamma (akan diperdalam di Topik 3)"
+      }
+    },
+    {
+      "id": "6.3b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bagi topik ini untuk menyertakan penolakan terhadap fatalisme (Titthāyatana Sutta), padahal sutta utama topik ini adalah Cūḷakammavibhaṅga Sutta?",
+      "opsi": {
+        "a": "Karena tanpa penolakan ini, penjelasan tentang kamma bisa disalahpahami sebagai bentuk takdir yang tidak bisa diubah, padahal itu bertentangan dengan inti ajaran kamma tentang tanggung jawab dan kekuatan kehendak sekarang",
+        "b": "Karena Titthāyatana Sutta sebenarnya membantah keseluruhan konsep kamma",
+        "c": "Karena tanpa sutta tambahan ini, jumlah materi dianggap terlalu sedikit",
+        "d": "Karena kedua sutta ini sebenarnya saling bertentangan dan salah satunya harus diabaikan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Tidak akurat — Titthāyatana Sutta membantah SALAH SATU tafsir keliru tentang kamma (fatalisme), bukan konsep kamma itu sendiri",
+        "c": "Bukan alasan pedagogis yang relevan atau disebutkan materi",
+        "d": "Tidak sesuai — kedua sutta ini saling melengkapi untuk mencegah miskonsepsi, bukan bertentangan"
+      }
+    },
+    {
+      "id": "6.3b-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana Bagian 3 (Membuktikan dalam Hidupku) melanjutkan logika dari Bagian 1 dan 2?",
+      "opsi": {
+        "a": "Bagian 3 membuktikan bahwa kamma hanya bisa dipahami secara teoretis, tidak bisa diamati langsung",
+        "b": "Bagian 3 mengajak siswa mengamati sendiri pola niat-tindakan-akibat dalam hidupnya, sebagai bentuk pembuktian personal yang melengkapi penjelasan teoretis di Bagian 1 dan 2",
+        "c": "Bagian 3 membatalkan seluruh penjelasan di Bagian 1 dan 2",
+        "d": "Bagian 3 hanya relevan bagi siswa yang sudah mengalami masalah besar dalam hidupnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan ajakan pembuktian personal yang eksplisit di Bagian 3",
+        "c": "Tidak sesuai — Bagian 3 melengkapi, bukan membatalkan, penjelasan sebelumnya",
+        "d": "Terlalu sempit — materi mengajak refleksi bagi semua siswa, bukan hanya yang mengalami masalah besar"
+      }
+    }
+  ]
+}

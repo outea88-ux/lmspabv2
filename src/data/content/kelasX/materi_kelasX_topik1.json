@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "topik_id": "5.1a",
+    "kode_topik_lms": "X-T1",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Sejarah",
+    "kode_cp": "5.1",
+    "judul": "Ketika Kebijaksanaan Diputuskan untuk Dibagikan",
+    "subjudul": "Kisah Penyiaran Dhamma pada Masa Buddha",
+    "breadcrumb": "Kelas X · Topik 1 · Sejarah",
+    "estimasi_baca_menit": 8,
+    "sumber_kanon": [
+      "Ariyapariyesana Sutta (MN 26)",
+      "Āyācana Sutta (SN 6.1)",
+      "Dhammacakkappavattana Sutta (SN 56.11)",
+      "Vinaya Mahāvagga I",
+      "Aṭṭhakathā (komentar) atas Ariyapariyesana Sutta & Saṃyutta Nikāya"
+    ],
+    "tujuan_pembelajaran": "Peserta didik menganalisis strategi dan semangat penyiaran Dhamma pada masa Buddha untuk memahami akar historis penyebaran ajaran Buddha hingga masa kini."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Brahma Memohon",
+      "section_num": "Bagian 1",
+      "judul": "Saat Brahma Tertinggi Bersujud Memohon",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Setelah mencapai pencerahan sempurna di bawah pohon Bodhi, Buddha telah melenyapkan seluruh kekotoran batin tanpa sisa — termasuk keraguan (*vicikicchā*). Namun menurut **Aṭṭhakathā** (kitab komentar), batin Buddha sempat **cenderung pasif** untuk mengajar (*appossukkatā*). Ini bukan tanda keragu-raguan, melainkan sebuah **dhammatā** — pola yang terjadi pada setiap Buddha, tanpa kecuali."
+        },
+        {
+          "type": "paragraf",
+          "text": "Menurut komentar, seorang Buddha baru mengajar setelah dua syarat terpenuhi: **welas asih (mahākaruṇā)** dari dalam dirinya sendiri — yang saat itu sudah penuh — dan **permohonan dari luar** yang menandakan dunia sungguh siap menerima Dhamma. Syarat kedua inilah yang saat itu belum terpenuhi."
+        },
+        {
+          "type": "tokoh_card",
+          "avatar": "✨",
+          "nama": "Brahma Sahampati",
+          "detail": "Mahābrahmā tersenior, sosok yang paling dihormati dalam kepercayaan masyarakat India kala itu. Menurut Ariyapariyesana Sutta (MN 26), ia turun untuk memohon Buddha mengajarkan Dhamma."
+        },
+        {
+          "type": "paragraf",
+          "text": "Mengetahui batin Buddha cenderung pasif, Sahampati bersujud dengan lutut kanan menyentuh tanah dan memohon: *‘Sudilah Bhagavā mengajarkan Dhamma. Ada makhluk-makhluk yang hanya sedikit debu mengotori matanya — mereka akan merosot jika tidak mendengar Dhamma.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Mengapa Harus Brahma?",
+          "text": "Pada masa itu, hampir seluruh masyarakat India — petapa, Brahmana, hingga raja — menyembah Brahma sebagai wujud tertinggi. Ketika Brahma sendiri bersujud memohon kepada Buddha, peristiwa ini menegaskan sesuatu besar: wujud yang paling dihormati dunia pun mengakui, kebijaksanaan Buddha melampaui dirinya."
+        },
+        {
+          "type": "fakta",
+          "label": "Perumpamaan Kolam Teratai",
+          "text": "Mendengar permohonan itu, Buddha menyurvei dunia dengan ‘mata seorang Buddha’ (*buddha-cakkhu*), dan melihatnya seperti **kolam teratai**: ada bunga yang masih tenggelam di dasar air, ada yang sejajar permukaan, dan ada yang sudah mekar tinggi, tak lagi basah oleh airnya. Kesiapan batin manusia pun berbeda-beda seperti itu — dan sebagian ternyata sudah siap."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Welas asih Buddha untuk mengajar sebenarnya sudah penuh sejak awal — yang dinantikan hanyalah tanda kesiapan dunia untuk menerima. Menurutmu, mengapa kesediaan untuk MENERIMA kebaikan sama pentingnya dengan kesediaan untuk MEMBERINYA?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Khotbah Pertama",
+      "section_num": "Bagian 2",
+      "judul": "Khotbah Pertama di Taman Rusa Isipatana",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Setelah memutuskan untuk mengajar, Buddha memikirkan siapa yang paling siap mendengarnya. Ia teringat lima sahabat lamanya — **Koṇḍañña, Vappa, Bhaddiya, Mahānāma, dan Assaji** — para petapa yang dulu berlatih penyiksaan diri bersamanya, sebelum akhirnya meninggalkannya karena kecewa saat ia berhenti menyiksa tubuhnya."
+        },
+        {
+          "type": "paragraf",
+          "text": "Buddha berjalan kaki sejauh lebih dari 200 kilometer dari Bodh Gaya menuju **Isipatana**, dekat kota Varanasi, tempat kelima petapa itu tinggal. Saat melihatnya dari kejauhan, mereka sepakat bersikap dingin — *toh dia sudah menyerah dari jalan pertapaan sejati*. Namun begitu Buddha mendekat, wibawanya membuat mereka luluh tanpa sadar; satu per satu mereka menyambutnya, mengambilkan air, dan duduk mendengarkan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Isi Khotbah Pertama",
+          "text": "Buddha mengajarkan **Jalan Tengah (Majjhima Paṭipadā)** — menghindari dua ekstrem, yaitu memanjakan kesenangan indria dan menyiksa diri secara berlebihan. Dari Jalan Tengah inilah **Empat Kebenaran Mulia** — tentang dukkha, sebabnya, lenyapnya, dan jalan menuju lenyapnya — diperkenalkan untuk pertama kali dalam sejarah."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Saat mendengarkan penjelasan ini, **Koṇḍañña** adalah orang pertama yang memahami Dhamma dan mencapai tingkat kesucian awal (**Sotāpanna**). Buddha berseru gembira, *‘Kondanna sungguh telah mengerti!’* Sejak itu ia dikenal sebagai **Añña Koṇḍañña**."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bayangkan kamu salah satu dari lima petapa itu — duduk mendengarkan sahabat lama yang dulu kamu tinggalkan karena kecewa, kini kembali dengan cara pandang yang sama sekali baru. Apa yang mungkin kamu rasakan saat itu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "60 Utusan",
+      "section_num": "Bagian 3",
+      "judul": "“Pergilah, demi Kebahagiaan Banyak Orang”",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dalam waktu singkat, komunitas Buddha berkembang. **Yasa**, seorang pemuda kaya yang gelisah dengan hidupnya, ikut mencapai pencerahan bersama sejumlah sahabatnya. Tak lama, jumlah **Arahat** — mereka yang telah tercerahkan sepenuhnya — mencapai 60 orang."
+        },
+        {
+          "type": "paragraf",
+          "text": "Buddha mengumpulkan keenam puluh muridnya dan memberikan sebuah instruksi yang tercatat dalam **Vinaya Mahāvagga**, kitab disiplin monastik tertua."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "Pergilah mengembara, demi *kebahagiaan banyak orang*, demi *kesejahteraan banyak orang*, karena welas asih pada dunia",
+            "**Jangan dua orang** pergi ke arah yang sama — agar Dhamma bisa menjangkau lebih banyak tempat sekaligus",
+            "Ajarkan Dhamma yang *indah di awal, indah di tengah, dan indah di akhir*"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Dalam sekejap, misi penyiaran Dhamma berubah dari satu orang menjadi gerakan bersama. Buddha sendiri juga pergi ke arah lain — menuju **Uruvelā**, untuk mengajar tiga bersaudara **Kassapa** dan pengikut mereka yang berjumlah ratusan orang."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Instruksi Buddha menekankan berbagi ‘demi kebahagiaan orang lain’, bukan demi nama besar sang guru. Menurutmu, apa bedanya berbagi kebaikan karena tulus peduli dengan berbagi kebaikan supaya dipuji orang?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Tanpa Paksaan",
+      "section_num": "Bagian 4",
+      "judul": "Menyiarkan Tanpa Memaksa",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Semangat penyiaran Dhamma pada masa Buddha punya ciri khas yang membedakannya dari banyak gerakan penyebaran ajaran lain pada masanya: tidak ada paksaan, tidak ada ancaman, dan tidak ada iming-iming."
+        },
+        {
+          "type": "fakta",
+          "label": "Istilah Penting — Ehipassiko",
+          "text": "Salah satu sifat Dhamma yang paling sering disebut adalah **ehipassiko** — *‘datang dan buktikan sendiri’*. Buddha tidak meminta orang percaya lebih dulu baru membuktikan; ia justru mengundang orang membuktikan lebih dulu, baru boleh percaya atau tidak."
+        },
+        {
+          "type": "paragraf",
+          "text": "Buddha juga dikenal luwes menyesuaikan cara mengajar dengan siapa yang ia hadapi — memakai perumpamaan yang akrab bagi pendengarnya. Ia mengajar raja, pedagang, orang yang dulunya jahat, hingga rakyat biasa — semuanya dengan cara yang bisa mereka pahami."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Strategi ini bukan kebetulan. Ia lahir dari pemahaman yang sama seperti perumpamaan **kolam teratai** di Bagian 1 — setiap orang punya tingkat kesiapan berbeda, sehingga cara menjangkau mereka pun perlu berbeda."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu orang di sekitarmu yang punya cara berpikir sangat berbeda darimu. Kira-kira, pendekatan seperti apa yang akan membuatnya benar-benar mau mendengarkan, bukan sekadar merasa dipaksa?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Relevansi Kini",
+      "section_num": "Bagian 5",
+      "judul": "Relevansi Masa Kini",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Semangat yang dimulai dari satu khotbah di Isipatana ini terus diteruskan, dari generasi ke generasi, melintasi ribuan kilometer dan lebih dari 2.600 tahun — hingga akhirnya sampai dan berakar di **Nusantara**, termasuk melalui tokoh-tokoh Buddhis Indonesia yang akan kamu pelajari di topik berikutnya."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Kesiapan dua arah** — niat baik untuk berbagi perlu bertemu tanda kesiapan untuk menerima",
+            "**Menjangkau dengan sabar** — mengenali kesiapan orang lain, bukan memaksa",
+            "**Menyesuaikan cara**, bukan isinya — metode boleh berbeda, kebenaran tetap sama",
+            "**Berbagi karena peduli** — bukan demi pujian atau pengakuan"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu bertemu para pelaku sejarah Buddhis masa kini — orang-orang biasa yang meneruskan semangat yang sama seperti 60 murid pertama itu, di zaman dan caranya masing-masing."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Di lingkunganmu sekarang — sekolah, media sosial, atau pertemanan — bentuk ‘penyiaran kebaikan’ seperti apa yang bisa kamu lakukan, sekecil apa pun bentuknya?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 1",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 1"
+  }
+}

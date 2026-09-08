@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "topik_id": "6.3c",
+    "kode_topik_lms": "XII-T3",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Jangan Buru-Buru Menyimpulkan",
+    "subjudul": "Membuktikan Punabbhava: Kelahiran Kembali",
+    "breadcrumb": "Kelas XII · Topik 3 · Etika",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Mahākammavibhaṅga Sutta (MN 136)",
+      "Devadūta Sutta (MN 130)"
+    ],
+    "catatan_editorial": "Penggambaran alam-alam kehidupan dalam topik ini disampaikan pada level fungsi & makna etis, bukan deskripsi rinci penderitaan — sesuai fungsi aslinya sebagai pengingat moral, bukan tontonan.",
+    "tujuan_pembelajaran": "Peserta didik membuktikan Punabbhava (kelahiran kembali) berdasarkan Mahākammavibhaṅga Sutta sebagai kelanjutan logis Hukum Karma."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Jangan Generalisasi",
+      "section_num": "Bagian 1",
+      "judul": "Kesalahan yang Sering Terjadi: Generalisasi Terburu-buru",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Bayangkan seseorang punya kemampuan batin untuk 'melihat' satu orang jahat yang setelah wafat terlahir kembali di alam menderita. Dari satu pengamatan itu, ia lalu menyimpulkan: **'Semua orang jahat pasti terlahir di alam menderita, tanpa kecuali.'** Menurut Mahākammavibhaṅga Sutta, inilah justru kesalahan yang harus dihindari."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Amati Boleh, Menggeneralisasi Jangan",
+          "text": "Buddha menegaskan: **mengakui hasil pengamatan langsung itu boleh** ('aku melihat orang ini terlahir di alam menderita' — itu bisa diterima). Tapi **menggeneralisasi menjadi hukum mutlak** ('maka SEMUA orang jahat pasti begitu') **harus ditolak**. Kamma jauh lebih kompleks dari sekadar 'jahat = hukuman langsung, baik = hadiah langsung'."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Sutta ini bahkan menunjukkan kasus yang tampak 'ganjil': ada orang berbuat jahat tapi terlahir baik (mungkin karena kamma baik lampau yang justru sedang matang, atau kamma baik menjelang ajal), dan ada orang berbuat baik tapi terlahir kurang baik (kamma buruk lampau yang sedang matang). Kompleksitas ini bukan berarti hukum kamma tidak berlaku — justru menunjukkan betapa banyak faktor yang berperan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Pernahkah kamu mendengar orang menyimpulkan 'orang itu pasti kena karma' hanya dari satu kejadian yang mereka lihat sendiri? Setelah memahami peringatan sutta ini, bagaimana kamu akan menanggapi generalisasi semacam itu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "5 Utusan",
+      "section_num": "Bagian 2",
+      "judul": "Devadūta Sutta: Lima Utusan yang Mengingatkan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Devadūta Sutta menggambarkan sosok Raja Yama menanyai seseorang yang terlahir di alam menderita: apakah semasa hidupnya ia pernah melihat **lima utusan (devadūta)** — bayi yang baru lahir, orang lanjut usia, orang sakit, seseorang yang dihukum atas kejahatannya, dan jenazah?"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Pengingat, Bukan Ramalan",
+          "text": "Kelima 'utusan' ini bukan makhluk gaib yang benar-benar datang mengunjungi — mereka adalah **peristiwa biasa yang kita semua saksikan**: kelahiran, usia tua, sakit, konsekuensi hukum, dan kematian. Pertanyaannya bukan 'apakah kamu pernah melihatnya', tapi **'apakah pengingat itu membuatmu terdorong berbuat baik, atau kamu abaikan begitu saja?'**"
+        },
+        {
+          "type": "paragraf",
+          "text": "Bagian yang paling ditekankan sutta ini bukan detail alam menderita itu sendiri, melainkan **satu kalimat kunci** yang diucapkan berulang: *‘Perbuatan buruk itu bukan dilakukan oleh ibumu, ayahmu, saudaramu, sahabatmu — perbuatan itu kamu lakukan sendiri, dan kamu sendiri yang akan mengalami akibatnya.’*"
+        },
+        {
+          "type": "fakta",
+          "label": "Fungsi Ajaran Ini",
+          "text": "Gambaran alam-alam kehidupan dalam sutta ini berfungsi sebagai **pengingat moral** yang mendesak — semacam alarm keras agar manusia tidak menunda kebaikan. Terlepas dari bagaimana seseorang memaknainya (sebagai gambaran harfiah atau simbolis), pesan intinya sama: **kelalaian (pamāda) punya konsekuensi, dan tanggung jawab itu sepenuhnya milikmu sendiri.**"
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Kalimat 'perbuatan itu kamu lakukan sendiri, kamu sendiri yang mengalami akibatnya' menegaskan tidak ada yang bisa disalahkan atas pilihan kita. Bagaimana perasaanmu membaca penegasan ini — terasa berat, atau justru melegakan?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Makna Kini",
+      "section_num": "Bagian 3",
+      "judul": "Refleksi: Punabbhava dan Makna Hidup Sekarang",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Punabbhava adalah kelanjutan logis dari Hukum Karma yang kamu pelajari di Topik 2: jika kehendak (cetanā) membentuk akibat, dan tidak semua akibat matang dalam satu kehidupan (ingat: tiga waktu berbuahnya kamma), maka masuk akal bahwa proses ini berlanjut melampaui satu kehidupan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Yang paling penting dari mempelajari Punabbhava bukanlah memperdebatkan detail teknis alam-alam kehidupan, melainkan **dampaknya pada cara hidup saat ini**: jika tindakan hari ini punya konsekuensi yang bisa melampaui satu kehidupan, maka setiap pilihan — sekecil apa pun — menjadi lebih bermakna, bukan lebih menakutkan."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Kompleksitas itu wajar** — jangan menggeneralisasi kamma orang lain dari satu pengamatan",
+            "**Tanggung jawab ada di tangan sendiri** — tidak ada pihak lain yang bisa disalahkan atas pilihan kita",
+            "**Fokus pada makna, bukan ketakutan** — Punabbhava mendorong hidup bermakna sekarang, bukan hidup dalam kecemasan"
+          ]
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Jika kamu benar-benar meyakini bahwa tindakanmu hari ini bisa berdampak melampaui satu kehidupan, apakah ada satu kebiasaan yang ingin kamu ubah mulai sekarang?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 3",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 3"
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "topik_id": "5.1a",
+  "kode_topik_lms": "X-T1",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 17,
+  "jumlah_tampil_per_attempt": 10,
+  "bank": [
+    {
+      "id": "5.1a-q01",
+      "pertanyaan": "Setelah mencapai pencerahan, batin Buddha sempat cenderung pasif untuk mengajar (bukan langsung mengajar). Menurut kitab komentar, apa alasan yang tepat untuk hal ini?",
+      "opsi": {
+        "a": "Buddha sebenarnya masih ragu apakah pencerahannya benar-benar sempurna",
+        "b": "Ini adalah dhammatā (pola alami) bagi setiap Buddha — menanti syarat permohonan dari luar, setelah welas asih dari dalam sudah penuh",
+        "c": "Buddha belum memiliki cukup tenaga fisik setelah menjalani pertapaan keras",
+        "d": "Buddha menunggu izin dari gurunya, Āḷāra Kālāma, sebelum mengajar"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Keliru — Buddha telah melenyapkan seluruh kekotoran batin termasuk keraguan (vicikicchā); kecenderungan pasif di sini bukan bentuk keraguan",
+        "c": "Alasan fisik yang tidak disebutkan sumber mana pun dan tidak relevan dengan konteks batin",
+        "d": "Āḷāra Kālāma adalah salah satu guru pertapaan sebelum pencerahan; setelah tercerahkan, Buddha tidak lagi memerlukan izin siapa pun"
+      }
+    },
+    {
+      "id": "5.1a-q02",
+      "pertanyaan": "Siapa yang memohon Buddha untuk mengajarkan Dhamma kepada dunia?",
+      "opsi": {
+        "a": "Raja Bimbisara",
+        "b": "Lima petapa Pañcavaggiya",
+        "c": "Brahma Sahampati",
+        "d": "Ānanda"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Tokoh penting lain yang baru bertemu Buddha belakangan, bukan di momen ini",
+        "b": "Mereka menjadi murid pertama yang MENDENGARKAN, bukan yang memohon",
+        "d": "Ānanda menjadi pelayan dekat Buddha jauh setelah peristiwa ini"
+      }
+    },
+    {
+      "id": "5.1a-q03",
+      "pertanyaan": "Setelah mendengar permohonan Brahma Sahampati, Buddha menyurvei dunia dengan ‘mata seorang Buddha’. Perumpamaan apa yang muncul dari pengamatan ini?",
+      "opsi": {
+        "a": "Perumpamaan rumah yang terbakar",
+        "b": "Perumpamaan kolam teratai dengan bunga di berbagai kedalaman air",
+        "c": "Perumpamaan rakit untuk menyeberang sungai",
+        "d": "Perumpamaan anak panah beracun"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Perumpamaan dari tradisi Mahayana (Sutra Teratai), bukan dari kanon Pali sutta ini",
+        "c": "Perumpamaan Buddha yang lain (Alagaddupama Sutta), tentang melepas pegangan setelah tujuan tercapai",
+        "d": "Perumpamaan Buddha yang lain (Cula-Malunkyovada Sutta), tentang prioritas praktis"
+      }
+    },
+    {
+      "id": "5.1a-q04",
+      "pertanyaan": "Di manakah Buddha menyampaikan khotbah pertamanya?",
+      "opsi": {
+        "a": "Bodh Gaya, tempat Buddha mencapai pencerahan",
+        "b": "Rajagaha, ibu kota Kerajaan Magadha",
+        "c": "Taman Rusa Isipatana, dekat Varanasi",
+        "d": "Kapilavatthu, kampung halaman Buddha"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Lokasi pencerahan, bukan lokasi khotbah pertama — dua peristiwa berbeda",
+        "b": "Kota tempat Buddha kemudian mengajar Raja Bimbisara, bukan lokasi khotbah pertama",
+        "d": "Kampung halaman Buddha sendiri — jebakan karena berkaitan dengan materi kelas 7"
+      }
+    },
+    {
+      "id": "5.1a-q05",
+      "pertanyaan": "Siapa saja lima petapa (Pañcavaggiya) yang menjadi pendengar pertama Khotbah Pertama Buddha?",
+      "opsi": {
+        "a": "Lima bangsawan Sakya yang mengikuti Buddha meninggalkan istana",
+        "b": "Para petapa yang dulu berlatih penyiksaan diri bersama Buddha",
+        "c": "Lima murid utama Buddha: Sāriputta, Moggallāna, Ānanda, Mahākassapa, Anuruddha",
+        "d": "Lima anggota keluarga kerajaan yang menyambut kepulangan Buddha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Rancu dengan kisah Pelepasan Agung, bukan kisah Isipatana",
+        "c": "Murid-murid utama yang bergabung BELAKANGAN, bukan lima petapa Isipatana",
+        "d": "Tidak ada peristiwa seperti ini dalam kisahnya"
+      }
+    },
+    {
+      "id": "5.1a-q06",
+      "pertanyaan": "Apa isi utama Khotbah Pertama Buddha (Dhammacakkappavattana Sutta)?",
+      "opsi": {
+        "a": "Hukum Karma dan kelahiran kembali",
+        "b": "Jalan Tengah dan Empat Kebenaran Mulia",
+        "c": "Sepuluh Kesempurnaan (Pāramitā) seorang Bodhisattva",
+        "d": "Tiga Corak Universal — Anicca, Dukkha, Anattā"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Ajaran penting Buddha, tapi bukan fokus utama khotbah pertama",
+        "c": "Konsep yang lebih ditekankan tradisi Mahayana, bukan isi khotbah pertama",
+        "d": "Ini isi khotbah KEDUA (Anattalakkhaṇa Sutta) — jebakan urutan peristiwa"
+      }
+    },
+    {
+      "id": "5.1a-q07",
+      "pertanyaan": "Siapa pendengar pertama yang mencapai tingkat kesucian awal (Sotāpanna) saat mendengar Khotbah Pertama?",
+      "opsi": {
+        "a": "Assaji",
+        "b": "Koṇḍañña",
+        "c": "Ānanda",
+        "d": "Yasa"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Salah satu dari lima petapa, tapi bukan yang PERTAMA mencapai kesucian",
+        "c": "Ānanda belum menjadi murid Buddha pada masa ini",
+        "d": "Yasa bertobat SETELAH khotbah pertama, dalam kisah yang terpisah"
+      }
+    },
+    {
+      "id": "5.1a-q08",
+      "pertanyaan": "Setelah komunitas bertambah menjadi 60 Arahat, apa instruksi Buddha kepada mereka menurut Vinaya Mahāvagga?",
+      "opsi": {
+        "a": "Tinggal bersama di satu tempat agar mudah dibimbing",
+        "b": "Pergi menyebar sendiri-sendiri ke berbagai penjuru demi kesejahteraan banyak orang",
+        "c": "Menunggu di Isipatana hingga jumlah murid mencapai seratus orang",
+        "d": "Kembali ke kampung halaman masing-masing untuk mengajar keluarga sendiri"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan instruksi sebenarnya yang justru mendorong menyebar",
+        "c": "Tidak ada instruksi seperti ini dalam sumber",
+        "d": "Instruksi sebenarnya mendorong menjangkau seluas mungkin, bukan terbatas keluarga"
+      }
+    },
+    {
+      "id": "5.1a-q09",
+      "pertanyaan": "Mengapa Buddha meminta murid-muridnya tidak pergi berdua menuju arah yang sama?",
+      "opsi": {
+        "a": "Agar setiap murid teruji kemandiriannya sebagai syarat mencapai kesucian lebih tinggi",
+        "b": "Karena keterbatasan biaya perjalanan pada masa itu",
+        "c": "Agar jangkauan penyebaran Dhamma menjadi lebih luas, menjangkau lebih banyak orang",
+        "d": "Karena aturan Vinaya melarang dua bhikkhu bepergian bersama"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bukan alasan yang disebutkan; kesucian Arahat sudah mereka capai sebelum diutus",
+        "b": "Alasan modern yang tidak relevan/tidak disebutkan sumber",
+        "d": "Tidak ada aturan umum seperti ini — bepergian bersama justru lazim di banyak konteks lain"
+      }
+    },
+    {
+      "id": "5.1a-q10",
+      "pertanyaan": "Apa makna istilah ‘ehipassiko’ yang mencerminkan semangat penyiaran Dhamma Buddha?",
+      "opsi": {
+        "a": "Percayalah dahulu, baru kau akan mengerti",
+        "b": "Datang dan buktikan sendiri",
+        "c": "Ikutilah guru tanpa bertanya",
+        "d": "Sebarkan tanpa perlu memahami"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Justru KEBALIKAN dari makna sebenarnya",
+        "c": "Bertentangan dengan semangat Kālāma Sutta dan ehipassiko",
+        "d": "Bertentangan dengan esensi ehipassiko yang menekankan pembuktian pribadi"
+      }
+    },
+    {
+      "id": "5.1a-q11",
+      "pertanyaan": "Apa yang membedakan cara penyiaran Dhamma Buddha dengan gerakan penyebaran ajaran yang koersif/memaksa pada masanya?",
+      "opsi": {
+        "a": "Buddha hanya mengajar kepada kalangan bangsawan dan terpelajar",
+        "b": "Buddha menyesuaikan cara mengajar dengan kondisi pendengar dan tidak memaksa siapa pun untuk percaya",
+        "c": "Buddha memberikan hadiah materi kepada siapa saja yang bersedia menjadi pengikutnya",
+        "d": "Buddha mewajibkan setiap pendengarnya untuk langsung menjadi bhikkhu"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak benar — Buddha mengajar semua kalangan, termasuk rakyat biasa",
+        "c": "Tidak ada praktik seperti ini dalam kanon",
+        "d": "Tidak benar — banyak pendengar tetap menjadi umat awam (upasaka-upasika)"
+      }
+    },
+    {
+      "id": "5.1a-q12",
+      "pertanyaan": "Sutta manakah yang mencatat peristiwa batin Buddha yang cenderung pasif (appossukkatā) serta permohonan Brahma Sahampati?",
+      "opsi": {
+        "a": "Dhammacakkappavattana Sutta",
+        "b": "Mahāparinibbāna Sutta",
+        "c": "Ariyapariyesana Sutta",
+        "d": "Satipaṭṭhāna Sutta"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Sutta khotbah pertama itu sendiri, bukan peristiwa sebelum khotbah pertama disampaikan",
+        "b": "Sutta tentang wafatnya Buddha — konteks yang sangat berbeda",
+        "d": "Sutta tentang meditasi vipassanā, tidak berkaitan dengan kisah ini"
+      }
+    },
+    {
+      "id": "5.1a-q13",
+      "pertanyaan": "Pencapaian Koṇḍañña saat Khotbah Pertama membuatnya dikenal dengan gelar tambahan ‘Añña’ yang berarti…",
+      "opsi": {
+        "a": "Terpujilah Sang Buddha, guru kita",
+        "b": "Ia sungguh telah mengerti",
+        "c": "Ia telah menjadi seorang Buddha baru",
+        "d": "Semoga ia diberkati kebijaksanaan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Bukan arti frasa tersebut, meski pujian wajar terbayang siswa",
+        "c": "Keliru — mencapai Sotāpanna tidak berarti menjadi Buddha",
+        "d": "Ini kalimat harapan, bukan seruan pengakuan atas pencapaian yang sudah terjadi"
+      }
+    },
+    {
+      "id": "5.1a-q14",
+      "pertanyaan": "Berapa lama Buddha merenung sebelum memutuskan untuk mengajar setelah pencerahannya, menurut narasi umum kisah ini?",
+      "opsi": {
+        "a": "Satu hari",
+        "b": "Beberapa minggu",
+        "c": "Satu tahun penuh",
+        "d": "Buddha langsung mengajar tanpa jeda perenungan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Terlalu singkat, tidak sesuai narasi",
+        "c": "Terlalu lama, tidak sesuai narasi",
+        "d": "Bertentangan dengan keseluruhan kisah appossukkatā (kecenderungan pasif) yang menjadi inti Bagian 1"
+      }
+    },
+    {
+      "id": "5.1a-q15",
+      "pertanyaan": "Apa pelajaran utama dari peristiwa permohonan Brahma Sahampati untuk konteks masa kini?",
+      "opsi": {
+        "a": "Kebaikan sebaiknya disebarkan kepada siapa pun secepat mungkin, tanpa perlu mempertimbangkan kesiapan mereka",
+        "b": "Kesediaan untuk berbagi kebaikan perlu bertemu dengan tanda kesiapan untuk menerimanya — dua-duanya sama penting",
+        "c": "Seseorang baru boleh berbagi kebaikan setelah diakui oleh sosok yang sangat berwibawa",
+        "d": "Berbagi kebaikan adalah tanggung jawab individu semata, tidak memerlukan permintaan dari siapa pun"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keseluruhan kisah — justru kesiapan penerima menjadi pertimbangan penting",
+        "c": "Melebih-lebihkan makna kisah — bukan berarti butuh ‘validasi tokoh besar’, melainkan tentang kesiapan bersama",
+        "d": "Bertentangan dengan struktur dua-sebab (internal & eksternal) yang menjadi inti kisah ini"
+      }
+    },
+    {
+      "id": "5.1a-q16",
+      "pertanyaan": "Menurut Aṭṭhakathā, ada dua sebab (nidāna) seorang Buddha mengajarkan Dhamma. Apa sebab yang berasal dari DALAM diri Buddha sendiri?",
+      "opsi": {
+        "a": "Welas asih (mahākaruṇā)",
+        "b": "Permohonan Brahma Sahampati",
+        "c": "Harapan untuk dihormati banyak pengikut",
+        "d": "Dorongan dari lima petapa Pañcavaggiya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "b": "Ini justru sebab dari LUAR (bāhira), bukan dari dalam diri Buddha",
+        "c": "Bertentangan dengan sifat Buddha yang telah bebas dari keinginan akan pengakuan",
+        "d": "Lima petapa belum bertemu Buddha lagi pada titik cerita ini"
+      }
+    },
+    {
+      "id": "5.1a-q17",
+      "pertanyaan": "Mengapa permohonan Brahma Sahampati secara khusus dianggap penting, dibanding jika yang memohon adalah dewa biasa?",
+      "opsi": {
+        "a": "Karena Brahma adalah dewa dengan kekuatan fisik terbesar di antara semua dewa",
+        "b": "Karena pada masa itu, Brahma disembah sebagai wujud tertinggi oleh hampir seluruh masyarakat India, sehingga sujudnya menegaskan posisi Buddha yang lebih tinggi",
+        "c": "Karena hanya Brahma yang diizinkan berbicara langsung dengan seorang Buddha",
+        "d": "Karena Brahma adalah satu-satunya dewa yang disebutkan dalam Tipiṭaka"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Kekuatan fisik tidak relevan dengan makna religius-simbolis peristiwa ini",
+        "c": "Tidak ada aturan seperti ini; banyak dewa lain juga berkomunikasi dengan Buddha dalam kanon",
+        "d": "Tidak benar — banyak dewa dan Brahma lain disebutkan di berbagai sutta dalam Tipiṭaka"
+      }
+    }
+  ]
+}

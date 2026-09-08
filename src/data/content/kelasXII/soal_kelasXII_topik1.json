@@ -1,0 +1,304 @@
+{
+  "topik_id": "6.3a",
+  "kode_topik_lms": "XII-T1",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 16,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3a-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa jumlah 'aspek' (ākāra) yang dihasilkan dari tiga putaran pemahaman terhadap Empat Kebenaran Mulia?",
+      "opsi": {
+        "a": "4",
+        "b": "8",
+        "c": "12",
+        "d": "16"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Ini jumlah kebenaran itu sendiri, bukan jumlah aspek setelah dikali 3 putaran",
+        "b": "Ini jumlah unsur Jalan Mulia, bukan jumlah aspek 4 Kebenaran Mulia",
+        "d": "Bukan hasil perkalian yang benar (4 × 3 = 12, bukan 16)"
+      }
+    },
+    {
+      "id": "6.3a-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Taṇhā (kehausan/keinginan) dalam Dhammacakkappavattana Sutta terbagi menjadi tiga jenis. Manakah yang termasuk salah satunya?",
+      "opsi": {
+        "a": "Kāma-taṇhā",
+        "b": "Kamma-taṇhā",
+        "c": "Karuṇā-taṇhā",
+        "d": "Kilesa-taṇhā"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Istilah gabungan yang tidak dikenal dalam formula taṇhā",
+        "c": "Karuṇā berarti welas asih, bukan bagian dari klasifikasi taṇhā",
+        "d": "Kilesa berarti kekotoran batin secara umum, bukan salah satu dari 3 jenis taṇhā"
+      }
+    },
+    {
+      "id": "6.3a-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berusaha keras 'melepaskan' rasa sakit fisiknya saat cedera, dengan berpikir bahwa itulah cara mempraktikkan Empat Kebenaran Mulia.",
+      "pertanyaan": "Apa yang keliru dari pendekatan siswa ini, berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Pendekatannya sudah benar sepenuhnya",
+        "b": "Ia tertukar arah tugas — dukkha (termasuk rasa sakit) seharusnya DIPAHAMI, sedangkan yang seharusnya DILEPASKAN adalah taṇhā (kehausan/kemelekatan) yang menyertainya",
+        "c": "Rasa sakit fisik tidak termasuk dukkha sama sekali",
+        "d": "Empat Kebenaran Mulia tidak relevan untuk pengalaman fisik"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan Poin Kunci yang menegaskan pentingnya arah tugas yang tepat",
+        "c": "Bertentangan dengan formula dukkha yang eksplisit menyebut sakit (byādhi)",
+        "d": "Bertentangan dengan cakupan dukkha yang mencakup pengalaman fisik dan mental"
+      }
+    },
+    {
+      "id": "6.3a-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Kalau hidup itu dukkha, berarti lima kelompok kehidupan (khandha) kita ini memang jelek dan salah.’",
+      "pertanyaan": "Bagaimana pandangan ini seharusnya dikoreksi berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Pandangan itu benar sepenuhnya",
+        "b": "Yang menjadi dukkha bukan lima kelompok kehidupan itu sendiri (khandha), melainkan lima kelompok itu SAAT DILEKATI (upādānakkhandha) — proses hidup itu sendiri bukan 'kesalahan'",
+        "c": "Lima kelompok kehidupan sebaiknya dimusnahkan secepatnya",
+        "d": "Dukkha hanya berlaku bagi orang yang belum menjadi Buddhis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan distingsi khandha vs upādānakkhandha yang dijelaskan materi",
+        "c": "Kesimpulan ekstrem yang tidak didukung ajaran mana pun",
+        "d": "Tidak sesuai — dukkha dijelaskan sebagai kebenaran universal, bukan terbatas kelompok tertentu"
+      }
+    },
+    {
+      "id": "6.3a-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa selalu berusaha tampil sempurna di depan teman-temannya, takut dianggap gagal, dan merasa harus selalu diakui sebagai yang terbaik di kelas.",
+      "pertanyaan": "Jenis taṇhā apa yang paling menonjol dari perilaku siswa ini?",
+      "opsi": {
+        "a": "Kāma-taṇhā — kehausan akan kesenangan indria",
+        "b": "Bhava-taṇhā — kehausan akan 'menjadi' sesuatu (diakui, sempurna)",
+        "c": "Vibhava-taṇhā — kehausan akan ketiadaan/lenyapnya diri",
+        "d": "Bukan bentuk taṇhā apa pun, ini murni motivasi positif"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Kāma-taṇhā lebih tentang kesenangan indriawi konkret, bukan pengakuan/status",
+        "c": "Vibhava-taṇhā justru tentang keinginan menghindar/lenyap, kebalikan dari skenario ini",
+        "d": "Keinginan kuat untuk selalu diakui sebagai 'yang terbaik' cocok dengan pola bhava-taṇhā"
+      }
+    },
+    {
+      "id": "6.3a-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting membedakan 'tugas' terhadap Magga (dikembangkan/bhāvanā) dengan 'tugas' terhadap Nirodha (diwujudkan/sacchikiriyā)?",
+      "opsi": {
+        "a": "Karena keduanya sebenarnya sama persis tanpa perbedaan apa pun",
+        "b": "Karena Magga adalah proses berkelanjutan yang terus dilatih, sedangkan Nirodha adalah pencapaian yang direalisasikan langsung — mencampur keduanya bisa membuat seseorang berhenti berlatih terlalu dini atau salah paham tujuan akhir",
+        "c": "Karena Nirodha harus dilakukan sebelum Magga dimulai",
+        "d": "Karena Magga hanya relevan bagi bhikkhu, sedangkan Nirodha relevan bagi umat awam"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan tugas eksplisit (bhāvanā vs sacchikiriyā) yang dijelaskan materi",
+        "c": "Terbalik dari struktur yang dijelaskan — Magga adalah jalan MENUJU Nirodha, bukan sebaliknya",
+        "d": "Tidak ada pembatasan semacam itu dalam materi maupun ajaran umum"
+      }
+    },
+    {
+      "id": "6.3a-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana delapan unsur Jalan Mulia Berunsur Delapan bekerja, menurut Poin Kunci Bagian 4?",
+      "opsi": {
+        "a": "Harus diselesaikan satu per satu secara berurutan seperti anak tangga, tidak boleh dilatih bersamaan",
+        "b": "Kedelapan unsur berkembang bersama dan saling menguatkan, bukan tahapan linear yang terpisah",
+        "c": "Hanya satu unsur yang benar-benar penting, tujuh lainnya bersifat opsional",
+        "d": "Kedelapan unsur saling bertentangan dan tidak bisa dilatih dalam waktu bersamaan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penjelasan eksplisit di Poin Kunci Bagian 4",
+        "c": "Tidak sesuai — kedelapan unsur dijelaskan sebagai satu kesatuan yang setara pentingnya",
+        "d": "Bertentangan dengan gambaran 'saling menguatkan' yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.3a-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa menyimpulkan, ‘Karena hidup adalah dukkha, sebaiknya aku berhenti berusaha mencapai apa pun dan pasrah saja.’",
+      "pertanyaan": "Apa yang keliru dari kesimpulan siswa ini?",
+      "opsi": {
+        "a": "Kesimpulan itu tepat, karena Dukkha memang mengajarkan untuk pasrah total",
+        "b": "Kesimpulan itu keliru — tugas terhadap Dukkha adalah MEMAHAMI, bukan pasrah; dan Magga justru mengajak mengembangkan usaha (delapan unsur jalan) secara aktif, bukan berhenti berusaha",
+        "c": "Dukkha hanya berlaku bagi orang dewasa, tidak bagi siswa SMA",
+        "d": "Kesimpulan itu benar hanya jika siswa tersebut sudah lulus SMA"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan 'tugas' pariññā yang berarti memahami, bukan pasrah/menyerah",
+        "c": "Tidak sesuai — Empat Kebenaran Mulia dijelaskan sebagai kebenaran universal",
+        "d": "Tidak relevan dan tidak berdasar sama sekali"
+      }
+    },
+    {
+      "id": "6.3a-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa istilah 'ariya sacca' (kebenaran mulia) menekankan aspek 'pembuktian', bukan sekadar 'kepercayaan', menurut Bagian 5?",
+      "opsi": {
+        "a": "Karena istilah ini menyiratkan kebenaran yang perlu ditempuh dan dialami langsung oleh praktisi, bukan sekadar diwariskan sebagai dogma untuk dipercaya begitu saja",
+        "b": "Karena kata 'ariya' berarti 'harus dipercaya tanpa pertanyaan'",
+        "c": "Karena kebenaran ini hanya berlaku bagi orang-orang suci (ariya), bukan orang biasa",
+        "d": "Karena istilah ini sengaja dibuat ambigu agar bisa ditafsirkan bebas"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai makna — 'ariya' di sini bukan berarti larangan bertanya",
+        "c": "Salah paham — 'ariya' dalam konteks ini menunjuk sifat kebenarannya, bukan membatasi siapa yang boleh mempelajarinya",
+        "d": "Bertentangan dengan penekanan materi pada kejelasan struktur (3 putaran, 12 aspek), bukan ambiguitas"
+      }
+    },
+    {
+      "id": "6.3a-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa gagal karena, meski sudah memahami teori 4 Kebenaran Mulia dengan baik, ia masih sering merasakan taṇhā dalam hidupnya sehari-hari.",
+      "pertanyaan": "Bagaimana perasaan gagal ini seharusnya dipahami berdasarkan struktur 'tiga putaran' yang dipelajari di Bagian 1?",
+      "opsi": {
+        "a": "Ia memang gagal total dan sebaiknya berhenti mempelajari topik ini",
+        "b": "Memahami secara konsep (putaran pertama: mengetahui) berbeda dari benar-benar melepaskan taṇhā (putaran ketiga: tugas selesai) — wajar jika keduanya belum sejalan, karena pelepasan taṇhā adalah proses berkelanjutan",
+        "c": "Perasaan gagal ini membuktikan bahwa Empat Kebenaran Mulia tidak berlaku baginya",
+        "d": "Ia seharusnya berhenti merasakan taṇhā secara instan setelah membaca teorinya sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Kesimpulan berlebihan yang tidak proporsional dan bertentangan dengan semangat pembelajaran bertahap",
+        "c": "Tidak logis — materi menjelaskan proses tiga putaran yang bertahap, bukan sekali gagal berarti tidak berlaku",
+        "d": "Tidak realistis — bertentangan dengan sifat taṇhā yang memerlukan latihan berkelanjutan untuk dilepaskan"
+      }
+    },
+    {
+      "id": "6.3a-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara kāma-taṇhā dan vibhava-taṇhā, meski keduanya sama-sama disebut 'taṇhā'?",
+      "opsi": {
+        "a": "Kāma-taṇhā adalah keinginan mendapatkan kesenangan; vibhava-taṇhā adalah keinginan menghindar/lenyap — arahnya berlawanan, tapi keduanya tetap bentuk kehausan/kemelekatan",
+        "b": "Kāma-taṇhā hanya dialami bhikkhu; vibhava-taṇhā hanya dialami umat awam",
+        "c": "Kāma-taṇhā adalah bentuk taṇhā yang baik; vibhava-taṇhā adalah bentuk taṇhā yang buruk",
+        "d": "Tidak ada perbedaan sama sekali antara keduanya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — tidak ada pembatasan semacam itu pada siapa yang bisa mengalami taṇhā jenis tertentu",
+        "c": "Tidak sesuai — ketiga jenis taṇhā sama-sama termasuk Kebenaran Kedua yang harus dilepaskan, tidak ada yang 'baik'",
+        "d": "Mengabaikan perbedaan arah (mendapatkan vs menghindar) yang jelas dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.3a-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana hubungan antara pemahaman terhadap Dukkha (Bagian 2) dengan pelepasan Samudaya (Bagian 3)?",
+      "opsi": {
+        "a": "Keduanya tidak berkaitan sama sekali",
+        "b": "Memahami dukkha dengan jernih (termasuk peran upādāna/kemelekatan) membuka jalan untuk mengenali taṇhā yang mendasarinya, sehingga bisa mulai dilepaskan",
+        "c": "Samudaya harus dilepaskan terlebih dahulu sebelum Dukkha bisa dipahami",
+        "d": "Memahami dukkha secara otomatis menghapus taṇhā tanpa usaha lebih lanjut"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan keterkaitan konseptual yang jelas antara kedua kebenaran ini",
+        "c": "Membalik urutan logis — pemahaman dukkha yang membuka jalan mengenali sebabnya, bukan sebaliknya",
+        "d": "Klaim berlebihan — bertentangan dengan sifat 'tugas berkelanjutan' yang dijelaskan di seluruh topik"
+      }
+    },
+    {
+      "id": "6.3a-q13",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa sangat sedih ketika sahabat karibnya pindah sekolah ke kota lain.",
+      "pertanyaan": "Aspek dukkha manakah dari formula kanonis yang paling sesuai menggambarkan pengalaman siswa ini?",
+      "opsi": {
+        "a": "Berkumpul dengan yang tidak disukai",
+        "b": "Berpisah dari yang disukai",
+        "c": "Tidak mendapatkan yang diinginkan",
+        "d": "Usia tua"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Skenario ini soal perpisahan dengan yang disukai, bukan berkumpul dengan yang tidak disukai",
+        "c": "Skenario ini bukan soal kegagalan mendapatkan sesuatu, melainkan kehilangan yang sudah dimiliki",
+        "d": "Tidak relevan dengan skenario perpisahan sahabat"
+      }
+    },
+    {
+      "id": "6.3a-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa memahami struktur '3 putaran, 12 aspek' membuat Empat Kebenaran Mulia terasa lebih 'bisa dipraktikkan' dibanding sekadar menghafal 4 istilah?",
+      "opsi": {
+        "a": "Karena struktur ini memberi arah tindakan konkret (paham/lepaskan/wujudkan/kembangkan) untuk masing-masing kebenaran, bukan sekadar informasi pasif untuk dihafal",
+        "b": "Karena struktur ini membuat jumlah yang harus dihafal menjadi lebih sedikit",
+        "c": "Karena struktur ini menghapus kebutuhan mempraktikkan Jalan Mulia Berunsur Delapan",
+        "d": "Karena struktur ini hanya relevan untuk ujian, tidak untuk kehidupan nyata"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Salah arah — justru menambah detail (12 aspek), bukan menyederhanakan jumlah hafalan",
+        "c": "Bertentangan langsung — Magga (dikembangkan) tetap menjadi bagian penting struktur ini",
+        "d": "Bertentangan dengan keseluruhan semangat 'pembuktian personal' yang ditekankan Bagian 5"
+      }
+    },
+    {
+      "id": "6.3a-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menjadi fondasi yang tepat untuk topik-topik Etika berikutnya di Kelas XII (Karma, Punabbhava, Tilakkhaṇa)?",
+      "opsi": {
+        "a": "Topik ini tidak berkaitan dengan topik-topik berikutnya",
+        "b": "Empat Kebenaran Mulia memberi kerangka besar (dukkha muncul dari sebab, dan bisa diakhiri) yang menjadi dasar memahami bagaimana karma, kelahiran kembali, dan tiga corak universal saling terhubung dalam menjelaskan mengapa dukkha terjadi dan bagaimana mengakhirinya",
+        "c": "Topik-topik berikutnya akan menggantikan seluruh pemahaman tentang Empat Kebenaran Mulia",
+        "d": "Empat Kebenaran Mulia hanya relevan untuk semester ini saja, tidak untuk topik lanjutan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan posisi topik ini sebagai topik pembuka elemen Etika Kelas XII",
+        "c": "Tidak sesuai — topik-topik berikutnya memperdalam, bukan menggantikan, kerangka dasar ini",
+        "d": "Bertentangan dengan sifat Empat Kebenaran Mulia sebagai fondasi seumur hidup, bukan materi sekali pakai"
+      }
+    },
+    {
+      "id": "6.3a-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seseorang hanya fokus mengembangkan Magga (Jalan Mulia) tanpa pernah benar-benar memahami Dukkha terlebih dahulu, risiko apa yang mungkin muncul?",
+      "opsi": {
+        "a": "Tidak ada risiko apa pun, karena keempat kebenaran sepenuhnya independen satu sama lain",
+        "b": "Praktiknya berisiko kehilangan arah dan motivasi yang jelas, karena tanpa memahami dukkha secara jernih, seseorang mungkin tidak sepenuhnya mengerti MENGAPA jalan itu perlu ditempuh",
+        "c": "Ia akan otomatis mencapai Nirodha lebih cepat tanpa memahami Dukkha",
+        "d": "Magga tidak bisa dipraktikkan sama sekali tanpa memahami Dukkha lebih dulu"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keterkaitan erat antar-4 kebenaran yang dijelaskan sepanjang topik",
+        "c": "Klaim berlebihan yang tidak didukung struktur 3-putaran/12-aspek",
+        "d": "Terlalu absolut — materi tidak menyatakan ketidakmungkinan mutlak semacam ini"
+      }
+    }
+  ]
+}

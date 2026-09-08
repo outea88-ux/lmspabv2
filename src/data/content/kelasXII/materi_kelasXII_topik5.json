@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "topik_id": "6.3e",
+    "kode_topik_lms": "XII-T5",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "‘Jangan Katakan Begitu, Ānanda’",
+    "subjudul": "Paṭiccasamuppāda: Menyelami Lebih Dalam Hukum Sebab-Musabab",
+    "breadcrumb": "Kelas XII · Topik 5 · Etika",
+    "estimasi_baca_menit": 12,
+    "sumber_kanon": [
+      "Mahānidāna Sutta (DN 15)"
+    ],
+    "catatan_editorial": "Topik ini memperdalam Paṭiccasamuppāda yang sudah diperkenalkan di Kelas X (Paccaya Sutta, Topik 8) — bukan mengulang, melainkan menyelami kompleksitas yang sengaja belum dibahas di jenjang sebelumnya.",
+    "tujuan_pembelajaran": "Peserta didik membuktikan Hukum Sebab-Musabab yang Saling Bergantungan (Paṭiccasamuppāda) berdasarkan Mahānidāna Sutta sebagai ajaran paling mendalam."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Teguran Ānanda",
+      "section_num": "Bagian 1",
+      "judul": "Ketika Ānanda Terlalu Percaya Diri",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Ānanda, murid dekat Buddha yang dikenal sangat cerdas dan hafal seluruh khotbah gurunya, suatu hari berkata dengan bangga: *‘Sungguh menakjubkan, Bhante, betapa dalamnya Paṭiccasamuppāda ini dan betapa dalam ia tampak — namun bagiku, ia tampak sejernih-jernihnya.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Teguran yang Tegas",
+          "text": "Buddha langsung menegurnya, dua kali berturut-turut: *‘Jangan katakan begitu, Ānanda. Jangan katakan begitu. Paṭiccasamuppāda ini dalam, dan tampilannya pun dalam. Karena tidak memahami dan tidak menembus ajaran inilah, generasi ini seperti benang kusut, seperti bola benang yang tersimpul, seperti alang-alang yang kacau, tidak mampu melampaui alam sengsara dan siklus kelahiran-kematian.’*"
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Kamu sudah mempelajari kerangka dasar Paṭiccasamuppāda sejak Kelas X. Teguran Buddha kepada Ānanda ini mengingatkan: memahami STRUKTUR 12 mata rantai (bisa dihafal) berbeda jauh dari benar-benar MENEMBUS kedalamannya (butuh perenungan terus-menerus). Kamu baru di ambang pintu, bukan sudah tiba."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Ānanda merasa sudah paham, padahal Buddha menilai sebaliknya. Pernahkah kamu mengalami hal serupa — merasa sudah menguasai sesuatu, lalu menyadari ada kedalaman yang belum kamu lihat sama sekali?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Bukan Rantai Searah",
+      "section_num": "Bagian 2",
+      "judul": "Bukan Rantai Satu Arah: Kesadaran dan Batin-Jasmani",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Di Kelas X, kamu mempelajari 12 mata rantai secara berurutan: avijjā menyebabkan saṅkhāra, saṅkhāra menyebabkan viññāṇa, dan seterusnya — seolah anak tangga yang naik satu arah. Mahānidāna Sutta mengungkap sesuatu yang lebih rumit."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Hubungan Timbal Balik",
+          "text": "Buddha menjelaskan bahwa **viññāṇa (kesadaran)** dan **nāmarūpa (batin-jasmani)** sebenarnya **saling mensyaratkan**, bukan sekadar satu menyebabkan yang lain secara searah. Tanpa kesadaran, batin-jasmani tidak bisa berkembang; tanpa batin-jasmani, kesadaran tidak punya ‘tempat berpijak’ untuk muncul. Keduanya seperti dua berkas jerami yang saling menyandarkan diri — jatuh satu, jatuh keduanya."
+        },
+        {
+          "type": "paragraf",
+          "text": "Ini membongkar kesan bahwa Paṭiccasamuppāda adalah daftar sebab-akibat linear sederhana. Kenyataannya, ia adalah **jaring relasi yang saling menopang**, jauh lebih dekat pada gambaran ekosistem yang saling bergantung daripada barisan kartu domino."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Buddha juga menegaskan dalam sutta ini: *‘Inilah akar, sebab, asal-usul, dan kondisi bagi taṇhā — yaitu vedanā (perasaan).’* Penegasan eksplisit ini memperkuat titik intervensi praktis yang kamu pelajari di Kelas X: antara perasaan dan kehausan, di situlah kesadaran punya ruang untuk memilih."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bayangkan kesadaran dan batin-jasmani sebagai dua berkas jerami yang saling menyandarkan diri. Menurutmu, bagaimana gambaran 'saling menopang' ini mengubah pemahamanmu dari sekadar 'rantai sebab-akibat berurutan'?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Sosial & Ekologis",
+      "section_num": "Bagian 3",
+      "judul": "Paṭiccasamuppāda dalam Kehidupan Sosial & Ekologis",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Prinsip 'saling menopang, saling bergantung' ini tidak berhenti pada batin individu. Ia bisa diterapkan memahami isu sosial dan lingkungan yang kompleks — di mana mencari 'satu penyebab tunggal' seringkali menyesatkan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Jaring, Bukan Rantai Tunggal",
+          "text": "Krisis iklim, misalnya, bukan sekadar 'disebabkan oleh X' secara tunggal — ia melibatkan pola konsumsi, kebijakan ekonomi, teknologi, budaya, dan kebiasaan individu yang **saling menopang satu sama lain**, persis seperti viññāṇa dan nāmarūpa. Solusi yang hanya menyasar satu titik, mengabaikan jaring keseluruhan, cenderung gagal jangka panjang."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Pilih satu isu sosial atau lingkungan yang kamu pedulikan. Coba petakan setidaknya tiga faktor yang saling menopang dalam isu itu — bukan mencari 'siapa yang salah', tapi memahami jaring relasinya."
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 4",
+      "judul": "Sintesis Mendalam: Paṭiccasamuppāda sebagai Cara Pandangku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Perjalanan dari Paccaya Sutta (Kelas X) menuju Mahānidāna Sutta (topik ini) mencerminkan tepat apa yang diajarkan sutta ini sendiri: pemahaman yang terus berkembang, dari mengetahui strukturnya menuju menembus kedalamannya."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Kerendahan hati** — seperti teguran kepada Ānanda, jangan terburu-buru merasa sudah paham sepenuhnya",
+            "**Saling menopang, bukan searah** — viññāṇa-nāmarūpa sebagai model relasi yang lebih rumit dari rantai linear",
+            "**Vedanā sebagai akar taṇhā** — penegasan eksplisit titik intervensi paling praktis",
+            "**Jaring, bukan sebab tunggal** — kerangka ini berlaku luas, dari batin pribadi hingga isu sosial-ekologis"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan menyintesis pemahaman ini lebih jauh lagi — mempertemukan seluruh hukum yang sudah kamu pelajari sepanjang Kelas XII dalam satu kerangka pandang filosofis yang utuh."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah teguran Buddha kepada Ānanda, bagaimana kamu akan menjelaskan perbedaan antara 'menghafal 12 mata rantai' dan 'menembus kedalaman Paṭiccasamuppāda' kepada seseorang yang baru mempelajarinya?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 5",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 5"
+  }
+}

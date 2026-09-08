@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "topik_id": "5.1b",
+    "kode_topik_lms": "X-T2",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Sejarah",
+    "kode_cp": "5.1",
+    "judul": "Ketika Semangat Itu Menyeberangi Zaman",
+    "subjudul": "Pelaku Sejarah Buddhis Masa Kini: Indonesia dan Dunia",
+    "breadcrumb": "Kelas X · Topik 2 · Sejarah",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Vinaya Mahāvagga I (rujukan semangat dhammadūta dari Topik 1)"
+    ],
+    "referensi_historis": [
+      "Riwayat Bhikkhu Ashin Jinarakkhita — Majelis Buddhayana Indonesia, Historia.id, Kumparan",
+      "Riwayat S.N. Goenka — Vipassana Research Institute (vridhamma.org), dhamma.org"
+    ],
+    "catatan_editorial": "Bagian ini bersifat historis-kontemporer, bukan kanonis. Kebenaran materi dirujuk ke sumber sejarah terverifikasi di atas, bukan Tipiṭaka.",
+    "tujuan_pembelajaran": "Peserta didik merefleksikan perjuangan pelaku sejarah agama Buddha masa kini sebagai pewaris semangat dhammadūta untuk diteladani dalam kehidupan."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Semangat Menyeberang",
+      "section_num": "Bagian 1",
+      "judul": "Semangat yang Menyeberangi Zaman",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Di Topik 1, kamu sudah bertemu 60 murid pertama yang diutus Buddha untuk menyebar ke berbagai penjuru — *‘demi kebahagiaan banyak orang, demi kesejahteraan banyak orang.’* Perjalanan itu tidak berhenti di sana. Selama lebih dari 2.600 tahun, semangat yang sama terus berpindah tangan, dari satu generasi ke generasi berikutnya."
+        },
+        {
+          "type": "paragraf",
+          "text": "Kadang perjalanan itu mulus. Kadang, di suatu tempat, Dhamma nyaris hilang sepenuhnya — tergerus zaman, terdesak keadaan, atau terlupakan generasi baru. Tapi selalu saja, di titik paling gelap, muncul seseorang yang menghidupkannya kembali."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Dua tokoh yang akan kamu kenal di topik ini melakukan persis itu — satu di **Indonesia**, satu di **dunia** — dengan cara yang sangat berbeda, tapi berakar pada semangat yang sama persis dengan 60 murid pertama di Isipatana."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Sebelum mengenal kedua tokoh ini, coba pikirkan: siapa satu orang di sekitarmu — guru, orang tua, atau tokoh masyarakat — yang menurutmu pernah ‘menghidupkan kembali’ sesuatu yang hampir hilang, entah itu tradisi, kebiasaan baik, atau semangat tertentu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Indonesia",
+      "section_num": "Bagian 2",
+      "judul": "Ashin Jinarakkhita — Kebangkitan Buddhis Indonesia",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Setelah keruntuhan Kerajaan Majapahit, agama Buddha nyaris tak terdengar lagi di Nusantara selama sekitar 500 tahun — tersisih ke sudut-sudut kecil masyarakat. Kebangkitannya di era modern dimulai dari seorang anak muda kelahiran Bogor."
+        },
+        {
+          "type": "tokoh_card",
+          "avatar": "🕯",
+          "nama": "Bhikkhu Ashin Jinarakkhita (1923–2002)",
+          "detail": "Lahir dengan nama The Boan An di Bogor. Ditahbiskan sebagai Bhikkhu Theravada di Myanmar (1954) oleh Mahasi Sayadaw, menerima nama ‘Jinarakkhita’ dan gelar ‘Ashin’."
+        },
+        {
+          "type": "paragraf",
+          "text": "Pada 22 Mei 1953, sebelum keberangkatannya memperdalam Dhamma di Myanmar, ia menggagas perayaan **Waisak nasional pertama** di Candi Borobudur — dihadiri ribuan orang. Bagi masyarakat yang nyaris melupakan agama Buddha, momen itu adalah pengingat: *kami masih ada.*"
+        },
+        {
+          "type": "fakta",
+          "label": "Prinsip Hidupnya",
+          "text": "*‘Galilah yang lama, sesuaikan dengan zaman dan lingkungan.’* — pesan yang terus diulanginya dalam tur Dharma ke berbagai daerah. Maksudnya bukan mengubah isi ajaran, melainkan menemukan kembali bentuk-bentuk lama dan membingkainya agar relevan bagi orang Indonesia masa kini."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Warisan Institusional",
+          "text": "Ia mendirikan **Persaudaraan Upasaka-Upasika Indonesia** (1955, kini Majelis Buddhayana Indonesia) dan **Sangha Agung Indonesia** (1960) — wadah yang menaungi tiga tradisi besar (Theravāda, Mahāyāna, Tantrayana) sekaligus, di saat umat Buddha Indonesia masih tersebar kecil-kecil dan terpisah-pisah."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Prinsip ‘galilah yang lama, sesuaikan dengan zaman’ mirip dengan cara Buddha menyesuaikan cara mengajar sesuai pendengarnya (Topik 1, Bagian 4). Menurutmu, di titik mana penyesuaian semacam ini bisa berisiko berlebihan, sampai mengubah isi ajaran itu sendiri?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Dunia",
+      "section_num": "Bagian 3",
+      "judul": "S.N. Goenka — Kembalinya Vipassanā ke Tanah Kelahirannya",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "India adalah tanah kelahiran Buddha — tapi berabad-abad sebelum masa kini, praktik meditasi Vipassanā hampir sepenuhnya menghilang dari sana, sementara tetap terjaga di Myanmar. Tokoh yang membawanya pulang justru bukan seorang biksu, melainkan seorang pengusaha."
+        },
+        {
+          "type": "tokoh_card",
+          "avatar": "🧘",
+          "nama": "S.N. Goenka (1924–2013)",
+          "detail": "Lahir di Mandalay, Myanmar, dari keluarga India. Pengusaha sukses yang belajar Vipassanā dari gurunya, Sayagyi U Ba Khin, untuk mengatasi migrain kronis yang dideritanya."
+        },
+        {
+          "type": "paragraf",
+          "text": "Gurunya, U Ba Khin, meyakini sebuah harapan lama: 2.500 tahun setelah masa Buddha, ajaran Vipassanā akan kembali dari Myanmar ke tanah asalnya, India, lalu menyebar ke seluruh dunia. Karena keturunan India, Goenka mendapat izin bepergian yang tak dimiliki warga Myanmar asli — dan pada 1969, ia pindah ke India serta membuka kursus 10 harinya yang pertama."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Tanpa Sekat",
+          "text": "Ajaran Goenka sengaja dibingkai **non-sektarian**: bukan sebagai ‘agama baru’, tapi teknik universal yang terbuka bagi siapa pun — lintas agama, bahkan tanpa agama. Kursus tidak dipungut biaya, hanya dana sukarela. Prinsip ini menggemakan *ehipassiko* dari Topik 1: **buktikan sendiri, jangan sekadar percaya.**"
+        },
+        {
+          "type": "fakta",
+          "label": "Skala Warisannya",
+          "text": "Selama hampir 45 tahun mengajar, Goenka dan para guru yang ditunjuknya melatih ratusan ribu orang. Kini, pusat meditasi warisannya berdiri di Asia, Eropa, Amerika, Afrika, hingga Australia."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Baik Jinarakkhita maupun Goenka membawa Dhamma kembali ke tempat yang (hampir) melupakannya, setelah sama-sama menempuh perjalanan jauh untuk mempelajarinya. Menurutmu, mengapa kadang dibutuhkan seseorang yang pernah pergi jauh untuk bisa menghidupkan kembali sesuatu yang sebenarnya sudah menjadi milik sendiri?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Pewaris Semangat",
+      "section_num": "Bagian 4",
+      "judul": "Aku sebagai Pewaris Semangat Dhammadūta",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Perhatikan: keduanya tidak memulai dari titik yang ‘istimewa’. Satu adalah remaja yang tertarik pada spiritualitas; satu lagi pengusaha yang sekadar ingin sembuh dari migrain. Semangat dhammadūta ternyata tidak menuntut titik awal yang luar biasa — hanya kesediaan untuk terus melangkah."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Dimulai dari hal kecil** — rasa ingin tahu, atau bahkan keluhan pribadi seperti migrain",
+            "**Adaptif terhadap konteks** — bentuk boleh berubah, inti Dhamma tetap terjaga",
+            "**Tanpa paksaan** — mengundang orang membuktikan sendiri, bukan mewajibkan siapa pun",
+            "**Melintasi sekat** — menjangkau lintas etnis, aliran, bahkan lintas agama"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya, kamu akan mempraktikkan sendiri langkah-langkah awal meditasi pernapasan (Ānāpānasati) — akar praktik yang sama yang dihidupkan kembali Goenka dalam bentuk Vipassanā."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Semangat dhammadūta bukan cuma milik biksu atau tokoh besar dalam sejarah. Kalau kamu punya sesuatu yang bermanfaat — ilmu, keterampilan, atau kebiasaan baik — dan bisa dibagikan tanpa memaksa, kepada siapa hal itu paling ingin kamu bagikan sekarang?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 2",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 2"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "topik_id": "6.1b",
+    "kode_topik_lms": "XI-T2",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Sejarah",
+    "kode_cp": "6.1",
+    "judul": "Satu Sungai, Banyak Cabang",
+    "subjudul": "Akar Keragaman Aliran Buddhis, dengan Kanon Pāli sebagai Titik Rujuk",
+    "breadcrumb": "Kelas XI · Topik 2 · Sejarah",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Vinaya Cullavagga VII (Saṅghabhedakkhandhaka — kisah Devadatta)",
+      "Catatan Konsili Buddhis Kedua (tradisi Vinaya berbagai aliran)"
+    ],
+    "catatan_editorial": "Bagian perbandingan Theravāda/Mahāyāna/Vajrayāna disusun deskriptif-komparatif untuk tujuan pengenalan, bukan penilaian benar-salah antaraliran. Kanon Pāli tetap menjadi rujukan utama pembelajaran PAB sesuai kebijakan kurikulum.",
+    "tujuan_pembelajaran": "Peserta didik membandingkan ekspresi budaya Buddhis lintas aliran/tradisi dengan Kanon Pāli sebagai titik rujuk utama."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Retak Pertama",
+      "section_num": "Bagian 1",
+      "judul": "Retak Pertama — Bahkan Semasa Buddha Hidup",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Mungkin kamu membayangkan Sangha di masa Buddha selalu rukun sempurna. Kenyataannya, bahkan semasa Buddha masih hidup, pernah muncul perbedaan pandangan serius tentang seberapa ketat aturan hidup para bhikkhu seharusnya dijalankan."
+        },
+        {
+          "type": "tokoh_card",
+          "avatar": "⚡",
+          "nama": "Devadatta",
+          "detail": "Sepupu Buddha sekaligus bhikkhu senior. Menurut Vinaya Cullavagga VII, ia mengusulkan lima aturan tambahan yang lebih keras untuk diwajibkan bagi seluruh Sangha."
+        },
+        {
+          "type": "paragraf",
+          "text": "Devadatta mengusulkan lima aturan ketat: hidup hanya di hutan, hanya makan dari hasil mengemis (menolak undangan makan), hanya mengenakan jubah dari kain buangan, hanya tinggal di bawah pohon, dan tidak pernah makan daging atau ikan. Buddha **mengizinkan** kelima praktik ini — tapi sebagai pilihan sukarela, bukan kewajiban bagi semua."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Devadatta memakai penolakan Buddha untuk mewajibkan aturan ini sebagai alasan menuduh Buddha 'kurang tegas', lalu mengajak sekitar 500 bhikkhu memisahkan diri. Perpecahan ini akhirnya pulih setelah Y.A. Sāriputta dan Moggallāna membujuk para bhikkhu itu kembali."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Perhatikan pilihan Buddha: bukan melarang kelima praktik keras itu, juga bukan mewajibkannya — melainkan **mengizinkannya sebagai opsi**. Prinsip fleksibel inilah, bukan keseragaman paksa, yang justru menjaga Sangha tetap solid dalam jangka panjang."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Devadatta ingin menyeragamkan semua bhikkhu dengan aturan yang sama ketatnya. Menurutmu, apa risiko dari memaksakan satu standar 'paling benar' untuk semua orang, dibanding memberi ruang pilihan yang tetap berpegang pada prinsip yang sama?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Konsili Kedua",
+      "section_num": "Bagian 2",
+      "judul": "Seratus Tahun Kemudian: Konsili Vesāli",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Perpecahan Devadatta terselesaikan semasa Buddha masih hidup. Tapi sekitar **seratus tahun setelah Buddha Parinibbāna**, muncul perbedaan pandangan baru yang efeknya jauh lebih panjang — dan inilah yang menjadi akar sesungguhnya dari keragaman aliran yang kita kenal sekarang."
+        },
+        {
+          "type": "paragraf",
+          "text": "Di kota Vesāli, sekelompok bhikkhu dituduh melanggar sepuluh poin disiplin Vinaya — misalnya menyimpan garam dalam tanduk, makan setelah tengah hari, atau menerima emas dan perak. Untuk menyelesaikannya, diadakan **Konsili Buddhis Kedua**, dihadiri ratusan sesepuh Sangha."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Menurut sebagian besar catatan tradisional, hasil konsili ini menegaskan kesepuluh poin itu memang tidak diperbolehkan. Sebagian bhikkhu menerima keputusan ini; sebagian lain tidak sepakat. Dari sinilah Sangha untuk pertama kalinya terbelah menjadi dua kelompok besar: **Sthaviravāda** ('aliran para sesepuh') dan **Mahāsāṃghika** ('aliran mayoritas')."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Sthaviravāda kelak berkembang menjadi cikal bakal **Theravāda** yang kita pelajari sepanjang kurikulum ini. Mahāsāṃghika, di sisi lain, ikut memengaruhi lahirnya arus pemikiran yang beberapa abad kemudian berkembang menjadi **Mahāyāna**."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Perpecahan ini bermula dari perbedaan pandangan soal aturan kecil, bukan soal inti ajaran. Menurutmu, mengapa hal-hal yang tampak kecil (seperti aturan disiplin) kadang bisa berujung pada perpecahan besar dalam sebuah komunitas?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Peta 3 Tradisi",
+      "section_num": "Bagian 3",
+      "judul": "Peta Tradisi Buddhis Dunia",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dari titik percabangan itu, dan melalui berabad-abad perkembangan geografis serta budaya berikutnya, tiga tradisi besar Buddhis yang kita kenal hari ini terbentuk."
+        },
+        {
+          "type": "fakta",
+          "label": "Theravāda",
+          "text": "Berkembang dari Sthaviravāda, menjadikan Kanon Pāli (Tipiṭaka) sebagai kitab suci utama. Menekankan jalan Arahat — pembebasan melalui usaha individu mengikuti jejak Buddha. Tersebar luas di Sri Lanka, Thailand, Myanmar, Kamboja, Laos, dan sebagian Indonesia."
+        },
+        {
+          "type": "fakta",
+          "label": "Mahāyāna",
+          "text": "Berkembang mulai sekitar abad ke-1 SM, memakai kitab-kitab tambahan berbahasa Sanskerta. Menekankan jalan Bodhisattva — menunda pembebasan pribadi demi menolong semua makhluk. Tersebar luas di Tiongkok, Jepang, Korea, Vietnam, dan sebagian besar Buddhis Tionghoa-Indonesia."
+        },
+        {
+          "type": "fakta",
+          "label": "Vajrayāna (Tantrayana)",
+          "text": "Berkembang belakangan, sekitar abad ke-6–7 M, sebagai pengembangan esoteris di atas fondasi Mahāyāna — memakai mantra, mudrā, dan transmisi guru-murid sebagai jalan cepat menuju pencerahan. Tersebar luas di Tibet, Bhutan, Mongolia, dan sebagian komunitas di Indonesia."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Mengapa Kanon Pāli Tetap Jadi Rujukan Utama",
+          "text": "Ketiga tradisi ini sama-sama mengakui riwayat hidup dan ajaran dasar Buddha yang sama. Kurikulum PAB memakai Kanon Pāli sebagai rujukan utama karena inilah kumpulan naskah tertua yang bertahan utuh dalam bahasa aslinya — bukan untuk menilai tradisi lain lebih rendah, melainkan sebagai titik pijak yang paling dekat dengan sumber."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Ketiga tradisi ini berkembang di budaya yang sangat berbeda: Asia Tenggara, Asia Timur, dan dataran tinggi Tibet. Menurutmu, faktor budaya lokal seperti apa yang mungkin memengaruhi bagaimana ajaran yang sama bisa berkembang menjadi ekspresi yang berbeda-beda?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Terbuka & Berjati Diri",
+      "section_num": "Bagian 4",
+      "judul": "Menghargai Keragaman tanpa Kehilangan Jati Diri",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Mengetahui keragaman ini bukan untuk memperdebatkan aliran mana yang 'paling benar'. Sama seperti Buddha yang mengizinkan (bukan mewajibkan atau melarang) praktik keras yang diusulkan Devadatta, keragaman aliran bisa dipahami sebagai bentuk-bentuk berbeda dari akar yang sama."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Akar yang sama** — riwayat Buddha Gotama, Empat Kebenaran Mulia, Jalan Mulia Berunsur Delapan diakui ketiga tradisi",
+            "**Ekspresi berbeda** — bahasa kitab suci, penekanan praktik, dan bentuk ritual berkembang mengikuti konteks budaya masing-masing",
+            "**Kanon Pāli sebagai jangkar** — bukan untuk menutup diri dari tradisi lain, melainkan sebagai pegangan yang jelas saat mempelajari keragaman"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu mempraktikkan langsung salah satu keterampilan penting untuk menjembatani keragaman ini: berkomunikasi lintas budaya dan tradisi secara bijaksana."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah mempelajari akar keragaman ini, apakah pandanganmu tentang perbedaan aliran dalam agama Buddha berubah? Bagaimana kamu akan menjelaskan keragaman ini kepada seseorang yang belum pernah mendengarnya sama sekali?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 2",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 2"
+  }
+}

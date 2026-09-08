@@ -1,0 +1,287 @@
+{
+  "topik_id": "5.2b",
+  "kode_topik_lms": "X-T4",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik skenario meditasi; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.2b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa jumlah nīvaraṇa (rintangan batin) yang disebutkan dalam kanon Pali?",
+      "opsi": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "7"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah yang salah",
+        "b": "Jumlah yang salah",
+        "d": "Sering tertukar dengan jumlah faktor pencerahan (bojjhaṅga) yang berjumlah 7"
+      }
+    },
+    {
+      "id": "5.2b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Sutta manakah yang memuat lima metode mengatasi pikiran mengganggu, dengan perumpamaan tukang kayu dan pasak?",
+      "opsi": {
+        "a": "Vitakkasaṇṭhāna Sutta",
+        "b": "Ānāpānasati Sutta",
+        "c": "Satipaṭṭhāna Sutta",
+        "d": "Dhammacakkappavattana Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Sutta tentang meditasi napas, dibahas di Topik 3 — bukan tentang mengatasi pikiran mengganggu",
+        "c": "Sutta tentang empat landasan perhatian, bukan lima metode ini secara spesifik",
+        "d": "Sutta khotbah pertama, tidak berkaitan dengan topik ini"
+      }
+    },
+    {
+      "id": "5.2b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Saat bermeditasi, seorang siswa terus memikirkan gawai barunya yang sangat ingin ia mainkan.",
+      "pertanyaan": "Rintangan batin apa yang sedang dialami siswa tersebut?",
+      "opsi": {
+        "a": "Byāpāda (niat buruk)",
+        "b": "Kāmacchanda (nafsu indria)",
+        "c": "Thīna-middha (kelesuan & kantuk)",
+        "d": "Vicikicchā (keragu-raguan)"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Ini soal kebencian/niat buruk, bukan keinginan terhadap sesuatu yang disukai",
+        "c": "Ini soal rasa kantuk/lesu, bukan pikiran yang aktif menginginkan sesuatu",
+        "d": "Ini soal keraguan, bukan keinginan terhadap objek yang disukai"
+      }
+    },
+    {
+      "id": "5.2b-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa mengantuk berat dan sulit membuka mata setiap kali mencoba duduk hening, meski sudah cukup tidur malam sebelumnya.",
+      "pertanyaan": "Rintangan batin apa yang paling sesuai dengan situasi ini?",
+      "opsi": {
+        "a": "Uddhacca-kukkucca (gelisah & cemas)",
+        "b": "Thīna-middha (kelesuan & kantuk)",
+        "c": "Kāmacchanda (nafsu indria)",
+        "d": "Byāpāda (niat buruk)"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Ini soal kegelisahan/pikiran melompat-lompat, bukan kantuk",
+        "c": "Ini soal keinginan terhadap objek yang disukai, tidak sesuai skenario",
+        "d": "Ini soal kebencian, tidak sesuai skenario"
+      }
+    },
+    {
+      "id": "5.2b-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa terus-menerus bertanya dalam hati, ‘Apakah meditasi ini benar-benar ada gunanya? Jangan-jangan aku hanya buang-buang waktu.’",
+      "pertanyaan": "Rintangan batin apa yang sedang muncul dalam pikiran siswa ini?",
+      "opsi": {
+        "a": "Vicikicchā (keragu-raguan)",
+        "b": "Thīna-middha (kelesuan & kantuk)",
+        "c": "Kāmacchanda (nafsu indria)",
+        "d": "Uddhacca-kukkucca (gelisah & cemas)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Ini soal keraguan terhadap manfaat praktik, bukan rasa kantuk",
+        "c": "Tidak sesuai — ini bukan soal keinginan terhadap objek yang disukai",
+        "d": "Kegelisahan berbeda dari keraguan — di sini fokusnya pada pertanyaan 'apakah berguna', bukan pikiran yang melompat-lompat"
+      }
+    },
+    {
+      "id": "5.2b-q06",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa terganggu memikirkan pertengkarannya dengan teman tadi pagi. Ia lalu sengaja mengalihkan perhatiannya ke napas dan membayangkan hal yang menenangkan.",
+      "pertanyaan": "Metode Vitakkasaṇṭhāna Sutta manakah yang sedang diterapkan siswa ini?",
+      "opsi": {
+        "a": "Metode 1 — mengganti objek pikiran",
+        "b": "Metode 3 — mengabaikan pikiran itu",
+        "c": "Metode 4 — menyelidiki akar penyebabnya",
+        "d": "Metode 5 — menekan dengan kehendak"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan berarti tidak memberi perhatian sama sekali, bukan mengalihkan ke objek pengganti",
+        "c": "Menyelidiki akar berarti menelusuri sebab pikiran itu, bukan mengalihkannya",
+        "d": "Menekan dengan kehendak melibatkan usaha keras menahan, tidak sesuai skenario yang tenang"
+      }
+    },
+    {
+      "id": "5.2b-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa metode kelima (menekan dengan kehendak) diletakkan sebagai metode TERAKHIR dalam Vitakkasaṇṭhāna Sutta, bukan yang pertama?",
+      "opsi": {
+        "a": "Karena metode ini dianggap tidak efektif sama sekali dan sebaiknya tidak pernah dipakai",
+        "b": "Karena metode-metode lain lebih halus dan wajar dicoba lebih dulu; menekan paksa adalah upaya terakhir saat cara lain belum cukup",
+        "c": "Karena urutan dalam sutta tidak memiliki makna khusus, hanya kebetulan urutan penulisan",
+        "d": "Karena metode ini hanya boleh dipakai oleh bhikkhu senior, tidak oleh pemula"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — sutta tetap mengajarkannya sebagai metode sah, hanya bukan pilihan pertama",
+        "c": "Bertentangan dengan penjelasan bahwa urutan ini disusun bertahap dari halus ke kuat",
+        "d": "Tidak ada pembatasan seperti ini disebutkan dalam materi"
+      }
+    },
+    {
+      "id": "5.2b-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Setelah gagal fokus tiga kali berturut-turut, seorang siswa menulis di jurnal refleksinya, ‘Aku berhasil tenang sepenuhnya dan tidak ada gangguan sama sekali,’ padahal kenyataannya ia terus terganggu pikiran tentang media sosial.",
+      "pertanyaan": "Apa yang keliru dari sikap refleksi siswa tersebut, berdasarkan poin kunci materi ini?",
+      "opsi": {
+        "a": "Tidak ada yang keliru, karena refleksi memang sebaiknya ditulis sepositif mungkin",
+        "b": "Refleksi tersebut tidak jujur — mengenali rintangan dan kesulitan yang sesungguhnya justru lebih berharga daripada terkesan sempurna",
+        "c": "Siswa seharusnya menulis refleksi dalam bahasa Pali agar lebih sah",
+        "d": "Siswa seharusnya tidak usah menulis refleksi sama sekali jika mengalami gangguan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan poin kunci tentang nilai kejujuran dalam refleksi",
+        "c": "Tidak relevan dan tidak disebutkan dalam materi mana pun",
+        "d": "Bertentangan dengan keseluruhan semangat refleksi jujur yang justru dianjurkan"
+      }
+    },
+    {
+      "id": "5.2b-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa perumpamaan air dalam Saṅgārava Sutta (bercampur warna, mendidih, berlumut, beriak, keruh) efektif untuk menjelaskan kelima rintangan batin?",
+      "opsi": {
+        "a": "Karena air adalah unsur yang paling sering disebut dalam ajaran Buddha secara umum",
+        "b": "Karena setiap kondisi air itu membuat pantulan wajah tidak bisa terlihat jernih — sama seperti rintangan batin yang mengaburkan kejernihan pikiran",
+        "c": "Karena perumpamaan ini menunjukkan bahwa rintangan batin sebenarnya tidak nyata, hanya ilusi seperti riak air",
+        "d": "Karena air adalah simbol kesucian yang menghapus rintangan batin secara otomatis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Alasan yang tidak relevan dengan fungsi perumpamaan spesifik ini",
+        "c": "Menyalahartikan perumpamaan — rintangan batin digambarkan nyata dan berat, bukan sekadar ilusi",
+        "d": "Air dalam perumpamaan ini menggambarkan kondisi TERGANGGU, bukan berfungsi menyucikan"
+      }
+    },
+    {
+      "id": "5.2b-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa penasaran mengapa ia selalu memikirkan hal yang sama setiap kali duduk bermeditasi, lalu ia mencoba menelusuri: ‘Kira-kira, kenapa pikiran ini terus muncul? Apa pemicunya?’",
+      "pertanyaan": "Pendekatan yang dilakukan siswa ini adalah penerapan metode Vitakkasaṇṭhāna yang mana?",
+      "opsi": {
+        "a": "Metode 1 — mengganti objek pikiran",
+        "b": "Metode 2 — merenungkan bahayanya",
+        "c": "Metode 4 — menyelidiki akar penyebabnya",
+        "d": "Metode 5 — menekan dengan kehendak"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Mengganti objek berarti mengalihkan perhatian, bukan menelusuri sebabnya",
+        "b": "Merenungkan bahaya berarti melihat akibat buruknya, bukan mencari akar penyebab munculnya",
+        "d": "Menekan dengan kehendak adalah usaha menahan paksa, bukan menyelidiki"
+      }
+    },
+    {
+      "id": "5.2b-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara topik ini (rintangan batin) dengan Topik 3 (Ānāpānasati) yang dipelajari sebelumnya?",
+      "opsi": {
+        "a": "Topik ini menggantikan Topik 3 sepenuhnya karena Ānāpānasati dianggap tidak efektif",
+        "b": "Topik ini melengkapi Topik 3 — rintangan batin adalah hal wajar yang muncul saat mempraktikkan Ānāpānasati, dan sutta ini memberi cara meresponsnya",
+        "c": "Kedua topik ini membahas hal yang sama sekali berbeda dan tidak berkaitan",
+        "d": "Topik ini hanya relevan bagi orang yang gagal total dalam praktik Ānāpānasati"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — kedua topik saling melengkapi, bukan saling menggantikan",
+        "c": "Bertentangan dengan keterkaitan eksplisit yang dijelaskan di Bagian 3 (melanjutkan praktik Topik 3)",
+        "d": "Terlalu sempit — rintangan batin dialami SEMUA praktisi, bukan hanya yang 'gagal total'"
+      }
+    },
+    {
+      "id": "5.2b-q12",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mencoba metode 1 dan metode 3 berkali-kali, tapi pikiran mengganggunya tetap terus muncul dengan kuat.",
+      "pertanyaan": "Berdasarkan struktur Vitakkasaṇṭhāna Sutta, langkah paling logis apa yang bisa dicoba siswa ini selanjutnya?",
+      "opsi": {
+        "a": "Berhenti bermeditasi selamanya karena dianggap tidak cocok",
+        "b": "Mengulang metode 1 dan 3 tanpa henti, karena hanya ada dua metode yang diajarkan",
+        "c": "Mencoba metode 2 (merenungkan bahaya) atau metode 4 (menyelidiki akar), sebelum mempertimbangkan metode 5",
+        "d": "Langsung melompat ke metode 5 tanpa mencoba metode 2 dan 4 terlebih dahulu"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Kesimpulan berlebihan yang tidak sesuai semangat materi",
+        "b": "Tidak akurat — ada lima metode, bukan hanya dua",
+        "d": "Melompati urutan bertahap yang justru menjadi poin kunci Bagian 2"
+      }
+    },
+    {
+      "id": "5.2b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa makna gambaran 'bebas dari utang, sembuh dari sakit, merdeka dari penjara' dalam Sāmaññaphala Sutta, dikaitkan dengan lima rintangan batin?",
+      "opsi": {
+        "a": "Gambaran itu menunjukkan bahwa lima rintangan batin sebenarnya tidak berbahaya",
+        "b": "Gambaran itu menegaskan bahwa kehadiran rintangan batin terasa nyata membebani, dan mengatasinya memberi kelegaan yang juga nyata",
+        "c": "Gambaran itu hanya berlaku bagi orang yang benar-benar memiliki utang secara finansial",
+        "d": "Gambaran itu menunjukkan bahwa rintangan batin adalah hukuman atas kesalahan masa lalu"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung — perumpamaan ini justru menegaskan betapa membebaninya rintangan tersebut",
+        "c": "Salah memahami perumpamaan sebagai makna harfiah finansial",
+        "d": "Tidak sesuai konteks — sutta ini tidak membingkainya sebagai hukuman"
+      }
+    },
+    {
+      "id": "5.2b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Seorang siswa berpendapat, ‘Kalau aku sering terganggu pikiran saat meditasi, berarti aku memang tidak berbakat dan sebaiknya berhenti saja.’ Bagaimana pandangan ini seharusnya dikoreksi berdasarkan keseluruhan topik ini?",
+      "opsi": {
+        "a": "Pandangan itu benar — orang yang mudah terganggu memang sebaiknya berhenti berlatih",
+        "b": "Pandangan itu keliru — rintangan batin adalah pengalaman universal yang bahkan dinamai khusus dalam kanon, bukan tanda kurang berbakat",
+        "c": "Pandangan itu hanya benar bagi siswa perempuan, bukan siswa laki-laki",
+        "d": "Pandangan itu benar, tapi hanya berlaku untuk rintangan kelesuan-kantuk"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keseluruhan semangat materi yang menormalkan rintangan sebagai hal universal",
+        "c": "Tidak relevan dan tidak berdasar — tidak ada pembedaan gender dalam materi ini",
+        "d": "Kelima rintangan sama-sama dianggap wajar, bukan hanya satu jenis tertentu"
+      }
+    },
+    {
+      "id": "5.2b-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa tujuan utama topik ini mempersiapkan siswa untuk Topik 5 (merancang rutinitas meditasi personal)?",
+      "opsi": {
+        "a": "Agar siswa bisa menghindari lima rintangan batin sepenuhnya sebelum mulai membuat rutinitas",
+        "b": "Agar siswa memiliki bekal pengenalan rintangan dan cara meresponsnya, sehingga rutinitas yang dirancang lebih realistis dan berkelanjutan",
+        "c": "Agar siswa merasa cukup percaya diri untuk berhenti berlatih setelah topik ini",
+        "d": "Agar siswa hanya berlatih menggunakan metode kelima (menekan dengan kehendak) di rutinitas berikutnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Tidak realistis — rintangan batin tidak bisa dihindari sepenuhnya, hanya direspons dengan tepat",
+        "c": "Bertentangan dengan tujuan topik berikutnya yang justru membangun keberlanjutan praktik",
+        "d": "Bertentangan dengan penekanan bahwa metode 5 adalah pilihan TERAKHIR, bukan yang diutamakan"
+      }
+    }
+  ]
+}

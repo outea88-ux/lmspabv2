@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "topik_id": "6.1c",
+    "kode_topik_lms": "XI-T3",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Sejarah",
+    "kode_cp": "6.1",
+    "judul": "Enam Arah yang Dibungkuk Sigala",
+    "subjudul": "Komunikasi Lintas Budaya & Tradisi secara Bijaksana",
+    "breadcrumb": "Kelas XI · Topik 3 · Sejarah",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Sigālovāda Sutta (DN 31)",
+      "Kālāma Sutta (AN 3.65) — rujukan silang Kelas X"
+    ],
+    "tujuan_pembelajaran": "Peserta didik merefleksikan pola komunikasi lintas budaya dan lintas tradisi berdasarkan sikap bijaksana (Kālāma Sutta) dan Sigālovāda Sutta dengan bersikap terbuka."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Pemuda Basah Kuyup",
+      "section_num": "Bagian 1",
+      "judul": "Pemuda yang Membungkuk tanpa Tahu Alasannya",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Suatu pagi di Rājagaha, Buddha berjalan dan menemukan seorang pemuda bernama **Sigāla**, basah kuyup, sedang membungkuk hormat ke enam penjuru mata angin — timur, selatan, barat, utara, bawah, dan atas."
+        },
+        {
+          "type": "paragraf",
+          "text": "Ketika ditanya alasannya, Sigāla menjawab jujur: ayahnya yang telah wafat berpesan untuk melakukan ritual ini setiap pagi, dan ia menjalankannya dengan setia — **tanpa benar-benar memahami maknanya**."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Buddha tidak menyuruhnya berhenti. Ia justru melakukan sesuatu yang lebih menarik: **memberi makna baru** pada ritual yang sudah dijalankan Sigāla. Enam arah mata angin itu diubah menjadi enam kelompok relasi penting dalam hidup seorang manusia."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Sikap Buddha bukan menghapus ritual Sigāla, melainkan memberinya makna. Pernahkah kamu menjalankan sebuah kebiasaan tanpa benar-benar tahu alasannya? Bagaimana perasaanmu kalau tiba-tiba memahami maknanya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "6 Arah, 6 Relasi",
+      "section_num": "Bagian 2",
+      "judul": "Enam Arah, Enam Relasi Timbal Balik",
+      "blocks": [
+        {
+          "type": "fakta",
+          "label": "Peta Enam Arah",
+          "text": "**Timur** — orang tua. **Selatan** — guru. **Barat** — pasangan & anak. **Utara** — sahabat & rekan. **Bawah (Nadir)** — pekerja & bawahan. **Atas (Zenith)** — rohaniwan/petapa."
+        },
+        {
+          "type": "paragraf",
+          "text": "Yang membuat ajaran ini istimewa: setiap arah dijelaskan dengan pola **timbal balik**, bukan kewajiban sepihak. Misalnya, seorang anak melayani orang tua dalam lima cara (merawat, menjaga nama baik keluarga, dst) — dan orang tua pun membalas dalam lima cara (mencegah dari keburukan, mendorong kebaikan, dst)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Tidak ada relasi yang bersifat 'atasan selalu benar, bawahan selalu patuh'. Bahkan relasi majikan-pekerja diatur timbal balik: majikan memberi upah adil dan waktu istirahat; pekerja bekerja sungguh-sungguh dan menjaga nama baik majikan. Keseimbangan inilah inti Sigālovāda Sutta."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Karena cakupannya yang lengkap mengatur hubungan sosial sehari-hari, komentator Buddhaghosa menjuluki sutta ini **gihivinaya** — 'kitab disiplin bagi umat awam', sejajar pentingnya dengan Vinaya bagi para bhikkhu."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari keenam arah relasi ini, mana yang menurutmu paling sering diabaikan orang-orang seusiamu — dan kenapa menurutmu begitu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Menjembatani Beda",
+      "section_num": "Bagian 3",
+      "judul": "Menjembatani Perbedaan: Prinsip Komunikasi Lintas Budaya",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Arah **Utara** (sahabat & rekan) dalam Sigālovāda Sutta relevan langsung untuk topik yang kamu pelajari di Kelas XI ini: bagaimana berelasi dengan orang yang berbeda budaya, aliran, atau cara pandang darimu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Menggabungkan Dua Prinsip",
+          "text": "Gabungkan pelajaran Sigālovāda Sutta (relasi harus timbal balik, saling menghormati) dengan Kālāma Sutta dari Kelas X (uji dengan nalar, jangan menelan mentah-mentah). Hasilnya: berkomunikasi lintas budaya bukan berarti sekadar mengalah atau sekadar bertahan pada pendapat sendiri — melainkan saling menguji dan saling menghormati sekaligus."
+        },
+        {
+          "type": "paragraf",
+          "text": "Prinsip praktis saat berdialog dengan orang berbeda tradisi atau keyakinan: dengarkan dulu secara utuh sebelum menanggapi, cari titik temu sebelum membahas titik beda, dan sampaikan pandanganmu tanpa merendahkan pandangan orang lain."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bayangkan kamu berdiskusi dengan teman yang berbeda aliran atau keyakinan tentang topik yang cukup sensitif. Dari tiga prinsip praktis di atas, mana yang menurutmu paling sulit kamu terapkan secara konsisten?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Komunikatorku",
+      "section_num": "Bagian 4",
+      "judul": "Refleksi: Komunikatorku yang Bijaksana dan Terbuka",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Menjadi komunikator yang baik lintas budaya bukan bakat bawaan — ini keterampilan yang dilatih, persis seperti Sigāla yang awalnya sekadar menjalankan ritual tanpa makna, lalu diberi kerangka berpikir yang membuatnya paham apa yang sebenarnya ia lakukan."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Relasi itu timbal balik** — tidak ada pihak yang haknya lebih besar sepihak",
+            "**Nalar kritis + rasa hormat** — menguji gagasan tanpa merendahkan orangnya",
+            "**Makna di balik bentuk** — seperti Buddha memberi makna baru pada ritual Sigāla, kita pun bisa memahami kebiasaan budaya lain dengan mencari maknanya, bukan sekadar menilai bentuknya"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Ini adalah topik terakhir elemen Sejarah untuk semester ini. Topik berikutnya membawamu kembali ke elemen Ritual, melangkah dari samatha (Kelas X) menuju vipassanā — meditasi pandangan terang."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah mempelajari Sigālovāda Sutta, coba rumuskan satu kalimat pegangan pribadimu tentang cara berkomunikasi lintas budaya yang ingin kamu praktikkan."
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 3",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 3"
+  }
+}

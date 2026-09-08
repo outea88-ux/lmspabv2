@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "topik_id": "5.2b",
+    "kode_topik_lms": "X-T4",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Ritual",
+    "kode_cp": "5.2",
+    "judul": "Ketika Pikiran Enggan Diam",
+    "subjudul": "Mengenal Rintangan Batin dan Cara Mengatasinya",
+    "breadcrumb": "Kelas X · Topik 4 · Ritual",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Sāmaññaphala Sutta (DN 2)",
+      "Saṅgārava Sutta (SN 46.55)",
+      "Vitakkasaṇṭhāna Sutta (MN 20)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik merefleksikan pengalaman meditasi, termasuk rintangan batin (nīvaraṇa), berdasarkan Vitakkasaṇṭhāna Sutta untuk memperdalam praktik samatha secara jujur dan berkelanjutan."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "5 Tamu Tak Diundang",
+      "section_num": "Bagian 1",
+      "judul": "Lima Tamu Tak Diundang",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kalau saat berlatih di Topik 3 kamu merasa pikiranmu terus melayang, gelisah, atau mengantuk — tenang saja, itu bukan tanda kegagalan. Buddha sendiri secara eksplisit menamai lima gangguan ini dalam kanon, sebagai hal yang wajar dialami siapa pun yang berlatih meditasi: **pañca nīvaraṇa**, lima rintangan batin."
+        },
+        {
+          "type": "fakta",
+          "label": "Lima Rintangan & Perumpamaan Air (Saṅgārava Sutta)",
+          "text": "**Kāmacchanda** (nafsu indria) — seperti air bercampur warna, memantulkan wajah secara terdistorsi. **Byāpāda** (niat buruk) — seperti air mendidih. **Thīna-middha** (kelesuan & kantuk) — seperti air tertutup lumut. **Uddhacca-kukkucca** (gelisah & cemas) — seperti air beriak ditiup angin. **Vicikicchā** (keragu-raguan) — seperti air keruh, berlumpur, dan gelap. Kelimanya membuat air — batin kita — tak lagi bisa memantulkan apa pun dengan jernih."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Dalam Sāmaññaphala Sutta, Buddha menggambarkan pikiran yang dikuasai kelima rintangan ini serasa **berutang, sakit, terpenjara**. Sebaliknya, saat rintangan itu mereda, rasanya seperti **bebas dari utang, sembuh, dan merdeka**. Beratnya rasa itu memang nyata — bukan berarti kamu 'tidak becus' bermeditasi."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari kelima rintangan di atas, mana yang paling sering kamu rasakan saat mencoba fokus — baik saat bermeditasi, belajar, atau mengerjakan sesuatu yang penting?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "5 Cara Tukang Kayu",
+      "section_num": "Bagian 2",
+      "judul": "Vitakkasaṇṭhāna Sutta: Lima Cara Sang Tukang Kayu",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kabar baiknya, Buddha tidak hanya menamai rintangan-rintangan itu — dalam **Vitakkasaṇṭhāna Sutta** (MN 20), Ia mengajarkan lima cara mengatasi pikiran yang tidak bajik, diurutkan dari yang paling halus sampai paling tegas."
+        },
+        {
+          "type": "fakta",
+          "label": "Perumpamaan Pembuka Sutta",
+          "text": "Seperti **tukang kayu terampil** yang mencabut pasak kasar dengan mendorongkan pasak yang lebih halus, seorang praktisi mengeluarkan pikiran tak-bajik dengan mengalihkan perhatian pada objek yang bajik."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**1. Mengganti objek** — alihkan perhatian ke objek lain yang bajik (napas, kebaikan, hal netral)",
+            "**2. Merenungkan bahayanya** — sadari akibat buruk jika pikiran itu dituruti",
+            "**3. Mengabaikannya** — tidak memberi perhatian sama sekali, seperti memalingkan pandangan",
+            "**4. Menyelidiki akarnya** — telusuri kenapa pikiran itu muncul, hingga ia mengendur dengan sendirinya",
+            "**5. Menekan dengan kehendak** — upaya terakhir; menahannya secara sadar dan tegas"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Ini Bukan Daftar Bebas Pilih",
+          "text": "Kelima cara ini disusun **berurutan**, dari yang paling lembut (mengganti objek) ke yang paling kuat (menekan dengan kehendak). Metode kelima adalah pilihan terakhir, bukan langkah pertama — dipakai hanya jika keempat cara sebelumnya belum cukup."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba bayangkan satu pikiran mengganggu yang sering muncul saat kamu mencoba fokus. Dari lima metode di atas, mana yang kira-kira paling masuk akal untuk dicoba lebih dulu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Praktik Jujur",
+      "section_num": "Bagian 3",
+      "judul": "Praktik Jujur: Mencoba Salah Satu Metode",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Lanjutkan latihan Ānāpānasati dari Topik 3 seperti biasa. Kali ini, setiap kali pikiran mengganggu muncul, coba terapkan **satu** metode dari Vitakkasaṇṭhāna Sutta — untuk pemula, metode 1 (mengganti objek) atau metode 3 (mengabaikan) biasanya paling mudah dicoba lebih dulu."
+        },
+        {
+          "type": "paragraf",
+          "text": "Duduk hening 10–12 menit. Setelah selesai, luangkan waktu mencatat dalam hati: rintangan apa yang paling terasa hari ini, metode apa yang kamu coba, dan apa yang sebenarnya terjadi — berhasil, sebagian berhasil, atau belum berhasil sama sekali."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Nilai Kejujuran",
+          "text": "Refleksi ini bukan tentang membuktikan latihanmu 'berhasil sempurna'. Justru sebaliknya — mengenali dengan jujur bahwa rintangan itu masih ada, dan metode mana yang belum berhasil, adalah bagian penting dari kemajuan itu sendiri."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Metode mana yang kamu coba hari ini, dan apa yang benar-benar terjadi — tanpa perlu dibuat terdengar lebih berhasil dari kenyataannya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 4",
+      "judul": "Sintesis — Rintangan Bukan Kegagalan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Mengenali lima rintangan batin, dan memiliki lima cara untuk meresponsnya, mengubah cara kita memandang gangguan saat bermeditasi. Gangguan bukan tanda bahwa latihan gagal — gangguan adalah bagian dari peta yang sudah dipetakan sejak 2.600 tahun lalu."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Lima rintangan** — kāmacchanda, byāpāda, thīna-middha, uddhacca-kukkucca, vicikicchā — wajar dialami siapa pun",
+            "**Lima cara mengatasi** — dari mengganti objek hingga menekan dengan kehendak, disusun bertahap",
+            "**Kejujuran** dalam mengenali rintangan lebih berharga daripada berpura-pura sudah tenang sempurna"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya, kamu akan merancang rutinitas meditasi personalmu sendiri — bekal dari Topik 3 (langkah praktik) dan Topik 4 (cara menghadapi rintangan) akan langsung terpakai di sana."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah mengenal lima rintangan dan lima cara mengatasinya, apakah pandanganmu tentang 'gagal fokus saat mencoba tenang' berubah? Bagaimana?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 4",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 4"
+  }
+}

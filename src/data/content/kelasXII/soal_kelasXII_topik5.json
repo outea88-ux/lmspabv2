@@ -1,0 +1,284 @@
+{
+  "topik_id": "6.3e",
+  "kode_topik_lms": "XII-T5",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3e-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa murid yang ditegur Buddha karena menganggap Paṭiccasamuppāda 'sejernih-jernihnya' dan mudah dipahami?",
+      "opsi": {
+        "a": "Ānanda",
+        "b": "Sāriputta",
+        "c": "Moggallāna",
+        "d": "Subha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Murid utama Buddha lain, bukan tokoh dalam kisah ini",
+        "c": "Murid utama Buddha lain, bukan tokoh dalam kisah ini",
+        "d": "Penanya dalam Cūḷakammavibhaṅga Sutta, bukan tokoh dalam kisah ini"
+      }
+    },
+    {
+      "id": "6.3e-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Menurut Mahānidāna Sutta, apa yang menjadi akar/sebab langsung dari taṇhā (kehausan)?",
+      "opsi": {
+        "a": "Vedanā (perasaan)",
+        "b": "Avijjā (ketidaktahuan)",
+        "c": "Jāti (kelahiran)",
+        "d": "Bhava (proses menjadi)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ini akar dari keseluruhan rantai, bukan akar LANGSUNG dari taṇhā secara spesifik yang ditegaskan sutta ini",
+        "c": "Ini mata rantai yang jauh lebih hilir, bukan akar taṇhā",
+        "d": "Ini mata rantai yang jauh lebih hilir, bukan akar taṇhā"
+      }
+    },
+    {
+      "id": "6.3e-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Aku sudah hafal 12 mata rantai Paṭiccasamuppāda dari Kelas X, jadi aku sudah benar-benar memahami hukum ini sepenuhnya.’",
+      "pertanyaan": "Bagaimana pandangan siswa ini seharusnya dikoreksi berdasarkan Bagian 1?",
+      "opsi": {
+        "a": "Pandangan itu benar sepenuhnya, hafalan struktur sudah cukup",
+        "b": "Sama seperti Ānanda yang ditegur Buddha, menghafal struktur berbeda jauh dari benar-benar menembus kedalamannya — pemahaman sejati butuh perenungan berkelanjutan, bukan sekadar mengingat urutan",
+        "c": "Hafalan 12 mata rantai sebenarnya tidak diperlukan sama sekali",
+        "d": "Hanya bhikkhu yang bisa benar-benar memahami hukum ini, siswa tidak akan pernah bisa"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan teguran Buddha kepada Ānanda yang menjadi inti Bagian 1",
+        "c": "Bertentangan — hafalan struktur tetap penting sebagai fondasi, hanya belum cukup untuk 'menembus kedalaman'",
+        "d": "Klaim berlebihan yang tidak didukung materi; siswa didorong terus merenungkan, bukan dianggap tidak mungkin memahami"
+      }
+    },
+    {
+      "id": "6.3e-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara model 'rantai linear satu arah' dan model 'saling menopang' (viññāṇa-nāmarūpa) yang dijelaskan di Bagian 2?",
+      "opsi": {
+        "a": "Rantai linear menyiratkan sebab mendahului akibat secara searah tanpa pengaruh balik; model saling menopang menunjukkan dua faktor yang sama-sama bergantung satu sama lain, tidak bisa berdiri sendiri",
+        "b": "Kedua model ini sebenarnya sama persis tanpa perbedaan apa pun",
+        "c": "Model saling menopang berarti tidak ada hubungan sebab-akibat sama sekali",
+        "d": "Model rantai linear adalah satu-satunya cara yang diajarkan dalam kanon Pali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan struktural yang jelas dijelaskan di Poin Kunci Bagian 2",
+        "c": "Menyalahartikan 'saling menopang' sebagai ketiadaan sebab-akibat, padahal tetap ada relasi kausal, hanya timbal balik",
+        "d": "Tidak sesuai — Mahānidāna Sutta sendiri menunjukkan model yang lebih kompleks dari sekadar linear"
+      }
+    },
+    {
+      "id": "6.3e-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Dua berkas jerami saling bersandar tegak; jika salah satu ditarik, keduanya jatuh bersamaan.",
+      "pertanyaan": "Perumpamaan ini paling tepat menggambarkan hubungan antara dua mata rantai mana dalam Mahānidāna Sutta?",
+      "opsi": {
+        "a": "Viññāṇa (kesadaran) dan nāmarūpa (batin-jasmani)",
+        "b": "Jāti (kelahiran) dan jarāmaraṇa (usia tua-kematian)",
+        "c": "Phassa (kontak) dan saḷāyatana (enam landasan indria)",
+        "d": "Avijjā (ketidaktahuan) dan saṅkhāra (bentukan kehendak)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Hubungan ini dijelaskan sebagai berurutan (jāti mensyaratkan jarāmaraṇa), bukan saling menopang",
+        "c": "Hubungan ini tidak menjadi fokus penekanan 'saling menopang' di sutta ini",
+        "d": "Hubungan ini dijelaskan sebagai satu arah (avijjā mensyaratkan saṅkhāra) dalam kerangka standar"
+      }
+    },
+    {
+      "id": "6.3e-q06",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang aktivis lingkungan menyalahkan SATU perusahaan sebagai satu-satunya penyebab krisis iklim, mengabaikan faktor kebijakan, budaya konsumsi, dan teknologi yang saling terkait.",
+      "pertanyaan": "Bagaimana pendekatan aktivis ini dinilai berdasarkan Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Pendekatan itu tepat, karena masalah besar selalu punya satu penyebab tunggal yang jelas",
+        "b": "Pendekatan itu kurang tepat — isu kompleks seperti krisis iklim melibatkan banyak faktor yang saling menopang, mencari 'satu penyebab tunggal' cenderung menyesatkan dan mengabaikan jaring relasi yang sesungguhnya",
+        "c": "Krisis iklim sebenarnya tidak memiliki penyebab apa pun yang bisa dianalisis",
+        "d": "Paṭiccasamuppāda tidak relevan untuk menganalisis isu lingkungan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang menolak pencarian 'satu penyebab tunggal'",
+        "c": "Bertentangan dengan seluruh premis Paṭiccasamuppāda tentang sebab-akibat yang saling bergantung",
+        "d": "Bertentangan dengan Bagian 3 yang justru menerapkan kerangka ini pada isu lingkungan"
+      }
+    },
+    {
+      "id": "6.3e-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penegasan 'vedanā adalah akar taṇhā' dalam Mahānidāna Sutta memperkuat, bukan menggantikan, pemahaman yang sudah dipelajari di Kelas X tentang titik intervensi praktis?",
+      "opsi": {
+        "a": "Penegasan ini secara eksplisit mengonfirmasi apa yang sebelumnya hanya diamati sebagai titik intervensi praktis di Kelas X — sekarang dengan dasar tekstual yang lebih tegas dan langsung dari sutta ini sendiri",
+        "b": "Penegasan ini membatalkan seluruh pemahaman tentang titik intervensi dari Kelas X",
+        "c": "Vedanā dan taṇhā sebenarnya adalah dua istilah yang sama sekali tidak berkaitan",
+        "d": "Penegasan ini hanya relevan bagi bhikkhu senior, tidak bagi siswa SMA/SMK"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan — penegasan ini MEMPERKUAT, bukan membatalkan, titik intervensi yang sudah dipelajari",
+        "c": "Bertentangan langsung dengan kutipan eksplisit yang menyatakan vedanā sebagai akar/sebab taṇhā",
+        "d": "Tidak sesuai — titik intervensi ini relevan universal, termasuk bagi siswa SMA/SMK"
+      }
+    },
+    {
+      "id": "6.3e-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana teguran Buddha kepada Ānanda ('jangan katakan begitu') mencerminkan semangat yang sama dengan Kālāma Sutta (Kelas X) tentang tidak menerima klaim begitu saja?",
+      "opsi": {
+        "a": "Keduanya menunjukkan pentingnya kerendahan hati epistemik — baik terhadap klaim orang lain (Kālāma Sutta) maupun terhadap penilaian diri sendiri tentang seberapa dalam pemahaman kita sendiri (teguran kepada Ānanda)",
+        "b": "Kedua ajaran ini sama sekali tidak berkaitan",
+        "c": "Kālāma Sutta mengajarkan untuk selalu percaya diri sepenuhnya tanpa keraguan",
+        "d": "Teguran kepada Ānanda membuktikan bahwa berpikir kritis tidak penting dalam ajaran Buddha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesamaan tema kerendahan hati/kehati-hatian epistemik yang menghubungkan kedua ajaran",
+        "c": "Bertentangan dengan esensi Kālāma Sutta yang justru mendorong pengujian, bukan kepercayaan diri buta",
+        "d": "Bertentangan — justru teguran ini adalah bentuk mendorong pemikiran yang LEBIH kritis, bukan mengabaikannya"
+      }
+    },
+    {
+      "id": "6.3e-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kompleksitas Mahānidāna Sutta (Bagian 2) berkaitan dengan pesan Mahākammavibhaṅga Sutta yang dipelajari di Kelas XII Semester 1 (tentang bahaya menggeneralisasi kamma secara terburu-buru)?",
+      "opsi": {
+        "a": "Keduanya menunjukkan tema yang sama: fenomena yang tampak sederhana (kamma, sebab-musabab) sebenarnya jauh lebih kompleks dari yang terlihat sekilas, sehingga kesimpulan terburu-buru berisiko menyesatkan",
+        "b": "Kedua sutta ini membahas topik yang sama sekali berbeda tanpa keterkaitan tematik apa pun",
+        "c": "Mahākammavibhaṅga Sutta membatalkan seluruh isi Mahānidāna Sutta",
+        "d": "Kedua sutta ini hanya relevan bagi orang yang sudah menjadi bhikkhu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesamaan tema kompleksitas/anti-penyederhanaan yang menghubungkan kedua sutta lintas topik",
+        "c": "Tidak sesuai — kedua sutta membahas konsep yang berbeda namun saling menguatkan tema besar yang sama",
+        "d": "Tidak sesuai — kedua sutta dipelajari sebagai bagian kurikulum PAB bagi siswa SMA/SMK"
+      }
+    },
+    {
+      "id": "6.3e-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merancang solusi untuk mengatasi kecanduan media sosial di kalangan remaja hanya dengan satu langkah: 'menghapus aplikasi media sosial'.",
+      "pertanyaan": "Berdasarkan prinsip 'jaring, bukan sebab tunggal' di Bagian 3, apa yang mungkin kurang dari pendekatan siswa ini?",
+      "opsi": {
+        "a": "Pendekatan itu mengabaikan faktor-faktor lain yang saling menopang masalah ini (desain aplikasi yang adiktif, tekanan sosial, kebutuhan validasi, kebiasaan digital sejak kecil) yang mungkin tetap muncul dalam bentuk lain meski aplikasi dihapus",
+        "b": "Pendekatan itu sudah sempurna dan tidak perlu penyempurnaan apa pun",
+        "c": "Menghapus aplikasi media sosial adalah solusi yang dilarang keras dalam ajaran Buddha",
+        "d": "Masalah kecanduan media sosial tidak memiliki penyebab yang bisa dianalisis sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan prinsip jaring multi-faktor yang justru menunjukkan solusi satu-langkah cenderung tidak cukup",
+        "c": "Klaim tidak berdasar yang tidak didukung materi mana pun",
+        "d": "Bertentangan dengan keseluruhan premis Paṭiccasamuppāda tentang keberadaan sebab-akibat yang bisa dianalisis"
+      }
+    },
+    {
+      "id": "6.3e-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha memilih menegur Ānanda secara terbuka, alih-alih membiarkan pemahaman keliru itu berlalu tanpa koreksi?",
+      "opsi": {
+        "a": "Karena kesalahpahaman tentang kedalaman suatu ajaran, jika dibiarkan, berisiko membuat seseorang berhenti merenungkannya lebih jauh — padahal perenungan berkelanjutan adalah kunci menembus kedalaman sesungguhnya",
+        "b": "Karena Buddha ingin mempermalukan Ānanda di depan murid lain",
+        "c": "Karena Ānanda sebenarnya sama sekali tidak memahami dasar-dasar Paṭiccasamuppāda",
+        "d": "Karena teguran ini tidak memiliki tujuan pedagogis apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai dengan karakter dan pendekatan Buddha yang dijelaskan secara umum dalam kurikulum ini",
+        "c": "Tidak sesuai — masalahnya bukan ketidaktahuan dasar, melainkan OVERCONFIDENCE terhadap kedalamannya",
+        "d": "Bertentangan dengan penekanan bahwa peristiwa ini menjadi pengajaran penting sepanjang sutta"
+      }
+    },
+    {
+      "id": "6.3e-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman tentang 'jaring yang saling menopang' (Bagian 2-3) relevan untuk menghindari kesalahan mencari 'kambing hitam' tunggal dalam konflik sosial?",
+      "opsi": {
+        "a": "Prinsip ini mendorong analisis yang lebih menyeluruh terhadap berbagai faktor yang saling berkontribusi pada suatu konflik, alih-alih menyederhanakannya menjadi kesalahan satu pihak semata",
+        "b": "Prinsip ini menyatakan bahwa tidak ada seorang pun yang pernah bertanggung jawab atas tindakannya",
+        "c": "Prinsip ini hanya relevan untuk isu lingkungan, tidak untuk konflik sosial",
+        "d": "Prinsip ini mendukung penuh mencari kambing hitam sebagai cara tercepat menyelesaikan masalah"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan implikasi — prinsip ini tentang kompleksitas sebab, bukan penghapusan tanggung jawab individu (ingat pembelajaran Karma di Kelas XII Semester 1)",
+        "c": "Terlalu sempit — materi menunjukkan prinsip ini berlaku luas, termasuk konteks sosial",
+        "d": "Bertentangan langsung dengan seluruh semangat topik yang justru menolak penyederhanaan sebab tunggal"
+      }
+    },
+    {
+      "id": "6.3e-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pesan tersirat dari fakta bahwa Buddha sendiri menyebut Paṭiccasamuppāda sebagai penyebab manusia 'tidak mampu melampaui alam sengsara dan siklus kelahiran-kematian' jika tidak dipahami dengan benar?",
+      "opsi": {
+        "a": "Pemahaman yang keliru atau dangkal terhadap hukum sebab-musabab bukan sekadar kekurangan intelektual, melainkan memiliki konsekuensi eksistensial yang signifikan bagi pembebasan seseorang dari dukkha",
+        "b": "Paṭiccasamuppāda tidak memiliki relevansi apa pun terhadap pembebasan dari dukkha",
+        "c": "Hanya orang-orang tertentu yang ditakdirkan bisa memahami hukum ini",
+        "d": "Pemahaman yang dangkal terhadap hukum ini tidak memiliki konsekuensi apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan pernyataan Buddha yang menghubungkan pemahaman ini dengan pembebasan dari siklus kelahiran-kematian",
+        "c": "Tidak sesuai — materi tidak membuat klaim predestinasi semacam ini",
+        "d": "Bertentangan langsung dengan penekanan konsekuensi serius dari kegagalan memahami ajaran ini"
+      }
+    },
+    {
+      "id": "6.3e-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini mempersiapkan siswa untuk Topik 6 (Paramattha-Sammuti), berdasarkan 'Ingat Ini' di Bagian 4?",
+      "opsi": {
+        "a": "Kompleksitas dan kedalaman Paṭiccasamuppāda yang dieksplorasi di topik ini menjadi salah satu 'bahan baku' penting yang akan disintesis bersama hukum-hukum lain dalam kerangka filosofis yang lebih menyeluruh di Topik 6",
+        "b": "Topik ini tidak memiliki keterkaitan apa pun dengan Topik 6",
+        "c": "Topik 6 akan sepenuhnya menggantikan pemahaman tentang Paṭiccasamuppāda yang sudah dipelajari",
+        "d": "Topik ini menyelesaikan seluruh pertanyaan filosofis sehingga Topik 6 menjadi tidak diperlukan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan jembatan eksplisit yang dibangun di 'Ingat Ini' Bagian 4",
+        "c": "Tidak sesuai — Topik 6 menyintesis, bukan menggantikan, pemahaman dari topik ini",
+        "d": "Bertentangan dengan struktur kurikulum yang jelas dirancang berkelanjutan menuju sintesis lebih lanjut"
+      }
+    },
+    {
+      "id": "6.3e-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bagi kurikulum ini untuk kembali membahas Paṭiccasamuppāda di Kelas XII (setelah diperkenalkan di Kelas X), alih-alih membahasnya hanya sekali?",
+      "opsi": {
+        "a": "Ini mencerminkan sifat ajaran itu sendiri — sesuatu yang perlu direnungkan berulang kali dengan kedalaman yang terus bertambah seiring kematangan siswa, persis seperti pesan yang disampaikan Buddha kepada Ānanda tentang perlunya penembusan berkelanjutan",
+        "b": "Karena tim kurikulum kehabisan materi baru untuk diajarkan",
+        "c": "Karena siswa Kelas X pasti gagal memahami topik ini sehingga perlu diulang persis sama",
+        "d": "Pengulangan ini murni kebetulan tanpa pertimbangan pedagogis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Klaim tidak berdasar yang meremehkan perencanaan kurikulum yang jelas bertahap",
+        "c": "Tidak sesuai — topik ini MEMPERDALAM, bukan mengasumsikan kegagalan pemahaman sebelumnya",
+        "d": "Mengabaikan kesengajaan pedagogis eksplisit yang dijelaskan di catatan editorial topik ini"
+      }
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "topik_id": "6.1b",
+  "kode_topik_lms": "XI-T2",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.1b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa yang mengusulkan lima aturan tambahan lebih ketat bagi Sangha, menurut Vinaya Cullavagga VII?",
+      "opsi": {
+        "a": "Devadatta",
+        "b": "Ānanda",
+        "c": "Sāriputta",
+        "d": "Moggallāna"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ānanda adalah pelayan setia Buddha, bukan pengusul aturan ini",
+        "c": "Sāriputta justru berperan membujuk para bhikkhu kembali, bukan mengusulkan perpecahan",
+        "d": "Moggallāna juga berperan membujuk para bhikkhu kembali, bukan mengusulkan perpecahan"
+      }
+    },
+    {
+      "id": "6.1b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Dua kelompok besar yang terbentuk setelah Konsili Buddhis Kedua di Vesāli adalah…",
+      "opsi": {
+        "a": "Sthaviravāda dan Mahāsāṃghika",
+        "b": "Theravāda dan Vajrayāna",
+        "c": "Mahāyāna dan Tantrayana",
+        "d": "Sangha Utara dan Sangha Selatan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ini nama tradisi yang berkembang JAUH kemudian, bukan nama kedua kelompok hasil konsili",
+        "c": "Ini nama tradisi yang berkembang JAUH kemudian, bukan nama kedua kelompok hasil konsili",
+        "d": "Bukan istilah yang digunakan dalam catatan sejarah ini"
+      }
+    },
+    {
+      "id": "6.1b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Devadatta mengusulkan lima aturan ketat sebagai kewajiban bagi semua bhikkhu. Buddha mengizinkannya, tapi hanya sebagai pilihan sukarela.",
+      "pertanyaan": "Apa perbedaan mendasar antara sikap Devadatta dan sikap Buddha dalam menyikapi usulan lima aturan ini?",
+      "opsi": {
+        "a": "Devadatta menolak kelima aturan itu sepenuhnya, sementara Buddha mewajibkannya",
+        "b": "Devadatta ingin menyeragamkan semua bhikkhu dengan satu standar wajib, sementara Buddha memilih memberi ruang pilihan tanpa memaksakan keseragaman",
+        "c": "Keduanya sebenarnya sepakat penuh, perbedaan pendapat hanya kesalahpahaman semata",
+        "d": "Devadatta ingin aturan itu berlaku hanya untuknya sendiri, bukan untuk seluruh Sangha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Terbalik dari fakta — Devadatta yang ingin mewajibkan, Buddha yang mengizinkan secara sukarela",
+        "c": "Bertentangan dengan fakta — perbedaan ini nyata dan berujung pada perpecahan sementara",
+        "d": "Tidak sesuai fakta — usulan itu dimaksudkan berlaku bagi seluruh Sangha"
+      }
+    },
+    {
+      "id": "6.1b-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berpendapat, ‘Kalau Sangha bisa terpecah bahkan semasa Buddha hidup, berarti ajaran Buddha memang lemah dan gampang goyah.’",
+      "pertanyaan": "Bagaimana pandangan ini seharusnya dikoreksi berdasarkan materi yang kamu pelajari?",
+      "opsi": {
+        "a": "Pandangan itu benar sepenuhnya — perpecahan membuktikan ajaran Buddha memang lemah",
+        "b": "Pandangan itu keliru — perpecahan Devadatta justru pulih berkat inisiatif Sāriputta dan Moggallāna, menunjukkan Sangha punya mekanisme memperbaiki diri, bukan sekadar rapuh",
+        "c": "Pandangan itu hanya berlaku untuk perpecahan setelah Buddha wafat, bukan semasa hidupnya",
+        "d": "Pandangan itu tidak relevan dibahas sama sekali dalam konteks pendidikan agama"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fakta bahwa perpecahan ini justru terselesaikan, bukan permanen",
+        "c": "Tidak relevan dengan poin yang dipertanyakan — pertanyaan soal kekuatan ajaran, bukan waktunya",
+        "d": "Mengabaikan nilai reflektif topik ini yang justru dirancang untuk direnungkan"
+      }
+    },
+    {
+      "id": "6.1b-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara perpecahan Devadatta dan perpecahan pasca-Konsili Kedua di Vesāli, dalam hal dampak jangka panjangnya?",
+      "opsi": {
+        "a": "Perpecahan Devadatta terselesaikan dan tidak melahirkan tradisi baru; perpecahan pasca-Konsili Kedua menjadi akar dari keragaman aliran besar yang masih ada hingga kini",
+        "b": "Kedua perpecahan sama-sama tidak memiliki dampak jangka panjang apa pun",
+        "c": "Perpecahan Devadatta justru yang melahirkan Theravāda dan Mahāyāna, sementara Konsili Kedua tidak berdampak apa pun",
+        "d": "Kedua perpecahan sama-sama melahirkan aliran Vajrayāna secara langsung"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan penjelasan eksplisit Bagian 2 tentang akar keragaman aliran",
+        "c": "Terbalik dari fakta yang dijelaskan — justru Konsili Kedua yang jadi akar keragaman aliran",
+        "d": "Tidak sesuai — Vajrayāna berkembang jauh kemudian, tidak terkait langsung kedua peristiwa ini"
+      }
+    },
+    {
+      "id": "6.1b-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa kesepuluh poin yang diperdebatkan di Konsili Kedua (seperti menyimpan garam dalam tanduk, menerima emas-perak) tergolong hal-hal 'kecil', namun tetap mampu memicu perpecahan besar?",
+      "opsi": {
+        "a": "Karena hal-hal kecil dalam aturan disiplin bersama bisa mencerminkan perbedaan pandangan lebih besar tentang bagaimana komunitas seharusnya dijalankan, meski terlihat sepele di permukaan",
+        "b": "Karena aturan-aturan itu sebenarnya adalah inti utama seluruh ajaran Buddha",
+        "c": "Karena para bhikkhu yang terlibat sebenarnya tidak peduli sama sekali dengan hasil akhirnya",
+        "d": "Karena Konsili Kedua sengaja dirancang untuk memecah belah Sangha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Berlebihan — kesepuluh poin ini soal disiplin praktis, bukan inti ajaran (Empat Kebenaran Mulia, dst)",
+        "c": "Bertentangan dengan fakta bahwa perdebatan ini cukup serius untuk memicu perpecahan",
+        "d": "Tidak sesuai fakta — konsili diadakan untuk MENYELESAIKAN sengketa, bukan menciptakannya"
+      }
+    },
+    {
+      "id": "6.1b-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa bertanya, ‘Kalau begitu, Theravāda itu aliran yang “paling benar” dan Mahāyāna/Vajrayāna itu “menyimpang”, ya?’",
+      "pertanyaan": "Bagaimana pertanyaan ini seharusnya dijawab berdasarkan Poin Kunci di Bagian 3?",
+      "opsi": {
+        "a": "Betul, Theravāda adalah satu-satunya aliran yang sah",
+        "b": "Kanon Pāli dipakai sebagai rujukan utama kurikulum karena kedekatannya dengan sumber tertua, bukan untuk menilai tradisi lain sebagai lebih rendah atau menyimpang",
+        "c": "Semua aliran sebenarnya sama persis tanpa perbedaan apa pun",
+        "d": "Pertanyaan ini tidak boleh dibahas sama sekali dalam pendidikan agama"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang eksplisit menyatakan ini bukan soal 'lebih rendah'",
+        "c": "Tidak akurat — materi justru menjelaskan perbedaan nyata dalam penekanan dan ekspresi budaya",
+        "d": "Menghindari pertanyaan bukan solusi — bertentangan dengan semangat topik yang justru mengajak memahami"
+      }
+    },
+    {
+      "id": "6.1b-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan penekanan jalan pembebasan antara Theravāda dan Mahāyāna, berdasarkan Bagian 3?",
+      "opsi": {
+        "a": "Theravāda menekankan jalan Arahat (usaha individu); Mahāyāna menekankan jalan Bodhisattva (menunda pembebasan pribadi demi semua makhluk)",
+        "b": "Theravāda menekankan jalan Bodhisattva; Mahāyāna menekankan jalan Arahat",
+        "c": "Keduanya menekankan jalan yang sama persis tanpa perbedaan penekanan apa pun",
+        "d": "Theravāda tidak mengenal konsep pembebasan sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "b": "Tertukar — ini kebalikan dari penjelasan materi",
+        "c": "Tidak sesuai — materi menjelaskan perbedaan penekanan yang cukup jelas",
+        "d": "Tidak sesuai fakta — pembebasan (melalui jalan Arahat) justru inti penekanan Theravāda"
+      }
+    },
+    {
+      "id": "6.1b-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Vajrayāna sering digambarkan sebagai 'pengembangan di atas fondasi Mahāyāna', bukan sebagai tradisi yang berdiri sepenuhnya terpisah?",
+      "opsi": {
+        "a": "Karena Vajrayāna sama sekali tidak mengenal konsep Bodhisattva",
+        "b": "Karena Vajrayāna berkembang belakangan (abad ke-6–7 M) dengan menambahkan metode esoteris (mantra, mudrā, transmisi guru-murid) di atas kerangka ajaran Mahāyāna yang sudah ada",
+        "c": "Karena Vajrayāna dan Theravāda sebenarnya adalah aliran yang identik",
+        "d": "Karena Vajrayāna muncul lebih dulu daripada Mahāyāna"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak akurat — Vajrayāna justru mewarisi kerangka Bodhisattva dari Mahāyāna",
+        "c": "Tidak sesuai fakta — keduanya berbeda cukup signifikan dalam praktik dan penekanan",
+        "d": "Terbalik dari urutan kronologis yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.1b-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa Buddhis Theravāda diundang menghadiri perayaan di vihara Mahāyāna milik temannya, dan merasa asing dengan beberapa ritualnya.",
+      "pertanyaan": "Berdasarkan semangat keseluruhan topik ini, sikap apa yang paling tepat diambil siswa tersebut?",
+      "opsi": {
+        "a": "Menolak hadir karena ritual itu dianggap salah",
+        "b": "Menghadirinya dengan sikap terbuka untuk memahami ekspresi budaya yang berbeda, sambil tetap memegang teguh Kanon Pāli sebagai pegangannya sendiri",
+        "c": "Hadir tapi diam-diam mengejek ritual yang berbeda dari kebiasaannya",
+        "d": "Mengganti keyakinannya mengikuti apa pun tradisi yang baru saja ia temui"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan semangat 'menghargai keragaman' yang jadi inti Bagian 4",
+        "c": "Bertentangan dengan sikap terbuka dan hormat yang dianjurkan materi",
+        "d": "Berlebihan ke arah lain — materi menekankan tetap berjati diri, bukan larut sepenuhnya"
+      }
+    },
+    {
+      "id": "6.1b-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara kisah Devadatta (Bagian 1) dengan prinsip 'menghargai keragaman tanpa kehilangan jati diri' (Bagian 4)?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali antara keduanya",
+        "b": "Cara Buddha merespons usulan Devadatta — mengizinkan tanpa mewajibkan — menjadi model awal bagaimana perbedaan bisa diakomodasi tanpa memaksakan keseragaman, prinsip yang sama relevan untuk menyikapi keragaman aliran",
+        "c": "Devadatta sebenarnya adalah pendiri Mahāyāna, sehingga kedua bagian ini menceritakan hal yang identik",
+        "d": "Kisah Devadatta membuktikan bahwa keragaman selalu berujung buruk dan sebaiknya dihindari"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan benang merah 'akomodasi tanpa memaksakan keseragaman' yang menghubungkan kedua bagian",
+        "c": "Tidak sesuai fakta — Devadatta tidak disebutkan sebagai pendiri aliran mana pun dalam materi",
+        "d": "Bertentangan dengan pesan Bagian 4 yang justru mengajak menghargai keragaman"
+      }
+    },
+    {
+      "id": "6.1b-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika kamu diminta menjelaskan keragaman aliran Buddhis kepada seseorang yang baru pertama kali mendengarnya, urutan penjelasan mana yang paling logis berdasarkan topik ini?",
+      "opsi": {
+        "a": "Langsung menjelaskan perbedaan ritual masing-masing aliran tanpa konteks sejarah apa pun",
+        "b": "Menjelaskan akar sejarahnya dulu (perpecahan pasca-Konsili Kedua), baru kemudian ciri-ciri masing-masing tradisi yang berkembang darinya",
+        "c": "Menjelaskan bahwa ketiga aliran muncul secara bersamaan tanpa hubungan sejarah",
+        "d": "Menjelaskan bahwa perbedaan aliran murni karena kesalahan penerjemahan kitab suci"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Berpotensi membingungkan tanpa pijakan konteks — sedangkan materi ini justru dibangun dari akar sejarah dulu",
+        "c": "Tidak sesuai fakta — materi menjelaskan urutan kronologis yang jelas antarperiode",
+        "d": "Tidak sesuai fakta — tidak ada klaim semacam itu dalam materi"
+      }
+    },
+    {
+      "id": "6.1b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa fungsi utama Konsili Buddhis Kedua yang diadakan di Vesāli, menurut catatan tradisional yang dijelaskan di Bagian 2?",
+      "opsi": {
+        "a": "Menyusun Tipiṭaka untuk pertama kalinya",
+        "b": "Menyelesaikan sengketa tentang sepuluh poin disiplin Vinaya yang dianggap dilanggar oleh sebagian bhikkhu",
+        "c": "Menobatkan pemimpin baru pengganti Buddha",
+        "d": "Merayakan seratus tahun berdirinya Sangha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "a": "Penyusunan awal Tipiṭaka terjadi di Konsili Pertama, segera setelah Buddha wafat, bukan di Konsili Kedua",
+        "c": "Tidak sesuai fakta — tidak ada penobatan semacam itu, Sangha tidak memiliki 'pemimpin tunggal' pengganti Buddha",
+        "d": "Bukan tujuan konsili ini — konsili diadakan untuk menyelesaikan sengketa disiplin"
+      }
+    },
+    {
+      "id": "6.1b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana prinsip yang dipelajari di topik ini (menghargai keragaman, berpegang pada Kanon Pāli) berkaitan dengan konsep moderasi beragama yang dipelajari di Kelas X (Kālāma Sutta)?",
+      "opsi": {
+        "a": "Keduanya sama sekali tidak berkaitan",
+        "b": "Keduanya sama-sama mengajarkan sikap terbuka dan tidak dogmatis, tanpa kehilangan pegangan pada prinsip yang diyakini benar",
+        "c": "Kālāma Sutta mengajarkan untuk selalu mengubah keyakinan mengikuti tradisi yang baru ditemui",
+        "d": "Topik ini membatalkan prinsip Kālāma Sutta yang dipelajari sebelumnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan kesamaan semangat kritis-terbuka yang menghubungkan kedua materi",
+        "c": "Menyalahartikan Kālāma Sutta — sutta itu justru mengajak menguji, bukan asal ikut arus",
+        "d": "Tidak sesuai — kedua materi ini saling memperkuat, bukan bertentangan"
+      }
+    },
+    {
+      "id": "6.1b-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pelajaran paling mendasar yang bisa dipetik dari keseluruhan perjalanan sejarah 'satu sungai, banyak cabang' ini untuk kehidupan bermasyarakat yang majemuk?",
+      "opsi": {
+        "a": "Keragaman selalu berujung pada perpecahan permanen dan sebaiknya dihindari sama sekali",
+        "b": "Perbedaan dalam suatu komunitas besar adalah hal wajar yang bisa dikelola dengan bijaksana — mengakomodasi perbedaan tanpa memaksakan keseragaman, sambil tetap punya pegangan jati diri yang jelas",
+        "c": "Satu-satunya cara menjaga persatuan adalah menghapus semua perbedaan pandangan",
+        "d": "Perbedaan pandangan seharusnya tidak pernah dibicarakan secara terbuka"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fakta bahwa keragaman Buddhis justru bertahan dan berkembang sehat selama ribuan tahun",
+        "c": "Bertentangan dengan keseluruhan pesan topik yang justru merayakan keragaman terkelola, bukan penghapusan perbedaan",
+        "d": "Bertentangan dengan pendekatan terbuka yang justru dianjurkan sepanjang topik ini"
+      }
+    }
+  ]
+}

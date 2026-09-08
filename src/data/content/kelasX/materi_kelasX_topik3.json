@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "topik_id": "5.2a",
+    "kode_topik_lms": "X-T3",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Ritual",
+    "kode_cp": "5.2",
+    "judul": "Pulang ke Napas",
+    "subjudul": "Mengenal dan Mempraktikkan Ānāpānasati",
+    "breadcrumb": "Kelas X · Topik 3 · Ritual",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Ānāpānasati Sutta (MN 118)",
+      "Satipaṭṭhāna Sutta (MN 10) — rujukan silang 4 landasan perhatian"
+    ],
+    "catatan_editorial": "Topik ini berfokus pada Tetrad 1 (kontemplasi tubuh) sebagai fondasi bagi pemula. Tetrad 2–4 — termasuk vipassanā pada Tetrad 4 — dipelajari bertahap di jenjang berikutnya (Kelas XI).",
+    "tujuan_pembelajaran": "Peserta didik menerapkan praktik meditasi ketenangan batin (samatha) berlandaskan Ānāpānasati Sutta sebagai sarana pengembangan batin yang autentik dan berkelanjutan."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Peta 16 Langkah",
+      "section_num": "Bagian 1",
+      "judul": "Peta 16 Langkah, Satu Napas",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Di Topik 2, kamu bertemu S.N. Goenka, yang menghidupkan kembali Vipassanā di India. Tapi sebelum vipassanā, ada satu praktik yang menjadi akarnya — praktik yang bahkan disebut Buddha sendiri sebagai kebiasaannya yang paling sering diulang: **Ānāpānasati**, perhatian penuh pada napas keluar-masuk."
+        },
+        {
+          "type": "paragraf",
+          "text": "Ānāpānasati Sutta (MN 118) memuat **16 langkah**, dikelompokkan menjadi **4 kelompok (tetrad)** berisi 4 langkah masing-masing. Menariknya, keempat tetrad ini persis sejajar dengan 4 landasan perhatian (satipaṭṭhāna) yang akan kamu pelajari lebih dalam di jenjang berikutnya."
+        },
+        {
+          "type": "fakta",
+          "label": "Peta Lengkap 16 Langkah",
+          "text": "**Tetrad 1** (tubuh): napas panjang, napas pendek, merasakan seluruh tubuh, menenangkan tubuh. **Tetrad 2** (perasaan): kegiuran, kebahagiaan, bentukan batin, menenangkan bentukan batin. **Tetrad 3** (pikiran): menyadari pikiran, menggembirakan, memusatkan, membebaskan pikiran. **Tetrad 4** (kualitas mental/vipassanā): merenungkan ketidakkekalan, kelunturan nafsu, lenyapnya, pelepasan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Mengapa Mulai dari Tetrad 1?",
+          "text": "Tetrad 1 adalah fondasi yang paling konkret dan paling cocok untuk pemula — karena itulah topik ini berhenti di situ. Bahkan tradisi Goenka sendiri memulai muridnya dengan ānāpāna sebelum masuk ke vipassanā penuh (Tetrad 4) yang akan kamu pelajari di Kelas XI."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bayangkan 16 langkah ini seperti anak tangga menuju ketenangan batin. Menurutmu, kenapa penting menguasai anak tangga pertama dengan baik dulu, dibanding buru-buru mencoba melompat ke atas?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Napas Panjang-Pendek",
+      "section_num": "Bagian 2",
+      "judul": "Langkah 1 & 2 — Napas Panjang, Napas Pendek",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dua langkah pertama berbunyi sederhana: *‘Bernapas panjang, ia tahu “aku bernapas panjang”; bernapas pendek, ia tahu “aku bernapas pendek.”’* Perhatikan kata kuncinya: **tahu**, bukan **mengatur**."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Kesalahpahaman Paling Umum",
+          "text": "Banyak pemula mengira tujuannya adalah membuat napas jadi panjang dan dalam secara paksa. Bukan. Tujuannya justru **menyadari napas apa adanya** — panjang ya panjang, pendek ya pendek, tanpa memaksanya berubah."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Cara berlatih:** duduk dengan nyaman, punggung tegak tapi tidak kaku, mata terpejam. Arahkan perhatian ke area sekitar lubang hidung atau ke perut yang naik-turun — pilih salah satu titik yang paling jelas terasa. Duduk diam selama 8–10 menit, sekadar menyadari setiap tarikan dan embusan napas."
+        },
+        {
+          "type": "fakta",
+          "label": "Titik Perhatian (Nimitta)",
+          "text": "Dua titik yang lazim dipakai: ujung lubang hidung/bibir atas (sensasi udara lewat) atau perut (gerak naik-turun). Tidak ada yang lebih 'benar' — pilih yang paling mudah kamu rasakan dengan jelas."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Setelah sesi latihan ini, coba ingat: apakah napasmu terasa selalu sama dari awal sampai akhir, atau berubah-ubah? Kira-kira apa yang membuatnya berubah?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Seluruh Tubuh",
+      "section_num": "Bagian 3",
+      "judul": "Langkah 3 — Merasakan Napas di Seluruh Tubuh",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Langkah ketiga berbunyi: *‘Mengalami seluruh tubuh, ia berlatih bernapas masuk dan keluar.’* Setelah cukup akrab dengan napas di satu titik, perhatian diperluas: merasakan kehadiran seluruh tubuh saat duduk dan bernapas, bukan hanya satu titik sempit."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Para guru meditasi menafsirkan langkah ini sedikit berbeda-beda — sebagian memaknainya sebagai merasakan seluruh *proses* napas dari awal hingga akhir, sebagian lain sebagai merasakan seluruh *tubuh fisik* saat bernapas. Perbedaan tafsir ini wajar dan tidak mengubah inti latihan: memperluas kesadaran, bukan menyempitkannya."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Cara berlatih:** lanjutkan duduk hening. Setelah beberapa menit menyadari napas di satu titik, perlahan lebarkan perhatian — rasakan bahu, tangan, punggung, kaki, seluruh tubuh yang duduk dan bernapas sebagai satu kesatuan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Ini bukan tentang berpindah-pindah fokus dengan cepat, melainkan melonggarkan perhatian agar mencakup lebih banyak hal sekaligus — seperti mata yang semula menatap satu titik, lalu perlahan melihat seluruh ruangan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Saat perhatianmu melebar ke seluruh tubuh, apakah rasanya lebih menenangkan atau justru lebih sulit dipertahankan dibanding fokus pada satu titik? Kenapa menurutmu begitu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Menenangkan Tubuh",
+      "section_num": "Bagian 4",
+      "judul": "Langkah 4 — Menenangkan Bentukan Jasmani",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Langkah keempat, penutup Tetrad 1: *‘Menenangkan bentukan jasmani, ia berlatih bernapas masuk dan keluar.’* ‘Bentukan jasmani’ di sini merujuk pada napas itu sendiri sebagai aktivitas tubuh, sekaligus ketegangan fisik yang sering menyertainya tanpa disadari."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Cara berlatih:** sambil tetap menyadari seluruh tubuh (langkah 3), perhatikan area yang terasa tegang — bahu naik, rahang terkatup, dahi mengernyit. Setiap kali mengembuskan napas, bayangkan ketegangan itu ikut mengendur, tanpa perlu dipaksa."
+        },
+        {
+          "type": "fakta",
+          "label": "Relevansi Praktis",
+          "text": "Langkah ini sangat berguna di luar meja meditasi — misalnya sesaat sebelum ujian, saat gugup presentasi, atau ketika emosi memuncak. Menyadari dan melepaskan ketegangan lewat embusan napas adalah keterampilan yang bisa dipakai kapan saja."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Dengan langkah ini, Tetrad 1 (kontemplasi tubuh) lengkap: dari sekadar menyadari napas apa adanya (langkah 1–2), memperluas kesadaran ke seluruh tubuh (langkah 3), hingga aktif menenangkannya (langkah 4)."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu situasi belakangan ini yang membuat tubuhmu tegang tanpa kamu sadari. Seandainya kamu ingat langkah ini saat itu, apa yang mungkin berbeda?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 5",
+      "judul": "Sintesis — Tetrad Pertama Selesai",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Selamat — kamu baru saja mempraktikkan fondasi dari salah satu teknik meditasi tertua dan paling dihormati dalam ajaran Buddha, langkah yang sama yang mengantarkan banyak orang, termasuk S.N. Goenka, menuju ketenangan batin yang lebih dalam."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Langkah 1–2** — menyadari napas panjang dan pendek apa adanya, tanpa memaksa",
+            "**Langkah 3** — memperluas kesadaran dari satu titik ke seluruh tubuh",
+            "**Langkah 4** — secara aktif menenangkan ketegangan lewat embusan napas",
+            "**Keempatnya** membentuk Tetrad 1 — kontemplasi tubuh (kāyānupassanā)"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Perjalanan belum selesai. Tetrad 2 dan 3 (perasaan dan pikiran) menyusul secara bertahap, dan Tetrad 4 — kontemplasi ketidakkekalan, inti vipassanā — akan kamu pelajari penuh di Kelas XI, tepat seperti yang dihidupkan kembali Goenka."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari empat langkah yang kamu pelajari hari ini, langkah mana yang terasa paling mudah, dan mana yang paling menantang? Apa yang membuat keduanya berbeda bagimu?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 3",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 3"
+  }
+}

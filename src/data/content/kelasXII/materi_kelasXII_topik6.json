@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "topik_id": "6.3f",
+    "kode_topik_lms": "XII-T6",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Bukan Ada, Bukan Tiada",
+    "subjudul": "Paramattha–Sammuti: Menyintesis Hukum Kebenaran Mutlak",
+    "breadcrumb": "Kelas XII · Topik 6 · Etika",
+    "estimasi_baca_menit": 11,
+    "sumber_kanon": [
+      "Kaccānagotta Sutta (SN 12.15)",
+      "Abhidhamma Piṭaka (kerangka dua kebenaran, dielaborasi lebih lanjut dalam Aṭṭhakathā)"
+    ],
+    "catatan_editorial": "Istilah teknis 'paramattha' dan 'sammuti sacca' sebagai pasangan formal lebih eksplisit dijelaskan dalam komentar Abhidhamma; akarnya di Kanon Pali sendiri ada dalam Kaccānagotta Sutta.",
+    "tujuan_pembelajaran": "Peserta didik menyintesis konsep kebenaran hakiki (paramattha) dan kebenaran konvensional (sammuti) berdasarkan Kaccānagotta Sutta sebagai integrasi dari seluruh hukum yang telah dipelajari."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Ada dan Tiada",
+      "section_num": "Bagian 1",
+      "judul": "Kaccānagotta Sutta: Menghindari Dua Jebakan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Seorang bhikkhu bernama **Kaccānagotta** bertanya kepada Buddha: *‘Dikatakan “pandangan benar, pandangan benar.” Bagaimana pandangan benar itu didefinisikan?’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Dua Pandangan Ekstrem",
+          "text": "Buddha menjawab: *‘Dunia ini pada umumnya bersandar pada dualitas: gagasan tentang keberadaan (‘semuanya ADA’) dan gagasan tentang ketiadaan (‘semuanya TIDAK ADA’).’* Bagi seseorang yang melihat jernih **munculnya** dunia, gagasan ‘tidak ada’ tidak lagi muncul. Bagi yang melihat jernih **lenyapnya** dunia, gagasan ‘ada’ tidak lagi muncul."
+        },
+        {
+          "type": "paragraf",
+          "text": "Lalu Buddha menyimpulkan: *‘Menghindari kedua ekstrem ini, Tathāgata mengajarkan Dhamma lewat jalan tengah’* — dan jalan tengah yang dimaksud di sini **persis Paṭiccasamuppāda** yang kamu pelajari mendalam di topik sebelumnya, dibacakan maju (kemunculan) dan mundur (kelenyapan)."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik — Dua Jenis Jalan Tengah",
+          "text": "Kamu sudah mengenal 'Jalan Tengah' dari Dhammacakkappavattana Sutta (Kelas X): menghindari kesenangan indria berlebihan dan penyiksaan diri — itu Jalan Tengah dalam **praktik**. Kaccānagotta Sutta memperkenalkan Jalan Tengah dalam **cara pandang filosofis**: menghindari 'semua ada' dan 'semua tidak ada'."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Menurutmu, mengapa 'ada' dan 'tidak ada' sama-sama dianggap jebakan, alih-alih salah satunya dianggap benar dan yang lain salah?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Dua Kebenaran",
+      "section_num": "Bagian 2",
+      "judul": "Dua Kebenaran: Sammuti dan Paramattha",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dari benih yang ditanam Kaccānagotta Sutta ini, tradisi Abhidhamma mengembangkan kerangka yang lebih formal: **sammuti sacca** (kebenaran konvensional) dan **paramattha sacca** (kebenaran hakiki)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Contoh Sederhana",
+          "text": "Kata 'kereta' adalah kebenaran konvensional — berguna untuk berkomunikasi, tapi jika diurai, 'kereta' sebenarnya hanya kumpulan roda, poros, badan kereta, yang berkumpul sementara. Secara hakiki, tidak ada satu 'kereta' tunggal yang berdiri sendiri — hanya kumpulan bagian yang saling bergantung (ingat Paṭiccasamuppāda!). Begitu pula 'diri' — berguna sebagai sebutan sehari-hari, tapi secara hakiki hanyalah kumpulan lima kelompok kehidupan yang berproses (ingat Tilakkhaṇa!)."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Dua kebenaran ini **tidak saling meniadakan**. Sammuti sacca tetap diperlukan untuk hidup sehari-hari — kamu tetap memanggil ibumu 'ibu', bukan 'kumpulan lima kelompok kehidupan'. Paramattha sacca menunjukkan hakikat di baliknya, untuk konteks perenungan mendalam."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu kata sehari-hari (misalnya 'sekolah', 'pertemanan') yang, jika diurai, sebenarnya hanya kumpulan bagian-bagian yang saling bergantung. Bagaimana rasanya melihatnya dari dua sudut kebenaran ini sekaligus?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Merangkai Semua",
+      "section_num": "Bagian 3",
+      "judul": "Menyintesis: Merangkai Semua Hukum menjadi Satu Cara Pandang",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Inilah titik puncak seluruh perjalanan doktrinal Kelas XII. Setiap hukum yang kamu pelajari sebenarnya adalah sudut pandang berbeda dari satu kebenaran yang sama."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Peta Terpadu",
+          "text": "**Empat Kebenaran Mulia** menunjukkan dukkha muncul dari kemelekatan (Topik 1). **Hukum Karma** menunjukkan kehendak membentuk konsekuensi (Topik 2). **Punabbhava** memperluas konsekuensi itu melampaui satu kehidupan (Topik 3). **Tilakkhaṇa** menunjukkan hakikat anicca-dukkha-anattā dari segala fenomena (Topik 4). **Paṭiccasamuppāda** menjelaskan MEKANISME saling bergantung di balik semuanya (Topik 5). **Paramattha-Sammuti** (topik ini) menjelaskan LEVEL kebenaran tempat semua hukum ini berlaku — hakiki, bukan sekadar konvensi bahasa."
+        },
+        {
+          "type": "paragraf",
+          "text": "Tugasmu sekarang: susun peta konsep yang menghubungkan keenam hukum ini menjadi satu cara pandang yang utuh, bukan enam topik terpisah yang kebetulan dipelajari berurutan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari keenam hukum yang sudah kamu pelajari sepanjang Kelas XII, satu koneksi apa yang baru benar-benar kamu sadari setelah menyusun peta konsep terpadu ini?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 6",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau lanjutkan menyusun peta konsepmu.",
+    "tombol_label": "Mulai Kuis Topik 6"
+  }
+}

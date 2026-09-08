@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "topik_id": "6.3b",
+    "kode_topik_lms": "XII-T2",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Pemilik Sah atas Tindakan Sendiri",
+    "subjudul": "Membuktikan Hukum Karma (Kamma)",
+    "breadcrumb": "Kelas XII · Topik 2 · Etika",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Cūḷakammavibhaṅga Sutta (MN 135)",
+      "Nibbedhika Sutta (AN 6.63)",
+      "Titthāyatana Sutta (AN 3.61)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik membuktikan Hukum Karma berdasarkan Cūḷakammavibhaṅga Sutta sebagai prinsip tanggung jawab moral, bukan takdir."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Pertanyaan Subha",
+      "section_num": "Bagian 1",
+      "judul": "Pertanyaan Subha: Mengapa Nasib Manusia Berbeda?",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Seorang pemuda bernama **Subha** mendatangi Buddha dengan pertanyaan yang mungkin pernah terpikir olehmu juga: mengapa manusia begitu berbeda nasibnya? Ada yang berumur pendek, ada yang panjang; ada yang selalu sakit, ada yang sehat; ada yang miskin, ada yang kaya; ada yang lahir dihormati, ada yang tidak."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Jawaban Buddha",
+          "text": "*‘Makhluk-makhluk adalah pemilik tindakannya sendiri, pewaris tindakannya sendiri; tindakan itulah asal-usulnya, tindakan itulah sanak saudaranya, tindakan itulah pelindungnya. Tindakanlah yang menggolongkan makhluk menjadi rendah dan tinggi.’* Kamma-lah yang menjawab pertanyaan Subha — bukan nasib acak, bukan keputusan sepihak dari luar."
+        },
+        {
+          "type": "fakta",
+          "label": "Beberapa Korespondensi dari Sutta",
+          "text": "Membunuh & kejam → umur pendek; tidak membunuh & berbelas kasih → umur panjang. Suka menyakiti → sering sakit; tidak menyakiti → sehat. Mudah marah → wajah kurang menarik; sabar → wajah menyenangkan. Kikir → miskin; dermawan → kaya. Enggan belajar → kurang bijaksana; gemar belajar → bijaksana."
+        },
+        {
+          "type": "paragraf",
+          "text": "Subha begitu terkesan hingga menyatakan diri berlindung kepada Buddha, Dhamma, dan Sangha — satu percakapan yang mengubah cara pandangnya sepenuhnya terhadap konsep keadilan hidup."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Sebelum belajar ini, pernahkah kamu bertanya-tanya seperti Subha, 'mengapa hidup terasa tidak adil'? Bagaimana penjelasan kamma ini terasa berbeda (atau serupa) dengan cara kamu memahaminya selama ini?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Niat, Bukan Takdir",
+      "section_num": "Bagian 2",
+      "judul": "Kamma sebagai Niat (Cetanā), Bukan Takdir",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Definisi paling penting tentang kamma datang dari Nibbedhika Sutta: *‘Cetanāhaṃ bhikkhave kammaṃ vadāmi — Kehendak (cetanā), para bhikkhu, itulah yang kusebut kamma. Setelah berkehendak, seseorang bertindak melalui tubuh, ucapan, dan pikiran.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Niat yang Menentukan",
+          "text": "Ini sebabnya kamma **bukan sekadar tindakan fisik**. Membunuh serangga tanpa sengaja secara tidak sadar berbeda bobotnya dari membunuh dengan niat jahat. Yang menciptakan kamma adalah **kehendak di balik tindakan**, bukan tindakannya semata."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Karena kamma soal niat, sutta ini juga menjelaskan kamma bisa berbuah dalam tiga waktu berbeda: matang di kehidupan ini juga, matang di kelahiran berikutnya, atau matang di kelahiran-kelahiran sesudahnya. Bukan semua kamma berbuah instan."
+        },
+        {
+          "type": "paragraf",
+          "text": "Di masa Buddha, ada kelompok yang berpandangan bahwa **segala sesuatu semata-mata ditentukan oleh kamma masa lalu** — seolah manusia tak berdaya mengubah nasibnya. Dalam Titthāyatana Sutta, Buddha membantah pandangan ini dengan tegas."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Mengapa Fatalisme Ditolak",
+          "text": "Buddha menunjukkan: jika **segalanya** semata ditentukan kamma lampau, maka tidak ada gunanya berusaha berbuat baik atau menghindari kejahatan sekarang — semuanya 'sudah ditakdirkan'. Pandangan seperti ini, kata Buddha, membuat orang **berhenti berusaha (akiriya)**. Kamma memang membentuk kondisi awal kita, tapi kehendak kita **saat ini** tetap punya kekuatan penuh membentuk masa depan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Ada orang yang memakai kata 'karma' untuk membenarkan sikap pasrah ('sudah nasib') atau bahkan menghakimi penderitaan orang lain ('pasti karma buruknya'). Setelah memahami kamma sebagai cetanā, bagaimana kamu akan menjelaskan kekeliruan pandangan itu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Membuktikan",
+      "section_num": "Bagian 3",
+      "judul": "Membuktikan Hukum Karma dalam Hidupku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kamu tidak perlu menunggu kelahiran berikutnya untuk melihat kamma bekerja. Banyak pola sebab-akibat niat-tindakan-akibat sudah terlihat jelas dalam rentang satu kehidupan, bahkan dalam hitungan hari atau minggu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Perhatikan polanya: niat baik yang konsisten (jujur, membantu, disiplin belajar) cenderung membangun kepercayaan, relasi baik, dan kompetensi dari waktu ke waktu. Niat buruk yang konsisten (menipu, malas, kasar) cenderung mengikis hal yang sama. Ini bukan hukuman dari luar — ini konsekuensi wajar dari kehendak yang berulang."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba telusuri 2–3 pola sebab-akibat dalam hidupmu sendiri — satu di mana niat baikmu berbuah baik, satu lagi di mana niat kurang baik berbuah kurang menyenangkan. Apa yang bisa kamu pelajari dari pola itu untuk pilihan-pilihanmu ke depan?",
+          "hint": "Kalau ada pengalaman yang terasa terlalu personal untuk dituliskan, cukup renungkan dalam hati — tidak apa-apa."
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 4",
+      "judul": "Sintesis: Pemilik Sah atas Diri Sendiri",
+      "blocks": [
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Kamma dijawab lewat Cūḷakammavibhaṅga Sutta** — tindakan menggolongkan makhluk rendah dan tinggi, bukan nasib acak",
+            "**Kamma adalah cetanā** — kehendak di balik tindakan, bukan tindakan fisik semata",
+            "**Bukan fatalisme** — Titthāyatana Sutta menolak pandangan bahwa segalanya semata ditentukan masa lalu",
+            "**Bisa dibuktikan sekarang** — pola niat-tindakan-akibat terlihat bahkan dalam satu kehidupan"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan memperluas pertanyaan ini melampaui satu kehidupan: bagaimana kamma berkaitan dengan Punabbhava, kelahiran kembali."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah memahami kamma sebagai kehendak yang bisa kamu kendalikan sekarang, satu niat apa yang ingin kamu perkuat mulai hari ini?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 2",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 2"
+  }
+}

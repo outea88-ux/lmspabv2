@@ -1,0 +1,302 @@
+{
+  "topik_id": "6.2d",
+  "kode_topik_lms": "XI-T7",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 16,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.2d-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa nama perumah tangga yang bertanya kepada Buddha tentang syarat kesejahteraan hidup dalam Vyāgghapajja Sutta?",
+      "opsi": {
+        "a": "Dīghajānu",
+        "b": "Subha",
+        "c": "Sigāla",
+        "d": "Anāthapiṇḍika"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Penanya dalam Cūḷakammavibhaṅga Sutta (Kelas XII), bukan sutta ini",
+        "c": "Tokoh dalam Sigālovāda Sutta (Kelas XI, Topik 3), bukan sutta ini",
+        "d": "Tokoh dalam kisah dāna (Kelas XI, Topik 1), bukan sutta ini"
+      }
+    },
+    {
+      "id": "6.2d-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Manakah yang termasuk salah satu dari 4 syarat kesejahteraan DUNIAWI dalam Vyāgghapajja Sutta?",
+      "opsi": {
+        "a": "Uṭṭhāna-sampadā (kecakapan berusaha)",
+        "b": "Saddhā-sampadā (keyakinan)",
+        "c": "Sīla-sampadā (moralitas)",
+        "d": "Paññā-sampadā (kebijaksanaan)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ini salah satu dari 4 syarat kesejahteraan BATIN, bukan duniawi",
+        "c": "Ini salah satu dari 4 syarat kesejahteraan BATIN, bukan duniawi",
+        "d": "Ini salah satu dari 4 syarat kesejahteraan BATIN, bukan duniawi"
+      }
+    },
+    {
+      "id": "6.2d-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Karena Buddha juga mengajarkan syarat kesejahteraan batin, berarti mengejar kesejahteraan duniawi (uang, karier) itu sebenarnya tidak penting atau bahkan salah.’",
+      "pertanyaan": "Apa yang keliru dari pemahaman siswa ini, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Pemahaman itu benar sepenuhnya",
+        "b": "Buddha tidak memisahkan atau mempertentangkan kesejahteraan duniawi dan batin — keduanya dijelaskan berjalan berdampingan dan saling melengkapi, bukan salah satu lebih benar dari yang lain",
+        "c": "Buddha hanya peduli pada kesejahteraan duniawi, bukan batin",
+        "d": "Vyagghapajja Sutta tidak pernah membahas kesejahteraan duniawi sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang menegaskan keduanya berjalan berdampingan",
+        "c": "Bertentangan — Buddha jelas membahas KEDUA jenis kesejahteraan secara seimbang",
+        "d": "Bertentangan dengan fakta bahwa Bagian 1 secara khusus membahas 4 syarat duniawi"
+      }
+    },
+    {
+      "id": "6.2d-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa bekerja sangat keras (uṭṭhāna-sampadā) tapi selalu menghabiskan seluruh penghasilannya tanpa perhitungan, sehingga tidak pernah punya tabungan.",
+      "pertanyaan": "Syarat kesejahteraan duniawi mana yang paling terlihat kurang diterapkan siswa ini?",
+      "opsi": {
+        "a": "Samajīvikatā (kehidupan seimbang) — pengeluaran yang tidak sepadan dengan kemampuan mengelola",
+        "b": "Kalyāṇamittatā (persahabatan baik)",
+        "c": "Uṭṭhāna-sampadā (kecakapan berusaha)",
+        "d": "Sīla-sampadā (moralitas)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Skenario tidak menyebutkan soal pertemanan, tidak relevan dengan masalah pengeluaran",
+        "c": "Skenario justru menunjukkan siswa ini SUDAH menerapkan syarat ini (bekerja keras)",
+        "d": "Sīla-sampadā adalah syarat kesejahteraan BATIN, bukan duniawi, dan tidak relevan dengan skenario pengelolaan keuangan ini"
+      }
+    },
+    {
+      "id": "6.2d-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa istilah modern 'work-life balance' relevan dibandingkan dengan Fakta Menarik di Bagian 2 tentang delapan syarat Vyagghapajja Sutta?",
+      "opsi": {
+        "a": "Keduanya sama-sama menekankan pentingnya keseimbangan antara berbagai aspek kehidupan (dalam hal ini duniawi dan batin), meski Vyagghapajja Sutta merumuskannya jauh lebih awal",
+        "b": "Kedua konsep ini sebenarnya sama sekali tidak berkaitan",
+        "c": "Vyagghapajja Sutta secara harfiah menggunakan istilah 'work-life balance' dalam bahasa Pali",
+        "d": "Work-life balance modern menggantikan seluruh ajaran Vyagghapajja Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesamaan tematik (keseimbangan) yang eksplisit dijelaskan di Fakta Menarik",
+        "c": "Klaim yang tidak masuk akal secara historis-linguistik",
+        "d": "Tidak sesuai — materi menunjukkan keduanya SEJALAN, bukan saling menggantikan"
+      }
+    },
+    {
+      "id": "6.2d-q06",
+      "level_soal": "HOTS",
+      "pemantik": "Sebuah kelompok siswa merencanakan proyek aksi sosial yang sangat ambisius (membangun perpustakaan desa lengkap) tanpa mempertimbangkan waktu, dana, dan tenaga yang tersedia, sehingga proyek terbengkalai di tengah jalan.",
+      "pertanyaan": "Prinsip apa dari Poin Kunci Bagian 3 yang seharusnya diperhatikan kelompok ini sejak awal?",
+      "opsi": {
+        "a": "Proyek berskala kecil namun benar-benar terlaksana jauh lebih bernilai daripada rencana besar yang berujung tidak jalan",
+        "b": "Proyek sosial harus selalu seambisius mungkin agar terlihat mengesankan",
+        "c": "Proyek aksi sosial sebaiknya tidak perlu direncanakan sama sekali",
+        "d": "Proyek yang gagal selalu lebih baik daripada proyek yang berhasil"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan Poin Kunci yang justru menganjurkan realistis, bukan ambisius berlebihan",
+        "c": "Bertentangan dengan seluruh Bagian 3 yang justru menekankan pentingnya perencanaan (proposal, target, indikator)",
+        "d": "Tidak masuk akal dan tidak didukung materi mana pun"
+      }
+    },
+    {
+      "id": "6.2d-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara Sigālovāda Sutta (Kelas XI, Topik 3) dan Vyagghapajja Sutta dalam konteks proyek aksi sosial di Bagian 3?",
+      "opsi": {
+        "a": "Sigālovāda Sutta memberi kerangka relasi sosial timbal balik (enam arah); Vyagghapajja Sutta memberi kerangka pengelolaan sumber daya (waktu, tenaga, keuangan) — keduanya melengkapi dasar prinsip untuk merancang aksi sosial yang berkelanjutan",
+        "b": "Kedua sutta ini sebenarnya membahas hal yang benar-benar identik",
+        "c": "Vyagghapajja Sutta membatalkan seluruh prinsip Sigālovāda Sutta",
+        "d": "Sigālovāda Sutta tidak relevan sama sekali dengan proyek aksi sosial"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan fokus (relasi sosial vs pengelolaan sumber daya) antara kedua sutta",
+        "c": "Tidak sesuai — kedua sutta saling melengkapi, bukan saling membatalkan",
+        "d": "Bertentangan dengan penyebutan eksplisit Sigālovāda Sutta sebagai landasan proyek ini di Bagian 3"
+      }
+    },
+    {
+      "id": "6.2d-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Setelah proyek aksi sosial selesai, sebuah kelompok hanya melaporkan keberhasilannya dan menyembunyikan seluruh kendala yang mereka alami selama pelaksanaan.",
+      "pertanyaan": "Bagaimana pendekatan pelaporan kelompok ini dinilai berdasarkan semangat refleksi yang dianjurkan di Bagian 4?",
+      "opsi": {
+        "a": "Pendekatan itu sudah tepat karena hanya keberhasilan yang perlu dilaporkan",
+        "b": "Pendekatan itu kurang sesuai — evaluasi tantangan pelaksanaan sama pentingnya dengan merayakan keberhasilan, sesuai prinsip refleksi jujur yang ditekankan Bagian 4",
+        "c": "Kendala dalam proyek sosial tidak pernah terjadi jika direncanakan dengan baik",
+        "d": "Refleksi jujur hanya diperlukan jika proyek gagal total"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan poin 'refleksi jujur' yang eksplisit di bullet list Bagian 4",
+        "c": "Klaim tidak realistis yang bertentangan dengan pengalaman umum proyek nyata",
+        "d": "Bertentangan dengan prinsip refleksi jujur yang berlaku terlepas dari hasil akhir proyek"
+      }
+    },
+    {
+      "id": "6.2d-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini dipilih sebagai PENUTUP seluruh elemen Ritual Kelas XI, bukan sekadar topik biasa?",
+      "opsi": {
+        "a": "Karena topik ini menyintesis perjalanan dari praktik batin (Vipassanā), pemaknaan ritual, dan akomodasi budaya menjadi tindakan nyata di masyarakat — mewujudkan nilai-nilai batin dalam kontribusi sosial konkret",
+        "b": "Karena topik ini adalah topik paling mudah sehingga cocok untuk penutup",
+        "c": "Karena topik-topik sebelumnya di elemen Ritual sebenarnya tidak penting dibanding topik ini",
+        "d": "Urutan topik ini murni kebetulan tanpa pertimbangan pedagogis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — topik ini melibatkan proyek nyata yang menuntut perencanaan matang, bukan sekadar 'mudah'",
+        "c": "Bertentangan dengan penekanan bahwa topik ini justru MERANGKUM, bukan mengecilkan, topik-topik sebelumnya",
+        "d": "Mengabaikan struktur kurikulum yang jelas dirancang bertahap dan berpuncak pada topik ini"
+      }
+    },
+    {
+      "id": "6.2d-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana cāga-sampadā (kedermawanan) dalam Vyagghapajja Sutta berkaitan dengan pembelajaran tentang Anāthapiṇḍika dan Visākhā di Kelas XI, Topik 1?",
+      "opsi": {
+        "a": "Keduanya menunjukkan tema yang sama — dāna/kedermawanan sebagai bagian penting dari kehidupan beragama yang utuh, baik dalam kisah individu bersejarah maupun dalam kerangka syarat kesejahteraan batin yang berlaku umum",
+        "b": "Tidak ada keterkaitan sama sekali antara kedua materi ini",
+        "c": "Anāthapiṇḍika dan Visākhā adalah tokoh yang disebutkan langsung dalam Vyagghapajja Sutta",
+        "d": "Cāga-sampadā membatalkan seluruh pembelajaran tentang dāna sebelumnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesamaan tema dāna/kedermawanan yang menghubungkan kedua materi lintas topik",
+        "c": "Tidak sesuai fakta — kedua tokoh ini tidak disebutkan dalam Vyagghapajja Sutta",
+        "d": "Tidak sesuai — kedua materi saling memperkuat tema yang sama, bukan saling membatalkan"
+      }
+    },
+    {
+      "id": "6.2d-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan pendekatan antara kalyāṇamittatā (persahabatan baik) sebagai syarat kesejahteraan duniawi, dan sekadar 'memiliki banyak teman'?",
+      "opsi": {
+        "a": "Kalyāṇamittatā menekankan KUALITAS relasi — bergaul dengan orang berintegritas yang membawa pengaruh baik, bukan sekadar kuantitas jumlah pertemanan tanpa mempertimbangkan pengaruhnya",
+        "b": "Keduanya adalah konsep yang benar-benar identik tanpa perbedaan",
+        "c": "Kalyāṇamittatā berarti harus memiliki teman sebanyak mungkin tanpa terkecuali",
+        "d": "Kalyāṇamittatā tidak ada hubungannya dengan pertemanan sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan penekanan pada kualitas (integritas) yang menjadi inti definisi kalyāṇamittatā",
+        "c": "Menyalahartikan konsep sebagai soal kuantitas, bertentangan dengan definisi yang dijelaskan materi",
+        "d": "Bertentangan langsung dengan terjemahan dan penjelasan istilah ini di Bagian 1"
+      }
+    },
+    {
+      "id": "6.2d-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menunjukkan bahwa 'beragama aktif' tidak sama dengan sekadar 'rajin beribadah secara ritual'?",
+      "opsi": {
+        "a": "Topik ini menekankan bahwa nilai-nilai batin (keyakinan, moralitas, kedermawanan, kebijaksanaan) perlu diwujudkan lewat kontribusi nyata bagi masyarakat, melampaui sekadar kehadiran dalam ritual formal semata",
+        "b": "Topik ini menyatakan bahwa ritual keagamaan sama sekali tidak penting",
+        "c": "Topik ini hanya membahas ritual formal tanpa menyinggung aksi nyata",
+        "d": "Topik ini menyamakan sepenuhnya antara ritual dan aksi sosial tanpa perbedaan apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan pesan materi — topik-topik sebelumnya (Topik 5) justru menegaskan ritual tetap bermakna",
+        "c": "Bertentangan langsung dengan keseluruhan fokus Bagian 3-4 pada aksi nyata",
+        "d": "Mengabaikan pembedaan yang jelas antara ritual formal dan aksi sosial yang dijelaskan sepanjang topik"
+      }
+    },
+    {
+      "id": "6.2d-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana perjalanan dari Topik 4 (Vipassanā) hingga Topik 7 (Aksi Sosial) mencerminkan sebuah progresi yang koheren dalam elemen Ritual Kelas XI?",
+      "opsi": {
+        "a": "Progresi ini bergerak dari pengembangan kesadaran batin ke dalam (Vipassanā), pemaknaan praktik ritual (Topik 5), penyesuaian dengan konteks budaya (Topik 6), hingga akhirnya perwujudan nilai-nilai itu dalam tindakan nyata bagi masyarakat (Topik 7) — sebuah alur dari batin ke tindakan",
+        "b": "Keempat topik ini tidak memiliki hubungan progresif sama sekali, hanya kumpulan topik acak",
+        "c": "Topik 7 membatalkan seluruh pembelajaran di Topik 4-6",
+        "d": "Urutan keempat topik ini bisa dibalik tanpa memengaruhi pemahaman sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan progresi jelas dari batin-ke-tindakan yang dibangun sepanjang keempat topik ini",
+        "c": "Tidak sesuai — Topik 7 justru MENYINTESIS, bukan membatalkan, topik-topik sebelumnya",
+        "d": "Tidak sesuai — urutan ini dirancang bertahap dan saling membangun, tidak bisa dibalik sembarangan"
+      }
+    },
+    {
+      "id": "6.2d-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bagi siswa untuk berkonsultasi dengan guru SEBELUM memulai pelaksanaan proyek aksi sosial (Bagian 3), bukan setelah proyek selesai?",
+      "opsi": {
+        "a": "Konsultasi di awal memungkinkan penyesuaian rencana (skala, keamanan, kelayakan) sebelum sumber daya dan waktu terlanjur dikeluarkan, sejalan dengan prinsip realistis yang ditekankan Poin Kunci Bagian 3",
+        "b": "Konsultasi di awal tidak memiliki manfaat apa pun dibanding dilakukan di akhir",
+        "c": "Guru hanya perlu tahu hasil akhir proyek, tidak perlu terlibat dalam prosesnya",
+        "d": "Konsultasi awal hanya formalitas administratif tanpa nilai praktis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan nilai praktis pencegahan masalah yang bisa diantisipasi sejak awal",
+        "c": "Bertentangan dengan anjuran eksplisit konsultasi SEBELUM pelaksanaan di Bagian 3",
+        "d": "Meremehkan fungsi konsultasi sebagai bagian dari perencanaan realistis yang ditekankan materi"
+      }
+    },
+    {
+      "id": "6.2d-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman tentang 8 syarat kesejahteraan (Vyagghapajja Sutta) mempersiapkan siswa untuk topik-topik filosofis yang lebih mendalam di Kelas XII (Empat Kebenaran Mulia, Karma, dst)?",
+      "opsi": {
+        "a": "Topik ini menunjukkan bahwa ajaran Buddha relevan bagi kehidupan praktis sehari-hari (bekerja, mengelola uang, berteman), fondasi konkret yang akan diperdalam secara filosofis di Kelas XII tentang mengapa prinsip-prinsip ini bekerja",
+        "b": "Topik ini tidak ada hubungan apa pun dengan pembelajaran Kelas XII",
+        "c": "Kelas XII akan sepenuhnya mengulang isi Vyagghapajja Sutta tanpa materi baru",
+        "d": "Topik ini menggantikan kebutuhan mempelajari Kelas XII sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesinambungan kurikulum yang dirancang bertahap antar jenjang",
+        "c": "Tidak sesuai — Kelas XII membahas materi doktrinal baru (Empat Kebenaran Mulia, dst), bukan mengulang Vyagghapajja Sutta",
+        "d": "Tidak sesuai — topik ini adalah PERSIAPAN, bukan pengganti, pembelajaran Kelas XII"
+      }
+    },
+    {
+      "id": "6.2d-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Merefleksikan keseluruhan Kelas XI (Topik 1-7), bagaimana benang merah utama yang menghubungkan elemen Sejarah (Topik 1-3) dengan elemen Ritual (Topik 4-7)?",
+      "opsi": {
+        "a": "Elemen Sejarah membangun pemahaman tentang keteladanan, keragaman, dan komunikasi lintas budaya; elemen Ritual menerjemahkan pemahaman itu ke praktik batin dan tindakan nyata — keduanya bersama membentuk siswa yang memahami DAN mempraktikkan nilai-nilai Buddhis secara utuh",
+        "b": "Tidak ada benang merah yang menghubungkan kedua elemen ini, keduanya berdiri sendiri",
+        "c": "Elemen Ritual membatalkan seluruh pembelajaran elemen Sejarah",
+        "d": "Kedua elemen ini seharusnya dipelajari dalam urutan terbalik agar lebih masuk akal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan keterkaitan tematik (dāna, keteladanan, relasi sosial) yang menghubungkan kedua elemen sepanjang Kelas XI",
+        "c": "Tidak sesuai — kedua elemen saling melengkapi sebagai pemahaman dan praktik, bukan saling membatalkan",
+        "d": "Tidak berdasar — urutan kurikulum ini dirancang dengan pertimbangan pedagogis yang jelas"
+      }
+    }
+  ]
+}

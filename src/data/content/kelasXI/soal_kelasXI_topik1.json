@@ -1,0 +1,284 @@
+{
+  "topik_id": "6.1a",
+  "kode_topik_lms": "XI-T1",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.1a-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Apa arti nama julukan ‘Anāthapiṇḍika’?",
+      "opsi": {
+        "a": "Pemberi makan bagi mereka yang tak berpelindung",
+        "b": "Saudagar terkaya di dunia",
+        "c": "Sahabat karib Sang Buddha",
+        "d": "Pembangun seribu wihāra"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ia memang kaya, tapi ini bukan arti harfiah nama julukannya",
+        "c": "Bukan makna nama julukan, meski ia memang dekat dengan Buddha",
+        "d": "Berlebihan dan tidak sesuai fakta — ia membangun Jetavana, bukan 'seribu wihara'"
+      }
+    },
+    {
+      "id": "6.1a-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Wihāra apa yang dibangun Visākhā dari hasil penjualan perhiasannya?",
+      "opsi": {
+        "a": "Jetavana",
+        "b": "Pubbārāma (Migāramātupāsāda)",
+        "c": "Veluvana",
+        "d": "Ghositarāma"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Ini wihāra yang dibangun Anāthapiṇḍika, bukan Visākhā",
+        "c": "Wihāra lain (dibangun Raja Bimbisāra), tidak terkait Visākhā",
+        "d": "Wihāra lain di Kosambī, tidak terkait Visākhā"
+      }
+    },
+    {
+      "id": "6.1a-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Anāthapiṇḍika hebat karena dia sangat kaya. Kalau aku tidak kaya, aku tidak bisa jadi penyokong Dhamma seperti dia.’",
+      "pertanyaan": "Berdasarkan materi yang kamu pelajari, apa yang keliru dari kesimpulan siswa tersebut?",
+      "opsi": {
+        "a": "Kesimpulannya benar sepenuhnya — tanpa kekayaan besar, seseorang tidak mungkin menjadi penyokong Dhamma",
+        "b": "Yang membuat Anāthapiṇḍika istimewa bukan semata jumlah hartanya, melainkan konsistensi dan kesediaannya berbagi — nilai yang bisa diterapkan pada skala apa pun",
+        "c": "Anāthapiṇḍika sebenarnya tidak kaya, hanya terkenal karena kebetulan",
+        "d": "Menjadi penyokong Dhamma hanya berlaku bagi orang zaman Buddha, tidak relevan masa kini"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan poin kunci materi tentang dāna dalam berbagai bentuk dan skala",
+        "c": "Tidak sesuai fakta — ia memang tercatat sebagai saudagar terkaya di Sāvatthi",
+        "d": "Bertentangan dengan Bagian 5 yang menekankan relevansi nilai ini di masa kini"
+      }
+    },
+    {
+      "id": "6.1a-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Dua siswa berdiskusi. Siswa A bilang, ‘Dāna paling berharga adalah uang.’ Siswa B bilang, ‘Bukan, dāna yang paling berharga adalah waktu.’",
+      "pertanyaan": "Berdasarkan kisah Anāthapiṇḍika dan Visākhā, bagaimana sebaiknya perdebatan ini disikapi?",
+      "opsi": {
+        "a": "Siswa A sepenuhnya benar, karena kedua tokoh terkenal karena kekayaan mereka",
+        "b": "Siswa B sepenuhnya benar, karena kunjungan rutin Anāthapiṇḍika lebih penting dari hartanya",
+        "c": "Keduanya menunjukkan bentuk dāna yang berbeda dan sama-sama bernilai — materi (Jetavana, Pubbārāma) dan konsistensi/waktu (kunjungan harian) saling melengkapi, bukan saling meniadakan",
+        "d": "Perdebatan ini tidak relevan karena dāna hanya berlaku bagi orang kaya"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan poin kunci Bagian 2 tentang pentingnya konsistensi, bukan hanya nilai materi",
+        "b": "Terlalu ekstrem ke arah lain — dāna materi (Jetavana, Pubbārāma) juga eksplisit ditekankan penting",
+        "d": "Bertentangan dengan keseluruhan semangat materi tentang dāna lintas skala"
+      }
+    },
+    {
+      "id": "6.1a-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa persamaan pola tindakan Anāthapiṇḍika membeli Jetavana dan Visākhā membangun Pubbārāma?",
+      "opsi": {
+        "a": "Keduanya mengubah sesuatu yang bernilai pribadi/duniawi (emas, perhiasan) menjadi manfaat jangka panjang bagi banyak orang",
+        "b": "Keduanya awalnya menolak memberi, lalu dipaksa oleh keadaan",
+        "c": "Keduanya membangun wihara tanpa izin dari Buddha terlebih dahulu",
+        "d": "Keduanya menggunakan kekuatan batin (abhiññā) untuk mempercepat pembangunan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — keduanya memberi dengan sukarela dan antusias",
+        "c": "Tidak sesuai fakta — tidak ada indikasi pembangunan tanpa restu",
+        "d": "Kekuatan batin justru dimiliki Moggallāna yang membantu Visākhā, bukan tokoh utamanya sendiri"
+      }
+    },
+    {
+      "id": "6.1a-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa julukan Visākhā sebagai 'Migāramātā' (ibu dari Migāra) menarik untuk direnungkan, mengingat Migāra adalah mertuanya, bukan anak kandungnya?",
+      "opsi": {
+        "a": "Julukan itu adalah kesalahan penulisan dalam kanon yang terlanjur populer",
+        "b": "Julukan itu mencerminkan bagaimana Visākhā berhasil membimbing mertuanya kepada Dhamma — seperti seorang ibu membimbing anaknya",
+        "c": "Migāra sebenarnya mengadopsi Visākhā secara resmi sebagai anaknya",
+        "d": "Julukan itu diberikan karena Visākhā secara harfiah melahirkan Migāra di kehidupan sebelumnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai fakta — julukan ini tercatat konsisten dalam banyak sumber, bukan kesalahan",
+        "c": "Tidak sesuai fakta — tidak ada catatan pengangkatan resmi semacam itu",
+        "d": "Tidak sesuai fakta — julukan ini bersifat simbolis, bukan literal"
+      }
+    },
+    {
+      "id": "6.1a-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana peran WALUBI di Indonesia modern bisa dipahami sebagai kelanjutan dari semangat Anāthapiṇḍika dan Visākhā, meski bentuknya sangat berbeda?",
+      "opsi": {
+        "a": "WALUBI menggantikan peran Sangha sepenuhnya, sehingga bhikkhu tidak lagi diperlukan",
+        "b": "WALUBI adalah bentuk dukungan yang terorganisasi dan kolektif terhadap kehidupan Buddhis, meneruskan esensi 'menopang Dhamma' meski dilakukan lewat institusi, bukan individu",
+        "c": "WALUBI tidak ada hubungannya dengan konsep dāna sama sekali",
+        "d": "WALUBI hanya mengurus perayaan Waisak dan tidak memiliki fungsi lain"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Klaim berlebihan yang tidak sesuai fakta maupun logika peran organisasi ini",
+        "c": "Bertentangan dengan penjelasan eksplisit di Bagian 4 tentang WALUBI sebagai evolusi bentuk dāna",
+        "d": "Terlalu menyempitkan — materi menyebutkan cakupan lebih luas (kerja sama lintas mazhab, aksi sosial)"
+      }
+    },
+    {
+      "id": "6.1a-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Sebuah komunitas vihara kecil ingin membangun ruang belajar baru, tapi tidak ada satu pun anggota yang sekaya Anāthapiṇḍika.",
+      "pertanyaan": "Berdasarkan pola yang dijelaskan di Bagian 4, pendekatan apa yang paling relevan bagi komunitas ini?",
+      "opsi": {
+        "a": "Menunggu hingga muncul satu donatur tunggal yang sangat kaya, seperti pola zaman Buddha",
+        "b": "Mengumpulkan dana bersama dari banyak anggota komunitas secara kolektif — pola yang lebih umum di masa kini",
+        "c": "Membatalkan rencana karena dāna besar hanya mungkin dilakukan orang superkaya",
+        "d": "Meminta pemerintah membiayai seluruhnya tanpa keterlibatan komunitas"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan poin kunci Bagian 4 tentang evolusi bentuk dāna menuju kolektif",
+        "c": "Bertentangan dengan keseluruhan semangat materi yang menunjukkan dāna bisa berskala apa pun",
+        "d": "Mengabaikan esensi partisipasi komunitas yang jadi benang merah topik ini"
+      }
+    },
+    {
+      "id": "6.1a-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Selain dāna materi, peran apa lagi yang ditunjukkan Visākhā dalam kisahnya, berdasarkan Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Ia berperan aktif sebagai penghubung antara Sangha dan masyarakat umum, bukan sekadar donatur pasif",
+        "b": "Ia menjabat sebagai kepala biara di Pubbārāma",
+        "c": "Ia menjadi guru meditasi resmi bagi para bhikkhu",
+        "d": "Ia menggantikan posisi Ānanda sebagai pelayan pribadi Buddha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — sebagai umat awam, ia tidak menjabat posisi kepemimpinan monastik semacam ini",
+        "c": "Tidak sesuai fakta — peran ini tidak disebutkan dalam materi",
+        "d": "Tidak sesuai fakta — ini peran berbeda yang dipegang tokoh lain"
+      }
+    },
+    {
+      "id": "6.1a-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa tidak punya apa-apa untuk didanakan karena ia belum bekerja dan tidak memiliki uang sendiri.",
+      "pertanyaan": "Berdasarkan empat bentuk dāna yang dijelaskan di Bagian 5, pandangan manakah yang paling tepat untuk menanggapi keresahan siswa ini?",
+      "opsi": {
+        "a": "Ia memang belum bisa berdāna sampai memiliki penghasilan sendiri",
+        "b": "Dāna tidak terbatas pada materi — waktu, tenaga, keterampilan, dan kehadiran yang konsisten juga merupakan bentuk dāna yang sah",
+        "c": "Ia sebaiknya meminjam uang dari orang tua khusus untuk bisa berdāna",
+        "d": "Berdāna hanya wajib dilakukan oleh orang dewasa yang sudah bekerja"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan empat bentuk dāna yang dijelaskan materi",
+        "c": "Solusi yang tidak masuk akal dan tidak dianjurkan materi mana pun",
+        "d": "Tidak sesuai — materi justru menekankan dāna bisa dilakukan siapa pun, skala apa pun"
+      }
+    },
+    {
+      "id": "6.1a-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini melanjutkan tema dari Kelas X (Topik 1 dan 2) tentang penyiaran Dhamma dan pelaku sejarah masa kini?",
+      "opsi": {
+        "a": "Topik ini menggantikan tema sebelumnya karena dāna dianggap lebih penting dari penyiaran Dhamma",
+        "b": "Topik ini memperluas fokus dari 'yang mengajarkan Dhamma' (60 murid, Jinarakkhita, Goenka) ke 'yang menopang agar Dhamma bisa diajarkan' (Anāthapiṇḍika, Visākhā, WALUBI)",
+        "c": "Topik ini sama sekali tidak berkaitan dengan materi Kelas X",
+        "d": "Topik ini membuktikan bahwa dāna lebih penting daripada praktik meditasi yang dipelajari di Kelas X"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — kedua tema saling melengkapi, bukan saling menggantikan",
+        "c": "Bertentangan dengan keterkaitan tematik yang jelas (semangat mendukung Dhamma)",
+        "d": "Perbandingan yang tidak relevan — materi tidak membuat klaim hierarki semacam itu"
+      }
+    },
+    {
+      "id": "6.1a-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa kisah Anāthapiṇḍika 'menutupi tanah dengan emas' tetap diceritakan turun-temurun, meski terdengar seperti hal yang berlebihan?",
+      "opsi": {
+        "a": "Karena kisah ini murni fiksi yang tidak dianggap penting oleh tradisi Buddhis",
+        "b": "Karena kisah ini menjadi simbol kesungguhan dan ketulusan dāna yang luar biasa, melampaui sekadar transaksi jual-beli biasa",
+        "c": "Karena emas dianggap satu-satunya bentuk dāna yang sah dalam ajaran Buddha",
+        "d": "Karena kisah ini dimaksudkan untuk mempermalukan Pangeran Jeta yang menetapkan harga tinggi"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan penghormatan tradisi terhadap kisah ini sebagai bagian penting sejarah Buddhis",
+        "c": "Bertentangan langsung dengan keseluruhan materi yang menekankan keragaman bentuk dāna",
+        "d": "Menyalahartikan tujuan kisah — fokusnya pada ketulusan Anāthapiṇḍika, bukan mempermalukan siapa pun"
+      }
+    },
+    {
+      "id": "6.1a-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara pola dāna zaman Anāthapiṇḍika/Visākhā dengan pola dāna WALUBI di masa kini, berdasarkan Bagian 4?",
+      "opsi": {
+        "a": "Zaman dulu dāna dilakukan individu kaya secara personal; masa kini dāna cenderung terorganisasi secara kolektif lewat institusi",
+        "b": "Zaman dulu dāna hanya berupa uang; masa kini dāna hanya berupa waktu",
+        "c": "Zaman dulu dāna bersifat wajib; masa kini dāna bersifat terlarang",
+        "d": "Tidak ada perbedaan apa pun antara kedua pola tersebut"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Penyederhanaan yang tidak akurat — kedua zaman sama-sama mengenal beragam bentuk dāna",
+        "c": "Tidak sesuai fakta — dāna tidak pernah digambarkan sebagai wajib maupun terlarang dalam materi ini",
+        "d": "Mengabaikan perbedaan pola individu vs kolektif yang eksplisit dijelaskan"
+      }
+    },
+    {
+      "id": "6.1a-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seorang siswa rutin membantu membersihkan vihara setiap minggu tapi tidak pernah menyumbang uang, apakah tindakannya bisa disebut mewarisi semangat Anāthapiṇḍika dan Visākhā?",
+      "opsi": {
+        "a": "Tidak bisa, karena dāna sejati harus selalu dalam bentuk uang atau materi",
+        "b": "Bisa, karena konsistensi dan kesediaan menopang komunitas — bukan hanya jenis dāna materi — adalah esensi yang diteladankan kedua tokoh",
+        "c": "Tidak bisa, karena hanya orang dewasa yang bekerja yang boleh disebut penyokong Dhamma",
+        "d": "Bisa, tapi hanya jika ia juga menjadi bhikkhu di kemudian hari"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan keragaman bentuk dāna yang dijelaskan materi",
+        "c": "Tidak sesuai — materi tidak membatasi berdasarkan usia atau status pekerjaan",
+        "d": "Tidak relevan — kedua tokoh dalam kisah ini justru tetap menjadi umat awam sepanjang hidup"
+      }
+    },
+    {
+      "id": "6.1a-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa pesan utama yang ingin disampaikan topik ini lewat perbandingan Anāthapiṇḍika/Visākhā dengan WALUBI?",
+      "opsi": {
+        "a": "Bahwa cara mendukung Dhamma zaman dulu jauh lebih baik daripada cara masa kini",
+        "b": "Bahwa esensi menopang Dhamma tetap sama sepanjang zaman, meski bentuk dan skalanya terus berevolusi mengikuti konteks masyarakat",
+        "c": "Bahwa mendukung Dhamma hanya relevan bagi orang-orang di masa lampau",
+        "d": "Bahwa institusi seperti WALUBI seharusnya digantikan oleh donatur individu seperti zaman dulu"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — materi tidak membuat perbandingan nilai 'lebih baik/lebih buruk'",
+        "c": "Bertentangan langsung dengan keseluruhan Bagian 4 dan 5 yang menekankan relevansi masa kini",
+        "d": "Bertentangan dengan penjelasan bahwa evolusi bentuk dāna adalah hal wajar, bukan kemunduran"
+      }
+    }
+  ]
+}

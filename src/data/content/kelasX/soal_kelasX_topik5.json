@@ -1,0 +1,247 @@
+{
+  "topik_id": "5.2c",
+  "kode_topik_lms": "X-T5",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 13,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.2c-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Kata terakhir Buddha sebelum wafat, menurut Mahāparinibbāna Sutta, menekankan pentingnya…",
+      "opsi": {
+        "a": "Appamāda (kesungguhan/ketekunan)",
+        "b": "Kekayaan materi",
+        "c": "Menghafal seluruh Tipiṭaka",
+        "d": "Membangun candi baru"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Bukan pesan yang disampaikan; bertentangan dengan semangat ajaran secara umum",
+        "c": "Tidak sesuai isi kalimat terakhir yang justru menekankan kesungguhan berlatih, bukan hafalan",
+        "d": "Tidak sesuai fakta — tidak ada pesan seperti ini dalam sutta"
+      }
+    },
+    {
+      "id": "5.2c-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Dalam Appamāda Sutta, appamāda diibaratkan sebagai jejak kaki hewan apa, yang bisa memuat jejak kaki semua hewan darat lainnya?",
+      "opsi": {
+        "a": "Gajah",
+        "b": "Singa",
+        "c": "Kerbau",
+        "d": "Kuda"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Bukan hewan yang dipakai dalam perumpamaan ini",
+        "c": "Bukan hewan yang dipakai dalam perumpamaan ini",
+        "d": "Bukan hewan yang dipakai dalam perumpamaan ini"
+      }
+    },
+    {
+      "id": "5.2c-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa memutuskan langsung bermeditasi 1 jam penuh setiap hari mulai besok, meski sebelumnya belum pernah bermeditasi lebih dari 10 menit.",
+      "pertanyaan": "Berdasarkan Poin Kunci Bagian 2, apa risiko dari rencana siswa ini?",
+      "opsi": {
+        "a": "Tidak ada risiko sama sekali, semakin lama durasinya semakin baik",
+        "b": "Target yang terlalu ambisius berisiko membuatnya cepat menyerah, karena rutinitas yang bertahan biasanya dimulai dari langkah kecil yang konsisten, bukan lompatan besar",
+        "c": "Risikonya hanya soal kelelahan fisik, tidak ada risiko lain",
+        "d": "Rencana ini sudah pasti akan berhasil karena menunjukkan appamāda yang kuat"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang menekankan realistis, bukan sekadar durasi panjang",
+        "c": "Terlalu sempit — risiko utamanya soal keberlanjutan kebiasaan, bukan hanya kelelahan fisik",
+        "d": "Menyalahartikan appamāda sebagai soal intensitas ekstrem, bukan konsistensi bertahap"
+      }
+    },
+    {
+      "id": "5.2c-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa logika 'segala yang terbentuk pasti lapuk, maka berjuanglah dengan kesungguhan' terasa mendesak, bukan sekadar nasihat umum?",
+      "opsi": {
+        "a": "Karena kefanaan (ketidakkekalan) berarti kesempatan untuk berbuat baik juga terbatas dan tidak bisa ditunda tanpa batas — appamāda menjadi respons wajar terhadap kenyataan bahwa waktu tidak selamanya tersedia",
+        "b": "Karena Buddha ingin menakut-nakuti murid-muridnya di saat-saat terakhir",
+        "c": "Karena appamāda hanya relevan bagi orang yang sudah lanjut usia",
+        "d": "Karena kalimat ini sebenarnya tidak berkaitan dengan konsep ketidakkekalan sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai nada keseluruhan ajaran Buddha yang menekankan kejernihan, bukan menakut-nakuti",
+        "c": "Tidak sesuai — appamāda ditekankan relevan bagi siapa pun, termasuk siswa SMA",
+        "d": "Bertentangan langsung dengan struktur logis kalimat itu sendiri yang menghubungkan kefanaan dengan urgensi"
+      }
+    },
+    {
+      "id": "5.2c-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berhasil menempelkan rutinitas meditasi 5 menit setelah menggosok gigi setiap pagi, dan sudah berjalan konsisten selama 3 minggu.",
+      "pertanyaan": "Prinsip apa dari Bagian 2 yang paling menjelaskan keberhasilan siswa ini?",
+      "opsi": {
+        "a": "Menempelkan rutinitas baru pada kebiasaan yang sudah ada membuatnya lebih mudah dijaga dibanding rutinitas yang berdiri sendiri",
+        "b": "Keberhasilan ini murni kebetulan tanpa penjelasan tertentu",
+        "c": "Durasi 5 menit terlalu singkat untuk dianggap meditasi yang sah",
+        "d": "Keberhasilan ini hanya mungkin terjadi bagi orang yang sudah berpengalaman bertahun-tahun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan prinsip 'menempel pada kebiasaan lama' yang eksplisit dijelaskan sebagai tips praktis",
+        "c": "Bertentangan dengan Poin Kunci yang justru menyebut durasi singkat lebih baik daripada target besar yang gagal",
+        "d": "Bertentangan dengan semangat topik ini yang justru dirancang untuk pemula seperti siswa Kelas X"
+      }
+    },
+    {
+      "id": "5.2c-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana Fakta Menarik tentang perumpamaan jejak kaki gajah membantu menjelaskan kedudukan appamāda dibanding kebajikan lain?",
+      "opsi": {
+        "a": "Appamāda digambarkan sebagai kebajikan yang setara pentingnya dengan kebajikan lain, tidak lebih dan tidak kurang",
+        "b": "Appamāda digambarkan sebagai akar/dasar yang menopang seluruh kebajikan lain, bukan sekadar salah satu kebajikan yang berdiri sendiri di antara yang lain",
+        "c": "Appamāda digambarkan sebagai kebajikan yang paling tidak penting dibanding yang lain",
+        "d": "Appamāda digambarkan sebagai kebajikan yang hanya relevan bagi hewan, bukan manusia"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai — perumpamaan ini justru menunjukkan kedudukan istimewa (menopang semua), bukan sekadar setara",
+        "c": "Bertentangan langsung dengan makna perumpamaan yang menekankan pentingnya appamāda",
+        "d": "Menyalahartikan perumpamaan — gajah hanya dipakai sebagai analogi ukuran/cakupan, bukan makna literal"
+      }
+    },
+    {
+      "id": "5.2c-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini (merancang rutinitas) melanjutkan pembelajaran dari Topik 3 dan 4 (Ānāpānasati dan mengatasi rintangan batin)?",
+      "opsi": {
+        "a": "Topik ini menggantikan seluruh keterampilan yang dipelajari di Topik 3 dan 4, memulai dari nol",
+        "b": "Topik ini membangun di atas keterampilan yang sudah dilatih (teknik napas, cara menghadapi rintangan) untuk dijadikan kebiasaan yang bertahan lama, bukan sekadar dipelajari sekali lalu ditinggalkan",
+        "c": "Topik ini tidak berkaitan sama sekali dengan Topik 3 dan 4",
+        "d": "Topik ini hanya relevan bagi siswa yang gagal mempraktikkan Topik 3 dan 4"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan pernyataan eksplisit bahwa rutinitas dibangun di atas keterampilan sebelumnya, bukan dari nol",
+        "c": "Bertentangan dengan keterkaitan eksplisit yang dijelaskan di Bagian 2",
+        "d": "Terlalu sempit — topik ini relevan bagi semua siswa, bukan hanya yang gagal sebelumnya"
+      }
+    },
+    {
+      "id": "5.2c-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa appamāda berarti harus selalu sempurna dan tidak boleh pernah absen sehari pun dari rutinitasnya, sehingga ia sangat stres saat sekali melewatkan jadwalnya.",
+      "pertanyaan": "Bagaimana pemahaman siswa ini seharusnya disesuaikan dengan semangat keseluruhan topik ini?",
+      "opsi": {
+        "a": "Pemahamannya sudah tepat sepenuhnya, appamāda memang menuntut kesempurnaan mutlak tanpa toleransi",
+        "b": "Appamāda lebih tentang kesungguhan dan ketekunan jangka panjang, bukan kesempurnaan tanpa cela — rutinitas yang realistis (Bagian 2) justru dirancang untuk bertahan, termasuk memaafkan diri saat sesekali terlewat",
+        "c": "Siswa itu sebaiknya berhenti mencoba appamāda karena terlalu sulit dicapai",
+        "d": "Appamāda hanya berlaku bagi bhikkhu, bukan siswa SMA yang punya jadwal padat"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan semangat realistis dan bertahap yang ditekankan di Bagian 2",
+        "c": "Menghindar bukan solusi yang dianjurkan semangat topik ini",
+        "d": "Tidak sesuai — topik ini secara eksplisit dirancang untuk konteks siswa SMA/SMK"
+      }
+    },
+    {
+      "id": "5.2c-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa hubungan antara konsep 'ketidakkekalan' (yang mendasari appamāda) dengan pembelajaran tentang lima rintangan batin (Topik 4)?",
+      "opsi": {
+        "a": "Tidak ada hubungan sama sekali antara keduanya",
+        "b": "Sama seperti rintangan batin yang datang dan pergi (tidak kekal), kesadaran akan ketidakkekalan ini bisa dipakai untuk tidak terlalu larut dalam rintangan yang muncul — keduanya sama-sama akan berlalu",
+        "c": "Ketidakkekalan hanya berlaku untuk hal-hal fisik, sedangkan rintangan batin bersifat permanen",
+        "d": "Appamāda menggantikan seluruh kebutuhan memahami rintangan batin"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan keterkaitan konseptual antara ketidakkekalan dan sifat sementara rintangan batin",
+        "c": "Bertentangan dengan pemahaman umum bahwa rintangan batin juga berubah-ubah, bukan permanen",
+        "d": "Tidak sesuai — appamāda melengkapi, bukan menggantikan, pemahaman tentang rintangan batin"
+      }
+    },
+    {
+      "id": "5.2c-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa memilih waktu, durasi, dan tempat yang 'realistis' (bukan ideal secara teori) menjadi kunci keberhasilan rutinitas, menurut Bagian 2?",
+      "opsi": {
+        "a": "Karena rutinitas yang sesuai dengan kondisi nyata kehidupan seseorang lebih mungkin benar-benar dijalankan secara konsisten, dibanding rencana ideal yang sulit disesuaikan dengan jadwal harian yang sebenarnya",
+        "b": "Karena waktu dan tempat sebenarnya tidak memengaruhi keberhasilan meditasi sama sekali",
+        "c": "Karena rutinitas yang realistis selalu lebih pendek durasinya tanpa pengecualian",
+        "d": "Karena appamāda mengharuskan seseorang memilih waktu paling sulit agar lebih menantang"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penekanan pada pentingnya memilih waktu & tempat yang tepat",
+        "c": "Generalisasi berlebihan — materi menekankan realistis, bukan selalu 'lebih pendek' secara mutlak",
+        "d": "Menyalahartikan appamāda sebagai soal mencari kesulitan, bukan soal ketekunan yang berkelanjutan"
+      }
+    },
+    {
+      "id": "5.2c-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menjadi penutup yang tepat bagi keseluruhan elemen Ritual Kelas X, berdasarkan Bagian 3?",
+      "opsi": {
+        "a": "Topik ini merangkum perjalanan dari keterampilan dasar (napas, mengatasi rintangan) menuju keberlanjutan jangka panjang (rutinitas personal) — melengkapi siklus dari belajar teknik menjadi menjadikannya kebiasaan hidup",
+        "b": "Topik ini tidak berkaitan dengan topik-topik Ritual sebelumnya di Kelas X",
+        "c": "Topik ini menggantikan kebutuhan mempelajari Ānāpānasati maupun rintangan batin",
+        "d": "Topik ini hanya relevan sebagai formalitas administratif penutup semester"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan rangkuman eksplisit perjalanan elemen Ritual di Bagian 3",
+        "c": "Tidak sesuai — topik ini melengkapi, bukan menggantikan, pembelajaran sebelumnya",
+        "d": "Meremehkan nilai substantif topik ini yang justru menekankan keberlanjutan praktik nyata"
+      }
+    },
+    {
+      "id": "5.2c-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara 'appamāda' dan sekadar 'disiplin keras/kaku' dalam konteks merancang rutinitas meditasi?",
+      "opsi": {
+        "a": "Keduanya adalah istilah yang benar-benar identik tanpa perbedaan",
+        "b": "Appamāda menekankan kesungguhan yang berkelanjutan dan realistis (termasuk fleksibel menyesuaikan target), sedangkan disiplin kaku cenderung menuntut kesempurnaan tanpa ruang penyesuaian, berisiko membuat seseorang menyerah total",
+        "c": "Disiplin kaku selalu lebih baik daripada appamāda dalam segala situasi",
+        "d": "Appamāda hanya relevan bagi bhikkhu, sedangkan disiplin kaku hanya relevan bagi umat awam"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan pendekatan yang jelas dijelaskan sepanjang Bagian 2",
+        "c": "Bertentangan dengan penekanan risiko target berlebihan yang dijelaskan di Bagian 2",
+        "d": "Tidak sesuai — tidak ada pembatasan semacam ini yang disebutkan materi"
+      }
+    },
+    {
+      "id": "5.2c-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha memilih menyampaikan pesan tentang ketidakkekalan dan kesungguhan sebagai kata-kata TERAKHIRNYA, bukan ajaran lain seperti Empat Kebenaran Mulia atau Jalan Mulia Berunsur Delapan?",
+      "opsi": {
+        "a": "Karena pesan ini merangkum semangat praktis di balik seluruh ajaran lain — memahami ajaran saja tidak cukup tanpa kesungguhan untuk terus mempraktikkannya, apa pun ajaran spesifik yang dipelajari",
+        "b": "Karena Empat Kebenaran Mulia dan Jalan Mulia Berunsur Delapan sebenarnya tidak penting",
+        "c": "Karena Buddha lupa menjelaskan ajaran-ajaran lain sebelumnya",
+        "d": "Karena pesan ini dipilih secara acak tanpa maksud khusus"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan kedudukan sentral kedua ajaran itu di seluruh kurikulum PAB",
+        "c": "Tidak masuk akal — seluruh 45 tahun pengabdian Buddha membuktikan sebaliknya",
+        "d": "Mengabaikan makna mendalam yang dijelaskan sepanjang Bagian 1 tentang pesan penutup ini"
+      }
+    }
+  ]
+}

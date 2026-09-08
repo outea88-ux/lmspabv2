@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "topik_id": "6.2d",
+    "kode_topik_lms": "XI-T7",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Ritual",
+    "kode_cp": "6.2",
+    "judul": "Delapan Syarat, Satu Kehidupan Utuh",
+    "subjudul": "Aksi Sosial-Budaya: Peran Aktif Individu Beragama",
+    "breadcrumb": "Kelas XI · Topik 7 · Ritual",
+    "estimasi_baca_menit": 11,
+    "sumber_kanon": [
+      "Vyāgghapajja / Dīghajānu Sutta (AN 8.54)"
+    ],
+    "catatan_editorial": "Topik penutup elemen Ritual sekaligus penutup seluruh Kelas XI, menggabungkan pembelajaran konseptual dengan proyek aksi sosial nyata.",
+    "tujuan_pembelajaran": "Peserta didik merefleksikan diri sebagai individu beragama yang berperan aktif dalam aksi sosial-budaya berlandaskan Sigālovāda Sutta dan Vyāgghapajja Sutta."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "4 Syarat Duniawi",
+      "section_num": "Bagian 1",
+      "judul": "Dīghajānu dan Empat Syarat Kesejahteraan Duniawi",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Seorang perumah tangga bernama **Dīghajānu** (dijuluki Vyagghapajja) menghadap Buddha dengan permintaan jujur: *‘Kami umat awam yang menikmati kesenangan duniawi — hidup berkeluarga, memakai perhiasan, mengelola harta. Ajarkanlah kami hal-hal yang membawa kesejahteraan, baik untuk kehidupan ini maupun kehidupan mendatang.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — 4 Syarat Kesejahteraan Kehidupan Ini",
+          "text": "**Uṭṭhāna-sampadā** (kecakapan berusaha) — terampil dan tidak malas dalam pekerjaan apa pun yang digeluti. **Ārakkha-sampadā** (kecakapan menjaga) — melindungi hasil jerih payah dari kehilangan sia-sia. **Kalyāṇamittatā** (persahabatan baik) — bergaul dengan orang-orang yang berintegritas, bukan yang menjerumuskan. **Samajīvikatā** (kehidupan seimbang) — pengeluaran sepadan dengan pemasukan, tidak boros maupun terlalu pelit."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari empat syarat kesejahteraan duniawi ini, mana yang menurutmu paling relevan untuk kamu latih sejak sekarang, sebelum benar-benar bekerja penuh waktu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "4 Syarat Batin",
+      "section_num": "Bagian 2",
+      "judul": "Empat Syarat Kesejahteraan Batin",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Menariknya, Buddha tidak berhenti di urusan duniawi. Ia melanjutkan dengan empat syarat lain untuk kesejahteraan jangka panjang: **saddhā-sampadā** (keyakinan), **sīla-sampadā** (moralitas), **cāga-sampadā** (kedermawanan), dan **paññā-sampadā** (kebijaksanaan)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Dunia dan Batin Berjalan Berdampingan",
+          "text": "Ini titik penting yang menyatukan seluruh topik ini: Buddha **tidak memisahkan** kesejahteraan materi dari kesejahteraan batin, seolah keduanya bertentangan. Justru sebaliknya — kecakapan berusaha (dunia) berjalan berdampingan dengan kebijaksanaan (batin); kedermawanan (batin) memberi makna pada harta yang diusahakan (dunia)."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Delapan syarat ini kadang disingkat sebagai model *‘kesejahteraan holistik’* — istilah modern yang sebenarnya sudah dirumuskan Buddha lebih dari 2.600 tahun lalu, jauh sebelum konsep 'work-life balance' populer di masa kini."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan: apakah kamu cenderung lebih fokus mengejar kesejahteraan duniawi (nilai, karier, harta) atau kesejahteraan batin (nilai, moralitas, kebijaksanaan)? Bagaimana kamu bisa menyeimbangkan keduanya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Merancang Aksi",
+      "section_num": "Bagian 3",
+      "judul": "Merancang Proyek Aksi Sosial Berbasis Dhamma",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Saatnya menerjemahkan delapan syarat ini menjadi tindakan nyata. Bersama kelompokmu, rancang proyek aksi sosial berskala kecil-menengah yang mencerminkan nilai-nilai Sigālovāda Sutta (Topik 3) dan Vyagghapajja Sutta — bisa berupa kegiatan lingkungan, edukasi, bantuan sosial, atau bentuk kepedulian lain yang relevan dengan komunitasmu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Realistis Lebih Baik dari Ambisius",
+          "text": "Proyek yang berskala kecil namun benar-benar terlaksana jauh lebih bernilai daripada rencana besar yang berujung tidak jalan. Tentukan target yang jelas, indikator keberhasilan yang bisa diukur, dan pembagian peran yang adil dalam kelompok."
+        },
+        {
+          "type": "paragraf",
+          "text": "Susun proposal singkat: apa masalah yang ingin diatasi, siapa yang akan terlibat, langkah-langkah pelaksanaan, dan bagaimana kalian akan tahu proyek ini berhasil. Konsultasikan dengan guru sebelum memulai pelaksanaan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari empat syarat kesejahteraan duniawi (Bagian 1), mana yang paling relevan diterapkan kelompokmu saat merancang dan menjalankan proyek ini?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Refleksi Penutup",
+      "section_num": "Bagian 4",
+      "judul": "Presentasi & Refleksi Peran Aktif Beragama",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Setelah proyek terlaksana, saatnya berbagi dan merefleksikan. Ini bukan hanya penutup satu topik — ini penutup **seluruh elemen Ritual Kelas XI**, perjalanan dari Vipassanā (Topik 4), makna ritual (Topik 5), akomodasi budaya (Topik 6), hingga aksi nyata ini."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**8 syarat kesejahteraan** — duniawi dan batin berjalan berdampingan, bukan bertentangan",
+            "**Realistis & terukur** — proyek kecil yang terlaksana lebih baik dari rencana besar yang mangkrak",
+            "**Refleksi jujur** — evaluasi tantangan pelaksanaan sama pentingnya dengan merayakan keberhasilan",
+            "**Beragama aktif** — nilai-nilai batin yang diwujudkan lewat kontribusi nyata bagi masyarakat"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Kelas XII akan membawamu ke kedalaman filosofis yang berbeda — Empat Kebenaran Mulia, Hukum Karma, Punabbhava, dan Tilakkhaṇa — elemen Etika yang akan menyintesis seluruh perjalanan Sejarah dan Ritual yang sudah kamu tempuh."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup Kelas XI",
+          "pertanyaan": "Menutup seluruh Kelas XI — dari dāna Anāthapiṇḍika, keragaman aliran, Sigālovāda Sutta, Vipassanā, hingga aksi sosial ini — satu perubahan nyata apa yang kamu rasakan dalam caramu memahami dan menjalani agama sepanjang tahun ini?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan seluruh Kelas XI",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat untuk menutup Fase F tahun pertama dengan mantap.",
+    "tombol_label": "Mulai Kuis Topik 7"
+  }
+}

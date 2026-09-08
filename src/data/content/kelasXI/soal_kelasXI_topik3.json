@@ -1,0 +1,266 @@
+{
+  "topik_id": "6.1c",
+  "kode_topik_lms": "XI-T3",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.1c-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Mengapa Sigāla ditemukan Buddha sedang membungkuk ke enam arah mata angin?",
+      "opsi": {
+        "a": "Ia sedang berolahraga pagi",
+        "b": "Ia menjalankan pesan ayahnya yang telah wafat, meski tak paham maknanya",
+        "c": "Ia sedang dihukum oleh gurunya",
+        "d": "Ia mengikuti perintah langsung dari Buddha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai kisah — ini adalah ritual, bukan olahraga",
+        "c": "Tidak sesuai kisah — tidak ada hukuman yang disebutkan",
+        "d": "Tertukar urutan — Buddha yang menemukannya, bukan memerintahkannya"
+      }
+    },
+    {
+      "id": "6.1c-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Arah manakah yang mewakili relasi dengan sahabat dan rekan dalam Sigālovāda Sutta?",
+      "opsi": {
+        "a": "Timur",
+        "b": "Selatan",
+        "c": "Barat",
+        "d": "Utara"
+      },
+      "jawaban_benar": "d",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Timur mewakili relasi dengan orang tua",
+        "b": "Selatan mewakili relasi dengan guru",
+        "c": "Barat mewakili relasi dengan pasangan & anak"
+      }
+    },
+    {
+      "id": "6.1c-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Kalau Sigāla tidak paham makna ritualnya, harusnya Buddha menyuruhnya berhenti melakukan hal yang sia-sia itu.’",
+      "pertanyaan": "Apa yang keliru dari pandangan siswa ini, berdasarkan cara Buddha sebenarnya merespons?",
+      "opsi": {
+        "a": "Pandangan itu benar, Buddha seharusnya memang menyuruhnya berhenti",
+        "b": "Buddha justru tidak menghapus ritualnya, melainkan memberinya makna baru — pendekatan yang berbeda dari sekadar melarang",
+        "c": "Buddha sebenarnya memang menyuruh Sigāla berhenti total",
+        "d": "Kisah ini tidak relevan untuk dibahas dalam konteks pendidikan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fakta cerita — Buddha tidak menyuruhnya berhenti",
+        "c": "Bertentangan langsung dengan isi materi Bagian 1",
+        "d": "Mengabaikan relevansi eksplisit kisah ini bagi tema komunikasi lintas budaya"
+      }
+    },
+    {
+      "id": "6.1c-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa ciri khas yang membedakan Sigālovāda Sutta dari kebanyakan sutta lain yang lebih sering membahas meditasi atau kehidupan monastik?",
+      "opsi": {
+        "a": "Sutta ini secara khusus membahas relasi sosial sehari-hari bagi umat awam — orang tua, guru, pasangan, sahabat, pekerja, rohaniwan",
+        "b": "Sutta ini hanya berlaku untuk para bhikkhu senior",
+        "c": "Sutta ini melarang umat awam berinteraksi dengan siapa pun di luar keluarga",
+        "d": "Sutta ini secara khusus membahas teknik meditasi lanjutan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan fakta — sutta ini justru ditujukan bagi umat awam (gihivinaya)",
+        "c": "Bertentangan langsung dengan isi sutta yang justru mendorong relasi sosial sehat",
+        "d": "Tidak sesuai — sutta ini bukan tentang teknik meditasi"
+      }
+    },
+    {
+      "id": "6.1c-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang majikan berkata kepada pekerjanya, ‘Kamu harus selalu patuh sepenuhnya kepadaku, itu sudah seharusnya.’",
+      "pertanyaan": "Berdasarkan prinsip relasi Nadir (bawah) dalam Sigālovāda Sutta, apa yang kurang tepat dari pernyataan majikan ini?",
+      "opsi": {
+        "a": "Pernyataan itu sepenuhnya benar dan sesuai ajaran sutta ini",
+        "b": "Pernyataan itu hanya menekankan kewajiban pekerja tanpa menyebut kewajiban timbal balik majikan, seperti memberi upah adil dan waktu istirahat",
+        "c": "Sutta ini sebenarnya tidak membahas relasi majikan-pekerja sama sekali",
+        "d": "Sutta ini justru menganjurkan pekerja untuk tidak taat sama sekali kepada majikannya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan prinsip timbal balik yang jadi Poin Kunci Bagian 2",
+        "c": "Tidak sesuai fakta — relasi Nadir eksplisit membahas majikan-pekerja",
+        "d": "Terlalu ekstrem ke arah berlawanan — sutta menekankan keseimbangan, bukan pembangkangan"
+      }
+    },
+    {
+      "id": "6.1c-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa julukan 'gihivinaya' (disiplin bagi umat awam) cocok diberikan pada Sigālovāda Sutta oleh komentator Buddhaghosa?",
+      "opsi": {
+        "a": "Karena sutta ini mengatur secara menyeluruh berbagai relasi sosial dalam kehidupan umat awam, sama pentingnya seperti Vinaya bagi para bhikkhu",
+        "b": "Karena sutta ini berisi hukuman-hukuman fisik bagi pelanggar aturan",
+        "c": "Karena sutta ini hanya boleh dibaca oleh umat awam, tidak oleh para bhikkhu",
+        "d": "Karena sutta ini menggantikan seluruh isi Vinaya Piṭaka"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — sutta ini berisi prinsip relasi, bukan sistem hukuman",
+        "c": "Tidak ada pembatasan pembaca semacam itu yang disebutkan",
+        "d": "Klaim berlebihan — keduanya berjalan berdampingan, bukan saling menggantikan"
+      }
+    },
+    {
+      "id": "6.1c-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Dua siswa berdebat sengit soal perbedaan tradisi keagamaan. Siswa A langsung menyampaikan pendapatnya tanpa mendengarkan argumen siswa B sampai selesai.",
+      "pertanyaan": "Prinsip praktis mana dari Bagian 3 yang paling relevan dilanggar oleh siswa A dalam skenario ini?",
+      "opsi": {
+        "a": "Mendengarkan dulu secara utuh sebelum menanggapi",
+        "b": "Mencari titik temu sebelum membahas titik beda",
+        "c": "Menyampaikan pandangan tanpa merendahkan orang lain",
+        "d": "Menggunakan bahasa asing agar terlihat lebih meyakinkan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Skenario ini soal proses mendengarkan, bukan soal mencari titik temu terlebih dahulu",
+        "c": "Skenario tidak menyebutkan adanya perendahan, hanya soal tidak mendengarkan",
+        "d": "Bukan salah satu dari tiga prinsip yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "6.1c-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana Kālāma Sutta (Kelas X) dan Sigālovāda Sutta saling melengkapi dalam konteks komunikasi lintas budaya, berdasarkan Bagian 3?",
+      "opsi": {
+        "a": "Kālāma Sutta menyumbang nalar kritis (uji dengan akal), Sigālovāda Sutta menyumbang kerangka relasi timbal balik (saling menghormati) — keduanya digabung agar dialog lintas budaya kritis sekaligus hormat",
+        "b": "Kedua sutta ini saling bertentangan dan tidak bisa dipakai bersamaan",
+        "c": "Kālāma Sutta menggantikan seluruh ajaran Sigālovāda Sutta",
+        "d": "Keduanya membahas topik yang identik tanpa perbedaan penekanan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan Poin Kunci Bagian 3 yang justru menggabungkan keduanya",
+        "c": "Tidak sesuai — keduanya saling melengkapi, bukan saling menggantikan",
+        "d": "Mengabaikan perbedaan fokus yang jelas (nalar kritis vs relasi sosial) antara keduanya"
+      }
+    },
+    {
+      "id": "6.1c-q09",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa bingung ketika berkunjung ke rumah teman yang beribadah dengan cara sangat berbeda dari kebiasaannya sendiri.",
+      "pertanyaan": "Berdasarkan cara Buddha memaknai ritual Sigāla, pendekatan apa yang paling relevan diterapkan siswa ini?",
+      "opsi": {
+        "a": "Langsung menilai cara ibadah temannya sebagai aneh dan tidak masuk akal",
+        "b": "Mencoba memahami makna di balik bentuk ritual tersebut, sebagaimana Buddha mencari makna di balik ritual Sigāla, bukan sekadar menilai tampilan luarnya",
+        "c": "Menghindari kunjungan serupa di masa depan agar tidak bingung lagi",
+        "d": "Mengikuti ritual tersebut sepenuhnya tanpa perlu memahami maknanya sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan sikap terbuka yang dicontohkan Buddha",
+        "c": "Menghindar bukan solusi yang dianjurkan semangat topik ini",
+        "d": "Bertentangan dengan esensi 'mencari makna', bukan sekadar mengikuti tanpa pemahaman"
+      }
+    },
+    {
+      "id": "6.1c-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa prinsip 'relasi timbal balik' dalam Sigālovāda Sutta relevan untuk mencegah penyalahgunaan kekuasaan dalam hubungan sosial apa pun (keluarga, sekolah, tempat kerja)?",
+      "opsi": {
+        "a": "Karena prinsip ini menegaskan setiap pihak punya kewajiban, bukan hanya hak — mencegah satu pihak merasa berkuasa penuh tanpa tanggung jawab",
+        "b": "Karena prinsip ini menghapus seluruh struktur otoritas dalam masyarakat",
+        "c": "Karena prinsip ini hanya berlaku dalam konteks kerajaan kuno India, tidak relevan hari ini",
+        "d": "Karena prinsip ini menyatakan bahwa pihak yang lebih muda selalu benar"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Berlebihan — sutta tetap mengakui struktur relasi (orang tua-anak, dst), hanya menekankan kewajiban timbal balik",
+        "c": "Bertentangan dengan penerapan lintas zaman yang justru ditekankan relevansinya di topik ini",
+        "d": "Tidak sesuai fakta — sutta tidak membuat klaim usia menentukan siapa yang benar"
+      }
+    },
+    {
+      "id": "6.1c-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa yang membedakan pendekatan 'mendengarkan dulu secara utuh' dengan sekadar diam menunggu giliran bicara?",
+      "opsi": {
+        "a": "Keduanya sebenarnya sama persis tanpa perbedaan",
+        "b": "Mendengarkan secara utuh berarti benar-benar berusaha memahami maksud lawan bicara, bukan sekadar menunggu kesempatan menyampaikan pendapat sendiri",
+        "c": "Diam menunggu giliran selalu lebih baik daripada mendengarkan aktif",
+        "d": "Mendengarkan secara utuh berarti selalu setuju dengan apa pun yang dikatakan lawan bicara"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan kualitas perhatian antara keduanya",
+        "c": "Tidak didukung materi — justru mendengarkan aktif yang ditekankan penting",
+        "d": "Menyalahartikan 'mendengarkan' sebagai 'menyetujui' — dua hal yang berbeda"
+      }
+    },
+    {
+      "id": "6.1c-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini (Bagian 4) menyimpulkan hubungan antara bentuk (ritual/kebiasaan) dan makna (pemahaman di baliknya)?",
+      "opsi": {
+        "a": "Bentuk selalu lebih penting daripada makna",
+        "b": "Memahami makna di balik suatu bentuk membuat tindakan itu menjadi lebih bermakna, sebagaimana ritual Sigāla berubah makna setelah dijelaskan Buddha",
+        "c": "Makna dan bentuk tidak memiliki hubungan sama sekali",
+        "d": "Bentuk tanpa makna sebaiknya selalu dihapuskan sepenuhnya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keseluruhan pesan Bagian 1 dan 4 tentang pentingnya makna",
+        "c": "Bertentangan dengan hubungan erat keduanya yang justru ditekankan sepanjang materi",
+        "d": "Bertentangan dengan cara Buddha sendiri yang TIDAK menghapus ritual Sigāla"
+      }
+    },
+    {
+      "id": "6.1c-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini diletakkan sebagai penutup elemen Sejarah Kelas XI, tepat sebelum berpindah ke elemen Ritual (Vipassanā)?",
+      "opsi": {
+        "a": "Karena tidak ada hubungan khusus, urutan ini murni kebetulan",
+        "b": "Karena topik ini menyintesis keterampilan sosial (relasi, komunikasi lintas budaya) yang melengkapi pemahaman sejarah dan keragaman yang dipelajari di topik-topik sebelumnya, sebelum berpindah fokus ke pengembangan batin",
+        "c": "Karena Sigālovāda Sutta sebenarnya adalah sutta tentang meditasi",
+        "d": "Karena topik ini tidak berkaitan dengan topik-topik Sejarah lain di Kelas XI"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "c": "Tidak sesuai fakta — Sigālovāda Sutta adalah tentang relasi sosial, bukan teknik meditasi",
+        "d": "Bertentangan dengan keterkaitan eksplisit dengan Topik 1 dan 2 (dāna, keragaman aliran)",
+        "a": "Mengabaikan pola penataan kurikulum yang jelas dari topik ke topik"
+      }
+    },
+    {
+      "id": "6.1c-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan pendekatan menyikapi perbedaan pandangan antara 'sekadar mengalah' dan pendekatan yang dianjurkan dalam materi ini?",
+      "opsi": {
+        "a": "Keduanya persis sama, tidak ada bedanya",
+        "b": "Sekadar mengalah berarti mengorbankan pendapat sendiri tanpa proses; pendekatan yang dianjurkan justru menggabungkan nalar kritis (menguji) dengan rasa hormat (tidak merendahkan), bukan sekadar menyerah",
+        "c": "Pendekatan yang dianjurkan materi ini sama dengan selalu memaksakan pendapat sendiri",
+        "d": "Mengalah selalu merupakan pilihan terbaik dalam situasi apa pun"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan mendasar antara menyerah begitu saja dengan proses kritis-hormat yang dianjurkan",
+        "c": "Bertentangan langsung dengan prinsip 'tanpa merendahkan pandangan orang lain'",
+        "d": "Generalisasi berlebihan yang tidak didukung materi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "topik_id": "5.3a",
+  "kode_topik_lms": "X-T6",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik skenario digital/media sosial; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.3a-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Kaum Kālāma tinggal di desa mana saat bertanya kepada Buddha tentang cara menilai ajaran yang bertentangan?",
+      "opsi": {
+        "a": "Kesaputta",
+        "b": "Sāvatthi",
+        "c": "Rājagaha",
+        "d": "Kapilavatthu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Kota tempat Jetavana & Pubbārāma berada, bukan lokasi Kālāma Sutta",
+        "c": "Kota tempat Anāthapiṇḍika bertemu Buddha, bukan lokasi Kālāma Sutta",
+        "d": "Kampung halaman Buddha, bukan lokasi Kālāma Sutta"
+      }
+    },
+    {
+      "id": "5.3a-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa jumlah 'dasar yang tidak cukup untuk dipercaya' yang disebutkan Buddha dalam Kālāma Sutta?",
+      "opsi": {
+        "a": "5",
+        "b": "7",
+        "c": "10",
+        "d": "12"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah yang salah",
+        "b": "Jumlah yang salah",
+        "d": "Sering tertukar dengan jumlah mata rantai Paṭiccasamuppāda, bukan jumlah dasar dalam Kālāma Sutta"
+      }
+    },
+    {
+      "id": "5.3a-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Kālāma Sutta mengajarkan bahwa kita tidak perlu percaya apa pun, ikuti saja apa kata hati masing-masing.’",
+      "pertanyaan": "Apa yang keliru dari pemahaman siswa ini, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Pemahaman itu benar sepenuhnya dan sesuai isi sutta",
+        "b": "Kālāma Sutta bukan izin skeptisisme bebas tanpa arah — Buddha justru memberi kriteria uji spesifik (dampak pada keserakahan/kebencian/delusi, dan pendapat orang bijak), bukan sekadar 'ikuti kata hati'",
+        "c": "Kālāma Sutta sebenarnya mengajarkan untuk selalu percaya pada guru tanpa mempertanyakan",
+        "d": "Kālāma Sutta hanya relevan bagi kaum Kālāma, tidak berlaku bagi orang lain"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan koreksi eksplisit di Poin Kunci Bagian 2",
+        "c": "Bertentangan — justru dasar #10 ('karena beliau guruku') termasuk yang TIDAK cukup untuk dipercaya begitu saja",
+        "d": "Tidak sesuai — materi menjelaskan sutta ini sebagai metode berpikir yang berlaku universal"
+      }
+    },
+    {
+      "id": "5.3a-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Sebuah pesan berantai di grup keluarga mengklaim khasiat kesehatan tertentu dengan embel-embel ‘sudah dibagikan 50.000 kali, pasti manjur’.",
+      "pertanyaan": "Dasar mana dari Kālāma Sutta yang paling relevan menjelaskan mengapa klaim seperti ini tidak boleh langsung dipercaya?",
+      "opsi": {
+        "a": "Desas-desus (banyak yang membagikan bukan berarti terverifikasi benar)",
+        "b": "Logika semata",
+        "c": "Kecocokan dengan pendapat yang sudah lama dipegang",
+        "d": "Penyimpulan filosofis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Klaim ini tidak didasarkan pada argumen logis, melainkan popularitas penyebaran",
+        "c": "Tidak relevan dengan skenario ini yang soal jumlah pembagian, bukan kecocokan pandangan lama",
+        "d": "Tidak relevan — klaim ini bukan hasil penyimpulan filosofis"
+      }
+    },
+    {
+      "id": "5.3a-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang tokoh terkenal di media sosial (bukan ahli kesehatan) merekomendasikan pengobatan tertentu, dan banyak pengikutnya langsung percaya karena 'dia kan terkenal dan dipercaya banyak orang'.",
+      "pertanyaan": "Dasar Kālāma Sutta mana yang paling tepat menjelaskan kekeliruan dalam pola pikir para pengikut ini?",
+      "opsi": {
+        "a": "Kredibilitas/wibawa pembicara (bhabbarūpatā) — ketenaran bukan jaminan kebenaran suatu klaim, apalagi di luar bidang keahliannya",
+        "b": "Tradisi turun-temurun",
+        "c": "Kecocokan dengan kitab suci tertentu",
+        "d": "Penalaran yang tampak masuk akal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak relevan — skenario ini soal ketenaran individu, bukan tradisi turun-temurun",
+        "c": "Tidak relevan dengan skenario yang tidak menyebutkan kitab suci apa pun",
+        "d": "Tidak relevan — masalahnya bukan penalaran, melainkan mengandalkan ketenaran semata"
+      }
+    },
+    {
+      "id": "5.3a-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Kālāma Sutta menggunakan DUA kriteria uji sekaligus (dampak pada keserakahan/kebencian/delusi, DAN pendapat orang bijak), bukan hanya satu?",
+      "opsi": {
+        "a": "Karena menggunakan kedua kriteria bersama membantu mengoreksi potensi bias dalam penilaian diri sendiri — seseorang mungkin salah menilai dampak suatu ajaran pada dirinya sendiri, sehingga pandangan orang bijak menjadi pengecekan tambahan",
+        "b": "Karena satu kriteria saja dianggap terlalu mudah dipahami orang awam",
+        "c": "Karena kedua kriteria itu sebenarnya bertentangan dan Buddha ingin menunjukkan kontradiksi",
+        "d": "Karena jumlah genap dianggap lebih sakral dalam tradisi India kuno"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bukan alasan yang masuk akal atau didukung materi",
+        "c": "Tidak sesuai — kedua kriteria dijelaskan bekerja BERSAMA, bukan bertentangan",
+        "d": "Klaim tidak berdasar yang tidak relevan dengan penjelasan materi"
+      }
+    },
+    {
+      "id": "5.3a-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa menolak mentah-mentah semua nasihat orang tuanya hanya karena beralasan ‘itu kan cuma tradisi lama, aku harus berpikir kritis ala Kālāma Sutta.’",
+      "pertanyaan": "Apakah penerapan siswa ini terhadap Kālāma Sutta sudah tepat?",
+      "opsi": {
+        "a": "Sudah tepat sepenuhnya, karena semua tradisi harus ditolak",
+        "b": "Belum tepat — Kālāma Sutta mengajak MENGUJI, bukan otomatis menolak sesuatu hanya karena berasal dari tradisi; tradisi yang teruji baik (tidak menumbuhkan keserakahan/kebencian/delusi) tetap layak diterima",
+        "c": "Sudah tepat, karena Buddha secara eksplisit melarang mendengarkan orang tua",
+        "d": "Tidak relevan untuk dibahas karena Kālāma Sutta hanya berlaku dalam konteks agama"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Menyalahartikan sutta sebagai penolakan otomatis, padahal intinya adalah PENGUJIAN, bukan penolakan default",
+        "c": "Tidak sesuai fakta — sutta ini tidak membahas relasi orang tua-anak secara spesifik",
+        "d": "Bertentangan dengan Bagian 3 yang justru menerapkan prinsip ini ke konteks sehari-hari, bukan hanya agama"
+      }
+    },
+    {
+      "id": "5.3a-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keempat pertanyaan 'checklist ala Kālāma' di Bagian 3 mencerminkan struktur 10 dasar dan kriteria uji di Bagian 2?",
+      "opsi": {
+        "a": "Checklist tersebut adalah penerjemahan langsung prinsip Bagian 2 (jangan sekadar percaya sumber tak terverifikasi/klaim tanpa bukti, uji dampak dan pendapat yang kompeten) ke konteks informasi digital",
+        "b": "Checklist tersebut sama sekali tidak berkaitan dengan 10 dasar maupun kriteria uji Bagian 2",
+        "c": "Checklist tersebut menggantikan seluruh isi Kālāma Sutta dengan pendekatan yang benar-benar baru",
+        "d": "Checklist tersebut hanya relevan untuk media sosial, tidak mencerminkan prinsip sutta aslinya sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penjelasan eksplisit paragraf terakhir Bagian 3",
+        "c": "Tidak sesuai — checklist ini adalah PENERAPAN, bukan penggantian prinsip asli",
+        "d": "Mengabaikan keterkaitan yang eksplisit dijelaskan antara checklist modern dan prinsip kanonis"
+      }
+    },
+    {
+      "id": "5.3a-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Kālāma Sutta dianggap 'jantung moderasi beragama versi Buddhis', berdasarkan Bagian 4?",
+      "opsi": {
+        "a": "Karena mengajarkan sikap tidak peduli sama sekali terhadap kebenaran",
+        "b": "Karena mengajarkan pendekatan pada klaim kebenaran dengan kejernihan — bukan kepatuhan buta maupun penolakan buta — sebuah sikap tengah yang menghindari dua ekstrem",
+        "c": "Karena mengharuskan seseorang menolak semua ajaran agama tanpa kecuali",
+        "d": "Karena sutta ini hanya relevan bagi non-Buddhis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penjelasan eksplisit bahwa ini bukan soal 'tidak peduli'",
+        "c": "Bertentangan dengan sifat sutta ini sebagai metode UJI, bukan penolakan otomatis",
+        "d": "Tidak sesuai — sutta ini eksplisit ditujukan sebagai fondasi berpikir bagi umat Buddha sendiri (Kelas X mempelajarinya sebagai bagian kurikulum PAB)"
+      }
+    },
+    {
+      "id": "5.3a-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa yang terjadi pada akhir Kālāma Sutta setelah kaum Kālāma memahami metode pengujian ini, dan mengapa hal itu penting?",
+      "opsi": {
+        "a": "Mereka menolak seluruh ajaran Buddha karena masih ragu",
+        "b": "Mereka berlindung kepada Buddha, Dhamma, dan Sangha — penting karena ini menunjukkan bahwa pengujian kritis bisa berujung pada komitmen yang tulus, bukan keraguan tanpa akhir",
+        "c": "Mereka meminta Buddha pergi dari desa mereka",
+        "d": "Cerita berakhir tanpa keputusan apa pun dari kaum Kālāma"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan bullet point 'berkomitmen setelah teruji' di Bagian 4",
+        "c": "Tidak sesuai fakta cerita sama sekali",
+        "d": "Tidak sesuai — materi eksplisit menyebutkan hasil akhirnya (berlindung kepada Tiga Permata)"
+      }
+    },
+    {
+      "id": "5.3a-q11",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa membaca artikel yang argumennya terdengar sangat logis dan runtut, lalu langsung mempercayainya sepenuhnya tanpa mengecek fakta di dalamnya.",
+      "pertanyaan": "Dasar Kālāma Sutta mana yang paling relevan untuk mengingatkan siswa ini agar tetap berhati-hati?",
+      "opsi": {
+        "a": "Penalaran yang tampak masuk akal (ākāraparivitakka) — kelogisan sebuah argumen tidak otomatis menjamin kebenaran premis-premis di dalamnya",
+        "b": "Tradisi turun-temurun",
+        "c": "Kabar yang sering didengar",
+        "d": "Kecocokan dengan kitab suci tertentu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak relevan — skenario ini soal argumen logis, bukan tradisi",
+        "c": "Tidak relevan — skenario ini soal kelogisan, bukan seringnya didengar",
+        "d": "Tidak relevan — skenario tidak menyebutkan kitab suci apa pun"
+      }
+    },
+    {
+      "id": "5.3a-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana konteks kebingungan kaum Kālāma (Bagian 1) mencerminkan situasi yang dihadapi remaja masa kini di era informasi digital?",
+      "opsi": {
+        "a": "Sama sekali tidak ada kemiripan, karena zaman dan teknologinya sangat berbeda",
+        "b": "Keduanya sama-sama menghadapi banyak sumber klaim yang saling bertentangan (guru-guru dulu vs akun-akun media sosial sekarang) dan kesulitan menentukan siapa yang bisa dipercaya",
+        "c": "Kaum Kālāma tidak pernah benar-benar bingung, mereka hanya berpura-pura untuk menguji Buddha",
+        "d": "Remaja masa kini tidak pernah mengalami kebingungan serupa karena teknologi sudah menyediakan jawaban pasti"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan kesamaan struktural situasi (banyak klaim bertentangan) yang menjadi dasar relevansi sutta ini hingga kini",
+        "c": "Tidak sesuai fakta cerita — kebingungan kaum Kālāma digambarkan tulus",
+        "d": "Bertentangan dengan realita maraknya misinformasi digital yang justru dibahas di Bagian 3"
+      }
+    },
+    {
+      "id": "5.3a-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting membedakan antara 'menguji suatu klaim' dan 'menolak suatu klaim', dalam konteks penerapan Kālāma Sutta?",
+      "opsi": {
+        "a": "Keduanya sebenarnya sama saja tanpa perbedaan praktis",
+        "b": "Menguji berarti proses aktif memeriksa dengan kriteria jelas sebelum memutuskan, sedangkan menolak adalah salah satu KEMUNGKINAN hasil dari pengujian — hasil lainnya bisa jadi penerimaan setelah teruji, seperti yang dialami kaum Kālāma sendiri",
+        "c": "Menolak selalu lebih 'kritis' dibanding menguji",
+        "d": "Menguji hanya relevan bagi ajaran agama lain, bukan ajaran Buddha sendiri"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan mendasar antara proses (menguji) dan salah satu kemungkinan hasil (menolak)",
+        "c": "Menyalahartikan sikap kritis sebagai identik dengan penolakan, padahal bisa juga berujung penerimaan yang teruji",
+        "d": "Tidak sesuai — kaum Kālāma menguji ajaran Buddha sendiri dan akhirnya menerimanya"
+      }
+    },
+    {
+      "id": "5.3a-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menjadi pembuka yang tepat bagi elemen Etika Semester 2 Kelas X, sebelum mempelajari Brahmajāla Sutta dan Paṭiccasamuppāda?",
+      "opsi": {
+        "a": "Kālāma Sutta memberi 'alat berpikir' dasar (cara menguji klaim) yang akan dipakai untuk mendekati topik-topik berikutnya yang juga menuntut nalar kritis — seperti menyikapi keragaman pandangan dan memahami kausalitas",
+        "b": "Kālāma Sutta tidak berkaitan sama sekali dengan topik-topik berikutnya",
+        "c": "Kālāma Sutta menggantikan kebutuhan mempelajari topik-topik Etika lainnya",
+        "d": "Kālāma Sutta hanya relevan sebagai materi terpisah tanpa fungsi dalam urutan kurikulum"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan fungsi Kālāma Sutta sebagai fondasi berpikir kritis yang relevan lintas topik",
+        "c": "Tidak sesuai — topik ini adalah PEMBUKA, bukan pengganti topik-topik Etika lainnya",
+        "d": "Tidak sesuai dengan pola penataan kurikulum yang bertahap dan saling membangun"
+      }
+    },
+    {
+      "id": "5.3a-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seseorang menerapkan Kālāma Sutta secara konsisten, bagaimana pola pikirnya akan terlihat saat menghadapi klaim baru yang belum pernah ia dengar sebelumnya?",
+      "opsi": {
+        "a": "Ia akan langsung mempercayai klaim itu tanpa pertanyaan apa pun agar terlihat terbuka",
+        "b": "Ia akan langsung menolak klaim itu karena belum pernah didengar sebelumnya",
+        "c": "Ia akan memeriksa sumbernya, mempertimbangkan dampaknya (menumbuhkan atau mengurangi keserakahan/kebencian/delusi), dan mempertimbangkan pandangan orang yang kompeten, sebelum memutuskan sikap",
+        "d": "Ia akan mengabaikan klaim tersebut sepenuhnya tanpa mempedulikannya"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan esensi pengujian kritis yang menjadi inti seluruh topik ini",
+        "b": "Bertentangan juga — penolakan otomatis sama kelirunya dengan penerimaan otomatis",
+        "d": "Mengabaikan proses aktif pengujian yang dianjurkan, bukan sekadar mengabaikan"
+      }
+    }
+  ]
+}

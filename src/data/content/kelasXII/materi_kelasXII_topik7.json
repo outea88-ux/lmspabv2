@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "topik_id": "6.3g",
+    "kode_topik_lms": "XII-T7",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Tiga Tahun, Satu Pertanyaan Terakhir",
+    "subjudul": "Dhamma dan Isu Ekonomi-Global Kontemporer",
+    "breadcrumb": "Kelas XII · Topik 7 · Etika",
+    "estimasi_baca_menit": 13,
+    "sumber_kanon": [
+      "Kūṭadanta Sutta (DN 5)",
+      "Cakkavatti Sīhanāda Sutta (DN 26)",
+      "Vyāgghapajja Sutta (AN 8.54) — rujukan silang Kelas XI",
+      "Ādiya Sutta (AN 5.41)"
+    ],
+    "catatan_editorial": "Topik penutup seluruh kurikulum PAB SMA/SMK Fase E–F, memuat proyek akhir tiga tahun.",
+    "tujuan_pembelajaran": "Peserta didik memecahkan masalah kehidupan perekonomian dunia dan isu-isu global dengan prinsip dasar Dhamma secara bijaksana."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Pemberdayaan",
+      "section_num": "Bagian 1",
+      "judul": "Kūṭadanta Sutta: Kesejahteraan lewat Pemberdayaan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Seorang brahmana bernama **Kūṭadanta** berencana mengadakan pengorbanan besar-besaran — 3.500 ekor hewan akan disembelih. Ia meminta nasihat Buddha tentang cara melaksanakannya dengan benar. Alih-alih menjawab teknis ritual, Buddha bercerita tentang **Raja Mahāvijita**."
+        },
+        {
+          "type": "paragraf",
+          "text": "Kerajaan Mahāvijita dilanda perampokan merajalela. Penasihatnya memperingatkan: menindak dengan hukuman keras (eksekusi, penjara, penyitaan) tidak akan menyelesaikan akar masalahnya. Solusi yang disarankan: **beri bibit dan pakan ternak kepada petani, beri modal kepada pedagang, beri upah layak kepada abdi negara.**"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Hasilnya: rakyat yang sibuk dengan mata pencaharian mereka sendiri tidak lagi mengganggu ketertiban. Pendapatan kerajaan justru meningkat, negeri aman, orang-orang hidup bahagia bermain bersama anak-anak, tinggal dengan pintu rumah terbuka. Inilah 'pengorbanan tanpa darah' yang jauh lebih bermanfaat dari ritual penyembelihan besar-besaran."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Penasihat Raja Mahāvijita memilih memberdayakan ekonomi, bukan menghukum lebih keras. Menurutmu, mengapa solusi yang tampak 'lebih lunak' ini justru lebih efektif menyelesaikan akar masalah, dibanding solusi yang tampak lebih 'tegas'?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Siklus Kemerosotan",
+      "section_num": "Bagian 2",
+      "judul": "Cakkavatti Sīhanāda Sutta: Saat Pemberdayaan Diabaikan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Bagaimana jika sebaliknya — kesejahteraan diabaikan? Cakkavatti Sīhanāda Sutta menjawabnya lewat kisah raja pemutar-roda yang lalai: ia menjaga keamanan, tapi **tidak memberi harta kepada yang miskin**. Kemiskinan pun merajalela."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Rantai Kemerosotan",
+          "text": "Kemiskinan → pencurian pertama kali terjadi → raja awalnya memberi uang kepada pencuri (bukan hukuman) agar tak mengulanginya → tapi pencurian terus berulang → raja akhirnya beralih ke hukuman mati → orang belajar membawa senjata untuk membunuh sebelum tertangkap → kekerasan meningkat drastis → kebohongan, fitnah, kekerasan, hingga standar moral masyarakat merosot generasi demi generasi."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Sutta ini secara eksplisit melacak akar kejahatan bukan pada 'sifat jahat manusia' semata, melainkan pada **kemiskinan yang dibiarkan**. Diagnosis ini jauh lebih menyoroti akar ekonomi-sosial dibanding sekadar menyalahkan moralitas individu — gaung yang sama dengan pelajaran Kūṭadanta Sutta."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Sutta ini menunjukkan hukuman yang makin keras justru mempercepat kemerosotan, bukan menghentikannya. Bagaimana wawasan ini relevan untuk menilai perdebatan modern tentang cara terbaik menangani kejahatan — hukuman lebih keras vs mengatasi akar penyebabnya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Etika Personal",
+      "section_num": "Bagian 3",
+      "judul": "Vyagghapajja & Ādiya Sutta: Etika Ekonomi Personal",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dari skala kerajaan, mari kembali ke skala personal. Kamu sudah mempelajari empat syarat kesejahteraan duniawi dari Vyagghapajja Sutta di Kelas XI. Sekarang, satu sutta lagi melengkapinya: **Ādiya Sutta**, yang menariknya disampaikan langsung kepada **Anāthapiṇḍika** — tokoh yang sudah kamu kenal sejak Kelas XI, Topik 1."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Lima Manfaat Kekayaan",
+          "text": "Buddha menjelaskan lima penggunaan kekayaan yang sah: **(1)** menghidupi diri sendiri dan keluarga, **(2)** membahagiakan sahabat dan kolega, **(3)** melindungi diri dari bencana (kebakaran, banjir, kehilangan), **(4)** memenuhi kewajiban sosial (kepada sanak saudara, tamu, leluhur, negara), dan **(5)** mendukung mereka yang menempuh jalan spiritual."
+        },
+        {
+          "type": "paragraf",
+          "text": "Perhatikan urutannya: dimulai dari tanggung jawab paling dekat (diri & keluarga), meluas ke pertemanan, perlindungan, kewajiban sosial, hingga dukungan spiritual. Kekayaan bukan tujuan akhir, tapi **alat** untuk kesejahteraan bertingkat ini."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari lima penggunaan kekayaan ini, mana yang menurutmu paling sering diabaikan orang-orang di sekitarmu saat mereka mulai memiliki penghasilan sendiri?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Merumuskan Isu",
+      "section_num": "Bagian 4",
+      "judul": "Memilih & Merumuskan Isu Global untuk Proyek Akhir",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Saatnya menyintesis seluruh pembelajaran Etika Kelas XII ke dalam satu proyek akhir. Pilih satu isu ekonomi atau global kontemporer yang benar-benar kamu pedulikan — kemiskinan, ketimpangan, krisis iklim, pengangguran, atau isu lain yang relevan dengan daerahmu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Kerangka Rumusan",
+          "text": "Rumuskan pertanyaan proyekmu dengan merujuk **minimal dua sutta** yang sudah dipelajari sepanjang Kelas XII — bukan sekadar opini pribadi. Misalnya: 'Bagaimana prinsip pemberdayaan (Kūṭadanta Sutta) dan lima penggunaan kekayaan (Ādiya Sutta) bisa diterapkan mengatasi pengangguran muda di daerahku?'"
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Isu apa yang ingin kamu angkat, dan sutta mana (dari seluruh yang sudah dipelajari sejak Kelas X) yang paling relevan menjadi landasannya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Proyek Akhir",
+      "section_num": "Bagian 5",
+      "judul": "Proyek Akhir: Refleksi Perjalanan Tiga Tahun",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kembangkan solusi atau rekomendasi untuk isu yang kamu pilih, lalu presentasikan. Tapi sebelum itu, mari menoleh ke belakang — perjalanan ini dimulai jauh sebelum topik ini."
+        },
+        {
+          "type": "paragraf",
+          "text": "Dari **Brahma Sahampati** yang bersujud memohon Buddha mengajar (Kelas X), **60 murid pertama** yang diutus menyebar demi kebahagiaan banyak orang, **Jinarakkhita** dan **Goenka** yang menghidupkan kembali Dhamma di tanah yang hampir melupakannya, napas yang kamu sadari lewat Ānāpānasati, **Kālāma Sutta** yang mengajarkan nalar kritis, **Anāthapiṇḍika** dan **Visākhā** yang menopang Dhamma dengan dāna (Kelas XI), Vipassanā yang memperdalam kesadaranmu, hingga **Empat Kebenaran Mulia, Karma, Punabbhava, Tilakkhaṇa, Paṭiccasamuppāda** yang membentuk cara pandangmu terhadap kehidupan (Kelas XII) — semuanya bermuara di sini."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Akhir, tapi Fondasi",
+          "text": "Menyelesaikan kurikulum ini bukan berarti perjalanan selesai. Sama seperti appamāda (Kelas X) yang mengajarkan kesungguhan berkelanjutan, dan Paṭiccasamuppāda yang menunjukkan segala sesuatu terus berproses — apa yang kamu pelajari selama tiga tahun ini adalah **fondasi**, bukan garis akhir."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup — Tiga Tahun PAB SMA/SMK",
+          "pertanyaan": "Menoleh ke belakang pada seluruh perjalanan sejak Topik 1 Kelas X hingga hari ini: satu nilai, satu wawasan, atau satu kebiasaan apa yang benar-benar akan kamu bawa keluar dari kelas ini, ke dalam hidupmu setelah lulus?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan seluruh perjalanan PAB SMA/SMK",
+    "deskripsi": "Uji pemahamanmu lewat kuis penutup, lalu lanjutkan ke presentasi proyek akhir dan Galeri Virtual PAB.",
+    "tombol_label": "Mulai Kuis Penutup"
+  }
+}

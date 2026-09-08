@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "topik_id": "5.3a",
+    "kode_topik_lms": "X-T6",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Etika",
+    "kode_cp": "5.3",
+    "judul": "Kompas di Tengah Kebisingan",
+    "subjudul": "Kālāma Sutta: Fondasi Nalar Kritis & Moderasi",
+    "breadcrumb": "Kelas X · Topik 6 · Etika",
+    "estimasi_baca_menit": 11,
+    "sumber_kanon": [
+      "Kālāma Sutta / Kesamutti Sutta (AN 3.65)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik merefleksikan Kālāma Sutta sebagai landasan berpikir kritis dan moderasi beragama dalam menghadapi fenomena kehidupan kontemporer."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Kisah Kālāma",
+      "section_num": "Bagian 1",
+      "judul": "Ketika Semua Guru Mengaku Paling Benar",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Penduduk desa Kesaputta, suku Kālāma, punya masalah yang mungkin terasa familier: berbagai petapa dan brahmana silih berganti datang, masing-masing memuji ajarannya sendiri dan mencela ajaran yang lain. Mereka bingung: **siapa yang benar-benar bisa dipercaya?**"
+        },
+        {
+          "type": "paragraf",
+          "text": "Ketika Buddha singgah di desa mereka, kaum Kālāma langsung mengajukan pertanyaan itu. Alih-alih menjawab 'percayalah kepadaku, aku benar', Buddha melakukan sesuatu yang jauh lebih berharga: mengajarkan mereka **cara menguji kebenaran sendiri**."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Ini bukan sekadar jawaban untuk satu kebingungan — ini adalah metode berpikir yang bisa dipakai seumur hidup, untuk klaim kebenaran apa pun yang akan kamu temui, jauh melampaui konteks agama."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Pernahkah kamu merasa bingung karena dua sumber yang sama-sama tampak meyakinkan (guru, tokoh publik, akun media sosial) memberi klaim yang saling bertentangan? Bagaimana kamu biasanya memutuskan siapa yang dipercaya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "10 Dasar",
+      "section_num": "Bagian 2",
+      "judul": "Sepuluh Dasar yang Tidak Cukup untuk Dipercaya",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Buddha menyebutkan sepuluh dasar yang **tidak cukup** dijadikan alasan tunggal untuk mempercayai sesuatu: (1) kabar yang sering didengar, (2) tradisi turun-temurun, (3) desas-desus, (4) kecocokan dengan kitab suci tertentu, (5) logika semata, (6) penyimpulan filosofis, (7) penalaran yang tampak masuk akal, (8) kecocokan dengan pendapat yang sudah lama dipegang, (9) kredibilitas/wibawa pembicara, dan (10) 'karena beliau guruku'."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan 'Jangan Percaya Apa Pun'",
+          "text": "Ini titik yang sering disalahpahami: Kālāma Sutta **bukan** izin untuk 'jangan percaya apa pun, ikuti kata hatimu sendiri'. Faktanya, Buddha memberi **kriteria uji yang spesifik** — bukan sekadar mempersilakan orang percaya semaunya."
+        },
+        {
+          "type": "fakta",
+          "label": "Kriteria Uji yang Sesungguhnya",
+          "text": "Buddha mengajak kaum Kālāma menguji: apakah ajaran itu, bila dipraktikkan, cenderung menumbuhkan **keserakahan, kebencian, atau kebingungan batin (delusi)** — atau justru menguranginya? Uji lanjutannya: apakah orang-orang bijak juga memujinya? Kedua uji ini bekerja bersama, bukan sendiri-sendiri."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari 10 dasar yang disebutkan tidak cukup untuk dipercaya, mana yang paling sering kamu andalkan tanpa sadar selama ini?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Uji di Era Digital",
+      "section_num": "Bagian 3",
+      "judul": "Menerapkan Kālāma Sutta pada Informasi Digital",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Bayangkan sebuah pesan viral tersebar di grup keluarga: klaim kesehatan tanpa sumber jelas, disertai kalimat 'dibagikan ribuan kali, pasti benar' (dasar #3: desas-desus) atau 'ini kata dokter terkenal' (dasar #9: wibawa pembicara)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Checklist Ala Kālāma",
+          "text": "Sebelum percaya dan membagikan ulang, tanyakan: **Siapa sumbernya, dan bisa diverifikasi?** (bukan sekadar 'katanya'). **Apa buktinya, bukan sekadar klaim?** **Apakah ini cenderung menyebar ketakutan/kebencian, atau justru menjernihkan?** **Apakah orang yang benar-benar kompeten di bidangnya membenarkan ini?**"
+        },
+        {
+          "type": "paragraf",
+          "text": "Perhatikan: checklist ini sebenarnya menerjemahkan langsung 10 dasar dari Bagian 2 (jangan sekadar ikut viral/desas-desus) dan kriteria uji dari Poin Kunci (dampak & pendapat yang kompeten) ke konteks informasi digital masa kini."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba ingat satu informasi yang pernah kamu percaya begitu saja di media sosial. Kalau diuji dengan checklist di atas, apakah informasi itu akan lolos ujian?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Kompas Moderasi",
+      "section_num": "Bagian 4",
+      "judul": "Refleksi: Kālāma Sutta sebagai Kompas Moderasiku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kālāma Sutta menjadi jantung 'moderasi beragama' versi Buddhis: bukan karena Buddha mengajarkan sikap tidak peduli terhadap kebenaran, melainkan karena ia mengajarkan cara mendekati klaim kebenaran dengan **kejernihan, bukan kepatuhan buta maupun penolakan buta**."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Bukan skeptisisme total** — bukan 'semua klaim sama saja, tidak ada yang benar'",
+            "**Bukan kepercayaan buta** — bukan 'terima saja karena tradisi/otoritas/viral'",
+            "**Uji dengan kriteria jelas** — dampak pada keserakahan/kebencian/delusi, dan pendapat orang bijak",
+            "**Berkomitmen setelah teruji** — kaum Kālāma sendiri akhirnya berlindung kepada Buddha, bukan karena diminta, tapi karena teruji"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan memperdalam sikap ini lebih jauh: bagaimana bersikap saat berhadapan dengan pandangan yang benar-benar berbeda dari milikmu."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Kalau kamu harus merumuskan 'kompas moderasi' pribadimu dalam satu kalimat, berdasarkan Kālāma Sutta, kalimat seperti apa yang ingin kamu pegang?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 6",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 6"
+  }
+}

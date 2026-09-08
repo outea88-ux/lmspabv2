@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "topik_id": "6.3a",
+    "kode_topik_lms": "XII-T1",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Empat Kebenaran, Tiga Putaran, Dua Belas Aspek",
+    "subjudul": "Membuktikan Empat Kebenaran Mulia (Cattāri Ariyasaccāni)",
+    "breadcrumb": "Kelas XII · Topik 1 · Etika",
+    "estimasi_baca_menit": 12,
+    "sumber_kanon": [
+      "Dhammacakkappavattana Sutta (SN 56.11)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik membuktikan Empat Kebenaran Mulia berdasarkan Dhammacakkappavattana Sutta sebagai prinsip dasar memahami alam kehidupan."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "3 Putaran, 12 Aspek",
+      "section_num": "Bagian 1",
+      "judul": "Bukan Sekadar Daftar: Tiga Putaran, Dua Belas Aspek",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Sejak SMP, kamu sudah mengenal Empat Kebenaran Mulia sebagai daftar: dukkha, sebabnya, lenyapnya, jalannya. Tapi Dhammacakkappavattana Sutta sendiri tidak berhenti di daftar itu. Buddha menjelaskan bahwa pencerahannya baru sempurna setelah memahami keempat kebenaran ini dalam **tiga putaran (tiparivaṭṭaṃ)** dan **dua belas aspek (dvādasākāraṃ)**."
+        },
+        {
+          "type": "fakta",
+          "label": "Tiga Putaran untuk Setiap Kebenaran",
+          "text": "Untuk **setiap** dari 4 kebenaran, ada 3 tahap pemahaman: (1) **mengetahui** apa itu kebenarannya, (2) **mengetahui tugas** yang harus dilakukan terhadapnya, (3) **mengetahui bahwa tugas itu telah selesai** dilakukan. 4 kebenaran × 3 putaran = 12 aspek."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Empat Tugas yang Berbeda",
+          "text": "Inilah yang sering terlewat: keempat kebenaran punya **tugas berbeda**, bukan sekadar 'dipahami' semua. Dukkha harus **dipahami sepenuhnya**. Samudaya (sebabnya) harus **dilepaskan**. Nirodha (lenyapnya) harus **diwujudkan**. Magga (jalannya) harus **dikembangkan**. Keliru arah tugas berarti keliru mempraktikkannya — misalnya, mencoba 'melepaskan' dukkha (yang seharusnya dipahami) alih-alih melepaskan taṇhā."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Kamu mungkin sudah menghafal '4 Kebenaran Mulia' sejak SMP. Setelah tahu bahwa masing-masing punya 'tugas' berbeda (dipahami/dilepaskan/diwujudkan/dikembangkan), apakah caramu memandang keempatnya berubah?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Dukkha",
+      "section_num": "Bagian 2",
+      "judul": "Dukkha — Kebenaran yang Harus Dipahami",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Rumusan kanonis dukkha sangat spesifik: *‘Kelahiran adalah dukkha, usia tua adalah dukkha, sakit adalah dukkha, kematian adalah dukkha; berkumpul dengan yang tidak disukai adalah dukkha, berpisah dari yang disukai adalah dukkha, tidak mendapatkan yang diinginkan adalah dukkha — singkatnya, lima kelompok kehidupan yang dilekati (pañcupādānakkhandha) adalah dukkha.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Khandha, tapi Upādānakkhandha",
+          "text": "Perhatikan kata terakhir: **pañcupādānakkhandha**, bukan sekadar pañcakkhandha. Lima kelompok kehidupan (tubuh, perasaan, persepsi, bentukan batin, kesadaran) itu sendiri **bukan** dukkha — itu sekadar proses hidup apa adanya. Yang menjadi dukkha adalah lima kelompok itu **saat dilekati (upādāna)**, saat diperlakukan sebagai 'aku' dan 'milikku'."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Perbedaan ini penting: bukan hidup itu sendiri yang bermasalah, melainkan **cara kita melekat** padanya. Ini akan kamu buktikan lebih dalam saat mempelajari Tilakkhaṇa di topik berikutnya."
+        },
+        {
+          "type": "paragraf",
+          "text": "'Tugas' terhadap dukkha adalah **pariññā** — memahami sepenuhnya, bukan menghindarinya, bukan pula meratapinya. Memahami dukkha berarti melihatnya jernih apa adanya, tanpa menyangkal maupun berlebihan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu pengalaman dukkha yang pernah kamu rasakan. Apakah sumber ketidaknyamanannya benar-benar dari kejadiannya, atau dari seberapa kuat kamu melekat pada harapan tertentu tentang kejadian itu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Samudaya",
+      "section_num": "Bagian 3",
+      "judul": "Samudaya — Kebenaran yang Harus Dilepaskan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Sebab munculnya dukkha adalah **taṇhā** — diformulasikan dalam sutta sebagai 'kehausan yang membawa kelahiran kembali, disertai kesenangan dan nafsu, mencari kesenangan di sana-sini'. Taṇhā terbagi tiga: **kāma-taṇhā** (kehausan akan kesenangan indria), **bhava-taṇhā** (kehausan akan keberadaan/menjadi sesuatu), dan **vibhava-taṇhā** (kehausan akan ketiadaan/lenyapnya diri)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Tiga Wajah Taṇhā",
+          "text": "**Kāma-taṇhā** paling mudah dikenali: ingin lebih, ingin nyaman. **Bhava-taṇhā** lebih halus: keinginan untuk 'menjadi' sesuatu — menjadi terkenal, menjadi sempurna, menjadi diakui. **Vibhava-taṇhā** paling halus: keinginan untuk lenyap, menghindar, tidak mau menjadi apa-apa. Ketiganya sama-sama taṇhā, meski wujudnya tampak berlawanan."
+        },
+        {
+          "type": "paragraf",
+          "text": "'Tugas' terhadap samudaya adalah **pahāna** — melepaskan, bukan menekan paksa (ingat Vitakkasaṇṭhāna Sutta, Kelas X: menekan adalah metode terakhir, bukan pertama). Melepaskan taṇhā dimulai dari mengenalinya saat muncul, persis seperti mengenali rintangan batin."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari tiga jenis taṇhā — ingin kesenangan, ingin menjadi sesuatu, ingin lenyap/menghindar — mana yang paling sering muncul dalam hidupmu sebagai pelajar SMA/SMK?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Nirodha & Magga",
+      "section_num": "Bagian 4",
+      "judul": "Nirodha & Magga — Kebenaran yang Diwujudkan dan Dikembangkan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "**Nirodha** adalah padamnya taṇhā tanpa sisa — pelepasan penuh, tanpa kemelekatan. Ini bukan kepunahan atau kekosongan, melainkan kebebasan dari kehausan yang selama ini mendorong dukkha. 'Tugas' terhadap nirodha adalah **sacchikiriyā** — mewujudkannya secara langsung, bukan sekadar memahami secara konsep."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Magga**, Jalan Mulia Berunsur Delapan, adalah caranya: pandangan benar, pikiran benar, ucapan benar, perbuatan benar, penghidupan benar, usaha benar, perhatian benar, konsentrasi benar. 'Tugas' terhadap magga adalah **bhāvanā** — mengembangkannya terus-menerus, seperti otot yang dilatih, bukan sekali dipahami lalu selesai."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Delapan unsur jalan ini bukan tahapan berurutan yang harus diselesaikan satu per satu, melainkan **delapan aspek yang berkembang bersama**. Pandangan benar memengaruhi perbuatan benar; perbuatan benar mendukung konsentrasi benar; begitu seterusnya — saling menguatkan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari delapan unsur Jalan Mulia, mana yang menurutmu paling sering kamu abaikan dibanding unsur lainnya dalam keseharianmu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 5",
+      "judul": "Sintesis: Membuktikan Empat Kebenaran secara Personal",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Empat Kebenaran Mulia bukan dogma yang diminta dipercaya begitu saja — kata 'ariya sacca' sendiri mengandung makna 'kebenaran yang mulia karena telah **dibuktikan**' oleh mereka yang menempuhnya, bukan sekadar diwariskan sebagai kepercayaan."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Dukkha** — dipahami: melihat jernih bahwa kemelekatan pada 5 kelompok kehidupan menimbulkan ketidakpuasan",
+            "**Samudaya** — dilepaskan: mengenali dan melepaskan tiga wajah taṇhā saat muncul",
+            "**Nirodha** — diwujudkan: mengalami langsung kebebasan dari kehausan, bukan sekadar konsep",
+            "**Magga** — dikembangkan: melatih delapan unsur jalan secara terus-menerus, bukan sekali jadi"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu ke Hukum Karma — bagaimana taṇhā dan pilihan yang kita ambil hari ini membentuk siapa kita di masa depan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari keseluruhan Empat Kebenaran Mulia yang kamu pelajari, satu 'pembuktian personal' apa yang paling terasa nyata dalam hidupmu sendiri — bukan sekadar teori yang dihafal?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 1",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 1"
+  }
+}

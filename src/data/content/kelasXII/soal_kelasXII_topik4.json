@@ -1,0 +1,302 @@
+{
+  "topik_id": "6.3d",
+  "kode_topik_lms": "XII-T4",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 16,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3d-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa banyak petapa yang mencapai kesucian penuh (Arahat) setelah mendengarkan Anattalakkhaṇa Sutta?",
+      "opsi": {
+        "a": "1",
+        "b": "3",
+        "c": "5",
+        "d": "60"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Ini jumlah yang mencapai Sotāpanna pada Khotbah PERTAMA (Koṇḍañña), bukan khotbah kedua ini",
+        "b": "Jumlah yang salah untuk peristiwa ini",
+        "d": "Ini jumlah Arahat yang diutus menyebar Dhamma (Kelas X Topik 1), bukan jumlah pendengar khotbah kedua"
+      }
+    },
+    {
+      "id": "6.3d-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Lima kelompok kehidupan (pañcakkhandha) yang dianalisis dalam Anattalakkhaṇa Sutta terdiri dari tubuh, perasaan, persepsi, bentukan batin, dan…",
+      "opsi": {
+        "a": "Kesadaran (viññāṇa)",
+        "b": "Karma (kamma)",
+        "c": "Kebijaksanaan (paññā)",
+        "d": "Konsentrasi (samādhi)"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Kamma adalah konsep terkait tapi bukan salah satu dari 5 kelompok kehidupan",
+        "c": "Paññā adalah hasil pemahaman, bukan salah satu dari 5 kelompok kehidupan",
+        "d": "Samādhi adalah unsur Jalan Mulia, bukan salah satu dari 5 kelompok kehidupan"
+      }
+    },
+    {
+      "id": "6.3d-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Anicca, dukkha, dan anattā itu tiga fakta yang berdiri sendiri-sendiri, tidak saling berkaitan.’",
+      "pertanyaan": "Apa yang keliru dari pernyataan siswa ini, berdasarkan Fakta Menarik Bagian 3?",
+      "opsi": {
+        "a": "Pernyataan itu benar sepenuhnya",
+        "b": "Ketiganya sebenarnya membentuk satu rantai argumen logis yang berurutan: tidak kekal (anicca) menyebabkan ketidakpuasan saat dilekati (dukkha), yang kemudian menunjukkan sesuatu itu bukan diri mutlak (anattā)",
+        "c": "Hanya anicca yang benar, dukkha dan anattā adalah tambahan yang tidak penting",
+        "d": "Ketiganya sebenarnya adalah istilah yang benar-benar identik tanpa perbedaan makna"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penjelasan 'satu rantai pembuktian' di materi",
+        "c": "Tidak sesuai — ketiganya dijelaskan sama pentingnya sebagai bagian dari argumen yang sama",
+        "d": "Tidak akurat — ketiganya adalah konsep berbeda meski saling berkaitan logis"
+      }
+    },
+    {
+      "id": "6.3d-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mencoba memerintahkan dirinya sendiri untuk tidak pernah merasa sedih lagi seumur hidup, tapi tetap saja sesekali merasa sedih meski sudah berusaha keras.",
+      "pertanyaan": "Bagaimana pengalaman ini bisa dihubungkan dengan argumen anattā dalam Anattalakkhaṇa Sutta?",
+      "opsi": {
+        "a": "Pengalaman ini membuktikan siswa tersebut gagal total dalam hidupnya",
+        "b": "Pengalaman ini mengilustrasikan logika sutta: jika perasaan benar-benar 'diri' sepenuhnya, ia seharusnya bisa dikendalikan sesuka hati ('jangan sedih lagi') — kenyataan bahwa itu tidak sepenuhnya bisa dikendalikan menjadi bukti bahwa perasaan bukan 'diri' dalam pengertian mutlak",
+        "c": "Pengalaman ini tidak berkaitan sama sekali dengan konsep anattā",
+        "d": "Pengalaman ini membuktikan bahwa emosi manusia sepenuhnya di luar kendali dan tidak ada gunanya berusaha mengelolanya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Kesimpulan berlebihan yang tidak proporsional dan tidak relevan dengan tujuan ilustrasi ini",
+        "c": "Bertentangan — skenario ini justru contoh konkret dari argumen anattā yang dijelaskan Bagian 3",
+        "d": "Terlalu ekstrem — materi tidak menyatakan pengelolaan emosi sepenuhnya sia-sia, hanya bahwa kendali TOTAL tidak mungkin"
+      }
+    },
+    {
+      "id": "6.3d-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Berdasarkan struktur argumen Bagian 2, apa hubungan logis antara anicca (tidak kekal) dan dukkha (tidak memuaskan)?",
+      "opsi": {
+        "a": "Keduanya tidak berkaitan sama sekali",
+        "b": "Karena sesuatu tidak kekal dan terus berubah, melekat erat padanya sebagai sesuatu yang permanen menghasilkan ketidakpuasan (dukkha) ketika perubahan itu tak terelakkan terjadi",
+        "c": "Dukkha menyebabkan anicca, bukan sebaliknya",
+        "d": "Anicca hanya berlaku untuk benda mati, dukkha hanya berlaku untuk makhluk hidup"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci Bagian 2 yang menjelaskan hubungan sebab-akibat keduanya",
+        "c": "Membalik arah hubungan logis yang sebenarnya dijelaskan (anicca mendahului, menyebabkan dukkha saat dilekati)",
+        "d": "Tidak sesuai — materi menjelaskan anicca & dukkha berlaku pada seluruh 5 kelompok kehidupan tanpa pembatasan ini"
+      }
+    },
+    {
+      "id": "6.3d-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha memilih menganalisis kelima kelompok kehidupan (pañcakkhandha) satu per satu dengan argumen yang sama, bukan hanya membahas satu contoh saja?",
+      "opsi": {
+        "a": "Untuk menunjukkan bahwa argumen anicca-dukkha-anattā berlaku menyeluruh pada seluruh aspek pengalaman — fisik maupun mental — bukan hanya berlaku pada sebagian pengalaman saja",
+        "b": "Karena Buddha lupa sudah menjelaskan argumennya dan mengulang secara tidak sengaja",
+        "c": "Karena kelima kelompok itu sebenarnya adalah lima ajaran yang benar-benar terpisah dan tidak berhubungan",
+        "d": "Untuk membuat khotbahnya terdengar lebih panjang dan mengesankan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak masuk akal — pengulangan ini terstruktur dan sistematis, bukan kelalaian",
+        "c": "Bertentangan — kelima kelompok justru dianalisis dengan LOGIKA YANG SAMA, menunjukkan keterkaitan bukan keterpisahan total",
+        "d": "Tidak sesuai dengan tujuan didaktis argumen yang sistematis ini"
+      }
+    },
+    {
+      "id": "6.3d-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa uji logis yang dipakai Anattalakkhaṇa Sutta untuk menentukan apakah sesuatu bisa disebut 'diri' (attā) secara mutlak?",
+      "opsi": {
+        "a": "Apakah sesuatu itu bisa dikendalikan sepenuhnya sesuka hati ('jadilah begini, jangan begitu') tanpa ada penyimpangan sama sekali",
+        "b": "Apakah sesuatu itu terlihat oleh mata secara fisik",
+        "c": "Apakah sesuatu itu disukai atau tidak disukai oleh pemiliknya",
+        "d": "Apakah sesuatu itu diwariskan dari orang tua"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Bukan kriteria yang dipakai sutta ini — kesadaran misalnya tidak terlihat fisik tapi tetap dianalisis",
+        "c": "Bukan kriteria yang dipakai — argumennya soal kendali, bukan soal suka/tidak suka",
+        "d": "Tidak relevan dengan uji logis yang dijelaskan sutta ini"
+      }
+    },
+    {
+      "id": "6.3d-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berargumen, ‘Tubuhku pasti diriku sendiri, karena aku bisa memutuskan untuk menggerakkan tanganku kapan saja aku mau.’",
+      "pertanyaan": "Bagaimana argumen Anattalakkhaṇa Sutta merespons klaim ini?",
+      "opsi": {
+        "a": "Klaim itu sepenuhnya benar dan sesuai ajaran sutta ini",
+        "b": "Meski bisa menggerakkan tangan sesuka hati, tubuh tetap tidak bisa dikendalikan SEPENUHNYA — misalnya tidak bisa mencegah rasa sakit, penyakit, atau penuaan meski tidak diinginkan — sehingga uji 'kendali penuh' tetap tidak terpenuhi",
+        "c": "Klaim itu membuktikan bahwa sutta ini sudah tidak relevan untuk zaman modern",
+        "d": "Klaim itu hanya berlaku bagi orang yang sangat kuat secara fisik"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan uji 'kendali penuh' yang jauh lebih ketat daripada sekadar bisa menggerakkan anggota tubuh",
+        "c": "Tidak relevan dan tidak berdasar — argumen logis ini tidak bergantung zaman",
+        "d": "Tidak sesuai — argumen berlaku universal, tidak bergantung kekuatan fisik seseorang"
+      }
+    },
+    {
+      "id": "6.3d-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara topik Tilakkhaṇa ini dengan pembelajaran Dukkha di Topik 1 (Empat Kebenaran Mulia)?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali antara keduanya",
+        "b": "Topik 1 menyebutkan dukkha secara garis besar sebagai kebenaran pertama; Topik 4 (Tilakkhaṇa) menjelaskan LEBIH DALAM mengapa dukkha muncul secara logis dari sifat anicca segala fenomena",
+        "c": "Tilakkhaṇa membatalkan seluruh penjelasan dukkha yang dipelajari di Topik 1",
+        "d": "Dukkha hanya relevan di Topik 1, sedangkan Tilakkhaṇa sama sekali tidak membahas dukkha"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan keterkaitan konseptual yang jelas antara kedua topik ini",
+        "c": "Tidak sesuai — Tilakkhaṇa memperdalam, bukan membatalkan, pemahaman dukkha",
+        "d": "Tidak akurat — dukkha justru menjadi salah satu dari tiga corak yang dibahas mendalam di topik ini"
+      }
+    },
+    {
+      "id": "6.3d-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa pencapaian kelima petapa mencapai Arahat SEKALIGUS pada Khotbah Kedua dianggap peristiwa yang signifikan?",
+      "opsi": {
+        "a": "Karena ini menunjukkan kekuatan argumen logis yang disampaikan, cukup meyakinkan untuk membawa transformasi mendalam pada lima orang sekaligus, bukan bertahap satu per satu",
+        "b": "Karena ini adalah satu-satunya kali dalam sejarah Buddhis ada orang yang mencapai Arahat",
+        "c": "Karena kelima petapa itu sebenarnya sudah dekat mencapai Arahat sebelum bertemu Buddha sama sekali",
+        "d": "Karena peristiwa ini terjadi secara kebetulan tanpa hubungan dengan isi khotbahnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Klaim berlebihan yang tidak akurat — banyak orang lain mencapai Arahat di kemudian hari dalam sejarah Buddhis",
+        "c": "Tidak sesuai fakta — pencapaian mereka justru dikaitkan langsung dengan mendengar & memahami khotbah ini",
+        "d": "Bertentangan dengan penekanan pada kekuatan ARGUMEN yang menjadi fokus utama Bagian 1"
+      }
+    },
+    {
+      "id": "6.3d-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana argumen Tilakkhaṇa berkaitan dengan pemahaman upādānakkhandha (kelompok kehidupan yang dilekati) yang dipelajari di Topik 1?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali",
+        "b": "Tilakkhaṇa menjelaskan MENGAPA melekat pada lima kelompok kehidupan menimbulkan dukkha — karena kelimanya bersifat anicca (tidak kekal) dan anattā (di luar kendali penuh), sehingga kemelekatan padanya (upādāna) menjadi sumber ketidakpuasan",
+        "c": "Upādānakkhandha dan Tilakkhaṇa adalah dua ajaran yang saling bertentangan",
+        "d": "Tilakkhaṇa hanya relevan bagi bhikkhu, sedangkan upādānakkhandha hanya relevan bagi umat awam"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan keterkaitan konseptual yang mendalam antara kedua konsep ini",
+        "c": "Tidak akurat — keduanya saling melengkapi dan konsisten, bukan bertentangan",
+        "d": "Tidak sesuai — kedua konsep ini dijelaskan berlaku universal, tidak dibatasi status keagamaan"
+      }
+    },
+    {
+      "id": "6.3d-q12",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa was-was setelah mempelajari anattā, khawatir ini berarti 'dirinya' benar-benar tidak ada sama sekali dan hidupnya jadi tidak berarti.",
+      "pertanyaan": "Bagaimana kekhawatiran ini sebaiknya direspons, berdasarkan cara argumen sutta ini disusun (uji kendali penuh, bukan penghapusan eksistensi)?",
+      "opsi": {
+        "a": "Anattā menegaskan bahwa sesuatu tidak bisa dikendalikan SEPENUHNYA sebagai 'diri' mutlak yang tetap dan berdiri sendiri — ini bukan berarti pengalaman hidup 'tidak ada' sama sekali, melainkan tentang sifatnya yang tidak tetap dan tidak sepenuhnya terkendali",
+        "b": "Kekhawatiran itu benar sepenuhnya — anattā memang berarti hidup ini sama sekali tidak berarti",
+        "c": "Anattā hanya teori kosong yang tidak perlu dipikirkan sama sekali",
+        "d": "Siswa itu sebaiknya berhenti mempelajari topik ini karena terlalu berat"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan implikasi — argumen sutta berfokus pada uji kendali, bukan klaim ketiadaan makna hidup",
+        "c": "Bertentangan dengan kedalaman dan signifikansi ajaran ini yang ditekankan sepanjang topik",
+        "d": "Menghindari bukan solusi yang dianjurkan semangat pembelajaran reflektif ini"
+      }
+    },
+    {
+      "id": "6.3d-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan cara argumen dibangun antara Anattalakkhaṇa Sutta (Topik 4) dan Cūḷakammavibhaṅga Sutta (Topik 2)?",
+      "opsi": {
+        "a": "Anattalakkhaṇa Sutta membangun argumen filosofis-logis tentang hakikat fenomena (anicca-dukkha-anattā); Cūḷakammavibhaṅga Sutta menjelaskan pola sebab-akibat konkret antara tindakan dan hasilnya — keduanya saling melengkapi dengan pendekatan berbeda",
+        "b": "Keduanya menggunakan argumen yang identik persis tanpa perbedaan pendekatan",
+        "c": "Cūḷakammavibhaṅga Sutta lebih filosofis, sedangkan Anattalakkhaṇa Sutta lebih tentang sebab-akibat konkret",
+        "d": "Kedua sutta ini saling bertentangan dan tidak bisa dipahami bersamaan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan pendekatan (filosofis-logis vs sebab-akibat konkret) yang jelas antara kedua sutta",
+        "c": "Terbalik dari karakter masing-masing sutta yang sebenarnya",
+        "d": "Tidak sesuai — keduanya adalah bagian dari satu kerangka ajaran yang koheren, bukan bertentangan"
+      }
+    },
+    {
+      "id": "6.3d-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa memahami anattā tidak sama dengan mengabaikan tanggung jawab pribadi yang dipelajari di Topik 2 (Karma) dan Topik 3 (Punabbhava)?",
+      "opsi": {
+        "a": "Karena anattā tentang tidak adanya 'diri' yang tetap dan mutlak, sementara Hukum Karma tetap berlaku pada rangkaian sebab-akibat yang terus mengalir — tanggung jawab tetap ada meski tidak ada 'diri' tunggal yang tetap sebagai pemiliknya secara mutlak",
+        "b": "Karena anattā secara otomatis membatalkan Hukum Karma sepenuhnya",
+        "c": "Karena anattā dan Hukum Karma sebenarnya adalah ajaran yang sama sekali sama",
+        "d": "Karena anattā hanya berlaku setelah seseorang meninggal dunia"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan — kedua ajaran ini konsisten berjalan bersama dalam kerangka Buddhis, bukan saling membatalkan",
+        "c": "Tidak akurat — anattā (hakikat fenomena) dan kamma (sebab-akibat tindakan) adalah konsep berbeda yang saling terkait",
+        "d": "Tidak sesuai — anattā adalah karakteristik yang berlaku terus-menerus, bukan terbatas waktu tertentu"
+      }
+    },
+    {
+      "id": "6.3d-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana Bagian 4 (Sintesis) merangkum hubungan keempat topik Etika Kelas XII secara keseluruhan?",
+      "opsi": {
+        "a": "Keempat topik dijelaskan sebagai satu jalinan besar yang saling terkait — dari kerangka dasar (Empat Kebenaran Mulia), mekanisme sebab-akibat (Karma), perluasan cakupan (Punabbhava), hingga hakikat mendalam segala fenomena (Tilakkhaṇa)",
+        "b": "Keempat topik dijelaskan sebagai empat ajaran terpisah yang tidak berkaitan",
+        "c": "Hanya Tilakkhaṇa yang penting, tiga topik lainnya hanya pengantar yang bisa diabaikan",
+        "d": "Keempat topik ini saling bertentangan dan siswa harus memilih hanya satu untuk dipercaya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penekanan pada 'satu jalinan besar' di Bagian 4",
+        "c": "Tidak sesuai — keempat topik dijelaskan sama pentingnya sebagai bagian dari satu kerangka utuh",
+        "d": "Tidak akurat — keempat topik saling melengkapi secara koheren, bukan saling bertentangan"
+      }
+    },
+    {
+      "id": "6.3d-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa signifikansi filosofis dari fakta bahwa Buddha menerapkan uji logis yang SAMA pada seluruh 5 kelompok kehidupan, termasuk kesadaran (viññāṇa) itu sendiri?",
+      "opsi": {
+        "a": "Ini menunjukkan bahwa bahkan kesadaran — yang mungkin paling sering dianggap sebagai 'inti diri sejati' — tetap tunduk pada hukum yang sama (anicca, dukkha, anattā), tanpa ada 'pengecualian' khusus untuk aspek batin manapun",
+        "b": "Ini menunjukkan bahwa kesadaran sebenarnya sengaja dikecualikan dari analisis ini",
+        "c": "Ini hanya kebetulan penulisan tanpa makna filosofis khusus",
+        "d": "Ini membuktikan bahwa kesadaran adalah satu-satunya kelompok yang benar-benar kekal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan fakta bahwa viññāṇa eksplisit dianalisis dengan argumen yang sama seperti keempat kelompok lain",
+        "c": "Mengabaikan signifikansi filosofis mendalam dari cakupan menyeluruh analisis ini",
+        "d": "Bertentangan langsung dengan kesimpulan sutta bahwa viññāṇa juga anicca (tidak kekal)"
+      }
+    }
+  ]
+}

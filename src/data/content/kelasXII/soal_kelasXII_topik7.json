@@ -1,0 +1,320 @@
+{
+  "topik_id": "6.3g",
+  "kode_topik_lms": "XII-T7",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 17,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank. Bank penutup ini juga menyertakan beberapa soal integratif yang merangkum keseluruhan kurikulum.",
+  "bank": [
+    {
+      "id": "6.3g-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa nama raja dalam kisah yang diceritakan Buddha kepada Kūṭadanta, yang mengubah rencana pengorbanan menjadi pemberdayaan ekonomi?",
+      "opsi": {
+        "a": "Mahāvijita",
+        "b": "Bimbisāra",
+        "c": "Suddhodana",
+        "d": "Daḷhanemi"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Raja Magadha yang memberikan tanah kepada Kūṭadanta, bukan tokoh dalam kisah yang diceritakan Buddha",
+        "c": "Ayah Pangeran Siddhattha (Kelas X), bukan tokoh dalam kisah ini",
+        "d": "Raja pemutar-roda pertama dalam Cakkavatti Sīhanāda Sutta, bukan Kūṭadanta Sutta"
+      }
+    },
+    {
+      "id": "6.3g-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Kepada siapa Buddha menyampaikan Ādiya Sutta tentang lima penggunaan kekayaan?",
+      "opsi": {
+        "a": "Anāthapiṇḍika",
+        "b": "Visākhā",
+        "c": "Dīghajānu",
+        "d": "Subha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Tokoh dāna lain dari Kelas XI, bukan penerima Ādiya Sutta",
+        "c": "Penerima Vyagghapajja Sutta, bukan Ādiya Sutta",
+        "d": "Penanya dalam Cūḷakammavibhaṅga Sutta, bukan Ādiya Sutta"
+      }
+    },
+    {
+      "id": "6.3g-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang kepala daerah menghadapi maraknya pencurian dengan hanya menambah jumlah polisi dan memperberat hukuman, tanpa mengatasi tingginya angka pengangguran di wilayahnya.",
+      "pertanyaan": "Berdasarkan Kūṭadanta Sutta dan Cakkavatti Sīhanāda Sutta, apa risiko dari pendekatan kepala daerah ini?",
+      "opsi": {
+        "a": "Pendekatan ini sudah optimal dan tidak memiliki risiko apa pun",
+        "b": "Berdasarkan kedua sutta, pendekatan yang hanya represif tanpa mengatasi akar ekonomi (pengangguran) berisiko tidak menyelesaikan masalah secara tuntas, bahkan berpotensi memicu eskalasi kekerasan seperti pola yang digambarkan Cakkavatti Sīhanāda Sutta",
+        "c": "Pencurian tidak ada hubungannya dengan kondisi ekonomi sama sekali",
+        "d": "Menambah jumlah polisi adalah solusi yang secara eksplisit dianjurkan kedua sutta ini"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan pesan kedua sutta yang justru mengkritik pendekatan represif semata",
+        "c": "Bertentangan langsung dengan diagnosis eksplisit kedua sutta yang menghubungkan kemiskinan dengan kejahatan",
+        "d": "Terbalik dari pesan sutta — keduanya justru menganjurkan pemberdayaan ekonomi, bukan penindakan semata"
+      }
+    },
+    {
+      "id": "6.3g-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa persamaan pola diagnosis antara Kūṭadanta Sutta dan Cakkavatti Sīhanāda Sutta terhadap akar masalah kejahatan dalam masyarakat?",
+      "opsi": {
+        "a": "Keduanya menunjukkan bahwa kejahatan berakar pada kondisi ekonomi (kemiskinan) yang diabaikan, bukan semata-mata karena moralitas individu yang buruk",
+        "b": "Keduanya menyatakan bahwa kejahatan sepenuhnya disebabkan oleh sifat jahat bawaan manusia yang tidak bisa diubah",
+        "c": "Keduanya menganjurkan hukuman fisik sebagai solusi utama kejahatan",
+        "d": "Kedua sutta ini memiliki diagnosis yang sama sekali berbeda dan bertentangan satu sama lain"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penekanan pada akar ekonomi-sosial, bukan sifat bawaan individu",
+        "c": "Bertentangan — kedua sutta justru mengkritik pendekatan hukuman semata sebagai tidak efektif",
+        "d": "Mengabaikan kesamaan pola diagnosis yang jelas antara kedua sutta ini"
+      }
+    },
+    {
+      "id": "6.3g-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa baru saja mendapat pekerjaan paruh waktu pertamanya, dan bingung bagaimana seharusnya menggunakan penghasilannya.",
+      "pertanyaan": "Berdasarkan urutan lima penggunaan kekayaan dalam Ādiya Sutta, prioritas apa yang seharusnya dipertimbangkan lebih dulu?",
+      "opsi": {
+        "a": "Menghidupi diri sendiri dan keluarga, sebelum meluas ke pertemanan, perlindungan, kewajiban sosial, dan dukungan spiritual",
+        "b": "Mendukung praktisi spiritual sebagai prioritas pertama dan satu-satunya yang penting",
+        "c": "Kelima penggunaan ini harus dilakukan secara bersamaan dalam jumlah yang benar-benar sama persis",
+        "d": "Melindungi diri dari bencana adalah prioritas tertinggi, mengalahkan semua penggunaan lain"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai urutan yang dijelaskan — dukungan spiritual adalah penggunaan KELIMA, bukan prioritas utama",
+        "c": "Tidak sesuai — materi menjelaskan urutan bertingkat, bukan pembagian rata yang kaku",
+        "d": "Tidak sesuai urutan — perlindungan dari bencana adalah penggunaan KETIGA, bukan tertinggi"
+      }
+    },
+    {
+      "id": "6.3g-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bahwa Ādiya Sutta disampaikan kepada Anāthapiṇḍika, tokoh yang sudah dipelajari sejak Kelas XI Topik 1 tentang dāna?",
+      "opsi": {
+        "a": "Koneksi ini menunjukkan kesinambungan kurikulum — tokoh yang sama yang membangun Jetavana lewat dāna besar (Kelas XI) ternyata juga menerima ajaran langsung tentang bagaimana kekayaan seharusnya dikelola secara etis, menyatukan dua pembelajaran lintas jenjang",
+        "b": "Koneksi ini murni kebetulan tanpa makna pedagogis apa pun",
+        "c": "Anāthapiṇḍika sebenarnya adalah tokoh fiktif yang berbeda dari yang dipelajari di Kelas XI",
+        "d": "Ādiya Sutta membatalkan seluruh pembelajaran tentang Anāthapiṇḍika di Kelas XI"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan nilai pedagogis dari koneksi lintas jenjang yang eksplisit disebutkan materi",
+        "c": "Tidak sesuai fakta — ini adalah tokoh historis yang sama dalam kanon Pali",
+        "d": "Tidak sesuai — kedua ajaran saling melengkapi pemahaman tentang tokoh yang sama"
+      }
+    },
+    {
+      "id": "6.3g-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merancang proyek akhir hanya berdasarkan opini pribadinya tentang kemiskinan, tanpa merujuk sutta mana pun yang telah dipelajari.",
+      "pertanyaan": "Bagaimana pendekatan siswa ini dinilai berdasarkan Poin Kunci Bagian 4?",
+      "opsi": {
+        "a": "Pendekatan itu sudah sesuai standar karena opini pribadi selalu cukup untuk proyek akhir",
+        "b": "Pendekatan itu belum memenuhi standar — Poin Kunci Bagian 4 secara eksplisit meminta proyek merujuk MINIMAL DUA sutta yang telah dipelajari, bukan sekadar opini pribadi tanpa landasan tekstual",
+        "c": "Sutta-sutta yang dipelajari sepanjang kurikulum tidak relevan untuk proyek praktis semacam ini",
+        "d": "Proyek akhir sebaiknya tidak perlu dirumuskan sebagai pertanyaan sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan persyaratan eksplisit 'minimal dua sutta' di Poin Kunci Bagian 4",
+        "c": "Bertentangan dengan keseluruhan semangat topik yang mengaitkan isu kontemporer dengan sutta-sutta yang telah dipelajari",
+        "d": "Bertentangan dengan instruksi eksplisit untuk merumuskan pertanyaan proyek"
+      }
+    },
+    {
+      "id": "6.3g-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kombinasi Kūṭadanta Sutta (skala kerajaan/kebijakan) dan Ādiya Sutta (skala personal) memberikan kerangka yang lebih lengkap untuk menganalisis isu ekonomi dibanding hanya menggunakan salah satunya?",
+      "opsi": {
+        "a": "Keduanya saling melengkapi — Kūṭadanta Sutta menyoroti tanggung jawab struktural/kebijakan dalam mengatasi kemiskinan, sementara Ādiya Sutta menyoroti tanggung jawab etis individu dalam mengelola kekayaan; isu ekonomi nyata biasanya membutuhkan kedua level analisis ini",
+        "b": "Kedua sutta ini sebenarnya membahas hal yang sama sekali sama tanpa perbedaan level analisis",
+        "c": "Hanya salah satu dari kedua sutta ini yang benar-benar relevan untuk isu ekonomi modern",
+        "d": "Kombinasi keduanya justru menciptakan kontradiksi yang tidak bisa didamaikan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan level analisis (struktural vs personal) yang menjadi kekuatan menggabungkan keduanya",
+        "c": "Tidak sesuai — materi menunjukkan kedua sutta sama-sama relevan pada levelnya masing-masing",
+        "d": "Tidak sesuai — kedua sutta saling melengkapi, bukan bertentangan"
+      }
+    },
+    {
+      "id": "6.3g-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menyintesis pembelajaran tentang Hukum Karma (Kelas XII, Semester 1) dengan analisis isu ekonomi-global?",
+      "opsi": {
+        "a": "Prinsip bahwa kehendak/tindakan membentuk konsekuensi (Karma) berlaku juga pada skala kolektif — kebijakan dan pilihan ekonomi suatu masyarakat (seperti diabaikannya pemberdayaan dalam Cakkavatti Sīhanāda Sutta) membentuk konsekuensi sosial yang nyata, mencerminkan prinsip sebab-akibat yang sama",
+        "b": "Hukum Karma tidak memiliki relevansi apa pun terhadap isu ekonomi atau kebijakan publik",
+        "c": "Hukum Karma hanya berlaku bagi tindakan individu, tidak pernah bisa diterapkan pada skala masyarakat atau kebijakan",
+        "d": "Topik ini membatalkan seluruh pemahaman tentang Hukum Karma yang dipelajari sebelumnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan keterkaitan tematik yang jelas antara sebab-akibat tindakan dan konsekuensi sosial-ekonomi",
+        "c": "Terlalu membatasi — Cakkavatti Sīhanāda Sutta justru menunjukkan penerapan prinsip sebab-akibat pada skala kerajaan/masyarakat",
+        "d": "Tidak sesuai — topik ini memperluas aplikasi, bukan membatalkan, pemahaman Hukum Karma"
+      }
+    },
+    {
+      "id": "6.3g-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Merefleksikan keseluruhan perjalanan dari Topik 1 Kelas X hingga topik penutup ini, apa benang merah utama yang menghubungkan seluruh kurikulum PAB SMA/SMK Fase E-F?",
+      "opsi": {
+        "a": "Perjalanan dari memahami sejarah dan penyiaran Dhamma, membangun fondasi praktik batin, mengembangkan nalar kritis, hingga memahami kerangka filosofis mendalam — semuanya bermuara pada kemampuan menerapkan Dhamma secara bijaksana pada persoalan nyata kehidupan, termasuk isu-isu besar dunia",
+        "b": "Tidak ada benang merah yang menghubungkan seluruh kurikulum ini, setiap topik berdiri sendiri tanpa keterkaitan",
+        "c": "Seluruh kurikulum ini hanya mengulang-ulang materi yang sama tanpa perkembangan substansial",
+        "d": "Benang merahnya adalah bahwa seluruh pembelajaran ini hanya relevan untuk ujian, tidak untuk kehidupan nyata"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan keterkaitan eksplisit yang dibangun sepanjang seluruh kurikulum, termasuk rangkuman perjalanan di Bagian 5",
+        "c": "Mengabaikan progresi jelas dari sejarah ke praktik ke filosofi ke aplikasi yang membangun satu sama lain",
+        "d": "Bertentangan langsung dengan penekanan aplikasi nyata (proyek akhir) yang menjadi puncak seluruh kurikulum"
+      }
+    },
+    {
+      "id": "6.3g-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Poin Kunci Bagian 5 menegaskan bahwa menyelesaikan kurikulum ini adalah 'fondasi, bukan garis akhir'?",
+      "opsi": {
+        "a": "Karena prinsip appamāda (kesungguhan berkelanjutan) dan Paṭiccasamuppāda (segala sesuatu terus berproses) yang sudah dipelajari menunjukkan bahwa pemahaman dan praktik Dhamma bersifat berkelanjutan seumur hidup, bukan target yang 'selesai' setelah lulus",
+        "b": "Karena materi yang dipelajari selama tiga tahun ini sebenarnya tidak penting dan bisa dilupakan setelah lulus",
+        "c": "Karena siswa akan mengulang persis kurikulum yang sama setelah lulus SMA/SMK",
+        "d": "Pernyataan ini tidak memiliki makna khusus, hanya kalimat penutup formal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penekanan bahwa pembelajaran ini adalah 'fondasi' yang berharga, bukan sesuatu yang bisa diabaikan",
+        "c": "Tidak sesuai — pernyataan ini tentang keberlanjutan PRAKTIK, bukan pengulangan kurikulum formal",
+        "d": "Meremehkan koneksi bermakna dengan appamāda dan Paṭiccasamuppāda yang eksplisit dirujuk"
+      }
+    },
+    {
+      "id": "6.3g-q12",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa bahwa mempelajari sutta-sutta kuno tidak relevan untuk memecahkan masalah ekonomi modern seperti pengangguran atau krisis iklim.",
+      "pertanyaan": "Bagaimana pandangan ini seharusnya direspons berdasarkan keseluruhan topik ini?",
+      "opsi": {
+        "a": "Pandangan itu perlu dikoreksi — topik ini secara eksplisit menunjukkan bagaimana prinsip-prinsip dari sutta kuno (pemberdayaan ekonomi, penggunaan kekayaan yang etis, diagnosis akar masalah sosial) tetap relevan dan bisa diterapkan langsung pada isu-isu ekonomi dan global kontemporer",
+        "b": "Pandangan itu sepenuhnya benar, sutta-sutta ini hanya relevan untuk konteks sejarah kuno",
+        "c": "Sutta-sutta ini hanya relevan bagi orang yang ingin menjadi bhikkhu, tidak bagi masalah duniawi",
+        "d": "Masalah ekonomi modern terlalu kompleks untuk dianalisis dengan kerangka apa pun dari kanon Pali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan keseluruhan tujuan topik ini yang menerapkan sutta pada isu kontemporer",
+        "c": "Bertentangan dengan konteks sutta yang justru ditujukan bagi raja, brahmana, dan umat awam (bukan eksklusif bhikkhu)",
+        "d": "Bertentangan dengan seluruh premis topik yang menunjukkan penerapan praktis kerangka ini"
+      }
+    },
+    {
+      "id": "6.3g-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menunjukkan konsistensi pesan dengan Topik 1 Kelas X (tentang Brahma Sahampati dan 60 murid pertama) mengenai semangat 'menjangkau demi kebahagiaan banyak orang'?",
+      "opsi": {
+        "a": "Sama seperti misi 60 murid pertama yang diutus 'demi kebahagiaan banyak orang, demi kesejahteraan banyak orang', proyek akhir ini mengajak siswa menerapkan semangat yang sama dalam konteks isu ekonomi-global masa kini — kesinambungan semangat sepanjang 2.600 tahun hingga ke tindakan nyata siswa hari ini",
+        "b": "Tidak ada keterkaitan sama sekali antara kedua topik yang terpisah tiga tahun pembelajaran ini",
+        "c": "Topik ini membatalkan seluruh semangat penyiaran Dhamma yang dipelajari di Kelas X",
+        "d": "Brahma Sahampati secara langsung disebutkan sebagai tokoh dalam Kūṭadanta Sutta maupun Ādiya Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan benang merah semangat 'kebahagiaan banyak orang' yang menghubungkan awal dan akhir kurikulum",
+        "c": "Bertentangan — topik ini justru MELANJUTKAN, bukan membatalkan, semangat tersebut",
+        "d": "Tidak sesuai fakta — Brahma Sahampati adalah tokoh dalam Ariyapariyesana Sutta (Kelas X), bukan dalam sutta-sutta topik ini"
+      }
+    },
+    {
+      "id": "6.3g-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa proyek akhir ini secara khusus meminta siswa merujuk sutta yang telah dipelajari, alih-alih mengizinkan solusi yang sepenuhnya bebas tanpa landasan Dhamma?",
+      "opsi": {
+        "a": "Untuk memastikan siswa benar-benar menerapkan (bukan sekadar menghafal) prinsip-prinsip yang telah dipelajari sepanjang tiga tahun, sekaligus melatih keterampilan menghubungkan teks kanonis dengan persoalan dunia nyata secara bertanggung jawab",
+        "b": "Karena solusi tanpa landasan Dhamma dianggap otomatis salah dalam bidang apa pun",
+        "c": "Karena tidak ada cara lain untuk menyelesaikan masalah ekonomi selain merujuk kanon Pali",
+        "d": "Persyaratan ini murni formalitas administratif tanpa tujuan pedagogis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Klaim berlebihan yang tidak didukung materi — fokusnya pada penerapan bermakna, bukan klaim eksklusivitas kebenaran",
+        "c": "Klaim berlebihan yang tidak sesuai dengan pendekatan terbuka kurikulum ini (ingat Brahmajāla Sutta, Kālāma Sutta)",
+        "d": "Meremehkan tujuan pedagogis jelas dari persyaratan ini sebagai puncak pembelajaran tiga tahun"
+      }
+    },
+    {
+      "id": "6.3g-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keseluruhan struktur topik ini (dari kebijakan besar/Kūṭadanta, ke siklus sosial/Cakkavatti, ke etika personal/Ādiya, ke proyek aplikatif) mencerminkan prinsip pembelajaran bertahap yang konsisten sepanjang kurikulum PAB SMA/SMK?",
+      "opsi": {
+        "a": "Strukturnya bergerak dari skala besar (kebijakan kerajaan) ke skala menengah (pola sosial) ke skala personal (etika individu), sebelum akhirnya disintesis dalam aplikasi nyata — pola zoom-in yang konsisten dengan cara materi-materi sebelumnya juga membangun dari konsep besar menuju penerapan personal",
+        "b": "Struktur topik ini acak tanpa pola pedagogis tertentu",
+        "c": "Struktur ini bertentangan dengan seluruh pendekatan pedagogis yang dipakai di topik-topik sebelumnya",
+        "d": "Urutan bagian-bagian dalam topik ini bisa dibalik sepenuhnya tanpa memengaruhi pemahaman"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan pola progresif jelas (besar ke personal ke aplikasi) yang terlihat dari urutan bagian",
+        "c": "Tidak sesuai — pola ini justru KONSISTEN dengan pendekatan bertahap yang dipakai sepanjang kurikulum",
+        "d": "Tidak sesuai — urutan ini dirancang membangun secara bertahap, tidak sembarang bisa dibalik"
+      }
+    },
+    {
+      "id": "6.3g-q16",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan mendasar antara proyek akhir Kelas X (Topik 8, menganalisis isu dengan lensa Paṭiccasamuppāda) dan proyek akhir Kelas XII ini, meski keduanya sama-sama tentang isu kontemporer?",
+      "opsi": {
+        "a": "Proyek Kelas X berfokus pada ANALISIS sebab-akibat suatu isu; proyek Kelas XII ini melangkah lebih jauh dengan mengembangkan SOLUSI/rekomendasi konkret berdasarkan kerangka doktrinal yang jauh lebih luas dan mendalam yang telah dipelajari sepanjang tiga tahun",
+        "b": "Kedua proyek ini sebenarnya meminta hal yang benar-benar identik tanpa perbedaan",
+        "c": "Proyek Kelas X jauh lebih kompleks dan mendalam dibanding proyek Kelas XII ini",
+        "d": "Proyek Kelas XII ini menggantikan dan membatalkan proyek Kelas X yang sudah dikerjakan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan penekanan (analisis vs solusi) dan kedalaman kerangka yang tersedia antara kedua proyek",
+        "c": "Terbalik — proyek Kelas XII justru dibangun di atas kerangka doktrinal yang jauh lebih luas setelah tiga tahun pembelajaran",
+        "d": "Tidak sesuai — kedua proyek adalah tonggak pembelajaran pada jenjangnya masing-masing, bukan saling membatalkan"
+      }
+    },
+    {
+      "id": "6.3g-q17",
+      "level_soal": "HOTS",
+      "pertanyaan": "Sebagai penutup seluruh kurikulum, apa pesan utama yang ingin disampaikan lewat pertanyaan refleksi terakhir di Bagian 5 ('satu nilai apa yang akan kamu bawa keluar dari kelas ini')?",
+      "opsi": {
+        "a": "Bahwa keberhasilan sejati dari pembelajaran PAB tiga tahun ini bukan diukur dari nilai ujian semata, melainkan dari sejauh mana nilai-nilai yang dipelajari benar-benar terinternalisasi dan terbawa ke dalam kehidupan siswa setelah lulus — gaung dari prinsip dhammānudhammappaṭipatti (Kelas XI) tentang penghormatan sejati lewat praktik",
+        "b": "Bahwa siswa harus melupakan seluruh materi begitu ujian selesai",
+        "c": "Bahwa pertanyaan ini hanya formalitas tanpa makna mendalam",
+        "d": "Bahwa hanya siswa yang mendapat nilai sempurna yang benar-benar berhasil menyelesaikan kurikulum ini"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan pesan 'fondasi, bukan garis akhir' yang ditekankan sepanjang Bagian 5",
+        "c": "Meremehkan kedalaman reflektif yang menjadi ciri khas seluruh kurikulum ini",
+        "d": "Bertentangan dengan keseluruhan filosofi kurikulum yang menekankan pembuktian personal, bukan sekadar nilai ujian"
+      }
+    }
+  ]
+}

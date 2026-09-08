@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "topik_id": "6.2a",
+    "kode_topik_lms": "XI-T4",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Ritual",
+    "kode_cp": "6.2",
+    "judul": "Dari Tenang ke Terang",
+    "subjudul": "Vipassanā Bhāvanā: Mengenal dan Mempraktikkan Satipaṭṭhāna Sutta",
+    "breadcrumb": "Kelas XI · Topik 4 · Ritual",
+    "estimasi_baca_menit": 11,
+    "sumber_kanon": [
+      "Satipaṭṭhāna Sutta (MN 10 / DN 22)"
+    ],
+    "catatan_editorial": "Topik ini melanjutkan Tetrad 1 Ānāpānasati (Kelas X) menuju cakupan penuh 4 landasan perhatian. Kedalaman vipassanā lanjutan (jhāna, tahap-tahap pandangan terang/vipassanā-ñāṇa) berada di luar cakupan topik ini dan dipelajari lebih lanjut bagi yang berminat mendalami praktik.",
+    "tujuan_pembelajaran": "Peserta didik mempraktikkan meditasi pandangan terang (vipassanā) berlandaskan Satipaṭṭhāna Sutta dalam kehidupan berkesadaran sehari-hari."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Tenang ke Terang",
+      "section_num": "Bagian 1",
+      "judul": "Dari Tenang ke Terang: Mengenal Satipaṭṭhāna Sutta",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Di Kelas X, kamu berlatih Tetrad 1 Ānāpānasati — menyadari napas, memperluas kesadaran ke tubuh, menenangkannya. Itu adalah **samatha**: menenangkan pikiran dengan memusatkannya pada satu objek. Sekarang saatnya melangkah ke **vipassanā** — teknik yang sama yang dihidupkan kembali S.N. Goenka (Topik 2) di India."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Beda Samatha dan Vipassanā",
+          "text": "Samatha bertanya: *bisakah pikiran diam dan tenang?* Vipassanā bertanya: *apa yang sebenarnya terjadi, apa adanya, saat diamati dengan jernih?* Vipassanā tidak berhenti di ketenangan — ia memakai ketenangan itu sebagai alat untuk melihat lebih dalam."
+        },
+        {
+          "type": "fakta",
+          "label": "Satipaṭṭhāna Sutta: ‘Jalan Tunggal’",
+          "text": "Sutta ini dibuka dengan pernyataan berani: *‘ekāyano maggo’* — ‘satu-satunya jalan’ menuju kesucian batin, mengatasi kesedihan dan ratapan, melenyapkan duka dan kesedihan mendalam, mencapai cara yang benar, mewujudkan Nibbāna."
+        },
+        {
+          "type": "paragraf",
+          "text": "Jalan tunggal itu terbagi menjadi **empat landasan perhatian (satipaṭṭhāna)**: **kāyānupassanā** (mengamati tubuh), **vedanānupassanā** (mengamati perasaan), **cittānupassanā** (mengamati pikiran), dan **dhammānupassanā** (mengamati fenomena/kualitas mental — termasuk lima rintangan batin yang kamu pelajari di Kelas X)."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Samatha mencari ketenangan; vipassanā mencari kejernihan melihat kenyataan apa adanya. Menurutmu, kenapa ketenangan saja belum cukup — kenapa kejernihan melihat juga diperlukan?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Kesadaran Tubuh",
+      "section_num": "Bagian 2",
+      "judul": "Memperluas Kāyānupassanā: Postur dan Aktivitas",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kāyānupassanā yang kamu praktikkan lewat napas di Kelas X hanyalah pintu masuknya. Satipaṭṭhāna Sutta memperluasnya ke dua area lain: menyadari **postur tubuh** (iriyāpatha — duduk, berdiri, berjalan, berbaring) dan menyadari **aktivitas sehari-hari dengan penuh kesadaran** (sampajañña — makan, minum, berpakaian, dst)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Intinya sederhana namun sering terlewat: **tahu apa yang sedang dilakukan tubuh, persis saat melakukannya** — bukan sambil melamun, bukan sambil menatap layar, bukan otomatis tanpa hadir sepenuhnya."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Cara berlatih:** selama 5 menit, coba berjalan perlahan sambil sepenuhnya menyadari setiap langkah — kaki terangkat, melayang, menapak. Lalu coba makan satu suapan makanan dengan kesadaran penuh: rasa, tekstur, gerakan mengunyah, tanpa gawai atau percakapan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba ingat kembali aktivitas 'otomatis' yang sering kamu lakukan tanpa benar-benar hadir — makan sambil main HP, berjalan sambil melamun. Bagaimana rasanya tadi saat mencobanya dengan kesadaran penuh?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Perasaan & Pikiran",
+      "section_num": "Bagian 3",
+      "judul": "Vedanānupassanā & Cittānupassanā: Mengamati Perasaan dan Pikiran",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Landasan kedua, **vedanānupassanā**, mengamati perasaan (vedanā) yang muncul — hanya ada tiga jenis: **menyenangkan (sukha)**, **tidak menyenangkan (dukkha)**, atau **netral**. Tugasnya bukan mengubah perasaan itu, hanya **mencatat jenisnya** saat muncul, tanpa mengejar yang menyenangkan atau menolak yang tidak menyenangkan."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Ini persis prinsip yang dipraktikkan dalam tradisi Goenka (Topik 2): mengamati sensasi tubuh apa adanya — menyenangkan, tidak menyenangkan, atau netral — tanpa bereaksi berlebihan. Prinsip *‘sekadar mencatat, bukan bereaksi’* inilah inti vipassanā."
+        },
+        {
+          "type": "paragraf",
+          "text": "Landasan ketiga, **cittānupassanā**, mengamati kondisi pikiran itu sendiri — apakah sedang dipenuhi nafsu atau tidak, dipenuhi kebencian atau tidak, terpusat atau kacau. Sekali lagi: **sekadar mengenali**, bukan menghakimi diri sendiri karena pikirannya sedang 'kurang baik'."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Vedanānupassanā dan cittānupassanā melengkapi apa yang sudah kamu pelajari tentang nīvaraṇa (Kelas X, Topik 4). Rintangan batin sebenarnya adalah objek pengamatan cittānupassanā yang sangat konkret — kamu sudah mempraktikkannya tanpa sadar!"
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba ingat momen belakangan ini ketika kamu merasakan sesuatu yang tidak menyenangkan. Apa yang terjadi setelah itu — kamu sekadar menyadarinya, atau langsung bereaksi (marah, menghindar, mengeluh)?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Hidup Berkesadaran",
+      "section_num": "Bagian 4",
+      "judul": "Hidup Berkesadaran di Luar Meditasi Formal",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Vipassanā sejatinya bukan sekadar 'sesi 20 menit lalu selesai'. Empat landasan perhatian ini dirancang untuk dibawa ke seluruh aktivitas sehari-hari — inilah yang disebut **hidup berkesadaran (mindful living)**."
+        },
+        {
+          "type": "paragraf",
+          "text": "**Tantangan 1 hari:** pilih satu hari untuk mempraktikkan kesadaran penuh dalam tiga momen sederhana — saat bangun tidur (rasakan napas pertama sebelum bangkit), saat makan (kesadaran penuh pada rasa dan tekstur), dan saat berjalan ke suatu tempat (kesadaran penuh pada langkah kaki)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Relevansi bagi siswa SMA/SMK sangat konkret: mengurangi kecenderungan bertindak impulsif (misalnya membalas pesan dengan emosi tanpa berpikir), meningkatkan fokus belajar, dan mengelola stres tanpa perlu 'kabur' dari kenyataan."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Dari tiga momen tantangan di atas (bangun tidur, makan, berjalan), mana yang paling realistis bisa kamu coba mulai besok?"
+        }
+      ]
+    },
+    {
+      "id": "bagian5",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 5",
+      "judul": "Sintesis: Vipassanā sebagai Jalan Hidupku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kamu baru menempuh perjalanan yang dimulai lebih dari 2.600 tahun lalu, dilalui kembali oleh S.N. Goenka di abad ke-20, dan kini kamu praktikkan sendiri: dari menyadari napas (Kelas X), menyadari tubuh, hingga menyadari perasaan dan pikiran (Kelas XI)."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Kāyānupassanā** — mengamati tubuh: napas, postur, aktivitas sehari-hari",
+            "**Vedanānupassanā** — mencatat jenis perasaan tanpa bereaksi berlebihan",
+            "**Cittānupassanā** — mengenali kondisi pikiran tanpa menghakimi diri",
+            "**Dhammānupassanā** — mengamati fenomena batin yang lebih halus, termasuk rintangan batin"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Empat landasan ini bukan tahapan yang selesai sekali dipelajari, melainkan keterampilan yang terus diasah seumur hidup — persis seperti perjalanan panjang Dhamma yang sudah kamu telusuri sejak Topik 1 Kelas X."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari seluruh perjalanan praktik meditasi yang kamu tempuh sejak Kelas X hingga topik ini, perubahan apa — sekecil apa pun — yang mulai kamu rasakan dalam caramu menjalani hari-hari?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 4",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 4"
+  }
+}

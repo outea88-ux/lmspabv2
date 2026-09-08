@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "topik_id": "6.3d",
+    "kode_topik_lms": "XII-T4",
+    "jenjang": "XII",
+    "fase": "F",
+    "elemen": "Etika",
+    "kode_cp": "6.3",
+    "judul": "Lima Petapa, Sekali Duduk, Semuanya Tercerahkan",
+    "subjudul": "Membuktikan Tilakkhaṇa: Hukum Tiga Corak Universal",
+    "breadcrumb": "Kelas XII · Topik 4 · Etika",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Anattalakkhaṇa Sutta (SN 22.59)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik membuktikan Hukum Tiga Corak Universal (Tilakkhaṇa) berdasarkan Anattalakkhaṇa Sutta sebagai hakikat segala fenomena."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Khotbah Kedua",
+      "section_num": "Bagian 1",
+      "judul": "Khotbah Kedua: Saat Lima Petapa Sekaligus Tercerahkan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Ingat kembali Topik 1 Kelas X: setelah Khotbah Pertama, Koṇḍañña mencapai tingkat kesucian awal. Beberapa hari kemudian, Buddha menyampaikan **khotbah kedua** kepada kelima petapa itu — dan kali ini, hasilnya jauh lebih besar: **kelima-limanya** mencapai kesucian penuh sebagai Arahat, seketika, di akhir khotbah yang sama."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Apa yang Membuatnya Begitu Ampuh?",
+          "text": "Anattalakkhaṇa Sutta menganalisis lima kelompok kehidupan (pañcakkhandha: tubuh/rūpa, perasaan/vedanā, persepsi/saññā, bentukan batin/saṅkhāra, kesadaran/viññāṇa) satu per satu, dengan **satu argumen logis yang sama** diterapkan pada kelima-limanya. Argumen inilah yang menghasilkan Tilakkhaṇa — tiga corak universal: **anicca** (tidak kekal), **dukkha** (tidak memuaskan), **anattā** (tanpa-diri)."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Khotbah pertama menghasilkan 1 orang tercerahkan sebagian; khotbah kedua menghasilkan 5 orang tercerahkan penuh, sekaligus. Menurutmu, apa yang mungkin membuat argumen dalam khotbah kedua ini begitu meyakinkan dan langsung mengena?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Anicca & Dukkha",
+      "section_num": "Bagian 2",
+      "judul": "Anicca & Dukkha: Membuktikan Ketidakkekalan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Coba amati salah satu dari lima kelompok kehidupan — misalnya tubuhmu. Sel-selnya terus berganti, kekuatannya naik-turun, rupanya berubah dari bayi hingga dewasa hingga tua. Tidak ada satu momen pun tubuh benar-benar 'diam' tanpa perubahan. Inilah **anicca** — ketidakkekalan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Dari Anicca ke Dukkha",
+          "text": "Sutta ini menyusun argumen berurutan: sesuatu yang **tidak kekal (anicca)**, yang **berubah-ubah sifatnya**, apakah pantas dianggap memuaskan untuk dilekati sepenuhnya? Jawabannya: tidak — karena melekat erat pada sesuatu yang terus berubah justru menghasilkan **dukkha**. Anicca dan dukkha di sini bukan dua hal terpisah, melainkan **satu rangkaian logis**: tidak kekal → karena itu, tidak memuaskan untuk dilekati."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Argumen yang sama diterapkan pada seluruh lima kelompok kehidupan, bukan hanya tubuh: perasaan berubah-ubah, persepsi berubah-ubah, bentukan batin berubah-ubah, bahkan kesadaran itu sendiri berubah-ubah dari momen ke momen."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba amati satu hal dalam dirimu yang kamu anggap 'tetap' selama ini — kepribadianmu, seleramu, keyakinanmu. Benarkah ia benar-benar tidak pernah berubah, atau kamu baru menyadari sekarang bahwa ia terus bergeser?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Anattā",
+      "section_num": "Bagian 3",
+      "judul": "Anattā: Argumen Penutup yang Mengubah Lima Petapa",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Bagian paling terkenal dari sutta ini adalah argumen soal **anattā** (tanpa-diri), disampaikan dengan logika yang tajam: *‘Jika tubuh ini adalah diri, tentu tubuh ini tidak akan menimbulkan penderitaan, dan seseorang bisa berkata terhadapnya, “Jadilah begini, jangan jadi begitu.” Tapi karena tubuh bukan diri, tubuh menimbulkan penderitaan, dan tidak mungkin memaksanya menuruti kehendak kita sepenuhnya.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Struktur Argumennya",
+          "text": "Logikanya bertahap: (1) Jika X benar-benar 'diriku', X seharusnya bisa kukendalikan sepenuhnya sesuka hati. (2) Kenyataannya, tak satu pun dari lima kelompok kehidupan bisa dikendalikan sepenuhnya — tubuh tetap sakit meski tak diinginkan, pikiran tetap mengembara meski ingin diam. (3) Karena itu, tak satu pun dari kelimanya benar-benar 'diri' dalam pengertian mutlak."
+        },
+        {
+          "type": "paragraf",
+          "text": "Setelah argumen ini, Buddha mengajukan pertanyaan retoris kepada kelima petapa: *‘Apakah pantas menganggap sesuatu yang tidak kekal, tidak memuaskan, dan berubah-ubah sebagai “ini milikku, ini aku, ini diriku”?’* Kelimanya menjawab: **tidak**. Pada titik itulah, kelima petapa mencapai pembebasan penuh."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Perhatikan urutan logisnya: **anicca** (tidak kekal) → **dukkha** (karena itu, tidak memuaskan untuk dilekati) → **anattā** (karena itu, tidak pantas dianggap 'diri'). Tiga corak ini bukan tiga fakta terpisah, melainkan satu rantai pembuktian yang saling menyusun."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba terapkan uji 'bisa dikendalikan sepenuhnya atau tidak' pada salah satu aspek dirimu — emosimu, misalnya. Bisakah kamu benar-benar memerintahkannya 'jadilah begini, jangan begitu' dan selalu dipatuhi sepenuhnya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Sintesis",
+      "section_num": "Bagian 4",
+      "judul": "Sintesis: Tiga Corak, Satu Rantai Pembuktian",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kamu telah menempuh perjalanan penuh di elemen Etika Kelas XII: dari Empat Kebenaran Mulia (Topik 1), Hukum Karma (Topik 2), Punabbhava (Topik 3), hingga Tilakkhaṇa (Topik 4). Semuanya saling terkait dalam satu jalinan besar."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Anicca** — tidak kekal, terus berubah, tanpa kecuali",
+            "**Dukkha** — karena tidak kekal, melekat padanya menimbulkan ketidakpuasan",
+            "**Anattā** — karena tidak sepenuhnya bisa dikendalikan, tidak pantas disebut 'diri' mutlak",
+            "**Satu rantai** — bukan tiga fakta lepas, melainkan argumen yang saling menyusun"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik terakhir semester ini akan membawamu menyintesis seluruh hukum yang telah dipelajari — Empat Kebenaran Mulia, Karma, Punabbhava, dan Tilakkhaṇa — dalam satu kerangka pandang yang utuh."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Dari seluruh perjalanan mempelajari Tilakkhaṇa, argumen mana yang terasa paling meyakinkan bagimu secara personal — anicca, dukkha, atau anattā? Mengapa?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 4",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 4"
+  }
+}

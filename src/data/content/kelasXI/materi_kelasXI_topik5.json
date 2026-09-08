@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "topik_id": "6.2b",
+    "kode_topik_lms": "XI-T5",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Ritual",
+    "kode_cp": "6.2",
+    "judul": "Bukan Bunga yang Berguguran dari Langit",
+    "subjudul": "Makna Upacara Keagamaan: Penghormatan Sejati",
+    "breadcrumb": "Kelas XI · Topik 5 · Ritual",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Mahāparinibbāna Sutta (DN 16)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik merefleksikan makna upacara keagamaan Buddhis berlandaskan prinsip dhammānudhammappaṭipatti serta menghargai ritual keagamaan lain."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Bunga dari Langit",
+      "section_num": "Bagian 1",
+      "judul": "Ketika Bunga Berguguran dari Langit",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Saat-saat terakhir Buddha, di antara dua pohon sāla di Kusinārā, sesuatu yang menakjubkan terjadi: pohon sāla berbunga lebat di luar musimnya, bunga-bunga itu berguguran menaburi tubuh Buddha, bubuk cendana surgawi turun dari langit, dan musik surgawi terdengar mengalun — semua sebagai penghormatan spontan para dewa."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Buddha Justru Berkata: Bukan Ini",
+          "text": "Menariknya, Buddha tidak terkesan. Kepada Ānanda, ia berkata: *‘Bukan dengan cara inilah Tathāgata dihormati, dimuliakan, dijunjung tinggi dengan sesungguhnya.’* Lalu ia melanjutkan dengan pernyataan yang menjadi jantung topik ini."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bayangkan momen itu: persembahan surgawi paling megah sedang terjadi, tapi Buddha justru berkata 'ini bukan penghormatan sesungguhnya'. Menurutmu, apa yang mau ditekankan Buddha lewat momen yang tampak berlawanan dengan intuisi ini?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Penghormatan Sejati",
+      "section_num": "Bagian 2",
+      "judul": "Dhammānudhammappaṭipatti: Penghormatan Tertinggi",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Buddha melanjutkan: *‘Bhikkhu, bhikkhunī, umat awam laki-laki maupun perempuan, siapa pun yang hidup mempraktikkan Dhamma selaras Dhamma (dhammānudhammappaṭipatti), yang mempraktikkannya dengan sungguh-sungguh, yang hidup sesuai Dhamma — dialah yang menghormati, memuliakan, dan menjunjung tinggi Tathāgata dengan penghormatan tertinggi.’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Menegasikan Ritual",
+          "text": "Perhatikan baik-baik: Buddha **tidak** melarang bunga, musik, atau persembahan. Ia hanya menegaskan **urutan prioritasnya**: praktik nyata Dhamma dalam hidup sehari-hari adalah penghormatan utama; ritual dan persembahan adalah pelengkap yang bermakna JIKA disertai praktik itu, bukan pengganti untuknya."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik — Tanpa Kepalan Tertutup",
+          "text": "Di bagian lain sutta yang sama, Buddha menegaskan ia tidak pernah mengajar dengan 'kepalan tangan tertutup' (ācariyamuṭṭhi) — tidak ada ajaran rahasia yang disembunyikan hanya untuk lingkaran dalam tertentu. Seluruh Dhamma terbuka bagi siapa pun yang mau mempraktikkannya, selaras dengan semangat 'penghormatan lewat praktik' ini."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan satu ritual keagamaan yang biasa kamu lakukan (puja, meditasi bersama, perayaan hari raya). Sejauh mana ritual itu disertai praktik nyata Dhamma dalam keseharianmu, di luar momen ritual itu sendiri?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Menghargai Ritual Lain",
+      "section_num": "Bagian 3",
+      "judul": "Menghargai Ritual Keagamaan Lain di Sekitar Kita",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Prinsip 'penghormatan lewat praktik, bukan sekadar bentuk luar' ini bisa diperluas: jika kamu memahami bahwa ritualmu sendiri bermakna karena disertai praktik batin, kamu juga bisa memahami bahwa ritual agama lain punya kedalaman makna serupa bagi penganutnya — bukan sekadar 'perayaan luar' yang bisa dinilai dari tampilannya saja."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Menghargai ritual keagamaan lain bukan berarti mencampuradukkan keyakinan atau ikut mempraktikkannya secara ritual. Cukup memahami: di balik setiap bentuk ritual, ada orang yang — seperti dirimu — berusaha menghidupi nilai-nilai yang mereka yakini secara sungguh-sungguh."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Pernahkah kamu menyaksikan ritual keagamaan lain dan merasa asing atau bahkan menilai negatif tanpa benar-benar memahami maknanya bagi mereka? Bagaimana prinsip topik ini mengubah caramu memandangnya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Ritualku",
+      "section_num": "Bagian 4",
+      "judul": "Refleksi: Ritualku yang Bermakna",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Menutup topik ini, saatnya melihat ke dalam: dari semua ritual Buddhis yang pernah kamu jalani — puja bakti, meditasi bersama, perayaan Waisak — mana yang benar-benar terasa bermakna, bukan sekadar rutinitas yang dijalani karena kebiasaan?"
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Penghormatan tertinggi** — praktik nyata Dhamma dalam hidup, bukan sekadar bentuk ritual luar",
+            "**Ritual tetap bermakna** — selama disertai praktik, bukan menggantikannya",
+            "**Tidak ada rahasia tersembunyi** — Dhamma terbuka bagi siapa pun tanpa kepalan tertutup",
+            "**Menghargai ritual lain** — memahami kedalaman makna di balik bentuk yang berbeda"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu ke pertanyaan yang berkaitan erat: bagaimana Dhamma sendiri, sejak awal, telah beradaptasi dengan budaya dan bahasa lokal di berbagai tempat — termasuk Nusantara."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Kalau kamu harus memilih satu ritual Buddhis untuk 'diberi makna baru' dalam hidupmu — dipraktikkan bukan karena kebiasaan, tapi karena benar-benar dihidupi — ritual mana yang akan kamu pilih, dan bagaimana?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 5",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 5"
+  }
+}

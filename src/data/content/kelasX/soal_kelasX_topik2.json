@@ -1,0 +1,267 @@
+{
+  "topik_id": "5.1b",
+  "kode_topik_lms": "X-T2",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik skenario/pernyataan; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.1b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Ashin Jinarakkhita lahir dengan nama asli…",
+      "opsi": {
+        "a": "The Boan An",
+        "b": "Tee Boan Liong",
+        "c": "Sukong Wijaya",
+        "d": "Bhante Girirakkhito"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Nama yang mirip tapi keliru — mengecoh siswa yang hanya samar mengingat",
+        "c": "‘Sukong’ adalah sebutan populer untuknya, bukan nama lahirnya",
+        "d": "Nama tokoh Buddhis Indonesia lain, bukan Ashin Jinarakkhita"
+      }
+    },
+    {
+      "id": "5.1b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Di negara manakah S.N. Goenka lahir dan dibesarkan, meski secara keturunan adalah orang India?",
+      "opsi": {
+        "a": "Sri Lanka",
+        "b": "Myanmar (Burma)",
+        "c": "Thailand",
+        "d": "Nepal"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Negara Buddhis lain yang tidak terkait riwayat kelahiran Goenka",
+        "c": "Negara Buddhis lain yang tidak terkait riwayat kelahiran Goenka",
+        "d": "Sering dikaitkan dengan Buddha (tempat lahir-Nya), bukan tempat lahir Goenka"
+      }
+    },
+    {
+      "id": "5.1b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa ingin mengenalkan meditasi kepada teman-temannya yang berbeda agama, tapi ragu: apakah harus dibingkai sebagai ‘ajaran Buddha’ atau sebagai ‘teknik universal yang bisa dicoba siapa saja’?",
+      "pertanyaan": "Berdasarkan pendekatan yang dipakai S.N. Goenka dalam menyebarkan Vipassanā, pilihan mana yang paling sesuai dengan prinsipnya?",
+      "opsi": {
+        "a": "Membingkainya sebagai ajaran Buddha secara eksplisit, agar identitas keagamaannya jelas sejak awal",
+        "b": "Membingkainya sebagai teknik non-sektarian yang terbuka dicoba siapa saja, tanpa perlu berpindah keyakinan",
+        "c": "Menghindari topik ini sepenuhnya karena berpotensi menyinggung agama lain",
+        "d": "Mengenalkannya hanya kepada teman yang sudah beragama Buddha agar tidak menimbulkan kesalahpahaman"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan pendekatan Goenka yang justru sengaja non-sektarian",
+        "c": "Menghindar bukan solusi — bertentangan dengan semangat menyebarkan manfaat Dhamma",
+        "d": "Bertentangan dengan prinsip keterbukaan lintas agama yang justru jadi ciri khas Goenka"
+      }
+    },
+    {
+      "id": "5.1b-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Sebuah vihara ingin menyiarkan langsung (livestream) ceramah Dhamma di media sosial. Sebagian sesepuh keberatan, dengan alasan ‘tradisi tidak boleh diubah-ubah’.",
+      "pertanyaan": "Jika mengikuti prinsip ‘galilah yang lama, sesuaikan dengan zaman dan lingkungan’ dari Ashin Jinarakkhita, sikap manakah yang paling tepat?",
+      "opsi": {
+        "a": "Menolak livestream sepenuhnya karena bertentangan dengan tradisi",
+        "b": "Mengganti seluruh isi ceramah agar lebih 'kekinian', termasuk mengubah pokok-pokok ajarannya",
+        "c": "Menerima livestream sebagai bentuk/media baru, selama isi Dhamma yang disampaikan tetap terjaga",
+        "d": "Melakukannya diam-diam tanpa melibatkan sesepuh, karena pendapat mereka dianggap ketinggalan zaman"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Terlalu kaku — bertentangan dengan semangat adaptasi Jinarakkhita",
+        "b": "Melampaui batas — prinsipnya adalah menyesuaikan BENTUK, bukan mengubah ISI ajaran",
+        "d": "Mengabaikan kebijaksanaan dan penghormatan pada sesepuh bukan bagian dari prinsip ini"
+      }
+    },
+    {
+      "id": "5.1b-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa persamaan pola perjalanan spiritual Ashin Jinarakkhita dan S.N. Goenka yang paling mendasar?",
+      "opsi": {
+        "a": "Keduanya lahir di keluarga yang sudah lama menganut agama Buddha sejak generasi sebelumnya",
+        "b": "Keduanya menempuh pelatihan/pentahbisan di luar tanah tempat mereka akhirnya berkarya, lalu kembali menghidupkan Dhamma di sana",
+        "c": "Keduanya awalnya menolak menjadi tokoh publik dan baru terkenal setelah wafat",
+        "d": "Keduanya mendirikan aliran baru dalam agama Buddha yang berbeda dari Theravāda maupun Mahāyāna"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak akurat — Goenka dibesarkan Hindu, Jinarakkhita dari keluarga Tionghoa yang tidak eksklusif Buddhis",
+        "c": "Tidak sesuai fakta — keduanya aktif dan dikenal luas semasa hidup",
+        "d": "Tidak akurat — keduanya bekerja dalam kerangka tradisi yang sudah ada, bukan mendirikan aliran baru"
+      }
+    },
+    {
+      "id": "5.1b-q06",
+      "level_soal": "HOTS",
+      "pemantik": "‘Vipassanā ini bukan agama. Siapa pun boleh mempelajarinya tanpa perlu berpindah keyakinan.’",
+      "pertanyaan": "Pernyataan di atas paling mencerminkan prinsip yang mana, yang juga sudah kamu pelajari di Topik 1?",
+      "opsi": {
+        "a": "Majjhima Paṭipadā (Jalan Tengah)",
+        "b": "Ehipassiko — buktikan sendiri, bukan sekadar percaya",
+        "c": "Dhammaniyāmatā — hukum yang berlaku objektif",
+        "d": "Kālāma Sutta — sepuluh dasar yang tidak cukup untuk percaya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Tentang menghindari dua ekstrem praktik, bukan tentang keterbukaan lintas keyakinan",
+        "c": "Tentang hukum sebab-akibat universal, tidak secara langsung tentang keterbukaan beragama",
+        "d": "Mirip secara semangat (nalar kritis) tapi bukan prinsip yang paling tepat untuk konteks 'tanpa perlu berpindah keyakinan'"
+      }
+    },
+    {
+      "id": "5.1b-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa perayaan Waisak nasional di Borobudur (1953) dianggap peristiwa penting, melebihi sekadar sebuah upacara keagamaan biasa?",
+      "opsi": {
+        "a": "Karena merupakan pertama kalinya candi Borobudur dibuka untuk umum",
+        "b": "Karena menjadi penanda publik bahwa umat Buddha Indonesia masih ada, di tengah masyarakat yang nyaris melupakannya",
+        "c": "Karena dihadiri oleh perwakilan negara-negara Buddhis se-Asia Tenggara",
+        "d": "Karena menjadi syarat resmi berdirinya Sangha Agung Indonesia"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bukan soal akses fisik ke candi, melainkan soal visibilitas komunitas Buddhis",
+        "c": "Tidak sesuai fakta yang disebutkan sumber",
+        "d": "Sangha Agung Indonesia berdiri 1960, tujuh tahun setelah peristiwa ini — tidak ada hubungan syarat semacam itu"
+      }
+    },
+    {
+      "id": "5.1b-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa pendirian Sangha Agung Indonesia — yang menaungi Theravāda, Mahāyāna, dan Tantrayana sekaligus — penting bagi umat Buddha Indonesia saat itu?",
+      "opsi": {
+        "a": "Karena pemerintah mewajibkan seluruh umat Buddha bergabung dalam satu organisasi tunggal",
+        "b": "Karena menyatukan komunitas Buddhis yang saat itu tersebar kecil-kecil dan terpisah, sehingga lebih kuat secara sosial dan diakui negara",
+        "c": "Karena ketiga tradisi tersebut sebenarnya identik dan tidak memiliki perbedaan berarti",
+        "d": "Karena menjadi syarat agar Waisak bisa dirayakan secara nasional"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai fakta — tidak ada kewajiban semacam itu dari pemerintah",
+        "c": "Tidak akurat — ketiga tradisi punya perbedaan praktik dan penekanan yang nyata, bukan sekadar nama berbeda",
+        "d": "Waisak nasional (1953) justru terjadi lebih dulu, sebelum Sangha Agung Indonesia berdiri (1960)"
+      }
+    },
+    {
+      "id": "5.1b-q09",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang pengusaha sukses mengalami krisis kesehatan pribadi, menemukan ketenangan lewat meditasi, lalu mendedikasikan sisa hidupnya untuk mengajarkannya kepada orang lain secara sukarela.",
+      "pertanyaan": "Pola perjalanan hidup pada pemantik di atas paling menyerupai kisah tokoh mana yang telah kamu pelajari?",
+      "opsi": {
+        "a": "Ashin Jinarakkhita",
+        "b": "S.N. Goenka",
+        "c": "Brahma Sahampati (Topik 1)",
+        "d": "Koṇḍañña (Topik 1)"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Jinarakkhita memulai dari ketertarikan spiritual sejak muda, bukan dari krisis kesehatan sebagai pengusaha",
+        "c": "Brahma Sahampati adalah makhluk surgawi dalam kisah kanonis, bukan tokoh sejarah manusia",
+        "d": "Kondañña adalah petapa pendengar khotbah pertama, polanya sangat berbeda dari deskripsi ini"
+      }
+    },
+    {
+      "id": "5.1b-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa kursus Vipassanā ala Goenka sengaja tidak memungut biaya tetap, hanya menerima dana sukarela?",
+      "opsi": {
+        "a": "Karena pusat meditasinya tidak memiliki cukup dana untuk mengelola sistem pembayaran",
+        "b": "Agar sejalan dengan semangat berbagi Dhamma tanpa paksaan maupun motif komersial, mengundang siapa pun tanpa hambatan biaya",
+        "c": "Karena hukum di India melarang lembaga keagamaan memungut biaya",
+        "d": "Agar peserta merasa memiliki utang budi dan lebih patuh pada ajaran yang diberikan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai fakta — ini soal prinsip, bukan keterbatasan dana",
+        "c": "Tidak ada dasar hukum seperti ini yang disebutkan sumber",
+        "d": "Bertentangan dengan semangat ehipassiko dan tanpa paksaan yang justru jadi ciri khasnya"
+      }
+    },
+    {
+      "id": "5.1b-q11",
+      "level_soal": "HOTS",
+      "pemantik": "Kebiasaan gotong royong membersihkan lingkungan sekolah setiap Jumat mulai ditinggalkan siswa karena dianggap kuno dan membosankan.",
+      "pertanyaan": "Jika kamu ingin menghidupkannya kembali, langkah manakah dari kisah Jinarakkhita atau Goenka yang paling relevan untuk ditiru?",
+      "opsi": {
+        "a": "Memaksa seluruh siswa mengikuti lewat aturan tegas dan sanksi bagi yang tidak ikut",
+        "b": "Menemukan kembali nilai lama (kebersamaan, kepedulian) lalu mengemasnya dengan cara yang relevan bagi siswa masa kini",
+        "c": "Membiarkan kebiasaan itu hilang karena perubahan zaman memang tidak bisa dihindari",
+        "d": "Mengganti total kegiatan itu dengan aktivitas lain yang sama sekali tidak berkaitan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan prinsip 'tanpa paksaan' yang jadi benang merah kedua tokoh",
+        "c": "Bertentangan dengan keseluruhan semangat menghidupkan kembali yang dicontohkan kedua tokoh",
+        "d": "Mengabaikan prinsip 'galilah yang lama' — nilai lama seharusnya digali, bukan dibuang"
+      }
+    },
+    {
+      "id": "5.1b-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan utama tantangan sosial yang dihadapi Jinarakkhita di Indonesia dan Goenka di India, meski keduanya sama-sama membangkitkan kembali Dhamma?",
+      "opsi": {
+        "a": "Jinarakkhita menyatukan komunitas Buddhis yang kecil dan terpisah lintas etnis; Goenka memperkenalkan Vipassanā ke masyarakat besar yang terpecah oleh kasta dan agama",
+        "b": "Jinarakkhita menghadapi larangan hukum untuk beribadah; Goenka tidak menghadapi tantangan sosial apa pun",
+        "c": "Keduanya menghadapi tantangan yang sama persis tanpa ada perbedaan konteks sosial",
+        "d": "Jinarakkhita bekerja sendirian tanpa dukungan siapa pun; Goenka dibantu penuh oleh pemerintah India sejak awal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — tidak ada larangan hukum semacam itu disebutkan dalam sumber",
+        "c": "Mengabaikan perbedaan konteks sosial-budaya yang jelas antara Indonesia dan India",
+        "d": "Tidak sesuai fakta — justru dibutuhkan usaha panjang dan mandiri dari keduanya"
+      }
+    },
+    {
+      "id": "5.1b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Jinarakkhita dan Goenka tetap disebut sebagai tokoh yang 'membangkitkan kembali' Dhamma, bukan 'pendiri agama baru', meski peran mereka sangat besar?",
+      "opsi": {
+        "a": "Karena keduanya tidak menciptakan ajaran baru — mereka menghidupkan dan menyebarluaskan kembali Dhamma yang sudah ada sejak masa Buddha",
+        "b": "Karena keduanya tidak memiliki cukup pengikut untuk disebut pendiri agama",
+        "c": "Karena istilah 'pendiri agama' hanya berlaku untuk Buddha sendiri, siapa pun setelahnya otomatis disebut 'membangkitkan'",
+        "d": "Karena keduanya tidak pernah menahbiskan atau melatih murid baru"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai fakta — keduanya justru punya pengikut dalam jumlah sangat besar",
+        "c": "Penyederhanaan yang keliru — istilah ini soal ISI ajaran, bukan sekadar urutan waktu",
+        "d": "Tidak sesuai fakta — keduanya justru aktif melatih dan menahbiskan/menunjuk penerus"
+      }
+    },
+    {
+      "id": "5.1b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kisah Topik 2 ini melanjutkan sekaligus memperluas semangat yang dipelajari di Topik 1 (60 murid pertama)?",
+      "opsi": {
+        "a": "Membuktikan bahwa semangat dhammadūta hanya bisa diteruskan oleh keturunan langsung Sangha di India",
+        "b": "Menunjukkan bahwa semangat yang sama terus hidup lintas zaman dan budaya, diteruskan siapa pun yang bersedia, bukan hanya kalangan tertentu",
+        "c": "Membuktikan bahwa penyebaran Dhamma modern tidak lagi memerlukan kesiapan/kesediaan penerima, berbeda dari masa Buddha",
+        "d": "Menunjukkan bahwa 60 murid pertama sebenarnya gagal menjalankan misinya sehingga perlu diulang di masa modern"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Tidak sesuai fakta — baik Jinarakkhita (Tionghoa-Indonesia) maupun Goenka (India-Myanmar) bukan keturunan Sangha India",
+        "c": "Bertentangan langsung dengan prinsip 'kesiapan dua arah' yang justru ditekankan di Topik 1",
+        "d": "Tidak sesuai fakta maupun logika — topik ini justru merayakan kesinambungan, bukan kegagalan"
+      }
+    }
+  ]
+}

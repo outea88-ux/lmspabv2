@@ -1,0 +1,286 @@
+{
+  "topik_id": "5.2a",
+  "kode_topik_lms": "X-T3",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik skenario praktik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.2a-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Ānāpānasati Sutta (MN 118) memuat berapa langkah, dikelompokkan menjadi berapa tetrad?",
+      "opsi": {
+        "a": "12 langkah, 3 tetrad",
+        "b": "16 langkah, 4 tetrad",
+        "c": "20 langkah, 5 tetrad",
+        "d": "8 langkah, 2 tetrad"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah yang salah — bukan struktur MN 118",
+        "c": "Jumlah yang salah — bukan struktur MN 118",
+        "d": "Jumlah yang salah — bukan struktur MN 118"
+      }
+    },
+    {
+      "id": "5.2a-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Tetrad 1 dalam Ānāpānasati Sutta berfokus pada kontemplasi apa?",
+      "opsi": {
+        "a": "Perasaan (vedaṇā)",
+        "b": "Tubuh (kāya)",
+        "c": "Pikiran (citta)",
+        "d": "Kualitas mental (dhamma)"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Ini fokus Tetrad 2, bukan Tetrad 1",
+        "c": "Ini fokus Tetrad 3, bukan Tetrad 1",
+        "d": "Ini fokus Tetrad 4, bukan Tetrad 1"
+      }
+    },
+    {
+      "id": "5.2a-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa baru belajar meditasi berkata, ‘Aku terus menarik napas sedalam dan sepanjang mungkin supaya latihannya berhasil, tapi malah jadi pusing.’",
+      "pertanyaan": "Apa yang sebenarnya keliru dipahami siswa tersebut tentang langkah 1–2 Ānāpānasati?",
+      "opsi": {
+        "a": "Ia seharusnya menarik napas lebih cepat, bukan lebih dalam",
+        "b": "Tujuan langkah ini adalah MENYADARI napas apa adanya, bukan memaksanya menjadi panjang",
+        "c": "Ia seharusnya menahan napas selama mungkin di setiap tarikan",
+        "d": "Ia seharusnya berlatih sambil berdiri, bukan duduk"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bukan soal kecepatan — kesalahannya adalah memaksakan panjang-pendeknya napas",
+        "c": "Menahan napas tidak diajarkan dalam langkah ini, malah berisiko",
+        "d": "Posisi duduk/berdiri bukan sumber masalah dalam skenario ini"
+      }
+    },
+    {
+      "id": "5.2a-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Setelah 5 menit duduk hening, seorang siswa merasa perhatiannya yang semula hanya di ujung hidung, perlahan terasa mencakup bahu, punggung, dan seluruh posisi duduknya.",
+      "pertanyaan": "Perubahan yang dialami siswa ini paling menggambarkan transisi menuju langkah keberapa?",
+      "opsi": {
+        "a": "Tetap di langkah 1–2, hanya pengalaman biasa yang berulang",
+        "b": "Menuju langkah 3 — merasakan seluruh tubuh",
+        "c": "Menuju langkah 4 — menenangkan bentukan jasmani",
+        "d": "Sudah masuk Tetrad 2 — kontemplasi perasaan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perluasan kesadaran yang jelas terjadi pada skenario",
+        "c": "Langkah 4 spesifik soal menenangkan ketegangan, bukan sekadar memperluas kesadaran",
+        "d": "Tetrad 2 baru dipelajari di jenjang lanjut dan bukan yang digambarkan skenario ini"
+      }
+    },
+    {
+      "id": "5.2a-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa menyadari bahunya naik dan rahangnya terkatup rapat saat sedang cemas menjelang ujian. Ia lalu mengembuskan napas panjang sambil membayangkan ketegangan itu mengendur.",
+      "pertanyaan": "Praktik yang dilakukan siswa ini adalah penerapan langsung dari langkah Ānāpānasati yang mana?",
+      "opsi": {
+        "a": "Langkah 1 — menyadari napas panjang",
+        "b": "Langkah 2 — menyadari napas pendek",
+        "c": "Langkah 3 — merasakan seluruh tubuh",
+        "d": "Langkah 4 — menenangkan bentukan jasmani"
+      },
+      "jawaban_benar": "d",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Langkah ini sekadar menyadari napas, belum sampai pada meredakan ketegangan",
+        "b": "Langkah ini sekadar menyadari napas, belum sampai pada meredakan ketegangan",
+        "c": "Langkah ini baru soal memperluas kesadaran, belum aktif menenangkan"
+      }
+    },
+    {
+      "id": "5.2a-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini sengaja berhenti di Tetrad 1 dan tidak langsung mengajarkan Tetrad 4 (vipassanā) kepada siswa Kelas X?",
+      "opsi": {
+        "a": "Karena Tetrad 4 dianggap tidak penting bagi pemula",
+        "b": "Karena Tetrad 1 adalah fondasi konkret yang perlu dikuasai dulu sebelum melangkah ke kontemplasi yang lebih halus",
+        "c": "Karena Tetrad 4 hanya boleh dipraktikkan oleh bhikkhu, bukan umat awam",
+        "d": "Karena kurikulum tidak memiliki cukup waktu untuk mengajarkan seluruh 16 langkah"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fakta — Tetrad 4 justru penting, hanya perlu fondasi dulu",
+        "c": "Tidak sesuai fakta — vipassanā (termasuk lewat tradisi Goenka) justru terbuka luas bagi umat awam",
+        "d": "Alasan pedagogis (bertahap sesuai kesiapan), bukan sekadar keterbatasan waktu"
+      }
+    },
+    {
+      "id": "5.2a-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa hubungan antara empat tetrad dalam Ānāpānasati Sutta dengan Satipaṭṭhāna Sutta (4 landasan perhatian)?",
+      "opsi": {
+        "a": "Keduanya adalah sutta yang sama sekali tidak berkaitan, hanya kebetulan sama-sama membahas meditasi",
+        "b": "Empat tetrad Ānāpānasati sejajar/selaras dengan empat landasan perhatian dalam Satipaṭṭhāna Sutta",
+        "c": "Satipaṭṭhāna Sutta adalah versi yang lebih tua dan sudah digantikan oleh Ānāpānasati Sutta",
+        "d": "Ānāpānasati hanya mencakup satu dari empat landasan perhatian, sisanya tidak berkaitan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fakta — keduanya justru terhubung erat secara struktural",
+        "c": "Tidak sesuai fakta — tidak ada hubungan 'menggantikan' semacam itu",
+        "d": "Tidak sesuai fakta — keempat tetrad justru mencakup keempat landasan sekaligus"
+      }
+    },
+    {
+      "id": "5.2a-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Dua siswa berdebat. Siswa A bilang, ‘Titik perhatian yang benar itu di hidung, kalau di perut berarti caramu salah.’ Siswa B tidak setuju.",
+      "pertanyaan": "Berdasarkan materi yang kamu pelajari, pendapat siapa yang lebih tepat?",
+      "opsi": {
+        "a": "Siswa A benar — hanya titik hidung yang diakui dalam tradisi meditasi",
+        "b": "Siswa B lebih tepat — hidung dan perut sama-sama titik perhatian yang lazim dipakai, tergantung mana yang paling jelas terasa",
+        "c": "Keduanya salah — titik perhatian yang benar adalah di dada",
+        "d": "Keduanya benar sekaligus — titik perhatian harus dipindah-pindah setiap beberapa detik"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Terlalu kaku — bertentangan dengan penjelasan bahwa kedua titik sama sah",
+        "c": "Tidak sesuai materi yang dijelaskan",
+        "d": "Berpindah-pindah cepat justru bertentangan dengan prinsip menjaga perhatian tetap stabil"
+      }
+    },
+    {
+      "id": "5.2a-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara topik ini dengan kisah S.N. Goenka yang dipelajari di Topik 2?",
+      "opsi": {
+        "a": "Tidak ada keterkaitan sama sekali — Topik 2 murni sejarah, Topik 3 murni praktik",
+        "b": "Ānāpānasati yang dipraktikkan di topik ini adalah akar teknik yang sama yang kemudian dikembangkan menjadi Vipassanā oleh tradisi yang dihidupkan kembali Goenka",
+        "c": "Goenka adalah orang yang pertama kali menemukan teknik Ānāpānasati",
+        "d": "Ānāpānasati dan Vipassanā adalah dua teknik yang saling bertentangan dan tidak bisa dipraktikkan oleh orang yang sama"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan penjelasan eksplisit di Bagian 1 & 5 tentang keterkaitan keduanya",
+        "c": "Tidak akurat — ānāpānasati sudah diajarkan Buddha sendiri, jauh sebelum Goenka",
+        "d": "Tidak akurat — keduanya justru berurutan/berkesinambungan dalam satu tradisi praktik yang sama"
+      }
+    },
+    {
+      "id": "5.2a-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mempraktikkan langkah 3 dengan cara memindahkan fokus secepat mungkin dari kepala, ke bahu, ke tangan, ke kaki, bergantian setiap dua detik, berharap itu artinya 'merasakan seluruh tubuh'.",
+      "pertanyaan": "Apa yang sebaiknya dikoreksi dari pendekatan siswa tersebut?",
+      "opsi": {
+        "a": "Caranya sudah tepat, hanya perlu dipercepat lagi",
+        "b": "Merasakan seluruh tubuh berarti melonggarkan/melebarkan perhatian secara menyeluruh, bukan berpindah-pindah fokus dengan cepat",
+        "c": "Ia seharusnya berhenti di langkah 2 saja dan tidak perlu mencoba langkah 3",
+        "d": "Urutan tubuh yang diperhatikan harus dibalik, dari kaki ke kepala"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan penjelasan materi yang membedakan 'melebarkan' dari 'berpindah cepat'",
+        "c": "Terlalu membatasi — solusinya adalah mengoreksi caranya, bukan berhenti berlatih",
+        "d": "Urutan tubuh bukan inti persoalan dalam skenario ini"
+      }
+    },
+    {
+      "id": "5.2a-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa langkah 4 (menenangkan bentukan jasmani) disebut relevan untuk kehidupan sehari-hari siswa SMA/SMK, di luar sesi meditasi formal?",
+      "opsi": {
+        "a": "Karena hanya bisa dipraktikkan saat duduk bermeditasi dengan mata terpejam",
+        "b": "Karena kemampuan menyadari dan melepaskan ketegangan tubuh lewat napas bisa dipakai kapan saja — misalnya sebelum ujian atau saat gugup",
+        "c": "Karena langkah ini menjamin nilai ujian yang lebih baik secara otomatis",
+        "d": "Karena langkah ini menggantikan kebutuhan tidur yang cukup"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan poin materi yang justru menekankan penerapan di luar sesi formal",
+        "c": "Klaim berlebihan yang tidak didukung materi",
+        "d": "Klaim berlebihan yang tidak didukung materi"
+      }
+    },
+    {
+      "id": "5.2a-q12",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa kecewa karena setelah tiga kali sesi latihan, pikirannya masih sering mengembara alih-alih fokus penuh pada napas.",
+      "pertanyaan": "Berdasarkan semangat keseluruhan topik ini, respons apa yang paling tepat untuk siswa tersebut?",
+      "opsi": {
+        "a": "Menyuruhnya berhenti berlatih karena dianggap tidak berbakat",
+        "b": "Menjelaskan bahwa perhatian yang teralihkan adalah bagian normal dari proses — kesadaran, bukan kesempurnaan, adalah intinya",
+        "c": "Menyuruhnya menahan napas lebih lama agar lebih mudah fokus",
+        "d": "Mengatakan bahwa hasil hanya akan terlihat setelah bertahun-tahun, jadi tidak perlu dievaluasi sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan semangat materi yang menormalkan proses belajar bertahap",
+        "c": "Menahan napas bukan solusi yang diajarkan dan berisiko",
+        "d": "Terlalu ekstrem — refleksi berkala tetap penting, bukan berarti tidak dievaluasi sama sekali"
+      }
+    },
+    {
+      "id": "5.2a-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Jika seseorang hanya menguasai langkah 1–2 (menyadari napas panjang-pendek) tapi belum pernah mencoba langkah 3–4, bagian tetrad manakah yang bisa dikatakan belum lengkap ia jalani?",
+      "opsi": {
+        "a": "Ia sudah menyelesaikan seluruh Tetrad 1 dengan baik",
+        "b": "Ia baru menjalani separuh dari Tetrad 1 — dua langkah terakhir (memperluas kesadaran & menenangkan tubuh) belum dipraktikkan",
+        "c": "Ia sudah siap untuk langsung mempraktikkan Tetrad 4 (vipassanā)",
+        "d": "Tetrad yang ia jalani sebenarnya adalah Tetrad 2, bukan Tetrad 1"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Tidak akurat — Tetrad 1 berisi 4 langkah, baru 2 yang dijalani",
+        "c": "Melompat jauh — bertentangan dengan prinsip bertahap yang ditekankan Bagian 1",
+        "d": "Tidak akurat — langkah 1–2 adalah bagian dari Tetrad 1, bukan Tetrad 2"
+      }
+    },
+    {
+      "id": "5.2a-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mana pernyataan yang paling tepat menggambarkan hubungan antara langkah 1–2 dan langkah 3–4 dalam Tetrad 1?",
+      "opsi": {
+        "a": "Langkah 1–2 membangun kestabilan dasar pada satu titik; langkah 3–4 memperluas dan memperdalam kesadaran itu ke seluruh tubuh",
+        "b": "Langkah 1–2 dan 3–4 sama sekali tidak berkaitan dan bisa dipelajari dalam urutan apa pun",
+        "c": "Langkah 3–4 harus dikuasai lebih dulu sebelum boleh mencoba langkah 1–2",
+        "d": "Langkah 1–2 hanya untuk pemula, sedangkan langkah 3–4 menggantikannya sepenuhnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan struktur progresif yang dijelaskan sepanjang topik",
+        "c": "Membalik urutan yang sebenarnya diajarkan dalam sutta",
+        "d": "Tidak akurat — langkah 1–2 tetap jadi fondasi yang dibangun di atasnya, bukan digantikan"
+      }
+    },
+    {
+      "id": "5.2a-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Menurut sutta, apa akibat wajar jika Tetrad 1 dijalani dengan tekun sebelum melangkah ke tetrad berikutnya?",
+      "opsi": {
+        "a": "Meditator otomatis mencapai pencerahan penuh tanpa perlu praktik lebih lanjut",
+        "b": "Fondasi kesadaran tubuh dan ketenangan menjadi lebih kokoh, sehingga siap untuk kontemplasi yang lebih halus di tetrad berikutnya",
+        "c": "Meditator tidak akan pernah lagi mengalami pikiran yang mengembara",
+        "d": "Praktik pada tetrad berikutnya menjadi tidak diperlukan lagi"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Klaim berlebihan yang tidak sesuai dengan struktur bertahap sutta",
+        "c": "Klaim berlebihan — pikiran mengembara adalah hal wajar bahkan bagi praktisi berpengalaman",
+        "d": "Bertentangan langsung dengan keseluruhan struktur 16 langkah yang bertahap"
+      }
+    }
+  ]
+}

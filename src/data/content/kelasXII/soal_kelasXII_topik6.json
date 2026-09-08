@@ -1,0 +1,283 @@
+{
+  "topik_id": "6.3f",
+  "kode_topik_lms": "XII-T6",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 15,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3f-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa bhikkhu yang bertanya kepada Buddha tentang definisi 'pandangan benar' dalam Kaccānagotta Sutta?",
+      "opsi": {
+        "a": "Kaccānagotta",
+        "b": "Ānanda",
+        "c": "Subha",
+        "d": "Dīghajānu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Tokoh dalam Mahānidāna Sutta (Topik 5), bukan sutta ini",
+        "c": "Penanya dalam Cūḷakammavibhaṅga Sutta, bukan sutta ini",
+        "d": "Penanya dalam Vyagghapajja Sutta (Kelas XI), bukan sutta ini"
+      }
+    },
+    {
+      "id": "6.3f-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Istilah Pali untuk 'kebenaran konvensional' (seperti kata 'kereta' atau 'diri' dalam bahasa sehari-hari) adalah…",
+      "opsi": {
+        "a": "Sammuti sacca",
+        "b": "Paramattha sacca",
+        "c": "Ariya sacca",
+        "d": "Dhammaniyāmatā"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Ini istilah untuk kebenaran HAKIKI, kebalikan dari konvensional",
+        "c": "Ini istilah untuk Kebenaran Mulia (Empat Kebenaran Mulia), bukan istilah dua-kebenaran ini",
+        "d": "Ini istilah dari Paccaya Sutta (Kelas X) tentang hukum objektif, bukan istilah ini"
+      }
+    },
+    {
+      "id": "6.3f-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Kalau semuanya sebenarnya “tidak ada diri” secara hakiki, berarti aku tidak perlu lagi memanggil orang tuaku dengan sebutan “Ayah” dan “Ibu” karena itu hanya konvensi kosong.’’”",
+      "pertanyaan": "Apa yang keliru dari kesimpulan siswa ini, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Kesimpulan itu tepat, sebutan konvensional sebaiknya dihentikan sepenuhnya",
+        "b": "Kesimpulan itu keliru — dua kebenaran ini TIDAK saling meniadakan; sammuti sacca tetap diperlukan dan berguna untuk kehidupan sehari-hari, sementara paramattha sacca relevan untuk konteks perenungan mendalam",
+        "c": "Paramattha sacca berarti seluruh bahasa manusia harus dihapuskan",
+        "d": "Hanya bhikkhu yang boleh menggunakan sebutan konvensional seperti 'Ayah' dan 'Ibu'"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Fakta Menarik yang menegaskan kedua kebenaran 'tidak saling meniadakan'",
+        "c": "Kesimpulan berlebihan yang tidak didukung materi",
+        "d": "Tidak ada pembatasan semacam itu yang disebutkan dalam materi"
+      }
+    },
+    {
+      "id": "6.3f-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara 'Jalan Tengah' dalam Dhammacakkappavattana Sutta (Kelas X) dan 'Jalan Tengah' dalam Kaccānagotta Sutta, berdasarkan Fakta Menarik Bagian 1?",
+      "opsi": {
+        "a": "Yang pertama adalah Jalan Tengah dalam PRAKTIK (menghindari kesenangan indria berlebihan dan penyiksaan diri); yang kedua adalah Jalan Tengah dalam CARA PANDANG FILOSOFIS (menghindari 'semua ada' dan 'semua tidak ada')",
+        "b": "Kedua istilah ini benar-benar identik tanpa perbedaan konteks apa pun",
+        "c": "Jalan Tengah dalam Kaccānagotta Sutta menggantikan sepenuhnya Jalan Tengah dari Dhammacakkappavattana Sutta",
+        "d": "Hanya salah satu dari kedua ajaran ini yang benar-benar otentik dari Buddha"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan konteks (praktik vs filosofis) yang eksplisit dijelaskan materi",
+        "c": "Tidak sesuai — keduanya adalah ajaran berbeda yang saling melengkapi, bukan saling menggantikan",
+        "d": "Tidak berdasar — materi tidak mempertanyakan otentisitas salah satu ajaran"
+      }
+    },
+    {
+      "id": "6.3f-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa bingung: ‘Kalau “semua ada” salah dan “semua tidak ada” juga salah, lalu apa jawabannya? Buddha sepertinya tidak menjawab pertanyaan itu langsung.’",
+      "pertanyaan": "Bagaimana kebingungan siswa ini seharusnya dijawab berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Buddha memang tidak memberi jawaban 'ya' atau 'tidak' langsung — sebagai gantinya, ia menunjukkan Paṭiccasamuppāda (proses muncul dan lenyapnya sesuatu secara bersyarat) sebagai jalan tengah yang menghindari kedua ekstrem itu",
+        "b": "Buddha sebenarnya diam-diam setuju bahwa 'semua ada' adalah jawaban yang benar",
+        "c": "Buddha sebenarnya diam-diam setuju bahwa 'semua tidak ada' adalah jawaban yang benar",
+        "d": "Pertanyaan ini tidak pernah benar-benar dijawab dalam kanon Pali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penolakan eksplisit terhadap pandangan 'semua ada' sebagai salah satu ekstrem",
+        "c": "Bertentangan langsung dengan penolakan eksplisit terhadap pandangan 'semua tidak ada' sebagai ekstrem lainnya",
+        "d": "Tidak sesuai — materi menjelaskan jawaban Buddha secara eksplisit lewat Paṭiccasamuppāda"
+      }
+    },
+    {
+      "id": "6.3f-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa perumpamaan 'kereta' (Poin Kunci Bagian 2) efektif untuk menjelaskan hubungan sammuti sacca dan paramattha sacca?",
+      "opsi": {
+        "a": "Karena menunjukkan bahwa sesuatu bisa berguna dan sah dalam penggunaan sehari-hari (sebagai 'kereta') sekaligus, jika diurai lebih dalam, ternyata hanya kumpulan bagian yang saling bergantung tanpa satu esensi tunggal yang berdiri sendiri",
+        "b": "Karena membuktikan bahwa kereta secara harfiah tidak pernah benar-benar ada dalam bentuk apa pun",
+        "c": "Karena menunjukkan bahwa hanya kereta, bukan konsep lain, yang memiliki dua level kebenaran ini",
+        "d": "Karena perumpamaan ini menjelaskan bahwa kata-kata sehari-hari sebaiknya tidak pernah digunakan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan implikasi — kereta tetap 'ada' secara konvensional, hanya bukan entitas tunggal secara hakiki",
+        "c": "Tidak sesuai — materi menjelaskan prinsip ini berlaku luas, termasuk pada konsep 'diri' (bukan hanya kereta)",
+        "d": "Bertentangan dengan penegasan bahwa sammuti sacca tetap 'diperlukan' untuk kehidupan sehari-hari"
+      }
+    },
+    {
+      "id": "6.3f-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana hubungan antara konsep 'kereta sebagai kumpulan bagian yang saling bergantung' (Bagian 2) dengan Paṭiccasamuppāda yang dipelajari di Topik 5?",
+      "opsi": {
+        "a": "Prinsip 'kereta' adalah aplikasi konkret dari Paṭiccasamuppāda — sesuatu yang tampak sebagai satu kesatuan sebenarnya adalah hasil dari bagian-bagian yang saling bergantung dan bersyarat, persis logika sebab-musabab yang sudah dipelajari",
+        "b": "Kedua konsep ini sama sekali tidak berkaitan",
+        "c": "Perumpamaan kereta membatalkan seluruh pemahaman tentang Paṭiccasamuppāda",
+        "d": "Paṭiccasamuppāda hanya berlaku untuk makhluk hidup, tidak untuk benda seperti kereta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan keterkaitan eksplisit ('ingat Paṭiccasamuppāda!') yang disebutkan langsung dalam materi",
+        "c": "Tidak sesuai — perumpamaan ini justru MENGILUSTRASIKAN, bukan membatalkan, prinsip Paṭiccasamuppāda",
+        "d": "Tidak sesuai — materi menggunakan kereta (benda) sebagai contoh, menunjukkan cakupannya luas"
+      }
+    },
+    {
+      "id": "6.3f-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Berdasarkan Poin Kunci Bagian 3, bagaimana Hukum Karma (Topik 2) dan Tilakkhaṇa (Topik 4) saling berhubungan dalam peta terpadu enam hukum?",
+      "opsi": {
+        "a": "Hukum Karma menjelaskan bagaimana kehendak membentuk konsekuensi; Tilakkhaṇa menjelaskan hakikat anicca-dukkha-anattā yang mendasari proses itu — keduanya adalah sudut pandang berbeda dari satu kebenaran yang sama, bukan dua ajaran terpisah",
+        "b": "Kedua hukum ini membahas hal yang sama sekali tidak berkaitan",
+        "c": "Tilakkhaṇa membatalkan seluruh keberlakuan Hukum Karma",
+        "d": "Hukum Karma hanya berlaku bagi paramattha sacca, sedangkan Tilakkhaṇa hanya berlaku bagi sammuti sacca"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan penekanan eksplisit bahwa semua hukum adalah 'sudut pandang berbeda dari satu kebenaran yang sama'",
+        "c": "Tidak sesuai — kedua hukum ini saling melengkapi dalam kerangka Buddhis, bukan saling membatalkan",
+        "d": "Pembedaan yang tidak akurat dan tidak didukung materi"
+      }
+    },
+    {
+      "id": "6.3f-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini secara eksplisit menyebutkan bahwa istilah formal 'paramattha' dan 'sammuti sacca' lebih dielaborasi dalam Aṭṭhakathā (komentar Abhidhamma), bukan diklaim seolah-olah kata-kata persis ini ada dalam Kaccānagotta Sutta itu sendiri?",
+      "opsi": {
+        "a": "Untuk menjaga kejujuran dan akurasi sumber — penting membedakan mana yang berasal langsung dari sutta kanonis dan mana yang merupakan pengembangan lebih lanjut dalam tradisi komentar, meski keduanya tetap otoritatif dalam tradisi Buddhis",
+        "b": "Karena istilah ini sebenarnya tidak sah digunakan sama sekali",
+        "c": "Karena Aṭṭhakathā dianggap lebih penting daripada Tipiṭaka itu sendiri",
+        "d": "Karena tidak ada hubungan sama sekali antara Kaccānagotta Sutta dan konsep dua kebenaran ini"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan — materi tetap menggunakan dan menjelaskan istilah ini sebagai kerangka yang sah dan berguna",
+        "c": "Tidak sesuai — materi tidak membuat klaim hierarki semacam itu antara Tipiṭaka dan Aṭṭhakathā",
+        "d": "Bertentangan langsung dengan penjelasan 'akarnya di Kanon Pali sendiri ada dalam Kaccānagotta Sutta'"
+      }
+    },
+    {
+      "id": "6.3f-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa menyusun peta konsep yang menghubungkan Empat Kebenaran Mulia, Karma, Punabbhava, Tilakkhaṇa, dan Paṭiccasamuppāda sebagai lima topik yang benar-benar terpisah tanpa keterkaitan.",
+      "pertanyaan": "Bagaimana pendekatan siswa ini dinilai berdasarkan Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Pendekatan itu sudah tepat karena kelima hukum tersebut memang seharusnya dipahami sepenuhnya terpisah",
+        "b": "Pendekatan itu kurang tepat — Poin Kunci Bagian 3 menegaskan bahwa kelima hukum tersebut (plus Paramattha-Sammuti) adalah sudut pandang berbeda dari SATU kebenaran yang sama, bukan topik-topik lepas yang kebetulan dipelajari berurutan",
+        "c": "Pendekatan itu tidak relevan untuk dinilai karena peta konsep bersifat bebas tanpa kriteria",
+        "d": "Kelima hukum tersebut sebenarnya adalah nama lain untuk hal yang sama persis tanpa perbedaan apa pun"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penekanan integrasi/keterkaitan di Poin Kunci Bagian 3",
+        "c": "Tidak sesuai — materi eksplisit menyebutkan 'peta terpadu' sebagai tujuan tugas ini, menyiratkan ada kriteria kualitas",
+        "d": "Terlalu ekstrem ke arah lain — kelima hukum ini tetap punya penekanan dan cakupan berbeda meski saling berkaitan"
+      }
+    },
+    {
+      "id": "6.3f-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman tentang dua kebenaran (paramattha-sammuti) membantu menjelaskan mengapa kita tetap bisa menghormati orang lain sebagai 'individu' meski memahami Tilakkhaṇa (bahwa tidak ada 'diri' tetap secara hakiki)?",
+      "opsi": {
+        "a": "Secara sammuti sacca, memperlakukan seseorang sebagai individu dengan nama dan identitas tetap sah dan penting untuk relasi sosial; pemahaman paramattha sacca tentang anattā tidak menghapuskan kebutuhan ini, melainkan memberi kedalaman tambahan tanpa mengorbankan fungsi praktisnya",
+        "b": "Kita seharusnya berhenti memperlakukan orang lain sebagai individu karena secara hakiki mereka 'tidak ada'",
+        "c": "Konsep anattā hanya berlaku bagi diri sendiri, tidak berlaku bagi orang lain",
+        "d": "Dua kebenaran ini tidak memiliki relevansi apa pun terhadap relasi sosial sehari-hari"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Melebih-lebihkan implikasi anattā, bertentangan dengan penegasan bahwa sammuti sacca tetap diperlukan untuk kehidupan sehari-hari",
+        "c": "Tidak akurat — anattā dijelaskan berlaku pada seluruh lima kelompok kehidupan secara umum, tidak dibatasi hanya diri sendiri",
+        "d": "Bertentangan dengan aplikasi luas kerangka dua kebenaran ini terhadap pemahaman kehidupan sehari-hari"
+      }
+    },
+    {
+      "id": "6.3f-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik Paramattha-Sammuti secara pedagogis diletakkan SETELAH Paṭiccasamuppāda (Topik 5), bukan sebelum atau di awal Kelas XII?",
+      "opsi": {
+        "a": "Karena memahami Paramattha-Sammuti membutuhkan pemahaman yang matang tentang bagaimana fenomena saling bergantung (Paṭiccasamuppāda) terlebih dahulu, sehingga konsep 'kereta sebagai kumpulan bagian yang saling bergantung' bisa lebih mudah dipahami",
+        "b": "Urutan ini murni kebetulan tanpa pertimbangan pedagogis",
+        "c": "Karena Paramattha-Sammuti sebenarnya tidak berkaitan dengan Paṭiccasamuppāda sama sekali",
+        "d": "Karena topik-topik sebelumnya di Kelas XII tidak penting dibanding topik ini"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan struktur kurikulum yang jelas dirancang bertahap dan saling membangun",
+        "c": "Bertentangan langsung dengan keterkaitan eksplisit ('ingat Paṭiccasamuppāda!') di Bagian 2",
+        "d": "Bertentangan dengan Poin Kunci Bagian 3 yang justru merangkum SEMUA topik sebagai sama pentingnya"
+      }
+    },
+    {
+      "id": "6.3f-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara memahami konsep secara paramattha sacca sebagai alat perenungan mendalam, dan menggunakannya secara tidak tepat untuk menghindari tanggung jawab sosial ('aku tidak nyata secara hakiki, jadi tidak perlu bertanggung jawab')?",
+      "opsi": {
+        "a": "Pemahaman yang tepat menggunakan paramattha sacca untuk memperdalam wawasan tanpa mengabaikan sammuti sacca yang tetap berlaku dalam kehidupan sosial-praktis, termasuk tanggung jawab dan konsekuensi kammis yang tetap berlaku",
+        "b": "Kedua penggunaan ini sebenarnya sama-sama sah dan setara",
+        "c": "Paramattha sacca memang secara sah bisa dipakai untuk menghindari tanggung jawab sosial",
+        "d": "Konsep paramattha sacca tidak memiliki risiko penyalahgunaan apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan prinsip bahwa sammuti sacca 'tetap diperlukan' untuk kehidupan sehari-hari, termasuk tanggung jawab sosial",
+        "c": "Penyalahgunaan konsep yang bertentangan dengan keseluruhan kerangka Hukum Karma yang sudah dipelajari di Kelas XII Semester 1",
+        "d": "Mengabaikan risiko penyalahgunaan konseptual yang perlu diwaspadai saat menerapkan konsep filosofis mendalam"
+      }
+    },
+    {
+      "id": "6.3f-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini menjadi puncak yang tepat bagi seluruh rangkaian doktrinal Kelas XII (Etika), sebelum beralih ke topik penutup tentang isu ekonomi-global?",
+      "opsi": {
+        "a": "Topik ini menyediakan kerangka pemersatu yang mengintegrasikan seluruh hukum doktrinal yang telah dipelajari, mempersiapkan siswa dengan cara pandang yang utuh sebelum menerapkannya pada persoalan-persoalan praktis dunia nyata di topik penutup",
+        "b": "Topik ini tidak memiliki hubungan apa pun dengan topik-topik doktrinal lain di Kelas XII",
+        "c": "Topik ini menggantikan kebutuhan mempelajari isu ekonomi-global sama sekali",
+        "d": "Urutan penempatan topik ini murni kebetulan administratif"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan fungsi integratif topik ini yang eksplisit dijelaskan di Bagian 3",
+        "c": "Tidak sesuai — topik ini adalah PERSIAPAN, bukan pengganti, topik penutup berikutnya",
+        "d": "Mengabaikan pertimbangan pedagogis yang jelas dalam penataan kurikulum ini"
+      }
+    },
+    {
+      "id": "6.3f-q15",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bahwa Buddha, dalam Kaccānagotta Sutta, tidak sekadar menolak dua pandangan ekstrem tanpa memberikan alternatif, melainkan langsung menunjukkan Paṭiccasamuppāda sebagai jawabannya?",
+      "opsi": {
+        "a": "Karena penolakan tanpa alternatif konstruktif berisiko meninggalkan kebingungan (agnostisisme kosong); dengan menunjukkan Paṭiccasamuppāda, Buddha memberikan kerangka pemahaman yang aktif dan bisa dipraktikkan, bukan sekadar sikap 'tidak tahu'",
+        "b": "Karena Buddha sebenarnya tidak memiliki jawaban apa pun terhadap pertanyaan ini",
+        "c": "Karena menunjukkan alternatif konstruktif dianggap tidak penting dalam ajaran Buddha",
+        "d": "Karena Paṭiccasamuppāda sebenarnya tidak berkaitan dengan pertanyaan tentang ada/tidak ada"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penjelasan jelas yang diberikan Buddha dalam sutta ini",
+        "c": "Bertentangan dengan keseluruhan pendekatan konstruktif Buddha yang dijelaskan sepanjang kurikulum",
+        "d": "Bertentangan langsung dengan penjelasan eksplisit bahwa jalan tengah YANG DIMAKSUD adalah Paṭiccasamuppāda"
+      }
+    }
+  ]
+}

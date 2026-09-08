@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "topik_id": "5.2c",
+    "kode_topik_lms": "X-T5",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Ritual",
+    "kode_cp": "5.2",
+    "judul": "Kata Terakhir Sang Buddha",
+    "subjudul": "Merancang Rutinitas Meditasi Personal",
+    "breadcrumb": "Kelas X · Topik 5 · Ritual",
+    "estimasi_baca_menit": 9,
+    "sumber_kanon": [
+      "Mahāparinibbāna Sutta (DN 16)",
+      "Appamāda Sutta (AN 10.15 / SN 3.17)"
+    ],
+    "tujuan_pembelajaran": "Peserta didik menciptakan rutinitas meditasi personal sebagai pendekatan autentik untuk memperkuat batin dan keyakinan terhadap Dharma secara berkelanjutan."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Kata Terakhir",
+      "section_num": "Bagian 1",
+      "judul": "Kata Terakhir Sang Buddha",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dari seluruh ajaran yang disampaikan Buddha selama 45 tahun, kalimat apa yang paling penting untuk diingat? Kita tidak perlu menebak — Buddha sendiri menjawabnya, tepat sebelum wafat. Menurut Mahāparinibbāna Sutta, kalimat terakhirnya kepada para bhikkhu adalah: *‘Vayadhammā saṅkhārā, appamādena sampādetha — Segala yang terbentuk pasti lapuk. Berjuanglah dengan kesungguhan (appamāda).’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Mengapa Ini yang Terakhir?",
+          "text": "Logikanya sederhana namun mendalam: karena segala sesuatu (termasuk hidup ini sendiri) terus berubah dan tidak kekal, **maka jangan ditunda**. Appamāda sering diterjemahkan 'kesungguhan', 'kewaspadaan', atau 'ketekunan' — lawan katanya, pamāda (kelalaian), adalah akar dari hilangnya banyak kesempatan baik."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Dalam Appamāda Sutta, Buddha memakai perumpamaan: sama seperti jejak kaki semua hewan darat bisa masuk ke dalam jejak kaki gajah (yang terbesar), semua kualitas bajik bermuara pada satu hal — **appamāda**. Ketekunan bukan sekadar satu kebajikan di antara yang lain; ia adalah akar dari semuanya."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba pikirkan: berapa kali kamu berniat memulai kebiasaan baik (belajar rutin, olahraga, meditasi) tapi menunda-nunda karena 'nanti saja, masih ada waktu'? Bagaimana pesan appamāda mengubah cara pandangmu soal menunda ini?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Merancang Jadwal",
+      "section_num": "Bagian 2",
+      "judul": "Merancang Jadwal Meditasi yang Realistis",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Appamāda bukan berarti memaksakan target yang berlebihan sampai akhirnya menyerah total. Justru sebaliknya: ketekunan yang bertahan lama biasanya lahir dari **langkah kecil yang konsisten**, bukan lompatan besar yang cepat padam."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Kecil tapi Konsisten",
+          "text": "Rancang rutinitas dengan tiga pertanyaan sederhana: **Kapan** waktu paling realistis (pagi sebelum sekolah? malam sebelum tidur?), **berapa lama** durasi yang benar-benar bisa dijaga (5–10 menit lebih baik daripada 30 menit yang berujung gagal), dan **di mana** tempat yang cukup tenang untuk dijadikan kebiasaan tetap."
+        },
+        {
+          "type": "paragraf",
+          "text": "Gunakan kembali apa yang sudah kamu kuasai dari Topik 3 (Ānāpānasati) dan Topik 4 (mengatasi rintangan batin). Rutinitas barumu tidak dimulai dari nol — ia dibangun di atas keterampilan yang sudah kamu latih sepanjang semester ini."
+        },
+        {
+          "type": "fakta",
+          "label": "Tips Praktis",
+          "text": "Menempelkan rutinitas baru pada kebiasaan yang sudah ada ('setelah gosok gigi pagi, aku duduk hening 5 menit') jauh lebih mudah dijaga daripada rutinitas yang berdiri sendiri tanpa penanda waktu yang jelas."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Coba rancang dalam pikiranmu: jam berapa, berapa lama, dan di mana kamu akan bermeditasi mulai minggu depan? Apakah target itu benar-benar realistis untuk jadwalmu, atau diam-diam terlalu ambisius?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Komitmen & Refleksi",
+      "section_num": "Bagian 3",
+      "judul": "Komitmen & Refleksi Penutup Elemen Ritual Kelas X",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Perjalanan elemen Ritual semester ini telah menempuh: menyadari napas (Tetrad 1 Ānāpānasati), mengenali lima rintangan batin, lima cara menghadapinya, dan sekarang — merancang caranya bertahan dalam jangka panjang."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Appamāda** — ketekunan sebagai akar dari seluruh kebajikan, bukan sekadar satu kebiasaan tambahan",
+            "**Kecil tapi konsisten** — rutinitas yang bertahan biasanya dimulai dari langkah realistis, bukan target berlebihan",
+            "**Menempel pada kebiasaan lama** — rutinitas baru lebih mudah dijaga jika terhubung dengan sesuatu yang sudah menjadi kebiasaan"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Semester depan, kamu akan melangkah ke elemen Etika — dimulai dari Kālāma Sutta, tentang bagaimana berpikir kritis di tengah banjir informasi."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah satu semester penuh belajar dan mempraktikkan meditasi, apa perubahan — sekecil apa pun — yang mulai kamu rasakan dalam dirimu sendiri?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 5",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 5"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "topik_id": "5.3b",
+  "kode_topik_lms": "X-T7",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "5.3b-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa nama pengembara yang terus mencela Buddha, Dhamma, dan Sangha di awal Brahmajāla Sutta?",
+      "opsi": {
+        "a": "Suppiya",
+        "b": "Subha",
+        "c": "Sigāla",
+        "d": "Upāli"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Subha adalah penanya dalam Cūḷakammavibhaṅga Sutta, bukan tokoh dalam kisah ini",
+        "c": "Sigāla adalah tokoh dalam Sigālovāda Sutta (Kelas XI), bukan sutta ini",
+        "d": "Upāli adalah murid Buddha yang ahli Vinaya, bukan tokoh dalam kisah ini"
+      }
+    },
+    {
+      "id": "5.3b-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa jumlah pandangan spekulatif yang dipetakan dalam Brahmajāla Sutta?",
+      "opsi": {
+        "a": "10",
+        "b": "12",
+        "c": "44",
+        "d": "62"
+      },
+      "jawaban_benar": "d",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah dasar dalam Kālāma Sutta (Topik 6), bukan jumlah pandangan dalam sutta ini",
+        "b": "Jumlah mata rantai Paṭiccasamuppāda, bukan jumlah pandangan dalam sutta ini",
+        "c": "Ini adalah jumlah pandangan tentang MASA DEPAN saja, bukan total keseluruhan"
+      }
+    },
+    {
+      "id": "5.3b-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa dipuji habis-habisan oleh teman-temannya setelah presentasi, dan langsung merasa sangat bangga serta meremehkan kritik yang sebenarnya membangun dari gurunya.",
+      "pertanyaan": "Apa yang seharusnya diingat siswa ini berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Pujian selalu benar dan kritik selalu salah, jadi wajar mengabaikan kritik",
+        "b": "Baik pujian berlebihan maupun celaan berlebihan sama-sama berpotensi mengaburkan penilaian jernih — sikap yang tepat adalah tidak terlalu senang oleh pujian maupun terlalu marah oleh celaan",
+        "c": "Sebaiknya siswa itu berhenti menerima pujian maupun kritik apa pun selamanya",
+        "d": "Kritik dari guru harus selalu ditolak karena guru bisa saja salah"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang menekankan kewaspadaan pada KEDUA hal, bukan hanya kritik",
+        "c": "Solusi ekstrem yang tidak realistis dan tidak dianjurkan materi",
+        "d": "Bertentangan dengan semangat keterbukaan terhadap masukan yang justru dianjurkan"
+      }
+    },
+    {
+      "id": "5.3b-q04",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa sutta ini disebut 'Brahmajāla' (Jaring Brahma/jaring agung), berdasarkan Fakta Menarik Bagian 2?",
+      "opsi": {
+        "a": "Karena 62 pandangan yang dipetakan mencakup hampir seluruh kemungkinan posisi filosofis tentang diri, dunia, dan kehidupan setelah kematian — seperti jaring besar yang menangkap segala jenis ikan",
+        "b": "Karena sutta ini hanya ditujukan bagi dewa Brahma, bukan manusia",
+        "c": "Karena sutta ini berisi 62 jenis jaring ikan yang berbeda secara harfiah",
+        "d": "Karena nama ini dipilih secara acak tanpa makna khusus"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — sutta ini ditujukan kepada para bhikkhu, bukan secara eksklusif bagi Brahma",
+        "c": "Menyalahartikan metafora sebagai makna harfiah",
+        "d": "Mengabaikan makna simbolis yang jelas dijelaskan materi"
+      }
+    },
+    {
+      "id": "5.3b-q05",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mengira bahwa Buddha, dalam Brahmajāla Sutta, mengajukan pandangannya sendiri sebagai 'pandangan ke-63 yang paling benar' di antara 62 pandangan lainnya.",
+      "pertanyaan": "Apa yang keliru dari pemahaman siswa ini, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Pemahaman itu benar sepenuhnya",
+        "b": "Buddha tidak menambahkan pandangannya sendiri sebagai pandangan ke-63 — ia justru menunjukkan bahwa SELURUH 62 pandangan itu berakar dari kemelekatan yang sama, sebuah analisis yang berbeda level dari sekadar 'menambah opsi baru'",
+        "c": "Buddha sebenarnya setuju dengan seluruh 62 pandangan sekaligus",
+        "d": "Buddha tidak pernah membahas pandangan-pandangan tersebut sama sekali"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penjelasan eksplisit 'bukan menambah pandangan ke-63' di Poin Kunci",
+        "c": "Tidak sesuai — Buddha justru menganalisis akar SEMUA pandangan itu secara kritis, bukan menyetujui semuanya",
+        "d": "Bertentangan dengan fakta bahwa seluruh Bagian 2 membahas analisis Buddha terhadap pandangan-pandangan ini"
+      }
+    },
+    {
+      "id": "5.3b-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Menurut Poin Kunci Bagian 2, apa akar yang sama dari seluruh 62 pandangan spekulatif tersebut?",
+      "opsi": {
+        "a": "Kontak indria yang diikuti kemelekatan (upādāna) pada satu sudut pandang tertentu",
+        "b": "Perintah langsung dari berbagai dewa yang berbeda-beda",
+        "c": "Kesalahan penerjemahan bahasa yang menyebabkan kebingungan",
+        "d": "Perbedaan tingkat kecerdasan antarindividu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C2",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai penjelasan materi yang menunjuk akar psikologis (kontak & kemelekatan), bukan perintah ilahi",
+        "c": "Tidak sesuai — materi tidak membahas persoalan penerjemahan bahasa",
+        "d": "Tidak sesuai — materi tidak mengaitkan pandangan ini dengan tingkat kecerdasan"
+      }
+    },
+    {
+      "id": "5.3b-q07",
+      "level_soal": "HOTS",
+      "pemantik": "Dua siswa berdebat sengit tentang pilihan jurusan kuliah, masing-masing yakin pilihannya paling tepat, dan diskusi mulai memanas hingga saling menyindir.",
+      "pertanyaan": "Berdasarkan tiga langkah di Poin Kunci Bagian 3, langkah mana yang paling relevan untuk meredakan situasi ini terlebih dahulu?",
+      "opsi": {
+        "a": "Mengenali akar mengapa masing-masing punya pandangan berbeda (pengalaman, minat, informasi yang mereka miliki), sebelum melanjutkan diskusi",
+        "b": "Langsung menyatakan salah satu pendapat sebagai yang paling benar untuk mengakhiri perdebatan",
+        "c": "Menghindari topik ini selamanya tanpa pernah membahasnya lagi",
+        "d": "Meningkatkan volume suara agar pendapatnya terdengar lebih meyakinkan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan semangat memahami dulu, bukan langsung memutuskan siapa benar",
+        "c": "Menghindar bukan solusi yang dianjurkan materi ini",
+        "d": "Bertentangan dengan sikap tenang & tidak reaktif yang dicontohkan Buddha"
+      }
+    },
+    {
+      "id": "5.3b-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa ajaran Buddha sendiri (seperti Empat Kebenaran Mulia) TIDAK termasuk dalam kategori '62 pandangan spekulatif', menurut Bagian 4?",
+      "opsi": {
+        "a": "Karena ajaran itu diajukan sebagai sesuatu yang bisa dibuktikan langsung (ehipassiko), bukan sekadar spekulasi yang dipertahankan tanpa pengujian",
+        "b": "Karena Buddha melarang siapa pun mempertanyakan ajarannya",
+        "c": "Karena ajaran Buddha sebenarnya adalah salah satu dari 62 pandangan itu, hanya diberi nama berbeda",
+        "d": "Karena ajaran Buddha ditulis lebih belakangan dari 62 pandangan lainnya"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan semangat ehipassiko dan Kālāma Sutta yang justru mendorong pengujian",
+        "c": "Bertentangan langsung dengan penjelasan eksplisit Bagian 4",
+        "d": "Bukan alasan yang relevan atau disebutkan dalam materi"
+      }
+    },
+    {
+      "id": "5.3b-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara 'punya pendapat' dan 'melekat erat pada pendapat', berdasarkan refleksi di Bagian 2?",
+      "opsi": {
+        "a": "Keduanya sebenarnya sama saja tanpa perbedaan praktis",
+        "b": "Punya pendapat adalah hal wajar dan sehat; melekat erat berarti tidak lagi mampu mendengar atau mempertimbangkan sudut pandang lain, bahkan saat ada bukti atau alasan kuat untuk melakukannya",
+        "c": "Melekat erat pada pendapat selalu lebih baik karena menunjukkan keyakinan yang kuat",
+        "d": "Punya pendapat hanya berlaku bagi orang dewasa, sedangkan melekat pada pendapat berlaku bagi siapa saja"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan penting yang menjadi inti pertanyaan reflektif Bagian 2",
+        "c": "Bertentangan dengan keseluruhan semangat materi yang justru mewaspadai kemelekatan berlebihan",
+        "d": "Tidak sesuai — tidak ada pembatasan usia yang dijelaskan materi"
+      }
+    },
+    {
+      "id": "5.3b-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kisah pembuka (Suppiya & Brahmadatta) berkaitan secara tematik dengan analisis 62 pandangan di bagian selanjutnya?",
+      "opsi": {
+        "a": "Kedua bagian menunjukkan pola yang sama: manusia bisa melihat realitas yang sama namun sampai pada kesimpulan yang sangat berbeda — pembukanya lewat kasus konkret (pujian vs celaan), lanjutannya lewat analisis sistematis (62 pandangan)",
+        "b": "Kedua bagian sama sekali tidak berkaitan satu sama lain",
+        "c": "Suppiya dan Brahmadatta adalah tokoh yang menciptakan 62 pandangan tersebut",
+        "d": "Kisah pembuka hanya berfungsi sebagai hiburan tanpa kaitan tematik dengan isi utama sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan kesamaan tema (perbedaan kesimpulan dari realitas yang sama) yang menghubungkan kedua bagian",
+        "c": "Tidak sesuai fakta — 62 pandangan berasal dari berbagai petapa dan brahmana di masa itu, bukan diciptakan kedua tokoh ini",
+        "d": "Meremehkan fungsi naratif kisah pembuka sebagai pengantar tematik yang disengaja"
+      }
+    },
+    {
+      "id": "5.3b-q11",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merasa harus selalu setuju dengan semua orang agar terlihat 'terbuka dan toleran', bahkan ketika pendapat mereka sudah jelas keliru berdasarkan fakta.",
+      "pertanyaan": "Bagaimana pandangan siswa ini seharusnya dikoreksi berdasarkan Poin Kunci Bagian 4?",
+      "opsi": {
+        "a": "Pandangan itu sudah tepat sepenuhnya sebagai bentuk toleransi",
+        "b": "Keterbukaan tidak sama dengan tidak punya pegangan sama sekali — seseorang tetap bisa terbuka mendengar sambil teguh pada hal-hal yang sudah teruji, tanpa harus menyetujui segala sesuatu tanpa pertimbangan",
+        "c": "Siswa itu sebaiknya berhenti berinteraksi dengan siapa pun yang berpendapat berbeda",
+        "d": "Toleransi berarti tidak boleh punya pendirian apa pun dalam hal apa pun"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan poin 'teguh pada yang teruji' di Bagian 4",
+        "c": "Solusi ekstrem yang bertentangan dengan semangat keterbukaan yang tetap dianjurkan",
+        "d": "Menyalahartikan toleransi sebagai ketiadaan pendirian total, bertentangan dengan Poin Kunci Bagian 4"
+      }
+    },
+    {
+      "id": "5.3b-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa topik ini secara khusus menghindari menjelaskan detail teknis dari 62 pandangan (seperti dijelaskan di catatan editorial), dan lebih fokus pada struktur besar & sikap Buddha?",
+      "opsi": {
+        "a": "Karena detail 62 pandangan itu sangat teknis-filosofis, sehingga menghafalnya tidak sebanding manfaatnya dibanding memahami PRINSIP di baliknya (akar kemelekatan, sikap tenang) yang lebih aplikatif bagi kehidupan siswa",
+        "b": "Karena detail tersebut sebenarnya rahasia yang tidak boleh diajarkan kepada siapa pun",
+        "c": "Karena 62 pandangan tersebut sudah tidak relevan dan sebaiknya dilupakan sepenuhnya",
+        "d": "Karena topik ini sengaja dibuat lebih pendek tanpa alasan pedagogis tertentu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — tidak ada unsur kerahasiaan; ini murni pertimbangan kesesuaian tingkat kesulitan",
+        "c": "Tidak sesuai — 62 pandangan tetap dijelaskan strukturnya, hanya tidak didalami detail teknisnya",
+        "d": "Mengabaikan pertimbangan pedagogis eksplisit yang dinyatakan dalam catatan editorial"
+      }
+    },
+    {
+      "id": "5.3b-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana keterkaitan antara topik ini (Brahmajāla Sutta) dan Topik 6 (Kālāma Sutta) dalam membangun kerangka berpikir kritis siswa?",
+      "opsi": {
+        "a": "Kālāma Sutta memberi alat MENGUJI klaim; Brahmajāla Sutta memberi kerangka MENYIKAPI perbedaan pandangan yang muncul setelah pengujian tersebut dilakukan oleh orang-orang berbeda — keduanya melengkapi satu proses berpikir kritis yang utuh",
+        "b": "Kedua topik ini membahas hal yang sama sekali sama tanpa perbedaan penekanan",
+        "c": "Brahmajāla Sutta membatalkan seluruh prinsip yang dipelajari di Kālāma Sutta",
+        "d": "Kālāma Sutta hanya relevan bagi individu, sedangkan Brahmajāla Sutta hanya relevan bagi kelompok besar"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan perbedaan fokus (menguji vs menyikapi perbedaan) antara kedua topik",
+        "c": "Tidak sesuai — kedua topik saling melengkapi sebagai bagian dari kerangka berpikir kritis yang sama",
+        "d": "Pembedaan yang tidak berdasar dan tidak didukung materi manapun"
+      }
+    },
+    {
+      "id": "5.3b-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini mempersiapkan siswa untuk mempelajari Paṭiccasamuppāda di topik berikutnya, berdasarkan Bagian 4?",
+      "opsi": {
+        "a": "Dengan menunjukkan bahwa di tengah keragaman pandangan subjektif, tetap ada sesuatu yang bisa dijadikan 'pegangan yang teruji' — dan Paṭiccasamuppāda adalah contoh hukum objektif yang berlaku terlepas dari pandangan siapa pun tentangnya",
+        "b": "Topik ini tidak memiliki keterkaitan apa pun dengan Paṭiccasamuppāda",
+        "c": "Topik ini membuktikan bahwa semua hukum, termasuk Paṭiccasamuppāda, hanyalah pandangan subjektif yang setara dengan 62 pandangan lainnya",
+        "d": "Topik ini menggantikan kebutuhan mempelajari hukum sebab-musabab sama sekali"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan jembatan eksplisit di 'Ingat Ini' yang menghubungkan kedua topik",
+        "c": "Bertentangan langsung — materi justru membedakan hukum objektif dari pandangan spekulatif subjektif",
+        "d": "Tidak sesuai — topik ini adalah pengantar, bukan pengganti topik berikutnya"
+      }
+    }
+  ]
+}

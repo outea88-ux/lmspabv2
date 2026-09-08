@@ -1,0 +1,265 @@
+{
+  "topik_id": "6.2c",
+  "kode_topik_lms": "XI-T6",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.2c-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Siapa nama dua bhikkhu bersaudara yang mengusulkan penyeragaman ajaran Buddha ke dalam Sanskerta?",
+      "opsi": {
+        "a": "Yamelu dan Tekula",
+        "b": "Sāriputta dan Moggallāna",
+        "c": "Koṇḍañña dan Assaji",
+        "d": "Ānanda dan Upāli"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Dua murid utama Buddha, bukan tokoh dalam kisah ini",
+        "c": "Dua dari lima petapa Isipatana (Kelas X), bukan tokoh dalam kisah ini",
+        "d": "Murid Buddha lain yang tidak terlibat dalam kisah ini"
+      }
+    },
+    {
+      "id": "6.2c-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Apa nama monumen Buddhis Nusantara yang disebut sebagai contoh perpaduan wujud lokal dan esensi Dhamma?",
+      "opsi": {
+        "a": "Borobudur",
+        "b": "Angkor Wat",
+        "c": "Shwedagon",
+        "d": "Taj Mahal"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Monumen di Kamboja, bukan di Nusantara",
+        "c": "Pagoda di Myanmar, bukan di Nusantara",
+        "d": "Monumen di India, bukan situs Buddhis maupun di Nusantara"
+      }
+    },
+    {
+      "id": "6.2c-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berkata, ‘Yamelu dan Tekula itu jahat, mereka sengaja ingin merusak ajaran Buddha.’",
+      "pertanyaan": "Apa yang kurang tepat dari penilaian siswa ini, berdasarkan Bagian 1?",
+      "opsi": {
+        "a": "Penilaian itu tepat sepenuhnya",
+        "b": "Motivasi mereka sebenarnya baik (menjaga kemurnian ajaran), hanya CARANYA yang keliru — niat baik saja tidak cukup jika caranya justru mempersulit aksesibilitas ajaran bagi banyak orang",
+        "c": "Yamelu dan Tekula sebenarnya tidak pernah benar-benar mengusulkan hal ini",
+        "d": "Buddha sepenuhnya setuju dengan usulan mereka"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan nuansa yang dijelaskan materi — motivasi mereka dijelaskan sebagai 'niat baik', bukan kejahatan",
+        "c": "Bertentangan dengan fakta cerita yang jelas menyebutkan usulan mereka",
+        "d": "Bertentangan langsung — Buddha menolak tegas usulan tersebut"
+      }
+    },
+    {
+      "id": "6.2c-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Sebuah organisasi Buddhis internasional mengusulkan agar seluruh ceramah Dhamma di dunia hanya boleh disampaikan dalam bahasa Pali murni, agar 'terjaga keasliannya', meski banyak jamaah tidak memahami bahasa tersebut.",
+      "pertanyaan": "Bagaimana usulan ini akan dinilai jika mengacu pada prinsip Cullavagga V.33?",
+      "opsi": {
+        "a": "Usulan ini sejalan dengan semangat Cullavagga V.33 karena mengutamakan bahasa asli",
+        "b": "Usulan ini justru bertentangan dengan semangat Cullavagga V.33, yang menolak keseragaman bahasa elitis demi keterjangkauan luas — persis pola yang ditolak Buddha dalam kasus Yamelu dan Tekula",
+        "c": "Cullavagga V.33 tidak relevan untuk menilai usulan semacam ini",
+        "d": "Buddha akan menyetujui usulan ini karena Pali adalah bahasa suci"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Menyalahartikan prinsip sutta — justru KESERAGAMAN bahasa yang ditolak, bukan bahasa asli tertentu yang diagungkan",
+        "c": "Bertentangan dengan keseluruhan pembahasan Bagian 1-2 yang menjadikan kasus ini preseden relevan",
+        "d": "Bertentangan langsung dengan penolakan tegas Buddha terhadap standardisasi bahasa serupa"
+      }
+    },
+    {
+      "id": "6.2c-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa pelanggaran terhadap aturan 'sakāya niruttiyā' dikategorikan sebagai dukkata (pelanggaran resmi Vinaya), bukan sekadar saran yang boleh diabaikan?",
+      "opsi": {
+        "a": "Karena Buddha ingin menunjukkan bahwa prinsip aksesibilitas bahasa ini bukan sekadar preferensi pribadi, melainkan keputusan sadar dan tegas yang perlu ditegakkan secara serius dalam komunitas monastik",
+        "b": "Karena Buddha ingin menghukum Yamelu dan Tekula secara personal",
+        "c": "Karena dukkata adalah pelanggaran paling ringan yang tidak memiliki konsekuensi apa pun",
+        "d": "Karena aturan ini sebenarnya tidak penting dan hanya ditambahkan sebagai formalitas"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Tidak sesuai — aturan ini berlaku umum bagi seluruh Sangha, bukan hukuman personal",
+        "c": "Menyalahartikan bobot dukkata sebagai tidak penting, bertentangan dengan Poin Kunci Bagian 2",
+        "d": "Bertentangan langsung dengan penekanan keseriusan aturan ini di Poin Kunci Bagian 2"
+      }
+    },
+    {
+      "id": "6.2c-q06",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bagi materi ini untuk menyebutkan adanya perdebatan ilmiah tentang makna 'bahasa sendiri' (Fakta Menarik Bagian 2), alih-alih menyembunyikan ketidakpastian ini?",
+      "opsi": {
+        "a": "Karena kejujuran akademik penting — menunjukkan bahwa meski detail tafsir masih diperdebatkan, semangat besar prinsip ini (menolak keseragaman elitis) tetap jelas dan tidak berubah",
+        "b": "Karena perdebatan ini sebenarnya membatalkan seluruh relevansi ayat tersebut",
+        "c": "Karena materi ini sengaja dibuat membingungkan agar siswa berhenti mempelajarinya",
+        "d": "Karena tidak ada satu pun sarjana yang benar-benar mempelajari ayat ini"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan penegasan 'semangat besarnya tetap sama' meski ada perbedaan tafsir detail",
+        "c": "Tidak sesuai dengan tujuan pedagogis materi yang justru menjelaskan dengan jernih",
+        "d": "Bertentangan dengan fakta bahwa perdebatan ilmiah ini justru menunjukkan keseriusan kajian sarjana atasnya"
+      }
+    },
+    {
+      "id": "6.2c-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana arsitektur Borobudur mencerminkan prinsip yang sama dengan Cullavagga V.33, meski dalam konteks yang berbeda (bahasa vs bangunan)?",
+      "opsi": {
+        "a": "Keduanya menunjukkan pola yang sama: wujud/bentuk luar (bahasa lokal, arsitektur lokal) beradaptasi dengan konteks setempat, sementara esensi Dhamma di dalamnya tetap terjaga",
+        "b": "Tidak ada kaitan sama sekali antara arsitektur candi dan aturan berbahasa",
+        "c": "Borobudur dibangun untuk menggantikan Vinaya Cullavagga V.33",
+        "d": "Borobudur adalah tiruan persis dari candi-candi di India tanpa elemen lokal apa pun"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan pola prinsip yang sama (adaptasi bentuk, esensi terjaga) yang menghubungkan kedua contoh ini",
+        "c": "Tidak masuk akal — keduanya bukan hal yang saling menggantikan",
+        "d": "Bertentangan langsung dengan fakta bahwa Borobudur eksplisit disebut berakar pada tradisi Nusantara pra-Buddhis (punden berundak)"
+      }
+    },
+    {
+      "id": "6.2c-q08",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa merancang proyek mini dengan mengganti seluruh isi ajaran Buddha (Empat Kebenaran Mulia, Hukum Karma) dengan kepercayaan lokal yang sama sekali berbeda, dan menyebutnya sebagai 'akomodasi budaya'.",
+      "pertanyaan": "Apakah pendekatan siswa ini sesuai dengan prinsip Cullavagga V.33 dan Poin Kunci Bagian 3?",
+      "opsi": {
+        "a": "Sudah sesuai sepenuhnya, karena akomodasi budaya berarti bebas mengganti isi ajaran",
+        "b": "Belum sesuai — prinsip yang diajarkan adalah wujud LUAR yang beradaptasi (bahasa, seni, arsitektur), sementara ESENSI Dhamma tetap terjaga; mengganti isi ajaran bukan akomodasi budaya, melainkan penggantian substansi",
+        "c": "Pendekatan ini tidak relevan untuk dinilai karena proyek mini bersifat bebas tanpa batasan",
+        "d": "Sudah sesuai, karena Buddha sendiri tidak peduli pada isi ajarannya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan pembedaan wujud vs esensi yang menjadi Poin Kunci Bagian 3",
+        "c": "Tidak sesuai — materi eksplisit menekankan 'kejelasan kaitan', menyiratkan ada batasan kualitas yang jelas",
+        "d": "Bertentangan sepenuhnya dengan seluruh semangat topik yang justru menjaga esensi Dhamma"
+      }
+    },
+    {
+      "id": "6.2c-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana kisah Yamelu-Tekula (Bagian 1-2) dan Jejak Buddha-Nusantara (Bagian 3) sama-sama mendukung tesis besar topik ini?",
+      "opsi": {
+        "a": "Kisah Yamelu-Tekula menunjukkan PENOLAKAN Buddha terhadap keseragaman elitis secara langsung (melalui aturan Vinaya); Jejak Nusantara menunjukkan BUKTI HISTORIS bagaimana prinsip itu benar-benar terwujud dalam skala budaya berabad-abad kemudian",
+        "b": "Kedua bagian ini membahas hal yang sama sekali tidak berkaitan",
+        "c": "Kisah Yamelu-Tekula sebenarnya terjadi di Nusantara, bukan di India",
+        "d": "Jejak Buddha-Nusantara membantah seluruh isi kisah Yamelu-Tekula"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan struktur argumentatif materi yang menghubungkan prinsip (Bagian 1-2) dengan bukti penerapan (Bagian 3)",
+        "c": "Tidak sesuai fakta — kisah Yamelu-Tekula terjadi di India pada masa Buddha",
+        "d": "Bertentangan — kedua bagian saling memperkuat, bukan saling membantah"
+      }
+    },
+    {
+      "id": "6.2c-q10",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa memahami perbedaan antara 'mengubah wujud/bentuk' dan 'mengubah esensi/isi' penting saat merancang Proyek Mini di Bagian 4?",
+      "opsi": {
+        "a": "Karena inilah kriteria utama yang membedakan akomodasi budaya yang otentik (sesuai semangat Cullavagga V.33) dari sekadar percampuran yang menghilangkan identitas Dhamma — proyek yang baik perlu menjaga keseimbangan ini",
+        "b": "Karena perbedaan ini tidak memiliki relevansi apa pun terhadap kualitas proyek",
+        "c": "Karena proyek yang baik harus selalu mengubah esensi ajaran agar terlihat lebih kreatif",
+        "d": "Karena wujud dan esensi sebenarnya adalah hal yang sama persis"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan penekanan kriteria 'kejelasan kaitan' yang menjadi standar kualitas proyek",
+        "c": "Bertentangan langsung dengan seluruh prinsip topik yang justru menjaga esensi, bukan mengubahnya demi kreativitas",
+        "d": "Mengabaikan perbedaan konseptual yang jelas dijelaskan sepanjang topik ini"
+      }
+    },
+    {
+      "id": "6.2c-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini melanjutkan tema keterbukaan yang sudah diperkenalkan di Kelas X, Topik 7 (Brahmajāla Sutta, tentang menghargai keragaman pandangan)?",
+      "opsi": {
+        "a": "Topik 7 Kelas X mengajarkan keterbukaan terhadap keragaman PANDANGAN filosofis; topik ini memperluas keterbukaan itu ke keragaman BAHASA dan BUDAYA, menunjukkan bahwa semangat akomodatif Buddha konsisten di berbagai dimensi",
+        "b": "Kedua topik ini membahas hal yang sama sekali berbeda tanpa keterkaitan",
+        "c": "Topik ini membatalkan seluruh prinsip yang dipelajari di Brahmajāla Sutta",
+        "d": "Brahmajāla Sutta dan Cullavagga V.33 adalah kitab yang sama, hanya nama berbeda"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Mengabaikan pola konsisten keterbukaan yang menghubungkan kedua topik lintas jenjang",
+        "c": "Tidak sesuai — kedua topik saling memperkuat semangat keterbukaan, bukan saling membatalkan",
+        "d": "Tidak akurat — Brahmajāla Sutta bagian Dīgha Nikāya, Cullavagga V.33 bagian Vinaya Piṭaka, kitab yang sama sekali berbeda"
+      }
+    },
+    {
+      "id": "6.2c-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa risiko jika sebuah komunitas keagamaan mengabaikan sepenuhnya prinsip 'sakāya niruttiyā' dan bersikeras mempertahankan bahasa/istilah yang sangat sulit dipahami generasi muda?",
+      "opsi": {
+        "a": "Berisiko membuat ajaran terasa asing dan sulit diakses oleh generasi baru, berpotensi mengurangi keterhubungan mereka dengan Dhamma — persis risiko yang diantisipasi Buddha saat menolak usulan Yamelu-Tekula",
+        "b": "Tidak ada risiko apa pun karena bahasa yang sulit selalu dianggap lebih sakral",
+        "c": "Risiko ini hanya berlaku bagi komunitas non-Buddhis",
+        "d": "Mempertahankan bahasa sulit selalu meningkatkan jumlah pengikut"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan alasan penolakan Buddha terhadap usulan Yamelu-Tekula",
+        "c": "Tidak masuk akal — prinsip aksesibilitas bahasa berlaku universal, tidak terbatas komunitas tertentu",
+        "d": "Bertentangan dengan logika dan dengan alasan eksplisit Buddha bahwa keseragaman elitis 'tidak menambah yang terkonversi'"
+      }
+    },
+    {
+      "id": "6.2c-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana pemahaman tentang akomodasi budaya ini relevan bagi siswa SMK yang mungkin akan bekerja di lingkungan multikultural setelah lulus?",
+      "opsi": {
+        "a": "Prinsip 'menjaga esensi sambil beradaptasi dengan bentuk/konteks lokal' bisa diterapkan luas — misalnya berkomunikasi secara profesional dengan cara yang sesuai konteks budaya rekan kerja, tanpa kehilangan nilai dan prinsip pribadi",
+        "b": "Prinsip ini hanya relevan bagi bhikkhu, tidak relevan bagi dunia kerja",
+        "c": "Prinsip ini menyarankan untuk selalu mengubah nilai pribadi mengikuti budaya tempat kerja apa pun",
+        "d": "Prinsip ini tidak memiliki aplikasi apa pun di luar konteks keagamaan"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan penekanan pada umat awam yang eksplisit dalam kurikulum PAB SMK/SMA",
+        "c": "Melebih-lebihkan implikasi — prinsipnya soal menjaga esensi SAMBIL beradaptasi, bukan mengorbankan nilai pribadi sepenuhnya",
+        "d": "Terlalu sempit — prinsip adaptasi bentuk/esensi punya aplikasi luas melampaui konteks keagamaan semata"
+      }
+    },
+    {
+      "id": "6.2c-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa Buddha secara eksplisit menyebut usulan Yamelu dan Tekula sebagai tindakan yang 'tidak menambah yang terkonversi, bahkan mengurangi yang sudah terkonversi'? Apa maksud argumen ini?",
+      "opsi": {
+        "a": "Argumen ini menunjukkan pertimbangan PRAKTIS Buddha: kebijakan bahasa harus dinilai dari dampaknya terhadap jangkauan dan pemahaman nyata, bukan sekadar prestise atau kemurnian bentuk semata",
+        "b": "Argumen ini tidak memiliki makna khusus dan hanya kalimat basa-basi",
+        "c": "Argumen ini menunjukkan bahwa Buddha tidak peduli sama sekali pada jumlah pengikutnya",
+        "d": "Argumen ini berarti Buddha mendukung sepenuhnya usulan Yamelu dan Tekula"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Meremehkan bobot argumen praktis yang mendasari keputusan penting ini",
+        "c": "Salah membaca argumen — justru argumen ini menunjukkan kepedulian pada jangkauan Dhamma bagi banyak orang",
+        "d": "Bertentangan langsung dengan fakta bahwa Buddha MENOLAK usulan tersebut"
+      }
+    }
+  ]
+}

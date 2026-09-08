@@ -1,0 +1,266 @@
+{
+  "topik_id": "6.3c",
+  "kode_topik_lms": "XII-T3",
+  "instruksi": "Pilih satu jawaban yang paling tepat.",
+  "ukuran_bank": 14,
+  "jumlah_tampil_per_attempt": 10,
+  "catatan_desain": "Mayoritas HOTS (C4-C6) dengan pemantik; LOTS (C1-C2) dibatasi ≈ 10% dari bank.",
+  "bank": [
+    {
+      "id": "6.3c-q01",
+      "level_soal": "LOTS",
+      "pertanyaan": "Sutta manakah yang mengingatkan bahaya menggeneralisasi kesimpulan kamma dari satu pengamatan saja?",
+      "opsi": {
+        "a": "Mahākammavibhaṅga Sutta",
+        "b": "Sigālovāda Sutta",
+        "c": "Kālāma Sutta",
+        "d": "Vitakkasaṇṭhāna Sutta"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "b": "Sutta tentang relasi sosial (Kelas XI), bukan tentang generalisasi kamma",
+        "c": "Sutta tentang nalar kritis umum (Kelas X), bukan secara khusus tentang kamma",
+        "d": "Sutta tentang mengatasi pikiran mengganggu (Kelas X), tidak terkait topik ini"
+      }
+    },
+    {
+      "id": "6.3c-q02",
+      "level_soal": "LOTS",
+      "pertanyaan": "Berapa jumlah 'utusan' (devadūta) yang disebutkan dalam Devadūta Sutta?",
+      "opsi": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "6"
+      },
+      "jawaban_benar": "c",
+      "level_bloom": "C1",
+      "alasan_pengecoh": {
+        "a": "Jumlah ini sering tertukar dengan '4 peristiwa' dalam kisah Pangeran Siddhattha (Kelas X), yang berbeda dari sutta ini",
+        "b": "Jumlah yang salah untuk sutta ini",
+        "d": "Jumlah yang salah untuk sutta ini"
+      }
+    },
+    {
+      "id": "6.3c-q03",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa mengaku memiliki firasat kuat bahwa temannya yang nakal 'pasti' akan celaka karena karma buruknya, dan menyimpulkan ini berlaku bagi SEMUA orang nakal.",
+      "pertanyaan": "Apa yang keliru dari kesimpulan siswa ini, berdasarkan Poin Kunci Bagian 1?",
+      "opsi": {
+        "a": "Kesimpulannya benar sepenuhnya dan sesuai ajaran kamma",
+        "b": "Meski pengamatan terhadap satu kasus mungkin valid, menggeneralisasi menjadi hukum mutlak untuk SEMUA kasus serupa adalah kesalahan yang secara eksplisit ditolak Mahākammavibhaṅga Sutta",
+        "c": "Karma tidak pernah bisa diamati sama sekali dalam bentuk apa pun",
+        "d": "Kesimpulan itu hanya salah jika temannya bukan orang Buddhis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan Poin Kunci yang menolak generalisasi semacam ini",
+        "c": "Terlalu ekstrem — materi tidak menyangkal kemungkinan pengamatan, hanya generalisasi berlebihannya",
+        "d": "Tidak relevan dan tidak berdasar dari materi mana pun"
+      }
+    },
+    {
+      "id": "6.3c-q04",
+      "level_soal": "HOTS",
+      "pemantik": "Ada orang yang tampak sering berbuat baik tapi hidupnya penuh kesulitan, sementara ada yang tampak kurang baik tapi hidupnya lancar.",
+      "pertanyaan": "Bagaimana Mahākammavibhaṅga Sutta menjelaskan fenomena yang tampak 'ganjil' ini?",
+      "opsi": {
+        "a": "Fenomena ini membuktikan hukum kamma sepenuhnya tidak berlaku",
+        "b": "Fenomena ini bisa dijelaskan oleh kompleksitas kamma — kamma lampau yang berbeda-beda bisa sedang matang bersamaan dengan tindakan saat ini, sehingga hasilnya tidak selalu tampak 'searah' dengan perbuatan yang terlihat sekarang",
+        "c": "Fenomena ini hanya terjadi pada orang yang tidak beragama",
+        "d": "Fenomena ini membuktikan bahwa hanya kejahatan yang punya akibat, kebaikan tidak"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Kesimpulan berlebihan — materi menjelaskan kompleksitas, bukan ketidakberlakuan hukum kamma",
+        "c": "Tidak relevan dan tidak didukung materi mana pun",
+        "d": "Tidak sesuai — materi tidak membuat klaim sepihak semacam ini"
+      }
+    },
+    {
+      "id": "6.3c-q05",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa fungsi utama dari lima utusan (devadūta) dalam Devadūta Sutta, berdasarkan Poin Kunci Bagian 2?",
+      "opsi": {
+        "a": "Sebagai makhluk gaib yang benar-benar mengunjungi setiap orang secara harfiah",
+        "b": "Sebagai pengingat dari peristiwa-peristiwa biasa (kelahiran, usia tua, sakit, hukuman, kematian) yang mendorong seseorang untuk tidak menunda berbuat baik",
+        "c": "Sebagai hukuman langsung yang dijatuhkan kepada orang jahat",
+        "d": "Sebagai ramalan pasti tentang kapan seseorang akan meninggal"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan penjelasan bahwa kelima 'utusan' adalah peristiwa biasa yang kita saksikan, bukan makhluk gaib",
+        "c": "Tidak sesuai — devadūta adalah pengingat, bukan hukuman itu sendiri",
+        "d": "Tidak sesuai fakta — sutta ini tidak berfungsi sebagai ramalan waktu kematian"
+      }
+    },
+    {
+      "id": "6.3c-q06",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa membaca tentang alam-alam kehidupan yang menderita dan mulai merasa sangat cemas serta takut berlebihan setiap hari.",
+      "pertanyaan": "Berdasarkan catatan editorial dan Poin Kunci Bagian 2, bagaimana seharusnya materi tentang alam kehidupan ini dipahami?",
+      "opsi": {
+        "a": "Sebagai bahan untuk menakut-nakuti diri sendiri secara berlebihan setiap hari",
+        "b": "Sebagai pengingat moral yang mendorong tindakan baik, dengan pesan inti pada tanggung jawab pribadi — bukan sebagai sumber kecemasan berkepanjangan",
+        "c": "Sebagai fakta yang harus diperdebatkan secara ilmiah sampai tuntas sebelum melanjutkan pelajaran",
+        "d": "Sebagai bagian yang sebaiknya dihafal secara harfiah tanpa perlu dipahami maknanya"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Bertentangan dengan fungsi 'pengingat mendorong kebaikan', bukan alat menakuti diri berkepanjangan",
+        "c": "Tidak sesuai — materi menekankan makna etis-fungsional, bukan perdebatan ilmiah literal",
+        "d": "Bertentangan dengan penekanan pada pemahaman makna, bukan hafalan semata"
+      }
+    },
+    {
+      "id": "6.3c-q07",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa makna kalimat kunci dalam Devadūta Sutta, 'perbuatan itu kamu lakukan sendiri, kamu sendiri yang akan mengalami akibatnya'?",
+      "opsi": {
+        "a": "Menegaskan bahwa tanggung jawab atas tindakan sepenuhnya berada di tangan pelakunya sendiri, tidak bisa dialihkan ke orang lain",
+        "b": "Menegaskan bahwa keluarga selalu ikut bertanggung jawab atas kesalahan anggota keluarganya",
+        "c": "Menegaskan bahwa seseorang bisa membayar orang lain untuk menanggung akibat kammanya",
+        "d": "Menegaskan bahwa akibat kamma bisa dihindari sepenuhnya dengan cara meminta maaf"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C3",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan kalimat yang justru menyebut keluarga TIDAK bertanggung jawab atas perbuatan individu",
+        "c": "Tidak sesuai — tanggung jawab kammis tidak bisa 'dialihkan' seperti ini",
+        "d": "Tidak sesuai — materi tidak membuat klaim penghapusan akibat kamma semacam ini"
+      }
+    },
+    {
+      "id": "6.3c-q08",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana Punabbhava merupakan 'kelanjutan logis' dari Hukum Karma yang dipelajari di Topik 2?",
+      "opsi": {
+        "a": "Karena jika kamma bisa berbuah dalam kelahiran-kelahiran berikutnya (bukan hanya kehidupan ini), maka masuk akal bahwa proses kelahiran kembali menjadi kerangka yang menjelaskan bagaimana akibat itu terus berproses",
+        "b": "Karena Punabbhava sama sekali tidak berkaitan dengan Hukum Karma",
+        "c": "Karena Punabbhava menggantikan seluruh konsep kamma yang sudah dipelajari",
+        "d": "Karena Hukum Karma hanya berlaku jika seseorang percaya pada Punabbhava terlebih dahulu"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan keterkaitan eksplisit yang dijelaskan Bagian 3",
+        "c": "Tidak sesuai — Punabbhava melengkapi, bukan menggantikan, konsep kamma",
+        "d": "Tidak sesuai logika — justru sebaliknya, pemahaman kamma yang mengarah pada pemahaman Punabbhava"
+      }
+    },
+    {
+      "id": "6.3c-q09",
+      "level_soal": "HOTS",
+      "pertanyaan": "Menurut Poin Kunci Bagian 3, apa dampak yang seharusnya muncul dari mempelajari Punabbhava, dibanding sekadar memperdebatkan detail teknisnya?",
+      "opsi": {
+        "a": "Membuat setiap pilihan hari ini terasa lebih bermakna, bukan lebih menakutkan",
+        "b": "Membuat seseorang berhenti peduli pada tindakannya karena semua akan 'diulang lagi' di kehidupan berikutnya",
+        "c": "Membuat seseorang wajib menghafal seluruh nama alam kehidupan secara detail",
+        "d": "Membuat seseorang merasa tidak ada gunanya berusaha karena hasilnya baru terlihat di kehidupan lain"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "b": "Bertentangan langsung dengan pesan tanggung jawab yang ditekankan sepanjang topik",
+        "c": "Tidak sesuai — materi menekankan makna, bukan hafalan detail teknis",
+        "d": "Bertentangan dengan penolakan fatalisme yang sudah dipelajari di Topik 2"
+      }
+    },
+    {
+      "id": "6.3c-q10",
+      "level_soal": "HOTS",
+      "pemantik": "Seorang siswa berpendapat, ‘Kalau begitu, aku tidak perlu peduli konsekuensi tindakanku hari ini karena masih ada banyak kelahiran lagi untuk memperbaikinya.’",
+      "pertanyaan": "Bagaimana pandangan ini seharusnya dikoreksi berdasarkan keseluruhan topik ini?",
+      "opsi": {
+        "a": "Pandangan itu benar sepenuhnya dan dianjurkan oleh ajaran Punabbhava",
+        "b": "Pandangan itu keliru — justru sebaliknya, karena tindakan berdampak melampaui satu kehidupan, setiap pilihan menjadi LEBIH bermakna dan perlu dipertanggungjawabkan, bukan diabaikan",
+        "c": "Pandangan itu hanya salah jika diucapkan oleh siswa perempuan",
+        "d": "Pandangan itu tidak relevan untuk dibahas dalam konteks pendidikan"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C5",
+      "alasan_pengecoh": {
+        "a": "Bertentangan langsung dengan pesan 'makna, bukan ketakutan ATAU pengabaian' di Poin Kunci Bagian 3",
+        "c": "Tidak relevan dan tidak berdasar sama sekali",
+        "d": "Mengabaikan nilai reflektif yang justru dirancang untuk direnungkan"
+      }
+    },
+    {
+      "id": "6.3c-q11",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa perbedaan antara 'mengakui hasil pengamatan langsung' dan 'menggeneralisasi menjadi hukum mutlak' dalam konteks Mahākammavibhaṅga Sutta?",
+      "opsi": {
+        "a": "Keduanya sama sekali sama, tidak ada bedanya",
+        "b": "Mengakui pengamatan langsung berarti menerima apa yang benar-benar teramati pada satu kasus; menggeneralisasi berarti memperluas kesimpulan itu secara serampangan ke SEMUA kasus serupa tanpa dasar yang cukup",
+        "c": "Mengakui pengamatan langsung selalu salah; menggeneralisasi selalu benar",
+        "d": "Kedua hal ini hanya relevan bagi orang yang memiliki kekuatan batin/psikis"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C4",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan perbedaan mendasar yang menjadi inti pelajaran Bagian 1",
+        "c": "Terbalik dari fakta — justru generalisasi berlebihan yang ditolak, bukan pengamatan itu sendiri",
+        "d": "Terlalu sempit — prinsip ini relevan bagi siapa pun yang membuat kesimpulan tentang kamma orang lain, bukan hanya yang memiliki kekuatan batin"
+      }
+    },
+    {
+      "id": "6.3c-q12",
+      "level_soal": "HOTS",
+      "pertanyaan": "Bagaimana topik ini (Punabbhava) melanjutkan pola pembelajaran bertahap dari Topik 1 (Empat Kebenaran Mulia) dan Topik 2 (Karma)?",
+      "opsi": {
+        "a": "Topik 1 memberi kerangka besar (dukkha & sebabnya), Topik 2 menjelaskan mekanisme sebab-akibat dalam satu kehidupan, dan Topik 3 memperluas mekanisme itu melampaui satu kehidupan — sebuah progresi logis dari umum ke spesifik ke perluasan cakupan",
+        "b": "Ketiga topik ini sama sekali tidak berkaitan satu sama lain",
+        "c": "Topik 3 membatalkan seluruh pembelajaran di Topik 1 dan 2",
+        "d": "Topik 1 dan 2 hanya relevan bagi yang percaya Punabbhava, sedangkan Topik 3 berdiri sendiri"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Bertentangan dengan keterkaitan eksplisit yang dijelaskan di Bagian 3 (kelanjutan logis)",
+        "c": "Tidak sesuai — Topik 3 memperluas, bukan membatalkan, pembelajaran sebelumnya",
+        "d": "Tidak logis — ketiga topik saling membangun secara berurutan"
+      }
+    },
+    {
+      "id": "6.3c-q13",
+      "level_soal": "HOTS",
+      "pertanyaan": "Mengapa penting bagi materi pendidikan untuk menekankan 'fungsi & makna etis' dari penggambaran alam kehidupan, dibanding berfokus pada detail penderitaannya?",
+      "opsi": {
+        "a": "Karena penekanan pada fungsi & makna etis menjaga pesan inti (tanggung jawab, dorongan berbuat baik) tetap menjadi fokus utama, alih-alih menjadikan penderitaan sebagai tontonan yang bisa disalahpahami atau menimbulkan ketakutan berlebihan",
+        "b": "Karena detail penderitaan sebenarnya tidak pernah disebutkan dalam kanon Pali sama sekali",
+        "c": "Karena topik ini sengaja dibuat tidak lengkap agar siswa mencari sendiri detailnya",
+        "d": "Karena pendekatan ini menghindari keseluruhan konsep Punabbhava"
+      },
+      "jawaban_benar": "a",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "b": "Tidak akurat secara historis-tekstual, meski itu bukan fokus pedagogis yang relevan di sini",
+        "c": "Tidak sesuai — alasannya adalah kesesuaian pedagogis, bukan kesengajaan menyembunyikan informasi",
+        "d": "Bertentangan — pendekatan ini justru tetap membahas Punabbhava secara utuh, hanya dengan penekanan berbeda"
+      }
+    },
+    {
+      "id": "6.3c-q14",
+      "level_soal": "HOTS",
+      "pertanyaan": "Apa kesamaan pendekatan antara cara topik ini menjelaskan Punabbhava dan cara Kelas X menjelaskan kisah Empat Peristiwa (catur nimitta) dalam kehidupan Pangeran Siddhattha?",
+      "opsi": {
+        "a": "Tidak ada kesamaan sama sekali",
+        "b": "Keduanya menggunakan peristiwa-peristiwa kehidupan biasa (usia tua, sakit, kematian, dst) sebagai pengingat/pemicu refleksi mendalam, bukan sekadar informasi faktual biasa",
+        "c": "Keduanya sama-sama menceritakan kisah yang identik tentang tokoh yang sama",
+        "d": "Keduanya sama-sama menolak pentingnya refleksi personal"
+      },
+      "jawaban_benar": "b",
+      "level_bloom": "C6",
+      "alasan_pengecoh": {
+        "a": "Mengabaikan kesamaan tematik yang jelas antara kedua materi (peristiwa kehidupan sebagai pengingat)",
+        "c": "Tidak akurat — kedua materi menceritakan konteks dan tokoh yang berbeda (Devadūta Sutta vs kisah biografis Siddhattha)",
+        "d": "Bertentangan langsung — keduanya justru MENDORONG refleksi personal yang mendalam"
+      }
+    }
+  ]
+}

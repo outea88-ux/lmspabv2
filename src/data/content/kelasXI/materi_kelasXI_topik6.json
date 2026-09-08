@@ -1,0 +1,136 @@
+{
+  "meta": {
+    "topik_id": "6.2c",
+    "kode_topik_lms": "XI-T6",
+    "jenjang": "XI",
+    "fase": "F",
+    "elemen": "Ritual",
+    "kode_cp": "6.2",
+    "judul": "Bahasa Sendiri, Dhamma yang Sama",
+    "subjudul": "Kearifan Lokal & Akomodasi Budaya dalam Dhamma",
+    "breadcrumb": "Kelas XI · Topik 6 · Ritual",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Vinaya Cullavagga V.33"
+    ],
+    "tujuan_pembelajaran": "Peserta didik membandingkan nilai-nilai Buddhis dengan kearifan lokal Nusantara berlandaskan semangat akomodasi budaya dalam Vinaya (Cullavagga V.33)."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Dua Bhikkhu Bersaudara",
+      "section_num": "Bagian 1",
+      "judul": "Permintaan Dua Bhikkhu Bersaudara",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Dua bhikkhu bersaudara, **Yamelu** dan **Tekula**, terlahir dari keluarga Brahmana dan terkenal fasih berbicara. Mereka menghadap Buddha dengan sebuah keluhan: para bhikkhu dari berbagai latar belakang dan wilayah menghafal ajaran Buddha dalam **dialek daerah masing-masing** — menurut mereka, ini 'merusak' kemurnian sabda Buddha."
+        },
+        {
+          "type": "paragraf",
+          "text": "Solusi yang mereka usulkan: menyeragamkan seluruh ajaran Buddha ke dalam **syair Sanskerta** (chandaso) — bahasa sastra-liturgi paling prestisius dan dihormati kalangan Brahmana kala itu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Jawaban Buddha",
+          "text": "Buddha menolak tegas, bahkan menyebut usulan itu 'bodoh' (moghapurisā). Alasannya: standardisasi semacam itu tidak akan membantu ajaran menjangkau lebih banyak orang — justru berisiko menjauhkan mereka yang belum mengenal Sanskerta, yaitu sebagian besar rakyat biasa."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Yamelu dan Tekula punya niat baik (menjaga kemurnian ajaran), tapi caranya keliru. Menurutmu, kenapa niat baik saja tidak cukup jika caranya justru mempersulit orang lain memahami sesuatu?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Bahasa Sendiri",
+      "section_num": "Bagian 2",
+      "judul": "‘Sakāya Niruttiyā’ — dalam Bahasa Sendiri",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Buddha lalu menetapkan aturan yang tercatat tegas dalam Vinaya: *‘Sabda Buddha tidak boleh diseragamkan ke dalam syair Sanskerta. Siapa pun yang melakukannya, melakukan pelanggaran (dukkata). Aku izinkan, para bhikkhu, sabda Buddha dipelajari masing-masing dalam bahasanya sendiri (sakāya niruttiyā).’*"
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Ini Aturan yang Ditegakkan Serius",
+          "text": "Perhatikan bobotnya: melanggar aturan ini bukan sekadar 'kurang sopan', melainkan **pelanggaran resmi (dukkata)** dalam Vinaya. Ini menunjukkan betapa seriusnya Buddha menegakkan prinsip aksesibilitas bahasa — bukan sekadar toleransi pasif, melainkan **keputusan sadar dan tegas**."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik",
+          "text": "Para sarjana masih berdiskusi apakah 'bahasa sendiri' di sini berarti bahasa/dialek masing-masing pendengar (tafsir yang lebih umum dipakai) atau secara spesifik bahasa Magadhi yang dipakai Buddha sendiri. Terlepas dari perbedaan tafsir ini, semangat besarnya tetap sama: **menolak keseragaman elitis demi keterjangkauan luas**."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Bandingkan dua pilihan: menyampaikan sesuatu dengan bahasa yang 'terdengar mengesankan' tapi sulit dipahami, atau bahasa sederhana yang mudah dimengerti banyak orang. Buddha jelas memilih yang kedua. Apa risikonya jika sebuah komunitas justru memilih yang pertama?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Jejak Nusantara",
+      "section_num": "Bagian 3",
+      "judul": "Jejak Buddha-Nusantara",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Semangat 'sakāya niruttiyā' ini bergema jauh dari India, hingga ke Nusantara. Selama berabad-abad, kerajaan-kerajaan seperti Sriwijaya dan Mataram Kuno mengembangkan ekspresi Buddhis yang berakar pada Dhamma namun berwujud khas lokal — arsitektur candi bergaya Nusantara, relief yang menggambarkan kehidupan lokal, hingga perpaduan dengan kearifan setempat."
+        },
+        {
+          "type": "fakta",
+          "label": "Fakta Menarik — Borobudur",
+          "text": "Borobudur, salah satu monumen Buddhis terbesar di dunia, bukan sekadar tiruan candi India — arsitekturnya, motif reliefnya, bahkan konsep punden berundak yang dipakainya berakar pada tradisi bangunan suci Nusantara pra-Buddhis, dipadukan dengan kosmologi Buddhis (Kāmadhātu, Rūpadhātu, Ārūpadhātu)."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci",
+          "text": "Ini contoh nyata dari prinsip Cullavagga V.33 diterapkan dalam skala budaya, bukan hanya bahasa: **wujud luar beradaptasi dengan konteks lokal, sementara esensi Dhamma tetap terjaga**."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Selain Borobudur, adakah kearifan lokal di daerahmu (bahasa, tradisi, kesenian) yang menurutmu bisa dipadukan secara bermakna dengan nilai-nilai Buddhis, tanpa mengubah esensi ajarannya?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Proyek Mini",
+      "section_num": "Bagian 4",
+      "judul": "Proyek Mini: Dhamma dan Budayaku",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Saatnya mempraktikkan langsung prinsip yang kamu pelajari. Pilih satu elemen budaya lokal daerah asalmu — bahasa daerah, kesenian, kuliner, kearifan tradisional — dan kaitkan dengan satu nilai Buddhis yang sudah kamu pelajari sepanjang Kelas X dan XI."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Format Bebas",
+          "text": "Karya bisa berbentuk apa pun yang paling sesuai minatmu: esai pendek, foto beranotasi, video singkat, desain grafis, atau bentuk kreatif lain. Yang terpenting bukan kerumitan formatnya, melainkan **kejelasan kaitan antara elemen budaya dan nilai Buddhis** yang kamu pilih."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Cullavagga V.33** — Buddha menolak keseragaman elitis, mengizinkan bahasa/dialek masing-masing",
+            "**Dukkata** — aturan ini ditegakkan serius, bukan sekadar toleransi pasif",
+            "**Borobudur** — contoh nyata perpaduan wujud lokal dan esensi Dhamma dalam skala besar",
+            "**Proyekmu** — kesempatan mempraktikkan prinsip yang sama dalam skala personal"
+          ]
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Setelah merancang proyek ini, apa yang kamu pelajari tentang hubungan antara menjaga identitas Buddhis dan tetap berakar pada budaya lokalmu sendiri?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 6",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau lanjutkan mengerjakan proyek mini.",
+    "tombol_label": "Mulai Kuis Topik 6"
+  }
+}

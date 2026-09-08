@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "topik_id": "5.3b",
+    "kode_topik_lms": "X-T7",
+    "jenjang": "X",
+    "fase": "E",
+    "elemen": "Etika",
+    "kode_cp": "5.3",
+    "judul": "Jaring yang Menangkap Segalanya, Kecuali Satu",
+    "subjudul": "Menyikapi Keragaman Pandangan (Brahmajāla Sutta)",
+    "breadcrumb": "Kelas X · Topik 7 · Etika",
+    "estimasi_baca_menit": 10,
+    "sumber_kanon": [
+      "Brahmajāla Sutta (DN 1)"
+    ],
+    "catatan_editorial": "62 pandangan dalam sutta ini sangat teknis-filosofis; topik ini fokus pada struktur besar & sikap Buddha, bukan menghafal detail tiap pandangan.",
+    "tujuan_pembelajaran": "Peserta didik merefleksikan sikap Buddha terhadap keragaman pandangan berdasarkan Brahmajāla Sutta sebagai model toleransi tanpa mengorbankan kebenaran."
+  },
+  "sections": [
+    {
+      "id": "bagian1",
+      "nav_label": "Dua Musafir",
+      "section_num": "Bagian 1",
+      "judul": "Dua Musafir di Jalan yang Sama",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Di sebuah perjalanan, seorang pengembara bernama **Suppiya** terus-menerus mencela Buddha, Dhamma, dan Sangha sepanjang jalan. Muridnya sendiri, **Brahmadatta**, justru terus-menerus memuji ketiganya. Guru dan murid, berjalan bersama, melihat hal yang sama, tapi sampai pada kesimpulan yang bertolak belakang."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Pertanyaan di Balik Kisah",
+          "text": "Buddha memakai momen ini untuk mengajarkan sesuatu yang lebih penting dari sekadar 'siapa yang benar': **bagaimana seharusnya kita bersikap saat menerima pujian maupun celaan?** Jawabannya: jangan terlalu senang oleh pujian, jangan terlalu marah oleh celaan — keduanya sama-sama berpotensi mengaburkan penilaian jernih."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Antara dipuji berlebihan dan dikritik keras, mana yang menurutmu lebih sulit disikapi dengan tenang? Kenapa?"
+        }
+      ]
+    },
+    {
+      "id": "bagian2",
+      "nav_label": "Jaring 62 Pandangan",
+      "section_num": "Bagian 2",
+      "judul": "Jaring yang Menangkap 62 Pandangan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Bagian utama sutta ini memetakan **62 pandangan spekulatif** tentang diri, dunia, dan kehidupan setelah kematian yang beredar di masa Buddha — mulai dari keyakinan bahwa jiwa abadi selamanya, sebagian abadi, dunia terbatas atau tak terbatas, hingga berbagai versi tentang apa yang terjadi setelah kematian."
+        },
+        {
+          "type": "fakta",
+          "label": "Mengapa Disebut 'Jaring' (Jāla)?",
+          "text": "Seperti jaring nelayan raksasa yang menangkap segala jenis ikan di sebuah danau tanpa ada yang lolos, 62 pandangan ini digambarkan mencakup **hampir seluruh kemungkinan posisi filosofis** yang bisa diambil seseorang tentang pertanyaan-pertanyaan besar itu."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Bukan Menambah Pandangan ke-63",
+          "text": "Yang paling menarik: Buddha **tidak** menjawab dengan mengajukan pandangannya sendiri sebagai 'yang benar di antara 62 lainnya'. Sebaliknya, ia menunjukkan bahwa **seluruh 62 pandangan itu muncul dari akar yang sama** — kontak indria yang diikuti kemelekatan (upādāna) pada satu sudut pandang tertentu. Bukan isinya yang jadi masalah utama, melainkan **kemelekatan pada pandangan itu sendiri**."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Kalau masalah utamanya bukan 'pandangan mana yang benar' tapi 'kemelekatan pada pandangan', menurutmu apa bedanya punya pendapat dengan melekat erat pada pendapat?"
+        }
+      ]
+    },
+    {
+      "id": "bagian3",
+      "nav_label": "Beda di Sekitar Kita",
+      "section_num": "Bagian 3",
+      "judul": "Menganalisis Perbedaan Pandangan di Sekitar Kita",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Kamu tidak perlu menunggu perdebatan filosofis besar untuk menerapkan pelajaran ini. Perbedaan pandangan muncul setiap hari — soal isu sosial, pilihan gaya hidup, bahkan hal-hal kecil dalam pertemanan."
+        },
+        {
+          "type": "highlight",
+          "label": "Poin Kunci — Menerapkan Sikap Buddha",
+          "text": "Tiga langkah yang bisa dicoba: **(1) Kenali akarnya** — mengapa orang ini punya pandangan berbeda? Pengalaman apa yang membentuknya? **(2) Jaga jarak dari kemelekatan** — bisakah kamu mendengar tanpa merasa harus 'menang'? **(3) Tanggapi tanpa merendahkan** — seperti Buddha yang tidak membalas celaan Suppiya dengan celaan balik."
+        },
+        {
+          "type": "refleksi",
+          "label": "Jeda & Renungkan",
+          "pertanyaan": "Pikirkan satu perbedaan pandangan yang pernah membuatmu 'panas' dalam diskusi. Kalau menerapkan tiga langkah di atas, apa yang mungkin berjalan berbeda?"
+        }
+      ]
+    },
+    {
+      "id": "bagian4",
+      "nav_label": "Terbuka & Teguh",
+      "section_num": "Bagian 4",
+      "judul": "Prinsip Terbuka tanpa Kehilangan Pegangan",
+      "blocks": [
+        {
+          "type": "paragraf",
+          "text": "Menariknya, ajaran Buddha sendiri (Empat Kebenaran Mulia, misalnya) tidak termasuk dalam kategori '62 pandangan spekulatif' ini — karena bukan diajukan sebagai spekulasi untuk dipertahankan, melainkan sebagai sesuatu yang **bisa dibuktikan langsung** (ingat ehipassiko dari Topik 1)."
+        },
+        {
+          "type": "bullet_list",
+          "items": [
+            "**Terbuka pada keragaman** — memahami akar dari sudut pandang orang lain, bukan langsung menghakimi",
+            "**Waspada pada kemelekatan** — punya pendapat itu wajar, melekat erat sampai tak bisa mendengar itu masalah",
+            "**Tenang pada pujian maupun celaan** — keduanya sama-sama bisa mengaburkan penilaian jernih",
+            "**Teguh pada yang teruji** — keterbukaan bukan berarti tidak punya pegangan sama sekali"
+          ]
+        },
+        {
+          "type": "highlight",
+          "label": "Ingat Ini",
+          "text": "Topik berikutnya akan membawamu pada satu hukum yang menjadi jangkar dari seluruh keterbukaan ini: Paṭiccasamuppāda, hukum sebab-musabab yang berlaku objektif, terlepas dari pandangan siapa pun tentangnya."
+        },
+        {
+          "type": "refleksi",
+          "label": "Refleksi Penutup",
+          "pertanyaan": "Bagaimana kamu akan menjelaskan perbedaan antara 'terbuka pada pandangan lain' dan 'tidak punya pegangan sama sekali' kepada seseorang yang baru belajar tentang ini?"
+        }
+      ]
+    }
+  ],
+  "cta": {
+    "judul": "Selamat! Kamu telah menyelesaikan Topik 7",
+    "deskripsi": "Uji pemahamanmu lewat kuis singkat, atau simpan dulu refleksimu.",
+    "tombol_label": "Mulai Kuis Topik 7"
+  }
+}
