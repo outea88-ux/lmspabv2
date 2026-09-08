@@ -2,6 +2,7 @@ import Phaser from "phaser";
 import { getKelasList, getTopikList } from "../data/contentLoader";
 import { getTotalStars, getTotalXp } from "../systems/progress";
 import { getProfile } from "../systems/student";
+import { renderLogoSvg } from "../systems/logo";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
 
@@ -50,9 +51,12 @@ export class MainMenuScene extends Phaser.Scene {
                   </button>`
                 : `<div></div>`
             }
-            <div style="text-align:center;">
-              <h1 class="app-banner-title" style="font-size:24px;">LMS Pendidikan Agama Buddha</h1>
-              <p class="app-banner-subtitle">Petualangan Belajar untuk Siswa SMA/SMK</p>
+            <div style="display:flex; align-items:center; gap:12px;">
+              ${renderLogoSvg(48)}
+              <div>
+                <h1 class="app-banner-title" style="font-size:22px;">LMS Pendidikan Agama Buddha</h1>
+                <p class="app-banner-subtitle">Petualangan Belajar untuk Siswa SMA/SMK</p>
+              </div>
             </div>
             <div class="stat-pill">⭐ ${totalStars} · ✨ ${totalXp} XP</div>
           </div>

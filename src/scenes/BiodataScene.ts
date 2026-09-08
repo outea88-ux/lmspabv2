@@ -1,6 +1,7 @@
 import Phaser from "phaser";
 import { getProfile, saveProfile, hasProfile } from "../systems/student";
 import { AVATAR_OPTIONS, AVATAR_BG_COLORS, DEFAULT_AVATAR_ICON, DEFAULT_AVATAR_BG } from "../systems/avatar";
+import { renderLogoSvg } from "../systems/logo";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
 
@@ -54,7 +55,7 @@ export class BiodataScene extends Phaser.Scene {
     const html = `
       <div style="display:flex; flex-direction:column; height:100%;">
         <div class="app-banner" style="text-align:center;">
-          <div class="biodata-avatar-preview" id="avatar-preview" style="margin-bottom:14px; background:${this.selectedAvatarBg};">${this.selectedAvatar}</div>
+          <div style="margin-bottom:12px;">${renderLogoSvg(64)}</div>
           <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di LMS PAB 🙏"}</h1>
           <p class="app-banner-subtitle" style="max-width:480px; margin-left:auto; margin-right:auto; font-weight:400;">${
             this.isEdit
@@ -78,7 +79,10 @@ export class BiodataScene extends Phaser.Scene {
           <input type="text" id="inp-rombel" class="field-input" placeholder="Contoh: X IPA 2" value="${escapeAttr(rombel)}" />
 
           <label class="field-label">Pilih Avatar</label>
-          <div class="avatar-row">${avatarButtons}</div>
+          <div style="display:flex; align-items:center; gap:16px; margin-bottom:4px;">
+            <div class="biodata-avatar-preview" id="avatar-preview" style="width:64px; height:64px; font-size:34px; line-height:64px; flex-shrink:0; background:${this.selectedAvatarBg};">${this.selectedAvatar}</div>
+            <div class="avatar-row" style="flex:1;">${avatarButtons}</div>
+          </div>
 
           <label class="field-label">Warna Latar Avatar</label>
           <div class="avatar-bg-row">${bgSwatches}</div>
