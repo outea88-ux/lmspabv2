@@ -4,6 +4,7 @@ import type { Kelas, MateriBlock } from "../types/content";
 import { formatText } from "../systems/textFormat";
 import { showOverlay } from "../systems/overlay";
 import { ELEMEN_THEME } from "../systems/elemenTheme";
+import { initAutoHideHeader } from "../systems/autoHideHeader";
 
 interface MateriData {
   kelas: Kelas;
@@ -80,7 +81,7 @@ export class MateriScene extends Phaser.Scene {
       : "";
 
     const html = `
-      <div class="materi-header">
+      <div class="materi-header scene-banner-fixed">
         <p class="materi-breadcrumb">← ${formatText(meta.breadcrumb ?? "")}</p>
         <h1 class="materi-title">${formatText(meta.judul)}</h1>
         ${meta.subjudul ? `<p class="materi-subtitle">${formatText(meta.subjudul)}</p>` : ""}
@@ -106,6 +107,7 @@ export class MateriScene extends Phaser.Scene {
     `;
 
     showOverlay(html);
+    initAutoHideHeader(".materi-header", ".overlay-scroll");
 
     document.getElementById("btn-back")?.addEventListener("click", () => {
       this.scene.start("TopikMap", { kelas: this.kelas });

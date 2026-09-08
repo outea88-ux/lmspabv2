@@ -67,6 +67,24 @@ body {
   -webkit-overflow-scrolling: touch;
 }
 
+.scene-wrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}
+
+.scene-banner-fixed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 6;
+  transition: transform 0.28s ease;
+  will-change: transform;
+}
+
 .overlay-inner {
   max-width: 720px;
   margin: 0 auto;
@@ -76,7 +94,6 @@ body {
 /* ---------- Shared: banner / stat pill / info bar ---------- */
 
 .app-banner {
-  position: relative;
   background: linear-gradient(135deg, var(--navy), var(--navy-dark));
   color: #ffffff;
   padding: 20px 24px 30px;
@@ -594,7 +611,6 @@ strong {
   margin: 0 auto 10px;
   background: var(--orange-soft);
   border-radius: 50%;
-  border: 3px solid var(--orange);
 }
 
 .field-label {
@@ -692,13 +708,13 @@ strong {
   width: 34px;
   height: 34px;
   border-radius: 50%;
-  border: 2px solid transparent;
+  border: 2px solid var(--border);
   cursor: pointer;
-  box-shadow: inset 0 0 0 2px rgba(255, 255, 255, 0.6);
 }
 
 .avatar-bg-opt.selected {
   border-color: var(--ink);
+  border-width: 3px;
 }
 
 /* ---------- Menu / Dashboard (peta) scene ---------- */

@@ -4,6 +4,7 @@ import { getTotalStars, getTotalXp } from "../systems/progress";
 import { getProfile } from "../systems/student";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
+import { initAutoHideHeader } from "../systems/autoHideHeader";
 
 const KELAS_LABEL: Record<Kelas, string> = {
   X: "Kelas X",
@@ -39,8 +40,8 @@ export class MainMenuScene extends Phaser.Scene {
       .join("");
 
     const html = `
-      <div class="menu-page" style="display:flex; flex-direction:column; height:100%;">
-        <div class="app-banner">
+      <div class="menu-page scene-wrap">
+        <div class="app-banner scene-banner-fixed">
           <div class="app-banner-row">
             ${
               profile
@@ -77,6 +78,7 @@ export class MainMenuScene extends Phaser.Scene {
     `;
 
     showOverlay(html);
+    initAutoHideHeader(".app-banner", ".overlay-scroll");
 
     document.getElementById("btn-profile")?.addEventListener("click", () => {
       this.scene.start("Biodata", { forceEdit: true });

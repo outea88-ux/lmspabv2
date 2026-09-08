@@ -3,6 +3,7 @@ import { getProfile, saveProfile, hasProfile } from "../systems/student";
 import { AVATAR_OPTIONS, AVATAR_BG_COLORS, DEFAULT_AVATAR_ICON, DEFAULT_AVATAR_BG } from "../systems/avatar";
 import type { Kelas } from "../types/content";
 import { showOverlay } from "../systems/overlay";
+import { initAutoHideHeader } from "../systems/autoHideHeader";
 
 const KELAS_OPTIONS: Kelas[] = ["X", "XI", "XII"];
 
@@ -52,8 +53,8 @@ export class BiodataScene extends Phaser.Scene {
     ).join("");
 
     const html = `
-      <div style="display:flex; flex-direction:column; height:100%;">
-        <div class="app-banner" style="text-align:center;">
+      <div class="scene-wrap">
+        <div class="app-banner scene-banner-fixed" style="text-align:center;">
           <img src="/logo.png" alt="LMS Pendidikan Agama Buddha" style="width:72px; height:auto; margin-bottom:12px;" />
           <h1 class="app-banner-title" style="font-size:24px;">${this.isEdit ? "Ubah Profil" : "Selamat Datang di LMS PAB 🙏"}</h1>
           <p class="app-banner-subtitle" style="max-width:480px; margin-left:auto; margin-right:auto; font-weight:400;">${
@@ -98,6 +99,7 @@ export class BiodataScene extends Phaser.Scene {
     `;
 
     showOverlay(html);
+    initAutoHideHeader(".app-banner", ".overlay-scroll");
     this.bindEvents();
   }
 

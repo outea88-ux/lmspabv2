@@ -6,6 +6,7 @@ import type { Elemen, Kelas } from "../types/content";
 import type { TopikEntry } from "../data/contentLoader";
 import { ELEMEN_THEME } from "../systems/elemenTheme";
 import { showOverlay } from "../systems/overlay";
+import { initAutoHideHeader } from "../systems/autoHideHeader";
 
 interface TopikMapData {
   kelas: Kelas;
@@ -65,8 +66,8 @@ export class TopikMapScene extends Phaser.Scene {
     const groupsHtml = groups.map((g) => this.renderGroup(g)).join("");
 
     const html = `
-      <div class="map-page" style="display:flex; flex-direction:column; height:100%;">
-        <div class="app-banner">
+      <div class="map-page scene-wrap">
+        <div class="app-banner scene-banner-fixed">
           <div class="app-banner-row">
             <button class="icon-btn" id="btn-back">← Menu</button>
             <div style="text-align:center;">
@@ -103,7 +104,7 @@ export class TopikMapScene extends Phaser.Scene {
             : ""
         }
 
-        <div class="overlay-scroll" style="margin-top:6px;">
+        <div class="overlay-scroll">
           ${groupsHtml}
 
           <div class="footer-stats" style="margin-bottom:0;">
@@ -133,6 +134,7 @@ export class TopikMapScene extends Phaser.Scene {
     `;
 
     showOverlay(html);
+    initAutoHideHeader(".app-banner", ".overlay-scroll");
 
     document.getElementById("btn-back")?.addEventListener("click", () => {
       this.scene.start("MainMenu");

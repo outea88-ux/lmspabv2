@@ -16,6 +16,14 @@ export const AVATAR_OPTIONS: AvatarOption[] = [
   { icon: "🦢", label: "Angsa" },
   { icon: "🐉", label: "Naga" },
   { icon: "🦅", label: "Garuda" },
+  { icon: "🦉", label: "Burung Hantu" },
+  { icon: "🦋", label: "Kupu-kupu" },
+  { icon: "🐬", label: "Lumba-lumba" },
+  { icon: "🐼", label: "Panda" },
+  { icon: "🦊", label: "Rubah" },
+  { icon: "🐿️", label: "Tupai" },
+  { icon: "🐝", label: "Lebah" },
+  { icon: "🐍", label: "Ular" },
 ];
 
 export const AVATAR_BG_COLORS = [
@@ -27,6 +35,7 @@ export const AVATAR_BG_COLORS = [
   "#0288D1",
   "#EC407A",
   "#00897B",
+  "#FFFFFF",
 ];
 
 export const DEFAULT_AVATAR_ICON = AVATAR_OPTIONS[0].icon;

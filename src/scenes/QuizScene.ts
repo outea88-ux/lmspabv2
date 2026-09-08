@@ -4,6 +4,7 @@ import type { Kelas, OpsiKey, SoalItem } from "../types/content";
 import { formatText } from "../systems/textFormat";
 import { shuffle } from "../systems/shuffle";
 import { showOverlay } from "../systems/overlay";
+import { initAutoHideHeader } from "../systems/autoHideHeader";
 
 interface QuizData {
   kelas: Kelas;
@@ -59,7 +60,7 @@ export class QuizScene extends Phaser.Scene {
       .join("");
 
     const html = `
-      <div class="quiz-topbar">
+      <div class="quiz-topbar scene-banner-fixed">
         <button class="btn btn-secondary" id="btn-exit" style="padding:8px 16px;font-size:13px;">✕ Keluar</button>
         <div class="quiz-progress-track"><div class="quiz-progress-fill" style="width:${pct}%"></div></div>
         <span class="quiz-counter">${this.index + 1} / ${total}</span>
@@ -81,6 +82,7 @@ export class QuizScene extends Phaser.Scene {
     `;
 
     showOverlay(html);
+    initAutoHideHeader(".quiz-topbar", ".overlay-scroll");
 
     document.getElementById("btn-exit")?.addEventListener("click", () => {
       this.scene.start("TopikMap", { kelas: this.kelas });
